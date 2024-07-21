@@ -4,13 +4,13 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 21일 오후 18시 11분
+수정일: 2024년 07월 22일 오전 00시 23분
 ---
 
 # 진행 중인 일 
 ```dataview  
 LIST  
-WHERE contains(file.folder, this.file.folder)  
+WHERE contains(file.folder, this.file.folder) AND file.name != "Home"
 ```
 
 # 자주 볼 것

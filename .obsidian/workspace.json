@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pages/Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -190,9 +190,12 @@
   },
   "active": "75cd207524ebbca2",
   "lastOpenFiles": [
+    "Folder/무제 파일.md",
+    "Resources/Templates/대시보드.md",
+    "Resources/Templates/파일.md",
+    "Pages/Home.md",
     "Pages/네이버.md",
     "Pages/잡다한 공부.md",
-    "Pages/Home.md",
     "Folder/아무거나/무제 파일 12.md",
     "Folder/아무거나/무제 파일 11.md",
     "Folder/아무거나/무제 파일 10.md",
@@ -213,9 +216,6 @@
     "Folder/무제 파일 3.md",
     "Folder/무제 파일 4.md",
     "Folder/무제 파일 5.md",
-    "Folder/무제 파일 6.md",
-    "Folder/무제 파일 1.md",
-    "Pages/무제 파일 2.md",
     "무제 폴더 5",
     "무제 폴더 4",
     "무제 폴더 3",
