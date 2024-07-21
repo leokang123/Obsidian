@@ -4,13 +4,14 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 21일 오후 16시 31분
+수정일: 2024년 07월 21일 오후 16시 38분
 ---
 
 # 진행 중인 일 
-- ### 네이버 
-- ### 잡다한 공부 
-- ### 백준
+```dataview  
+LIST  
+WHERE contains(file.folder, this.file.folder)  
+```
 
 # 자주 볼 것
 ```dataview
@@ -26,3 +27,10 @@ SORT file.mtime DESC LIMIT 5
 ```
 
 # 리소스 
+```dataview 
+TABLE WITHOUT ID link(file.link) as "Book" , 
+dateformat(file.ctime, "d MMMM") as "Create", 
+embed(link(Cover, "300")) as Cover 
+FROM "/Resources/Images" 
+SORT file.ctime desc
+```
