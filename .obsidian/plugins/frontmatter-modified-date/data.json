@@ -1,0 +1,11 @@
+{
+  "frontmatterProperty": "수정일",
+  "momentFormat": "YYYY년 MM월 DD일 a HH시 mm분",
+  "excludedFolders": [],
+  "useKeyupEvents": false,
+  "onlyUpdateExisting": false,
+  "timeout": 10,
+  "excludeField": "exclude_modified_update",
+  "appendField": "append_modified_update",
+  "appendMaximumFrequency": "day"
+}
