@@ -11,15 +11,8 @@
             "id": "92810779f15eb366",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Resources/Canvas/무제 파일 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Canvas/무제 파일 2.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Canvas/무제 파일 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/Canvas/무제 파일 2.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -181,11 +170,11 @@
   },
   "active": "92810779f15eb366",
   "lastOpenFiles": [
+    "Pages/Home.md",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
     "Resources/Canvas/무제 파일 1.canvas",
     "Resources/Canvas/무제 파일.canvas",
-    "Pages/Home.md",
     "Resources/Canvas",
     "무제 파일 6.canvas",
     "무제 폴더 1",
@@ -195,7 +184,6 @@
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
     "2024-07-21.md",
     "Pages/무제 폴더",
     ",git/refs/tags",
