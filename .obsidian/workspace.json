@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/안녕.md",
+                "file": "Folder/인상적인 옵시디언 문법.md",
                 "mode": "source",
                 "source": true
               }
@@ -74,7 +74,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/안녕.md",
+                "file": "Folder/인상적인 옵시디언 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/안녕.md",
+                "file": "Folder/인상적인 옵시디언 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/안녕.md"
+                "file": "Folder/인상적인 옵시디언 문법.md"
               }
             }
           },
@@ -203,13 +203,16 @@
   },
   "active": "27a94ec4bd63a23d",
   "lastOpenFiles": [
-    "Resources/Templates/파일.md",
     "Resources/Templates/안녕.md",
+    "Folder/무제 파일.md",
+    "Folder/인상적인 옵시디언 문법.md",
+    "Resources/Templates/파일.md",
+    "Invalid date.md",
+    "Folder/실험.md",
     "Folder/파일.md",
     "Folder/파일3.md",
     "Pages/Home.md",
     "Folder/파일2.md",
-    "Folder/인상적인 옵시디언 문법.md",
     "Resources/Templates/File.md",
     "Pages/무제 파일.md",
     "Resources/Templates",
@@ -241,15 +244,12 @@
     "Pages/무제 파일 1.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.22.36.excalidraw.md",
     "Excalidraw/Drawing 2024-07-21 13.21.59.excalidraw.md",
-    "Folder/실험.md",
     "Fonts/무제 파일.md",
-    "Folder/무제 파일.md",
     "Resources/Excalidraw/Drawing 2024-07-21 05.58.11.excalidraw.md",
     "Excalidraw/Drawing 2024-07-21 05.59.22.excalidraw.md",
     "인상.md",
     "Excalidraw/Drawing 2024-07-21 05.37.01.excalidraw.md",
     "Excalidraw/Drawing 2024-07-21 05.30.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-21 05.31.32.excalidraw.md",
     "Resources/Images/Pasted image 20240721045655.png",
     "Resources/Images/Pasted image 20240721045620.png",
     "Resources/Images/Pasted image 20240721040852.png",

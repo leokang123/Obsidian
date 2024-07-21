@@ -12,5 +12,6 @@
   "templater-obsidian",
   "settings-search",
   "obsidian-git",
-  "frontmatter-modified-date"
+  "frontmatter-modified-date",
+  "obsidian-linter"
 ]
