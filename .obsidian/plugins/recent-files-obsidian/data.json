@@ -5,20 +5,24 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
+      "basename": "인상적인 옵시디언 문법",
+      "path": "Folder/인상적인 옵시디언 문법.md"
     },
     {
       "basename": "새로 생성된 파일",
       "path": "Folder/아무거나/새로 생성된 파일.md"
     },
     {
-      "basename": "인상적인 옵시디언 문법",
-      "path": "Folder/인상적인 옵시디언 문법.md"
+      "basename": "Pasted image 20240721164820",
+      "path": "Attachments/Pasted image 20240721164820.png"
+    },
+    {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
     },
     {
       "basename": "Drawing 2024-07-21 13.29.20.excalidraw",

@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "Resources/Attachments",
+  "attachmentFolderPath": "Attachments",
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "newFileLocation": "current",
