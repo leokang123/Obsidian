@@ -4,7 +4,7 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 01시 47분
+수정일: 2024년 07월 22일 오전 01시 53분
 ---
 
 # 진행 중인 일 
@@ -28,8 +28,8 @@ SORT file.mtime DESC LIMIT 5
 
 # 리소스 
 ```dataviewjs
-
-let Pages = dv.pages("#image").map(p =>`![[${p.url}]]`).filter(p=> p !== null);
-dv.table(["Image",Pages ]);
-
+let searchterm = "#image"
+let pages = dv.pages(searchterm).map((p)=> p.url).filter((q)=> q !== null);
+// Create table
+dv.table(["File", "Picture of the Day"],pages.map(p => [`<img class="myTableImg" src="${this.app.vault.adapter.basePath}/99Assets/${p.NewDiscovery.path}">`,p.file.link]));
 ```
