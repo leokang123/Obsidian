@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-21.md",
-                "mode": "source",
-                "source": true
+                "file": "Pages/Home.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-21.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-21.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-21.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -178,6 +178,10 @@
   },
   "active": "92810779f15eb366",
   "lastOpenFiles": [
+    "무제 파일 3.canvas",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
     "Pages/Home.md",
     "2024-07-21.md",
     "Pages/무제 폴더",
@@ -216,7 +220,6 @@
     "naver.com.md",
     "[.md",
     "AttachedFile/Pasted image 20240721040828.png",
-    "무제 파일.canvas",
     "q123.md"
   ]
 }
