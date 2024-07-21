@@ -1,10 +1,11 @@
 {
-  "attachmentFolderPath": "Resources/Images",
+  "attachmentFolderPath": "Resources/Attachment",
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "newFileLocation": "current",
   "trashOption": "local",
   "defaultViewMode": "preview",
   "readableLineLength": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": false
 }

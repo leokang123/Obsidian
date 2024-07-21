@@ -4,7 +4,7 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 21일 오후 16시 42분
+수정일: 2024년 07월 21일 오후 16시 44분
 ---
 
 # 진행 중인 일 
@@ -29,4 +29,5 @@ SORT file.mtime DESC LIMIT 5
 # 리소스 
 ```dataview 
 List 
+FROM "Resources"
 ```

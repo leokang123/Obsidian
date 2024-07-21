@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
     },
@@ -15,26 +19,6 @@
     {
       "basename": "인상적인 옵시디언 문법",
       "path": "Folder/인상적인 옵시디언 문법.md"
-    },
-    {
-      "basename": "Pasted image 20240721045655",
-      "path": "Resources/Images/Pasted image 20240721045655.png"
-    },
-    {
-      "basename": "Pasted image 20240721045620",
-      "path": "Resources/Images/Pasted image 20240721045620.png"
-    },
-    {
-      "basename": "Pasted image 20240721161252",
-      "path": "Resources/Images/Pasted image 20240721161252.png"
-    },
-    {
-      "basename": "Pasted image 20240721045730",
-      "path": "Resources/Images/Pasted image 20240721045730.png"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "Drawing 2024-07-21 13.29.20.excalidraw",
