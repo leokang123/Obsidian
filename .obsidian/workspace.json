@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pages/Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/인상적인 옵시디언 문법.md",
                 "mode": "preview",
                 "source": true
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,12 +224,12 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "fc47d0a82ecc3920",
+  "active": "e68777f1fafe1f3b",
   "lastOpenFiles": [
-    "Folder/아무거나/새로 생성된 파일.md",
-    "Pages/Home.md",
-    "Folder/아무거나",
     "Folder/인상적인 옵시디언 문법.md",
+    "Pages/Home.md",
+    "Folder/아무거나/새로 생성된 파일.md",
+    "Folder/아무거나",
     "Resources/Images/Pasted image 20240721161252.png",
     "Resources/Templates/대시보드.md",
     "Pages/네이버.md",
