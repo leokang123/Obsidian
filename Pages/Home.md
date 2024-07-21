@@ -4,9 +4,16 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 02시 42분
+수정일: 2024년 07월 22일 오전 03시 00분
 ---
-- ![[sunfall.jpg|200]]
+
+<br />
+<br />
+<br />
+
+---
+
+- ![[lava.jpg|200]]
 - ![[city.jpg|200]]
 - ![[milkyway.jpg|200]]
 - ![[beach1.jpg|200]]
@@ -17,16 +24,28 @@ LIST
 WHERE contains(file.folder, this.file.folder) AND file.name != "Home"
 ```
 
-# 자주 볼 것
+- ![[네이버]]
+- ![[잡다한 공부]]
+
+<br />
+<br />
+<br />
+
+
 ```dataview
-LIST FROM #중요
+TABLE WITHOUT ID
+link(file.path,file.name) AS "즐겨찾기"
+FROM #중요
 ```
 
-# 최근 사용 
+<br />
+<br />
+<br />
+
 ```dataview 
 TABLE WITHOUT ID
-link(file.path,file.name) AS "Note",
-dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "수정시간" FROM "Folder" 
+link(file.path,file.name) AS "최근 사용",
+dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" FROM "Folder" 
 SORT file.mtime DESC LIMIT 5
 ```
 

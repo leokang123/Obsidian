@@ -5,6 +5,22 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
+    },
+    {
+      "basename": "Drawing 2024-07-22 00.57.58.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md"
+    },
+    {
+      "basename": "인상적인 옵시디언 문법",
+      "path": "Folder/잡공부/인상적인 옵시디언 문법.md"
+    },
+    {
       "basename": "lava",
       "path": "Resources/BackGround/Images/lava.md"
     },
@@ -13,16 +29,8 @@
       "path": "Resources/Templates/이미지.md"
     },
     {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
-    },
-    {
       "basename": "sunfall",
       "path": "Resources/BackGround/Images/sunfall.md"
-    },
-    {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
     },
     {
       "basename": "city",
@@ -43,10 +51,6 @@
     {
       "basename": "Sky",
       "path": "Resources/BackGround/Images/Sky.md"
-    },
-    {
-      "basename": "인상적인 옵시디언 문법",
-      "path": "Folder/잡공부/인상적인 옵시디언 문법.md"
     },
     {
       "basename": "beach2",
@@ -75,10 +79,6 @@
     {
       "basename": "Pasted image 20240721170302",
       "path": "Resources/Attachments/Pasted image 20240721170302.png"
-    },
-    {
-      "basename": "Drawing 2024-07-22 00.57.58.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md"
     },
     {
       "basename": "Drawing 2024-07-21 13.29.05.excalidraw",
