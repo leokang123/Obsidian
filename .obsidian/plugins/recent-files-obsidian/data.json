@@ -5,6 +5,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "이미지",
+      "path": "Resources/Templates/이미지.md"
+    },
+    {
       "basename": "네이버",
       "path": "Pages/네이버.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "beach2",
       "path": "Resources/Attachments/beach2.jpg"
-    },
-    {
-      "basename": "이미지",
-      "path": "Resources/Templates/이미지.md"
     },
     {
       "basename": "파일",

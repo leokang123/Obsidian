@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Resources/Templates/이미지.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "73fd5ecae765f049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Pages/Home.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#중요  ",
+                "query": "tag:#image",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,11 +189,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10534cf9fe2a6297",
+  "active": "73fd5ecae765f049",
   "lastOpenFiles": [
+    "Resources/Templates/이미지.md",
+    "Pages/Home.md",
     "Pages/네이버.md",
     "Resources/BackGround/Images/sunfall.md",
-    "Pages/Home.md",
     "Pages/잡다한 공부.md",
     "Resources/BackGround/Images/city.md",
     "Resources/BackGround/Images/milkyway.md",
@@ -195,7 +210,6 @@
     "Resources/Attachments/milkyway.jpg",
     "Resources/Attachments/sky.jpg",
     "Resources/Attachments/sunfall.jpg",
-    "Resources/Templates/이미지.md",
     "Resources/Templates/파일.md",
     "Resources/Templates/대시보드.md",
     "Resources/Attachments/Pasted image 20240722005957.png",
