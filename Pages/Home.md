@@ -20,3 +20,10 @@ asdasd
 ```js
 const i = 1;
 ```
+
+
+>[!NOTE]
+
+> 이건 ㅁ
+
+
