@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/대시보드.md",
+                "file": "Pages/Home.md",
                 "mode": "source",
                 "source": true
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/네이버.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/네이버.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/네이버.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -213,15 +212,15 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "957692ee1c595cdb",
+  "active": "e68777f1fafe1f3b",
   "lastOpenFiles": [
+    "Resources/Templates/대시보드.md",
+    "Pages/네이버.md",
     "Pages/잡다한 공부.md",
     "Pages/무제 파일.md",
     "Pages/Home.md",
     "Pages/백준.md",
-    "Pages/네이버.md",
     "Resources/Templates/무제 파일.md",
-    "Resources/Templates/대시보드.md",
     "Resources/Templates/파일.md",
     "Folder/인상적인 옵시디언 문법.md",
     "Folder/무제 파일.md",

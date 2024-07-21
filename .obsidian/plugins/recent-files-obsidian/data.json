@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
-    },
-    {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
       "basename": "대시보드",
       "path": "Resources/Templates/대시보드.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
     },
     {
       "basename": "파일",

@@ -6,6 +6,7 @@
   "translucency": false,
   "enabledCssSnippets": [
     "dashboard",
-    "dashboard-ReadLineLength"
+    "dashboard-ReadLineLength",
+    "background"
   ]
 }
