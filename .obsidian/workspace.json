@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "461e5dc390e9ad47",
+        "id": "e39fba84530e4347",
         "type": "tabs",
         "children": [
           {
-            "id": "af4e37f2993f3231",
+            "id": "984438c610c5b65f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
               }
             }
           },
@@ -175,13 +175,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af4e37f2993f3231",
+  "active": "984438c610c5b65f",
   "lastOpenFiles": [
-    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
-    "Pages/잡다한 공부.md",
-    "Pages/네이버.md",
-    "Pages/Home.md",
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
+    "Pages/Home.md",
+    "Pages/네이버.md",
+    "Pages/잡다한 공부.md",
     "Folder/잡공부/옵시디언",
     "Pages/무제 파일.md",
     "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md",

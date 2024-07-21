@@ -13,7 +13,8 @@ Updated 2023-11-02
  }
 
  
- .dashboard.list-bullet.list-bullet.list-bullet:after {
+ .dashboard
+ .list-bullet.list-bullet.list-bullet:after {
   content: "";
   height: unset;
   width: unset;

@@ -7,6 +7,8 @@
   "enabledCssSnippets": [
     "dashboard-ReadLineLength",
     "dashboard",
-    "MinerBanner"
+    "MinerBanner",
+    "VerticalLavbelArrange",
+    "TagStyle"
   ]
 }

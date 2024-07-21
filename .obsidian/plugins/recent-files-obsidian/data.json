@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
       "basename": "인상적인 옵시디언 문법",
       "path": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
     },
     {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
+      "basename": "옵시디언 css 설정",
+      "path": "Folder/잡공부/옵시디언/옵시디언 css 설정.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
     },
     {
       "basename": "네이버",
       "path": "Pages/네이버.md"
     },
     {
-      "basename": "옵시디언 css 설정",
-      "path": "Folder/잡공부/옵시디언/옵시디언 css 설정.md"
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
     },
     {
       "basename": "무제 파일",
