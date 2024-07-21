@@ -188,10 +188,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f102008af13f8ba6",
+  "active": "3b6e60062139c783",
   "lastOpenFiles": [
-    "Resources/Images/Pasted image 20240721161252.png",
+    "Pasted image 20240721164528.png",
     "Pages/Home.md",
+    "Attachments/Pasted image 20240721164545.png",
+    "Attachments",
+    "Resources/Images/Pasted image 20240721161252.png",
     "Resources/Templates/파일.md",
     "Resources/Templates/대시보드.md",
     "Folder/아무거나/새로 생성된 파일.md",
@@ -232,7 +235,6 @@
     ",git/refs/tags",
     ",git/refs/heads",
     ",git/objects/pack",
-    ",git/objects/info",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20_0.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.25.13.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.05.excalidraw.md",
