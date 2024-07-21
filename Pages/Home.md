@@ -4,7 +4,7 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 01시 58분
+수정일: 2024년 07월 22일 오전 02시 12분
 ---
 
 # 진행 중인 일 
@@ -27,9 +27,13 @@ SORT file.mtime DESC LIMIT 5
 ```
 
 # 리소스 
-```dataviewjs
-let searchterm = "#image"
-let pages = dv.pages(searchterm).filter((q)=> q !== null);
-// Create table
-dv.table(["File", "Picture of the Day"],pages.map(p => [`![[Pasted image 20240722005957.png]]`,p.file.link]));
+```dataview
+List 
+url
+FROM "Resources/BackGround/Images"
 ```
+
+- ![[beach1.jpg|300]]
+- ![[beach2.jpg|300]]
+- ![[sky.jpg|300]]
+- ![[city.jpg|300]]
