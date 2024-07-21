@@ -1,5 +1,5 @@
 ---
-cssclass:dashboard
+cssclass: dashboard
 ---
 
 
