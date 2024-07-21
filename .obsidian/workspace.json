@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8052aeeef9504c95",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md"
               }
             }
           },
@@ -188,12 +198,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75cd207524ebbca2",
+  "active": "8052aeeef9504c95",
   "lastOpenFiles": [
+    "Pages/Home.md",
+    "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md",
     "Folder/무제 파일.md",
     "Resources/Templates/대시보드.md",
     "Resources/Templates/파일.md",
-    "Pages/Home.md",
     "Pages/네이버.md",
     "Pages/잡다한 공부.md",
     "Folder/아무거나/무제 파일 12.md",
@@ -215,7 +226,6 @@
     "Folder/무제 파일 2.md",
     "Folder/무제 파일 3.md",
     "Folder/무제 파일 4.md",
-    "Folder/무제 파일 5.md",
     "무제 폴더 5",
     "무제 폴더 4",
     "무제 폴더 3",
