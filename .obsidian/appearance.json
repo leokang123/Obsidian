@@ -6,6 +6,7 @@
   "translucency": true,
   "enabledCssSnippets": [
     "dashboard-ReadLineLength",
-    "dashboard"
+    "dashboard",
+    "MinerBanner"
   ]
 }
