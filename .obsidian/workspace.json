@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "896c80e76dc6c62e",
+        "id": "3ba3a248e70a1b66",
         "type": "tabs",
         "children": [
           {
-            "id": "8ebb4ac0a03eb913",
+            "id": "9100eb73b5e8bbb6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/SCR-20240721-oyrm.png"
+                "file": "Pages/Home.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/SCR-20240721-oyrm.png",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/SCR-20240721-oyrm.png",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/SCR-20240721-oyrm.png"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -140,6 +142,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dce31c7cae311d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -158,11 +168,16 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8ebb4ac0a03eb913",
+  "active": "9100eb73b5e8bbb6",
   "lastOpenFiles": [
+    "Attachments/SCR-20240721-oyrm.png",
     "Attachments/Pasted image 20240721164545.png",
     "Pages/네이버.md",
     "Resources/BackGround/Images/Sky.md",

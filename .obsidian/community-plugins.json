@@ -2,5 +2,16 @@
   "settings-search",
   "obsidian-linter",
   "obsidian-icon-folder",
-  "homepage"
+  "homepage",
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "calendar",
+  "better-word-count",
+  "table-editor-obsidian",
+  "recent-files-obsidian",
+  "remember-cursor-position",
+  "tag-wrangler",
+  "templater-obsidian",
+  "frontmatter-modified-date"
 ]

@@ -4,8 +4,12 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 02시 20분
+수정일: 2024년 07월 22일 오전 02시 42분
 ---
+- ![[sunfall.jpg|200]]
+- ![[city.jpg|200]]
+- ![[milkyway.jpg|200]]
+- ![[beach1.jpg|200]]
 
 # 진행 중인 일 
 ```dataview  
@@ -26,5 +30,3 @@ dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "수정시간" FROM "Fol
 SORT file.mtime DESC LIMIT 5
 ```
 
-# 리소스 
-`=embed(link("Resources/Attachments/beack1.png"))`
