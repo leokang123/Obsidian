@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "06bd207d4ff0e64e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
               }
             }
           },
@@ -176,12 +175,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e853894d482390f3",
+  "active": "3b6e60062139c783",
   "lastOpenFiles": [
-    "Pages/네이버.md",
-    "Pages/Home.md",
-    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
+    "Pages/Home.md",
+    "Pages/네이버.md",
     "Pasted image 20240722042945.png",
     "Pasted image 20240722042939.png",
     "Pasted image 20240722042938.png",
