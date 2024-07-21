@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "새로 생성된 파일",
+      "path": "Folder/아무거나/새로 생성된 파일.md"
+    },
+    {
+      "basename": "실험",
+      "path": "Folder/실험.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
@@ -25,10 +33,6 @@
       "path": "Folder/인상적인 옵시디언 문법.md"
     },
     {
-      "basename": "새로 생성된 파일",
-      "path": "Folder/아무거나/새로 생성된 파일.md"
-    },
-    {
       "basename": "Pasted image 20240721164820",
       "path": "Attachments/Pasted image 20240721164820.png"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "무제 파일",
       "path": "Folder/무제 파일.md"
-    },
-    {
-      "basename": "실험",
-      "path": "Folder/실험.md"
     },
     {
       "basename": "Drawing 2024-07-21 13.25.13.excalidraw",
