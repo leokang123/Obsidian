@@ -1,6 +1,7 @@
 ---
-css: dashboards
+cssclass:dashboard
 ---
+
 
 
 
