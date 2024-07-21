@@ -4,7 +4,7 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 02시 16분
+수정일: 2024년 07월 22일 오전 02시 20분
 ---
 
 # 진행 중인 일 
@@ -27,11 +27,4 @@ SORT file.mtime DESC LIMIT 5
 ```
 
 # 리소스 
-```dataview 
-
-```
-
-- ![[beach1.jpg|300]]
-- ![[beach2.jpg|300]]
-- ![[sky.jpg|300]]
-- ![[city.jpg|300]]
+`=embed(link("Resources/Attachments/beack1.png"))`
