@@ -11,9 +11,11 @@
             "id": "10534cf9fe2a6297",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Pasted image 20240721164545.png"
+                "file": "Pages/Home.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Pasted image 20240721164545.png",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Pasted image 20240721164545.png",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Pasted image 20240721164545.png"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -175,16 +177,17 @@
   },
   "active": "10534cf9fe2a6297",
   "lastOpenFiles": [
-    "Folder/인상적인 옵시디언 문법.md",
+    "Pages/네이버.md",
+    "Pages/Home.md",
+    "Attachments/SCR-20240721-oyrm.png",
     "Attachments/Pasted image 20240721170302.png",
+    "Attachments/Pasted image 20240721164545.png",
+    "Folder/인상적인 옵시디언 문법.md",
     "Folder/아무거나/새로 생성된 파일.md",
     "Attachments/Pasted image 20240721164820.png",
     "Attachments/Pasted image 20240721165732..png",
-    "Attachments/SCR-20240721-oyrm.png",
-    "Pages/Home.md",
     "Pages/잡다한 공부.md",
     "Pasted image 20240721164528.png",
-    "Attachments/Pasted image 20240721164545.png",
     "Attachments",
     "Resources/Images/Pasted image 20240721161252.png",
     "Resources/Templates/파일.md",
@@ -194,7 +197,6 @@
     "Resources/Images/Pasted image 20240721045730.png",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md",
     "Folder/아무거나",
-    "Pages/네이버.md",
     "Pages/백준.md",
     "Resources/Templates/무제 파일.md",
     "Folder/무제 파일.md",

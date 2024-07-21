@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "SCR-20240721-oyrm",
+      "path": "Attachments/SCR-20240721-oyrm.png"
+    },
+    {
+      "basename": "Pasted image 20240721170302",
+      "path": "Attachments/Pasted image 20240721170302.png"
+    },
+    {
       "basename": "Pasted image 20240721164545",
       "path": "Attachments/Pasted image 20240721164545.png"
     },
@@ -17,14 +33,6 @@
       "path": "Attachments/Pasted image 20240721164820.png"
     },
     {
-      "basename": "SCR-20240721-oyrm",
-      "path": "Attachments/SCR-20240721-oyrm.png"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
       "basename": "잡다한 공부",
       "path": "Pages/잡다한 공부.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Drawing 2024-07-21 13.29.20.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "무제 파일",
