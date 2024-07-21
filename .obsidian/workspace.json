@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#문법",
+                "query": "tag",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
