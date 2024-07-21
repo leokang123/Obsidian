@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c48ca1ef4ca17ad",
+        "id": "254d5355f71c3026",
         "type": "tabs",
         "children": [
           {
-            "id": "075375042e093aa9",
+            "id": "34e9350f80116381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folder/무제 파일.md",
-                "mode": "source",
+                "file": "Pages/Home.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folder/무제 파일.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folder/무제 파일.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folder/무제 파일.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +176,9 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "075375042e093aa9",
+  "active": "34e9350f80116381",
   "lastOpenFiles": [
+    "Folder/무제 파일.md",
     "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
     "Pages/잡다한 공부.md",
     "Pages/네이버.md",
@@ -214,7 +216,6 @@
     "Resources/Excaldraw/Drawing 2024-07-21 13.25.13.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md",
     "Resources/Canvas/무제 파일.canvas",
-    "Folder/무제 파일.md",
     "Folder/아무거나/무제 파일 12.md",
     "Folder/아무거나/무제 파일 11.md",
     "무제 폴더 5",

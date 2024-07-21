@@ -3,13 +3,14 @@
   "accentColor": "",
   "theme": "obsidian",
   "baseFontSize": 18,
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
-    "dashboard-ReadLineLength",
     "dashboard",
+    "dashboard-ReadLineLength",
+    "FolderDescription",
     "MinerBanner",
-    "VerticalLavbelArrange",
     "TagStyle",
-    "FolderDescription"
-  ]
+    "VerticalLavbelArrange"
+  ],
+  "nativeMenus": true
 }
