@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "sunfall",
+      "path": "Resources/BackGround/Images/sunfall.md"
+    },
+    {
+      "basename": "city",
+      "path": "Resources/BackGround/Images/city.md"
+    },
+    {
+      "basename": "milkyway",
+      "path": "Resources/BackGround/Images/milkyway.md"
+    },
+    {
+      "basename": "lava",
+      "path": "Resources/BackGround/Images/lava.md"
+    },
+    {
+      "basename": "beach2",
+      "path": "Resources/BackGround/Images/beach2.md"
+    },
+    {
+      "basename": "beach1",
+      "path": "Resources/BackGround/Images/beach1.md"
+    },
+    {
       "basename": "Sky",
       "path": "Resources/BackGround/Images/Sky.md"
+    },
+    {
+      "basename": "인상적인 옵시디언 문법",
+      "path": "Folder/잡공부/인상적인 옵시디언 문법.md"
+    },
+    {
+      "basename": "beach2",
+      "path": "Resources/Attachments/beach2.jpg"
     },
     {
       "basename": "이미지",
@@ -15,14 +59,6 @@
     {
       "basename": "대시보드",
       "path": "Resources/Templates/대시보드.md"
-    },
-    {
-      "basename": "무제 파일 1",
-      "path": "Resources/BackGround/Images/무제 파일 1.md"
-    },
-    {
-      "basename": "무제 파일 2",
-      "path": "Resources/BackGround/Images/무제 파일 2.md"
     },
     {
       "basename": "Pasted image 20240721164820",
@@ -43,22 +79,6 @@
     {
       "basename": "Drawing 2024-07-22 00.57.58.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
-      "basename": "인상적인 옵시디언 문법",
-      "path": "Folder/잡공부/인상적인 옵시디언 문법.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
-    },
-    {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
     },
     {
       "basename": "Drawing 2024-07-21 13.29.05.excalidraw",
