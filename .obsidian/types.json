@@ -24,7 +24,7 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "태그": "multitext",
-    "날짜": "date",
+    "날짜": "datetime",
     "생성날짜": "date",
     "수정일": "datetime"
   }
