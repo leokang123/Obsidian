@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "새로 생성된 파일",
-      "path": "Folder/아무거나/새로 생성된 파일.md"
-    },
-    {
-      "basename": "실험",
-      "path": "Folder/실험.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
       "basename": "네이버",
       "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
+    },
+    {
+      "basename": "새로 생성된 파일",
+      "path": "Folder/아무거나/새로 생성된 파일.md"
+    },
+    {
+      "basename": "실험",
+      "path": "Folder/실험.md"
     },
     {
       "basename": "SCR-20240721-oyrm",
@@ -35,10 +39,6 @@
     {
       "basename": "Pasted image 20240721164820",
       "path": "Attachments/Pasted image 20240721164820.png"
-    },
-    {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
     },
     {
       "basename": "파일",

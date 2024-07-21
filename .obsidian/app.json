@@ -7,5 +7,6 @@
   "defaultViewMode": "preview",
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "promptDelete": false
 }
