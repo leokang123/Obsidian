@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+                "file": "Pages/Home.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -172,7 +172,8 @@
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "widgets:Add widget": false
     }
   },
   "active": "c76a2a2a57e0ce51",

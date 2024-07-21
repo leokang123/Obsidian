@@ -4,20 +4,18 @@ cssclass: dashboard, bannerimg
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 04시 22분
+수정일: 2024년 07월 22일 오전 04시 50분
+banner: "![[sky.jpg]]"
 ---
-![[sky.jpg##bannerimg]]
 
-<br />
-<br />
-<br />
+# Home
 
 ---
 
-- ![[lava.jpg|200]]
-- ![[city.jpg|200]]
-- ![[milkyway.jpg|200]]
-- ![[beach1.jpg|200]]
+```widgets
+type: clock
+```
+
 
 # 진행 중인 일 
 
