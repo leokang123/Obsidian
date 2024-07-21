@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folder/인상적인 옵시디언 문법.md",
-                "mode": "source",
+                "file": "Resources/Templates/파일.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folder/인상적인 옵시디언 문법.md",
+                "file": "Resources/Templates/파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folder/인상적인 옵시디언 문법.md",
+                "file": "Resources/Templates/파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folder/인상적인 옵시디언 문법.md"
+                "file": "Resources/Templates/파일.md"
               }
             }
           },
@@ -204,11 +204,12 @@
   "active": "27a94ec4bd63a23d",
   "lastOpenFiles": [
     "Resources/Templates/안녕.md",
+    "2024-07-21.md",
     "Folder/무제 파일.md",
     "Folder/인상적인 옵시디언 문법.md",
     "Resources/Templates/파일.md",
-    "Invalid date.md",
     "Folder/실험.md",
+    "Invalid date.md",
     "Folder/파일.md",
     "Folder/파일3.md",
     "Pages/Home.md",
@@ -216,7 +217,6 @@
     "Resources/Templates/File.md",
     "Pages/무제 파일.md",
     "Resources/Templates",
-    "2024-07-21.md",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
     "Resources/Canvas/무제 파일 1.canvas",
