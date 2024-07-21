@@ -3,5 +3,9 @@
   "accentColor": "",
   "theme": "moonstone",
   "baseFontSize": 20,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }
