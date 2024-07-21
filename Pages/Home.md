@@ -4,7 +4,7 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 01시 22분
+수정일: 2024년 07월 22일 오전 01시 28분
 ---
 
 # 진행 중인 일 
@@ -28,8 +28,13 @@ SORT file.mtime DESC LIMIT 5
 
 # 리소스 
 ```dataview
-TABLE 
-file.url 
-FROM "Resources/BackGround/Images"
+const folder = "Resources/BackGround/Images"; 
+
+const pages = dv.pages(`#${folder}`).where(p => p.url);
+
+dv.table(["Name", "Image"], pages.map(p => [ 
+p.file.name, 
+`![${p.file.name}](${p.url})` 
+]) );
 ```
 
