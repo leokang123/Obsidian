@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/무제 파일.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bfbd2b57ba5fab87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/무제 파일.md",
+                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/무제 파일.md",
+                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/무제 파일.md"
+                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md"
               }
             }
           },
@@ -188,14 +200,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "abb82d7513bb9ab6",
+  "active": "bfbd2b57ba5fab87",
   "lastOpenFiles": [
-    "Pages/잡다한 공부.md",
+    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
+    "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+    "Folder/잡공부/옵시디언",
     "Pages/무제 파일.md",
+    "Pages/잡다한 공부.md",
     "Pages/Home.md",
     "Pages/네이버.md",
     "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md",
-    "Folder/잡공부/인상적인 옵시디언 문법.md",
     "Attachments/SCR-20240721-oyrm.png",
     "Attachments/Pasted image 20240721164545.png",
     "Resources/BackGround/Images/Sky.md",
@@ -228,7 +242,6 @@
     "Folder/아무거나/무제 파일 12.md",
     "Folder/아무거나/무제 파일 11.md",
     "Folder/아무거나/무제 파일 10.md",
-    "Folder/아무거나/무제 파일 9.md",
     "무제 폴더 5",
     "무제 폴더 4",
     "무제 폴더 3",
@@ -236,7 +249,6 @@
     "무제 폴더 1",
     "무제 폴더",
     "Attachments",
-    "Folder/잡공부",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
     "Resources/Canvas/무제 파일 1.canvas",
