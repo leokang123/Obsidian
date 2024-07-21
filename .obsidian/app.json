@@ -4,5 +4,7 @@
   "livePreview": true,
   "newFileLocation": "current",
   "trashOption": "local",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "strictLineBreaks": false
 }
