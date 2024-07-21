@@ -59,3 +59,8 @@ div.markdown-preview-section > div > ul.has-list-bullet > li {
   row-gap: 0px !important;
   list-style-type: disc !important;
 }
+
+/* hide properties view in reading view/mode */
+body {
+  --metadata-display-reading: none; 
+}
