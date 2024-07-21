@@ -27,6 +27,6 @@
     "날짜": "datetime",
     "생성날짜": "date",
     "수정일": "datetime",
-    "생성일": "date"
+    "생성일": "datetime"
   }
 }
