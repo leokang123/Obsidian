@@ -5,6 +5,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "새로 생성된 파일",
+      "path": "Folder/아무거나/새로 생성된 파일.md"
+    },
+    {
       "basename": "인상적인 옵시디언 문법",
       "path": "Folder/인상적인 옵시디언 문법.md"
     },
