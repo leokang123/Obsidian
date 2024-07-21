@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pages/Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -215,8 +215,8 @@
   "active": "e68777f1fafe1f3b",
   "lastOpenFiles": [
     "Folder/인상적인 옵시디언 문법.md",
-    "Resources/Images/Pasted image 20240721161252.png",
     "Pages/Home.md",
+    "Resources/Images/Pasted image 20240721161252.png",
     "Resources/Templates/대시보드.md",
     "Pages/네이버.md",
     "Pages/잡다한 공부.md",
