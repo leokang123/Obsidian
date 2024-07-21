@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "Resources/Images",
   "alwaysUpdateLinks": true,
-  "livePreview": true,
+  "livePreview": false,
   "newFileLocation": "current",
   "trashOption": "local",
   "defaultViewMode": "preview",
