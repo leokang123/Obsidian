@@ -65,3 +65,24 @@ div.markdown-preview-section > div > ul.has-list-bullet > li {
 body {
   --metadata-display-reading: none; 
 }
+
+.dashboard .dataview.table-view-table tr > * {
+  width: calc(100% / var(--dv-col-count));
+}
+.dashboard .dataview.table-view-table {
+  :has(> tr > :nth-child(2)) {
+    --dv-col-count: 2;
+  }
+  :has(> tr > :nth-child(3)) {
+    --dv-col-count: 3;
+  }
+  :has(> tr > :nth-child(4)) {
+    --dv-col-count: 4;
+  }
+  :has(> tr > :nth-child(5)) {
+    --dv-col-count: 5;
+  }
+  :has(> tr > :nth-child(6)) {
+    --dv-col-count: 6;
+  }
+}
