@@ -5,6 +5,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "lava",
+      "path": "Resources/BackGround/Images/lava.md"
+    },
+    {
       "basename": "이미지",
       "path": "Resources/Templates/이미지.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "milkyway",
       "path": "Resources/BackGround/Images/milkyway.md"
-    },
-    {
-      "basename": "lava",
-      "path": "Resources/BackGround/Images/lava.md"
     },
     {
       "basename": "beach2",
