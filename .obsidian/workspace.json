@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e68777f1fafe1f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Home.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "fc47d0a82ecc3920",
             "type": "leaf",
             "state": {
@@ -32,42 +20,19 @@
             }
           },
           {
-            "id": "219c6510be6c2c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Templates/대시보드.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f102008af13f8ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "957692ee1c595cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/네이버.md",
-                "mode": "source",
+                "file": "Resources/Templates/파일.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Templates/파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Templates/파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Resources/Templates/파일.md"
               }
             }
           },
@@ -220,24 +185,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e68777f1fafe1f3b",
+  "active": "f102008af13f8ba6",
   "lastOpenFiles": [
-    "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md",
-    "Pages/Home.md",
-    "Folder/인상적인 옵시디언 문법.md",
-    "Folder/아무거나/새로 생성된 파일.md",
-    "Folder/아무거나",
-    "Resources/Images/Pasted image 20240721161252.png",
     "Resources/Templates/대시보드.md",
+    "Resources/Templates/파일.md",
+    "Folder/아무거나/새로 생성된 파일.md",
+    "Folder/인상적인 옵시디언 문법.md",
+    "Resources/Images/Pasted image 20240721045655.png",
+    "Resources/Images/Pasted image 20240721045620.png",
+    "Resources/Images/Pasted image 20240721161252.png",
+    "Resources/Images/Pasted image 20240721045730.png",
+    "Pages/Home.md",
+    "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md",
+    "Folder/아무거나",
     "Pages/네이버.md",
     "Pages/잡다한 공부.md",
     "Pages/백준.md",
     "Resources/Templates/무제 파일.md",
-    "Resources/Templates/파일.md",
     "Folder/무제 파일.md",
     "2024-07-21.md",
     "Resources/Templates/안녕.md",
@@ -267,14 +234,11 @@
     ",git/objects/pack",
     ",git/objects/info",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20_0.excalidraw.md",
-    "Resources/Images/Pasted image 20240721045730.png",
     "Resources/Excaldraw/Drawing 2024-07-21 13.25.13.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.05.excalidraw.md",
     "Pages/무제 파일 1.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.22.36.excalidraw.md",
     "Excalidraw/Drawing 2024-07-21 13.21.59.excalidraw.md",
-    "Resources/Images/Pasted image 20240721045655.png",
-    "Resources/Images/Pasted image 20240721045620.png",
     "Resources/Images/Pasted image 20240721040852.png",
     "AttachedFile/Pasted image 20240721040828.png"
   ]

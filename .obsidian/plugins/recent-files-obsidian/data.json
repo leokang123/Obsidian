@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
     },
     {
-      "basename": "Drawing 2024-07-21 13.29.20.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md"
-    },
-    {
-      "basename": "인상적인 옵시디언 문법",
-      "path": "Folder/인상적인 옵시디언 문법.md"
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
     },
     {
       "basename": "새로 생성된 파일",
       "path": "Folder/아무거나/새로 생성된 파일.md"
     },
     {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
+      "basename": "인상적인 옵시디언 문법",
+      "path": "Folder/인상적인 옵시디언 문법.md"
+    },
+    {
+      "basename": "Pasted image 20240721045655",
+      "path": "Resources/Images/Pasted image 20240721045655.png"
+    },
+    {
+      "basename": "Pasted image 20240721045620",
+      "path": "Resources/Images/Pasted image 20240721045620.png"
+    },
+    {
+      "basename": "Pasted image 20240721161252",
+      "path": "Resources/Images/Pasted image 20240721161252.png"
+    },
+    {
+      "basename": "Pasted image 20240721045730",
+      "path": "Resources/Images/Pasted image 20240721045730.png"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "Drawing 2024-07-21 13.29.20.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md"
     },
     {
       "basename": "네이버",
@@ -29,20 +49,12 @@
       "path": "Pages/잡다한 공부.md"
     },
     {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
       "basename": "무제 파일",
       "path": "Folder/무제 파일.md"
     },
     {
       "basename": "실험",
       "path": "Folder/실험.md"
-    },
-    {
-      "basename": "Pasted image 20240721045730",
-      "path": "Resources/Images/Pasted image 20240721045730.png"
     },
     {
       "basename": "Drawing 2024-07-21 13.25.13.excalidraw",
