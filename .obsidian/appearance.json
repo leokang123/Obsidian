@@ -1,11 +1,11 @@
 {
   "cssTheme": "Things",
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 18,
-  "translucency": false,
+  "translucency": true,
   "enabledCssSnippets": [
-    "dashboard",
-    "dashboard-ReadLineLength"
+    "dashboard-ReadLineLength",
+    "dashboard"
   ]
 }

@@ -1,17 +1,6 @@
 [
-  "better-word-count",
-  "calendar",
-  "obsidian-icon-folder",
-  "obsidian-excalidraw-plugin",
-  "tag-wrangler",
-  "remember-cursor-position",
-  "recent-files-obsidian",
-  "table-editor-obsidian",
-  "dataview",
-  "homepage",
-  "templater-obsidian",
   "settings-search",
-  "obsidian-git",
-  "frontmatter-modified-date",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-icon-folder",
+  "homepage"
 ]
