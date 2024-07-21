@@ -4,7 +4,7 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 01시 32분
+수정일: 2024년 07월 22일 오전 01시 34분
 ---
 
 # 진행 중인 일 
@@ -28,8 +28,10 @@ SORT file.mtime DESC LIMIT 5
 
 # 리소스 
 ```dataviewjs
-const {GenNavbar} = customJS;
-let navbar = this.container.createEl('nav', {cls: ["navbar","card"]});
-await GenNavbar.genNavbarMonthly(navbar, dv.current().file.name); 
-```
+// 숫자 배열 생성
+const pages = dv.pages("Resources/BackGround/Images")
+
+// 리스트를 생성하여 숫자를 표시
+dv.list(pages);
+
 
