@@ -1,11 +1,12 @@
 ---
 class: 
-cssclass: dashboard
+cssclass: dashboard, bannerimg
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 03시 57분
+수정일: 2024년 07월 22일 오전 04시 22분
 ---
+![[sky.jpg##bannerimg]]
 
 <br />
 <br />

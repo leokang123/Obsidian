@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
+    },
+    {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "Folder/무제 파일.md"
-    },
-    {
-      "basename": "인상적인 옵시디언 문법",
-      "path": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
-    },
-    {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
     },
     {
       "basename": "네이버",
       "path": "Pages/네이버.md"
     },
     {
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
+    },
+    {
       "basename": "무제 파일",
       "path": "Pages/무제 파일.md"
+    },
+    {
+      "basename": "인상적인 옵시디언 문법",
+      "path": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
     },
     {
       "basename": "옵시디언 css 설정",
@@ -69,14 +73,6 @@
       "path": "Resources/Attachments/beach2.jpg"
     },
     {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
-    },
-    {
       "basename": "Pasted image 20240721164820",
       "path": "Resources/Attachments/Pasted image 20240721164820.png"
     },
@@ -107,10 +103,6 @@
     {
       "basename": "Drawing 2024-07-22 00.39.43.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md"
-    },
-    {
-      "basename": "실험",
-      "path": "Folder/실험.md"
     }
   ],
   "omittedPaths": []

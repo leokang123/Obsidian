@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "254d5355f71c3026",
+        "id": "3d5435b5203077e4",
         "type": "tabs",
         "children": [
           {
-            "id": "34e9350f80116381",
+            "id": "c76a2a2a57e0ce51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
-                "mode": "preview",
+                "file": "Folder/무제 파일.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Folder/무제 파일.md"
               }
             }
           },
@@ -172,18 +172,19 @@
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "34e9350f80116381",
+  "active": "3b6e60062139c783",
   "lastOpenFiles": [
+    "Resources/Templates/대시보드.md",
+    "Resources/Templates/파일.md",
+    "Pages/Home.md",
+    "Pages/네이버.md",
+    "Pages/잡다한 공부.md",
+    "Pages/무제 파일.md",
     "Folder/무제 파일.md",
     "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
-    "Pages/잡다한 공부.md",
-    "Pages/네이버.md",
-    "Pages/Home.md",
-    "Pages/무제 파일.md",
     "Pages/이름 없는 보드.md",
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
     "Folder/잡공부/옵시디언",
@@ -205,8 +206,6 @@
     "Attachments/milkyway.jpg",
     "Attachments/sky.jpg",
     "Attachments/sunfall.jpg",
-    "Resources/Templates/파일.md",
-    "Resources/Templates/대시보드.md",
     "Attachments/Pasted image 20240722005957.png",
     "Resources/BackGround/Images",
     "Resources/BackGround",
