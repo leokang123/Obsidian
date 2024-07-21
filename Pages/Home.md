@@ -21,8 +21,6 @@ asdasd
 const i = 1;
 ```
 
-### HEADING
-
 
 
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca59dab936e2e96",
+        "id": "79f661bef00127f7",
         "type": "tabs",
         "children": [
           {
-            "id": "1e9f416647bcef94",
+            "id": "24721d64665d7b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Templates/템플릿.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Templates/템플릿.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Templates/템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Resources/Templates/템플릿.md"
               }
             }
           },
@@ -176,10 +176,13 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "1e9f416647bcef94",
+  "active": "24721d64665d7b47",
   "lastOpenFiles": [
-    "Folder/인상적인 옵시디언 문법.md",
+    "Pages/무제 파일.md",
+    "Resources/Templates/템플릿.md",
     "Pages/Home.md",
+    "Resources/Templates",
+    "Folder/인상적인 옵시디언 문법.md",
     "2024-07-21.md",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
@@ -200,7 +203,6 @@
     ",git/objects/pack",
     ",git/objects/info",
     ",git/hooks/update.sample",
-    ",git/hooks/push-to-checkout.sample",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20_0.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md",
     "Resources/Images/Pasted image 20240721045730.png",
