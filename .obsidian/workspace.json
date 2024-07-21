@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/이미지.md",
+                "file": "Resources/BackGround/Images/Sky.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/이미지.md",
+                "file": "Resources/BackGround/Images/Sky.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/이미지.md",
+                "file": "Resources/BackGround/Images/Sky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/이미지.md"
+                "file": "Resources/BackGround/Images/Sky.md"
               }
             }
           },
@@ -177,15 +177,22 @@
   },
   "active": "10534cf9fe2a6297",
   "lastOpenFiles": [
+    "Resources/Templates/이미지.md",
+    "Resources/Templates/파일.md",
+    "Resources/Templates/대시보드.md",
+    "Resources/BackGround/Images/무제 파일 1.md",
+    "Resources/BackGround/Images/무제 파일 2.md",
     "Resources/BackGround/Images/Sky.md",
+    "Resources/Attachments/Pasted image 20240722005957.png",
+    "Resources/Attachments/Pasted image 20240721164820.png",
+    "Resources/Attachments/Pasted image 20240721164545.png",
+    "Resources/Attachments/SCR-20240721-oyrm.png",
+    "Resources/Attachments/Pasted image 20240721170302.png",
     "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md",
     "Pages/Home.md",
     "Folder/잡공부/인상적인 옵시디언 문법.md",
     "Pages/네이버.md",
     "Pages/잡다한 공부.md",
-    "Resources/Templates/이미지.md",
-    "Resources/BackGround/Images/무제 파일 2.md",
-    "Resources/BackGround/Images/무제 파일 1.md",
     "Resources/BackGround/Images",
     "Resources/BackGround",
     "Folder/아무거나/새로 생성된 파일.md",
@@ -195,8 +202,6 @@
     "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md",
     "Resources/Canvas/무제 파일.canvas",
     "Folder/무제 파일.md",
-    "Resources/Templates/대시보드.md",
-    "Resources/Templates/파일.md",
     "Folder/아무거나/무제 파일 12.md",
     "Folder/아무거나/무제 파일 11.md",
     "Folder/아무거나/무제 파일 10.md",
@@ -205,24 +210,18 @@
     "Folder/아무거나/무제 파일 7.md",
     "Folder/아무거나/무제 파일 6.md",
     "Folder/아무거나/무제 파일 5.md",
-    "Folder/아무거나/무제 파일 4.md",
     "무제 폴더 5",
     "무제 폴더 4",
     "무제 폴더 3",
     "무제 폴더 2",
     "무제 폴더 1",
     "무제 폴더",
-    "Attachments/SCR-20240721-oyrm.png",
-    "Attachments/Pasted image 20240721170302.png",
-    "Attachments/Pasted image 20240721164545.png",
-    "Attachments/Pasted image 20240721164820.png",
     "Attachments/Pasted image 20240721165732..png",
     "Pasted image 20240721164528.png",
-    "Attachments",
+    "Resources/Attachments",
     "Resources/Images/Pasted image 20240721161252.png",
     "Resources/Images/Pasted image 20240721045655.png",
     "Resources/Images/Pasted image 20240721045620.png",
-    "Resources/Images/Pasted image 20240721045730.png",
     "Folder/잡공부",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
