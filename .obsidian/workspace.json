@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
-                "mode": "preview",
+                "file": "Folder/무제 파일.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
+                "file": "Folder/무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
+                "file": "Folder/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
+                "file": "Folder/무제 파일.md"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "075375042e093aa9",
   "lastOpenFiles": [
+    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
     "Pages/잡다한 공부.md",
     "Pages/네이버.md",
     "Pages/Home.md",
-    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
     "Pages/무제 파일.md",
     "Pages/이름 없는 보드.md",
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
