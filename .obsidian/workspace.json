@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7abc0979127b022",
+        "id": "0f3275e2bbfa411a",
         "type": "tabs",
         "children": [
           {
-            "id": "de054800f4d14b47",
+            "id": "f6b0165c610dad11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Pages/Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -176,7 +176,7 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "a4df351f7b7f9663",
   "lastOpenFiles": [
     ",git/refs/tags",
     ",git/refs/heads",
