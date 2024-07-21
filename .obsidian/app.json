@@ -5,6 +5,6 @@
   "newFileLocation": "current",
   "trashOption": "local",
   "defaultViewMode": "preview",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": false
 }
