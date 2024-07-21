@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "무제 파일 6.canvas",
+                "file": "Resources/Canvas/무제 파일 2.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 6.canvas",
+                "file": "Resources/Canvas/무제 파일 2.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 6.canvas",
+                "file": "Resources/Canvas/무제 파일 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 6.canvas"
+                "file": "Resources/Canvas/무제 파일 2.canvas"
               }
             }
           },
@@ -179,18 +179,23 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "92810779f15eb366",
   "lastOpenFiles": [
+    "Resources/Canvas/무제 파일 3.canvas",
+    "Resources/Canvas/무제 파일 2.canvas",
+    "Resources/Canvas/무제 파일 1.canvas",
+    "Resources/Canvas/무제 파일.canvas",
+    "Pages/Home.md",
+    "Resources/Canvas",
+    "무제 파일 6.canvas",
     "무제 폴더 1",
     "무제 폴더 1/무제 폴더",
     "무제 파일 5.canvas",
-    "무제 파일 6.canvas",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "Pages/Home.md",
     "2024-07-21.md",
     "Pages/무제 폴더",
     ",git/refs/tags",
@@ -199,8 +204,6 @@
     ",git/objects/info",
     ",git/hooks/update.sample",
     ",git/hooks/push-to-checkout.sample",
-    ",git/hooks/prepare-commit-msg.sample",
-    ",git/hooks/pre-receive.sample",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20_0.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md",
     "Resources/Images/Pasted image 20240721045730.png",
