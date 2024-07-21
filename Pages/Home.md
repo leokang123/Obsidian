@@ -4,7 +4,7 @@ cssclass: dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 03시 00분
+수정일: 2024년 07월 22일 오전 03시 25분
 ---
 
 <br />
@@ -19,13 +19,10 @@ tags:
 - ![[beach1.jpg|200]]
 
 # 진행 중인 일 
-```dataview  
-LIST  
-WHERE contains(file.folder, this.file.folder) AND file.name != "Home"
-```
 
-- ![[네이버]]
-- ![[잡다한 공부]]
+- [[네이버]]
+- [[잡다한 공부]]
+
 
 <br />
 <br />

@@ -11,4 +11,13 @@ Updated 2023-11-02
    width: 100% !important;
    max-width: 100% !important;
  }
+
  
+ .dashboard.list-bullet.list-bullet.list-bullet:after {
+  content: "";
+  height: unset;
+  width: unset;
+  background: transparent;
+  margin-top: 5px;
+  color: var(--text-accent);
+}
