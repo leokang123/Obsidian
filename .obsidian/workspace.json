@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Resources/Templates/대시보드.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "219c6510be6c2c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Templates/대시보드.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f102008af13f8ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Pages/Home.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "957692ee1c595cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/네이버.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/네이버.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/네이버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Pages/네이버.md"
               }
             }
           },
@@ -176,10 +213,17 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "e68777f1fafe1f3b",
+  "active": "957692ee1c595cdb",
   "lastOpenFiles": [
-    "Folder/인상적인 옵시디언 문법.md",
+    "Pages/잡다한 공부.md",
+    "Pages/무제 파일.md",
+    "Pages/Home.md",
+    "Pages/백준.md",
+    "Pages/네이버.md",
+    "Resources/Templates/무제 파일.md",
+    "Resources/Templates/대시보드.md",
     "Resources/Templates/파일.md",
+    "Folder/인상적인 옵시디언 문법.md",
     "Folder/무제 파일.md",
     "2024-07-21.md",
     "Resources/Templates/안녕.md",
@@ -187,10 +231,8 @@
     "Invalid date.md",
     "Folder/파일.md",
     "Folder/파일3.md",
-    "Pages/Home.md",
     "Folder/파일2.md",
     "Resources/Templates/File.md",
-    "Pages/무제 파일.md",
     "Resources/Templates",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
@@ -220,11 +262,6 @@
     "Resources/Excaldraw/Drawing 2024-07-21 13.22.36.excalidraw.md",
     "Excalidraw/Drawing 2024-07-21 13.21.59.excalidraw.md",
     "Fonts/무제 파일.md",
-    "Resources/Excalidraw/Drawing 2024-07-21 05.58.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-21 05.59.22.excalidraw.md",
-    "인상.md",
-    "Excalidraw/Drawing 2024-07-21 05.37.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-21 05.30.27.excalidraw.md",
     "Resources/Images/Pasted image 20240721045655.png",
     "Resources/Images/Pasted image 20240721045620.png",
     "Resources/Images/Pasted image 20240721040852.png",
