@@ -2,10 +2,9 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 07월 22일 오전 04시 30분
-cssclass: 
-banner: "![[sunfall.jpg]]"
-banner_y: 0.632
+수정일: 2024년 07월 22일 오전 04시 34분
+banner: "![[beach1.jpg]]"
+banner_y: 0.524
 ---
 
 

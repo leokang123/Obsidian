@@ -23,3 +23,6 @@ Updated 2023-11-02
   color: var(--text-accent);
 }
 
+.noheader .mod-header {
+  display:none;
+}
