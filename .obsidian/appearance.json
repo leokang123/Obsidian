@@ -10,7 +10,8 @@
     "FolderDescription",
     "MinerBanner",
     "TagStyle",
-    "FloatingSidebar"
+    "FloatingSidebar",
+    "MclMultiColumn"
   ],
   "nativeMenus": true
 }
