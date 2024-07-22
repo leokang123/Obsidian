@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
-    },
-    {
       "basename": "네이버",
       "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
     },
     {
       "basename": "대시보드",
@@ -23,10 +27,6 @@
     {
       "basename": "잡다한 공부",
       "path": "Pages/잡다한 공부.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "lava",
