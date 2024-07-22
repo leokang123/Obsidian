@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b43856fd5f45d67",
+        "id": "c8395c627169e3dd",
         "type": "tabs",
         "children": [
           {
-            "id": "dcd645e84518f611",
+            "id": "77edde974e05db80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dcd645e84518f611",
+  "active": "77edde974e05db80",
   "lastOpenFiles": [
     "Pages/Home.md",
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",

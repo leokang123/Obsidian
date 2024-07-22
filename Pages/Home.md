@@ -4,7 +4,7 @@ cssclass: wide-page, dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오후 12시 50분
+수정일: 2024년 07월 22일 오후 12시 55분
 banner: "![[sky.jpg]]"
 ---
 
@@ -13,7 +13,8 @@ banner: "![[sky.jpg]]"
 
 >[!multi-column] - 진행중인 일
 >>[!tip] %%fake title %%
->> [[네이버]]
+>> 네이버
+>>![[네이버]]
 >
 >>[! quote] %% fake title %%
 >> [[잡다한 공부]]
