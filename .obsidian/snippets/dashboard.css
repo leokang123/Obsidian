@@ -86,7 +86,3 @@ body {
     --dv-col-count: 6;
   }
 }
-
-.markdown-embed * {
-  max-height: 100px;
-  }
