@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "6dce31c7cae311d1",
+            "id": "5057c5329a356609",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
