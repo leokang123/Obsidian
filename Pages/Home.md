@@ -4,7 +4,7 @@ cssclass: wide-page, dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오후 13시 06분
+수정일: 2024년 07월 22일 오후 13시 13분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -13,9 +13,13 @@ banner_y: 0.5
 
 
 >[!multi-column] - 진행중인 일
->>[!tip] %%fake title %%
+>>[!quote] %%fake title %%
 >> [[네이버]]
 >>![[네이버]]
+>
+>>[! quote] %% fake title %%
+>> [[잡다한 공부]]
+>> ![[잡다한 공부]]
 >
 >>[! quote] %% fake title %%
 >> [[잡다한 공부]]
@@ -25,14 +29,14 @@ banner_y: 0.5
 # asd
 
 >[!multi-column] - 진행중인 일
->>[! example] %% fake title %%
+>>[!example] %% fake title %%
 >> ```dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "즐겨찾기"
 FROM #중요 
 >> ```
 >
->>[!success] %% fake title %% 
+>>[!example] %% fake title %% 
 >> ```dataview 
 TABLE WITHOUT ID
 link(file.path,file.name) AS "최근 사용",

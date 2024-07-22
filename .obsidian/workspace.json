@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "86b1f218cb02d289",
+        "id": "6cb45f7993f28076",
         "type": "tabs",
         "children": [
           {
-            "id": "017b276711576afb",
+            "id": "4d1169330b0e38b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Attachments/무제 폴더/programming.jpg"
+                "file": "Pages/Home.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Attachments/무제 폴더/programming.jpg",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Attachments/무제 폴더/programming.jpg",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Attachments/무제 폴더/programming.jpg"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -172,30 +174,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "4d1169330b0e38b0",
   "lastOpenFiles": [
     "Pages/네이버.md",
-    "Resources/Attachments/무제 폴더",
-    "Resources/Attachments/무제 폴더/library.jpg",
-    "Resources/Attachments/무제 폴더/programming.jpg",
-    "Resources/Attachments/무제 폴더/lamplight.jpg",
+    "Pages/잡다한 공부.md",
+    "Pages/Home.md",
+    "Folder/잡공부/옵시디언/mcl.md",
+    "Pages/무제 파일.md",
+    "Resources/Attachments/Background/lava.jpg",
+    "Resources/Attachments/Background/programming.jpg",
+    "Resources/Attachments/Background",
+    "Resources/Attachments/Background/library.jpg",
+    "Resources/Attachments/Background/lamplight.jpg",
     "Resources/Attachments/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
     "Resources/Attachments/mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg",
     "Resources/Attachments/novel-saleh-gDN6YjthF7U-unsplash.jpg",
     "Resources/Attachments/Pasted image 20240722130740.png",
     "Pasted image 20240722121901.png",
-    "Pages/Home.md",
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
     "Pasted image 20240722121411.png",
-    "Pasted image 20240722120716.png",
     "Resources/Canvas/무제 파일.canvas",
-    "Folder/잡공부/옵시디언/mcl.md",
     "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
     "Resources/Templates/파일.md",
     "Resources/Templates/대시보드.md",
     "Folder/무제 파일.md",
-    "Pages/잡다한 공부.md",
-    "Pages/무제 파일.md",
     "Pages/이름 없는 보드.md",
     "Folder/잡공부/옵시디언",
     "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md",
