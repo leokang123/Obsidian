@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/네이버.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/네이버.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/네이버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Pages/네이버.md"
               }
             }
           },
@@ -176,15 +176,15 @@
   },
   "active": "017b276711576afb",
   "lastOpenFiles": [
-    "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
-    "Pages/Home.md",
     "Pasted image 20240722121901.png",
+    "Pages/네이버.md",
+    "Pages/Home.md",
+    "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
     "Pasted image 20240722121411.png",
     "Pasted image 20240722120716.png",
     "Resources/Canvas/무제 파일.canvas",
     "Folder/잡공부/옵시디언/mcl.md",
     "Pasted image 20240722120105.png",
-    "Pages/네이버.md",
     "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
     "Pasted image 20240722042945.png",
     "Pasted image 20240722042939.png",

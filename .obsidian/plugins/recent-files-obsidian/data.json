@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "mcl",
       "path": "Folder/잡공부/옵시디언/mcl.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "인상적인 옵시디언 문법",
