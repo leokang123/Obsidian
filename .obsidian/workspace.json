@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
-                "mode": "preview",
+                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Folder/잡공부/옵시디언/옵시디언 css 설정.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "313db0162e3382a7",
   "lastOpenFiles": [
-    "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+    "Pasted image 20240722121411.png",
     "Pages/Home.md",
+    "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
     "Pasted image 20240722120716.png",
     "Resources/Canvas/무제 파일.canvas",
     "Folder/잡공부/옵시디언/mcl.md",

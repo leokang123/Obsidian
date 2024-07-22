@@ -4,7 +4,7 @@ cssclass: dashboard, bannerimg
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오후 12시 05분
+수정일: 2024년 07월 22일 오후 12시 13분
 banner: "![[sky.jpg]]"
 ---
 
@@ -41,12 +41,13 @@ SORT file.mtime DESC LIMIT 5
 ```
 
 ## 첨부사진 
->![info|ㅣleft-small]
->![[Pasted image 20240722120105.png|300]]
-> 첨부사진 
-
-### 첨부 사진이란 
-암니ㅏ엄니ㅏ어ㅣㅁ
+>[!multi-column]
+>>[!note]- titile
+>>asdasd
+>
+>>[!info] 
+>>asdasd
+>
 
 ## 제목 
 - 리스트1 #mcl/listcard 
