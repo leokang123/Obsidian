@@ -4,8 +4,9 @@ cssclass: wide-page, dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오후 12시 55분
+수정일: 2024년 07월 22일 오후 13시 04분
 banner: "![[sky.jpg]]"
+banner_y: 0.5
 ---
 
 # Home
@@ -18,6 +19,7 @@ banner: "![[sky.jpg]]"
 >
 >>[! quote] %% fake title %%
 >> [[잡다한 공부]]
+>> ![[잡다한 공부]]
 
 
 # asd
