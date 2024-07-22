@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
-                "mode": "preview",
+                "file": "Pages/대학교.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/대학교.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/대학교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Pages/대학교.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +175,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d1169330b0e38b0",
+  "active": "3b6e60062139c783",
   "lastOpenFiles": [
+    "Resources/Attachments/Background/univercity.jpg",
     "Pages/네이버.md",
+    "Resources/Templates/대시보드.md",
+    "Resources/Templates/이미지.md",
+    "Resources/Templates/파일.md",
+    "Pages/대학교.md",
+    "Resources/Attachments/SCR-20240721-oyrm.png",
     "Pages/잡다한 공부.md",
     "Pages/Home.md",
     "Folder/잡공부/옵시디언/mcl.md",
-    "Pages/무제 파일.md",
     "Resources/Attachments/Background/lava.jpg",
     "Resources/Attachments/Background/programming.jpg",
     "Resources/Attachments/Background",
@@ -192,18 +198,14 @@
     "Resources/Attachments/Pasted image 20240722130740.png",
     "Pasted image 20240722121901.png",
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
-    "Pasted image 20240722121411.png",
     "Resources/Canvas/무제 파일.canvas",
     "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
-    "Resources/Templates/파일.md",
-    "Resources/Templates/대시보드.md",
     "Folder/무제 파일.md",
     "Pages/이름 없는 보드.md",
     "Folder/잡공부/옵시디언",
     "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md",
     "Resources/BackGround/Images/Sky.md",
     "Resources/BackGround/Images/lava.md",
-    "Resources/Templates/이미지.md",
     "Resources/BackGround/Images/sunfall.md",
     "Resources/BackGround/Images/city.md",
     "Resources/BackGround/Images/milkyway.md",
