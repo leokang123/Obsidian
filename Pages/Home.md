@@ -4,7 +4,7 @@ cssclass: dashboard, bannerimg
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 07월 22일 오전 11시 58분
+수정일: 2024년 07월 22일 오후 12시 02분
 banner: "![[sky.jpg]]"
 ---
 
@@ -15,7 +15,8 @@ banner: "![[sky.jpg]]"
 # 진행 중인 일 
 
 - [[네이버]]
-- ![[잡다한 공부]]
+- [[잡다한 공부]]
+
 
 <br />
 <br />
@@ -39,3 +40,10 @@ dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" FROM "Folder"
 SORT file.mtime DESC LIMIT 5
 ```
 
+## 첨부사진 
+>![info|ㅣleft-small]
+>![[Pasted image 20240722120105.png|300]]
+> 첨부사진 
+
+### 첨부 사진이란 
+암니ㅏ엄니ㅏ어ㅣㅁ
