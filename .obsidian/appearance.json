@@ -11,7 +11,9 @@
     "MinerBanner",
     "TagStyle",
     "FloatingSidebar",
-    "MclMultiColumn"
+    "MclMultiColumn",
+    "custom-admonitions.72f354",
+    "wideView"
   ],
   "nativeMenus": true
 }

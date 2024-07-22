@@ -2,9 +2,10 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 07월 22일 오후 12시 24분
+수정일: 2024년 07월 22일 오후 12시 30분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
+cssclass: wide-page
 ---
 
 
@@ -60,3 +61,11 @@ mcl/list-grid를 통해 이렇게 만들 수 있다
 [한국](https://namu.wiki/w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD "대한민국")에서는 사는 곳에 따라 [들고양이](https://namu.wiki/w/%EB%93%A4%EA%B3%A0%EC%96%91%EC%9D%B4 "들고양이"), [길고양이](https://namu.wiki/w/%EA%B8%B8%EA%B3%A0%EC%96%91%EC%9D%B4 "길고양이"), [집고양이](https://namu.wiki/w/%EC%A7%91%EA%B3%A0%EC%96%91%EC%9D%B4 "집고양이") 등으로 구분된다. 고양이는 19세기 후반 이후 인간에 의해 품종이 개량 되어 다양한 [묘종](https://namu.wiki/w/%EB%AC%98%EC%A2%85 "묘종")이 있으며, 품종 등록을 관장하는 국제고양이협회(TICA)는 71개 묘종을 인정한다.
 
 ==[!callout|left-side] or [!callout|right-side] 로 위와같이 만들 수 있다==
+
+<br><br><br><br><br><br><br><br><br>
+----
+
+### 그냥 
+
+
+아무글 아무글
