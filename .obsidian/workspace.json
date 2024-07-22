@@ -11,11 +11,9 @@
             "id": "017b276711576afb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Pages/네이버.md",
-                "mode": "preview",
-                "source": true
+                "file": "Resources/Attachments/무제 폴더/programming.jpg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/네이버.md",
+                "file": "Resources/Attachments/무제 폴더/programming.jpg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/네이버.md",
+                "file": "Resources/Attachments/무제 폴더/programming.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/네이버.md"
+                "file": "Resources/Attachments/무제 폴더/programming.jpg"
               }
             }
           },
@@ -174,21 +172,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "017b276711576afb",
+  "active": "3b6e60062139c783",
   "lastOpenFiles": [
-    "Pasted image 20240722121901.png",
     "Pages/네이버.md",
+    "Resources/Attachments/무제 폴더",
+    "Resources/Attachments/무제 폴더/library.jpg",
+    "Resources/Attachments/무제 폴더/programming.jpg",
+    "Resources/Attachments/무제 폴더/lamplight.jpg",
+    "Resources/Attachments/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
+    "Resources/Attachments/mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg",
+    "Resources/Attachments/novel-saleh-gDN6YjthF7U-unsplash.jpg",
+    "Resources/Attachments/Pasted image 20240722130740.png",
+    "Pasted image 20240722121901.png",
     "Pages/Home.md",
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
     "Pasted image 20240722121411.png",
     "Pasted image 20240722120716.png",
     "Resources/Canvas/무제 파일.canvas",
     "Folder/잡공부/옵시디언/mcl.md",
-    "Pasted image 20240722120105.png",
     "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
-    "Pasted image 20240722042945.png",
-    "Pasted image 20240722042939.png",
-    "Pasted image 20240722042938.png",
     "Resources/Templates/파일.md",
     "Resources/Templates/대시보드.md",
     "Folder/무제 파일.md",
@@ -197,8 +199,6 @@
     "Pages/이름 없는 보드.md",
     "Folder/잡공부/옵시디언",
     "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md",
-    "Attachments/SCR-20240721-oyrm.png",
-    "Attachments/Pasted image 20240721164545.png",
     "Resources/BackGround/Images/Sky.md",
     "Resources/BackGround/Images/lava.md",
     "Resources/Templates/이미지.md",
@@ -207,7 +207,6 @@
     "Resources/BackGround/Images/milkyway.md",
     "Resources/BackGround/Images/beach2.md",
     "Resources/BackGround/Images/beach1.md",
-    "Attachments/beach2.jpg",
     "Resources/BackGround/Images",
     "Resources/BackGround",
     "Folder/아무거나/새로 생성된 파일.md",
@@ -221,7 +220,6 @@
     "무제 폴더 2",
     "무제 폴더 1",
     "무제 폴더",
-    "Attachments",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
     "Resources/Canvas/무제 파일 1.canvas",
