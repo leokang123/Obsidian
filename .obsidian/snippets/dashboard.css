@@ -45,7 +45,7 @@ div.markdown-preview-section > div > ul.has-list-bullet > li {
 .dashboard div > ul {
   list-style: none;
   display: flex;
-  column-gap: 50px;
+  column-gap: 0px;
   flex-flow: row wrap;
 }
 
