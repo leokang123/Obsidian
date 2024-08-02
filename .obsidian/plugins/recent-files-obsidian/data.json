@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "Folder/네이버공부/무제 파일.md"
+      "basename": "인상적인 옵시디언 문법",
+      "path": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
     },
     {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
+      "basename": "옵시디언 css 설정",
+      "path": "Folder/잡공부/옵시디언/옵시디언 css 설정.md"
     },
     {
       "basename": "Home",
@@ -21,12 +17,16 @@
       "path": "Pages/잡다한 공부.md"
     },
     {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
     },
     {
-      "basename": "옵시디언 css 설정",
-      "path": "Folder/잡공부/옵시디언/옵시디언 css 설정.md"
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
     },
     {
       "basename": "대시보드",
@@ -47,10 +47,6 @@
     {
       "basename": "무제 파일",
       "path": "Resources/Canvas/무제 파일.canvas"
-    },
-    {
-      "basename": "인상적인 옵시디언 문법",
-      "path": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
     },
     {
       "basename": "Drawing 2024-07-22 00.57.58.excalidraw",

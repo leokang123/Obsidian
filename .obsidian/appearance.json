@@ -12,7 +12,8 @@
     "dashboard",
     "MclMultiColumn",
     "FloatingSidebar",
-    "wideView"
+    "wideView",
+    "TagStyle"
   ],
   "nativeMenus": true
 }

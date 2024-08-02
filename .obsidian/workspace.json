@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folder/네이버공부/무제 파일.md",
-                "mode": "preview",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#image",
+                "query": "#obsidian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folder/네이버공부/무제 파일.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folder/네이버공부/무제 파일.md",
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folder/네이버공부/무제 파일.md"
+                "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
               }
             }
           },
@@ -175,16 +176,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "6c05358e2c53525a",
   "lastOpenFiles": [
-    "Studied",
-    "Resources/Templates/파일.md",
-    "Folder/네이버공부/무제 파일.md",
-    "Pages/대학교.md",
+    "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
     "Pages/Home.md",
     "Pages/잡다한 공부.md",
+    "Resources/Templates/파일.md",
+    "Folder/네이버공부/무제 파일.md",
+    "Studied",
+    "Pages/대학교.md",
     "Pages/네이버.md",
-    "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
     "Pages/정규표현식.md",
     "Pages/무제 파일.md",
     "Pages/JS용어.md",
@@ -223,7 +224,6 @@
     "무제 폴더 4",
     "무제 폴더 3",
     "무제 폴더 2",
-    "무제 폴더 1",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
     "Resources/Canvas/무제 파일 1.canvas",

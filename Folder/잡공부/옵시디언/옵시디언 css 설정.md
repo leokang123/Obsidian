@@ -2,12 +2,12 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 07월 22일 오후 13시 04분
+수정일: 2024년 08월 03일 오전 03시 56분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
 cssclass: wide-page
 ---
-
+#obsidian #학습정리
 
 
 # CSS 
