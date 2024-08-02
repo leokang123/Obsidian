@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "13f2be8aaaedde21",
+        "id": "1e1c519a847ddd82",
         "type": "tabs",
         "children": [
           {
-            "id": "31c421528c543299",
+            "id": "1f60a0ef260758b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/잡다한 공부.md",
-                "mode": "preview",
+                "file": "Studied/Untitled.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/잡다한 공부.md",
+                "file": "Studied/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/잡다한 공부.md",
+                "file": "Studied/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/잡다한 공부.md"
+                "file": "Studied/Untitled.md"
               }
             }
           },
@@ -175,8 +175,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31c421528c543299",
+  "active": "1f60a0ef260758b6",
   "lastOpenFiles": [
+    "Studied/인상적인 옵시디언 문법.md",
+    "Studied/Untitled.md",
     "Pages/Home.md",
     "Pages/잡다한 공부.md",
     "Pages/네이버.md",
@@ -184,9 +186,7 @@
     "Resources/Templates/DataView.md",
     "Resources/Templates/Multi-Column.md",
     "Studied/옵시디언 css 설정.md",
-    "Studied/Untitled.md",
     "Resources/Templates/파일.md",
-    "Studied/인상적인 옵시디언 문법.md",
     "Studied/정규표현식.md",
     "Resources/Templates/대시보드.md",
     "Resources/Templates/List-card.md",
