@@ -5,39 +5,18 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오전 05시 00분
+수정일: 2024년 08월 03일 오전 05시 06분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
 
 # Home
-
-
->[!multi-column] - 진행중인 일
->>[!quote] %%fake title %%
->> [[네이버]]
->>
->
->>[! quote] %% fake title %%
->> [[잡다한 공부]]
->>
->
->>[! quote] %% fake title %%
->> [[대학교]]
->> 
-- #### ![[네이버]] #mcl/list-grid
-    - 
-    - [[00 Home|Main Goal 2]]
-    - [[00 Home|Main Goal 3]]
-        - Collaboration with Jane
-    - [[00 Home|Main Goal 4]]
-- ####  ![[잡다한 공부]]
-    - [[00 Home|Learning Goal 1]]
-    - [[00 Home|Initiative 1]]
-    - [[00 Home|Initiative 2]]
-- #### ![[대학교]]
-    - [[00 Home|Personal Goal 1]]
-    - [[00 Home|Personal Goal 2]]
+- ## [[네이버]] #mcl/list-grid
+	- #### ![[네이버]] 
+- ## [[잡다한 공부]]
+	- ####  ![[잡다한 공부]]
+- ## [[대학교]]
+	- #### ![[대학교]]
 
 <br />
 

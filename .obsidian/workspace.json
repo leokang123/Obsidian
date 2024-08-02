@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec91d849cf88413",
+        "id": "1978558015f8234a",
         "type": "tabs",
         "children": [
           {
-            "id": "26313f9c3f4500b2",
+            "id": "99b4aa3ef05cb3f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,17 +175,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26313f9c3f4500b2",
+  "active": "99b4aa3ef05cb3f8",
   "lastOpenFiles": [
-    "Studied/옵시디언 css 설정.md",
+    "Pages/네이버.md",
     "Pages/Home.md",
+    "Pages/잡다한 공부.md",
+    "Studied/옵시디언 css 설정.md",
     "Studied/Untitled.md",
     "Resources/Templates/파일.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Studied/정규표현식.md",
     "Pages/대학교.md",
-    "Pages/잡다한 공부.md",
-    "Pages/네이버.md",
     "Resources/Templates/대시보드.md",
     "Resources/Templates/List-card.md",
     "Resources/Templates/List-grid.md",
