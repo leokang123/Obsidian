@@ -5,12 +5,12 @@
       "path": "Resources/Templates/DataView.md"
     },
     {
-      "basename": "Multi-Column",
-      "path": "Resources/Templates/Multi-Column.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "Multi-Column",
+      "path": "Resources/Templates/Multi-Column.md"
     },
     {
       "basename": "네이버",
