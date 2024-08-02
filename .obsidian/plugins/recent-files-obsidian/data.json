@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "DataView",
-      "path": "Resources/Templates/DataView.md"
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
     },
     {
       "basename": "Home",
       "path": "Pages/Home.md"
-    },
-    {
-      "basename": "Multi-Column",
-      "path": "Resources/Templates/Multi-Column.md"
     },
     {
       "basename": "네이버",
@@ -21,8 +17,12 @@
       "path": "Pages/대학교.md"
     },
     {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
+      "basename": "DataView",
+      "path": "Resources/Templates/DataView.md"
+    },
+    {
+      "basename": "Multi-Column",
+      "path": "Resources/Templates/Multi-Column.md"
     },
     {
       "basename": "옵시디언 css 설정",
