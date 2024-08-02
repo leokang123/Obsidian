@@ -5,6 +5,10 @@
       "path": "Folder/네이버공부/무제 파일.md"
     },
     {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "대시보드",
       "path": "Resources/Templates/대시보드.md"
-    },
-    {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
     },
     {
       "basename": "SCR-20240721-oyrm",

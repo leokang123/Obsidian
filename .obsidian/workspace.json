@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Folder/네이버공부/무제 파일.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -175,10 +175,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c05358e2c53525a",
+  "active": "3b6e60062139c783",
   "lastOpenFiles": [
-    "Pages/대학교.md",
+    "Studied",
+    "Resources/Templates/파일.md",
     "Folder/네이버공부/무제 파일.md",
+    "Pages/대학교.md",
     "Pages/Home.md",
     "Pages/잡다한 공부.md",
     "Pages/네이버.md",
@@ -190,7 +192,6 @@
     "Resources/Attachments/Background/univercity.jpg",
     "Resources/Templates/대시보드.md",
     "Resources/Templates/이미지.md",
-    "Resources/Templates/파일.md",
     "Resources/Attachments/SCR-20240721-oyrm.png",
     "Folder/잡공부/옵시디언/mcl.md",
     "Resources/Attachments/Background/lava.jpg",
@@ -218,7 +219,6 @@
     "Resources/BackGround/Images",
     "Resources/BackGround",
     "Folder/아무거나/새로 생성된 파일.md",
-    "Resources/Excaldraw/Drawing 2024-07-21 13.29.05.excalidraw.md",
     "무제 폴더 5",
     "무제 폴더 4",
     "무제 폴더 3",
