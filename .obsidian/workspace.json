@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Templates/DataView.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Templates/DataView.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Templates/DataView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Resources/Templates/DataView.md"
               }
             }
           },
@@ -177,9 +177,11 @@
   },
   "active": "41dd347d095fd128",
   "lastOpenFiles": [
+    "Resources/Templates/Multi-Column.md",
+    "Pages/Home.md",
+    "Resources/Templates/DataView.md",
     "Pages/네이버.md",
     "Pages/대학교.md",
-    "Pages/Home.md",
     "Pages/잡다한 공부.md",
     "Studied/옵시디언 css 설정.md",
     "Studied/Untitled.md",
@@ -189,7 +191,6 @@
     "Resources/Templates/대시보드.md",
     "Resources/Templates/List-card.md",
     "Resources/Templates/List-grid.md",
-    "Resources/Templates/Multi-Column.md",
     "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md",
     "Resources/Templates/list-card.md",
     "Resources/Attachments/Background/univercity.jpg",

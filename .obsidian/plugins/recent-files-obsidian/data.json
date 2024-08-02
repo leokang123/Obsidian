@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "DataView",
+      "path": "Resources/Templates/DataView.md"
+    },
+    {
+      "basename": "Multi-Column",
+      "path": "Resources/Templates/Multi-Column.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "List-grid",
       "path": "Resources/Templates/List-grid.md"
-    },
-    {
-      "basename": "Multi-Column",
-      "path": "Resources/Templates/Multi-Column.md"
     },
     {
       "basename": "Drawing 2024-08-03 04.37.52.excalidraw",
