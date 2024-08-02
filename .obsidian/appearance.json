@@ -11,8 +11,7 @@
     "MclMultiColumn",
     "FloatingSidebar",
     "wideView",
-    "TagStyle",
-    "dashboard-ReadLineLength"
+    "TagStyle"
   ],
   "nativeMenus": true
 }
