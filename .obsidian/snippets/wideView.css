@@ -32,12 +32,19 @@ body .wide-page {
   --file-line-width: 75%;
 }
 
-.wide-page .markdown-embed * {
+.markdown-embed * {
   max-height: 200px;
   max-width: 100%;
 }
-.wide-page .markdown-embed[alt='unscrollable'] * {
-  pointer-events: none;
+/* 
+ * Hide decoration and borders from embeds 
+ */
+.markdown-preview-view .markdown-embed {
+  background-color: var(--theme-page-background);
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* -- Special adjustment for Community Themes */
