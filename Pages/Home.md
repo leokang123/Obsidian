@@ -4,7 +4,7 @@ cssclass: wide-page, dashboard
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 02일 오후 17시 20분
+수정일: 2024년 08월 03일 오전 03시 30분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---

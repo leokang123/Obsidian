@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/정규표현식.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/정규표현식.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/정규표현식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Pages/정규표현식.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "e5806a378be4ad9b",
   "lastOpenFiles": [
-    "Pages/네이버.md",
     "Pages/Home.md",
+    "Pages/JS용어.md",
+    "Pages/정규표현식.md",
+    "Pages/네이버.md",
     "Folder/네이버공부",
     "Pages/대학교.md",
     "Resources/Attachments/Background/univercity.jpg",
@@ -217,7 +219,6 @@
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.05.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.25.13.excalidraw.md",
-    "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md",
     "무제 폴더 5",
     "무제 폴더 4",
     "무제 폴더 3",
