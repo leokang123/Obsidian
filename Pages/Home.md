@@ -1,10 +1,10 @@
 ---
 class: 
-cssclass: wide-page, dashboard
+cssclass: wide-page,
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오전 03시 30분
+수정일: 2024년 08월 03일 오전 04시 15분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -33,15 +33,15 @@ banner_y: 0.5
 >>[!example] %% fake title %%
 >> ```dataview
 TABLE WITHOUT ID
-link(file.path,file.name) AS "즐겨찾기"
-FROM #중요 
+link(file.path,file.name) AS "중요"
+FROM #important 
 >> ```
 >
 >>[!example] %% fake title %% 
 >> ```dataview 
 TABLE WITHOUT ID
 link(file.path,file.name) AS "최근 사용",
-dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" FROM "Folder" 
+dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" FROM "Studied" 
 SORT file.mtime DESC LIMIT 5
 >> ```
 
@@ -50,18 +50,17 @@ SORT file.mtime DESC LIMIT 5
 <br />
 <br />
 
+---
+# 파일관리 방식
 
-
-## 첨부사진 
->[!multi-column]
->>[!note]  titile
->>asdasd
+> [!multi-column] 
+>> [!tip] 파일관리 방식
+>> - 현재 옵시디언 파일관리 방식을 **파일시스템 방식으로 관리하지 않고**
+>>  - **태그로 관리로 파일 관리**하기로 함 
+>> - **Studied 폴더에 모든 학습정리**를 하고, 파일에서 태그를 활용하여 관리
 >
->>[!info] 
->>asdasd
->
-
-## 제목 
-- ### 소주제1 
-- ### 소주제2
-- ### 소주제3
+>> [!success]  태그 규칙
+>> - 무조건 **영어 소문자**로 
+>> - 줄임말 쓰지말고, **전체 단어쓰기** 
+>>  - 되도록이면 하나의 태그에 대해 **여러 비슷한 태그 만들지 않기**
+>>  

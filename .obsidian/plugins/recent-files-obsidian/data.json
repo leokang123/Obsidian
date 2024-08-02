@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "인상적인 옵시디언 문법",
-      "path": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md"
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
     },
     {
-      "basename": "옵시디언 css 설정",
-      "path": "Folder/잡공부/옵시디언/옵시디언 css 설정.md"
+      "basename": "정규표현식",
+      "path": "Studied/정규표현식.md"
     },
     {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "인상적인 옵시디언 문법",
+      "path": "Studied/인상적인 옵시디언 문법.md"
+    },
+    {
+      "basename": "옵시디언 css 설정",
+      "path": "Studied/옵시디언 css 설정.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
+    },
+    {
+      "basename": "Pasted image 20240722005957",
+      "path": "Resources/Attachments/Pasted image 20240722005957.png"
+    },
+    {
+      "basename": "Pasted image 20240721170302",
+      "path": "Resources/Attachments/Pasted image 20240721170302.png"
+    },
+    {
+      "basename": "SCR-20240721-oyrm",
+      "path": "Resources/Attachments/SCR-20240721-oyrm.png"
+    },
+    {
+      "basename": "Pasted image 20240721164820",
+      "path": "Resources/Attachments/Pasted image 20240721164820.png"
+    },
+    {
+      "basename": "Pasted image 20240721164545",
+      "path": "Resources/Attachments/Pasted image 20240721164545.png"
     },
     {
       "basename": "대학교",
@@ -21,20 +53,8 @@
       "path": "Pages/잡다한 공부.md"
     },
     {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
       "basename": "네이버",
       "path": "Pages/네이버.md"
-    },
-    {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
-    },
-    {
-      "basename": "SCR-20240721-oyrm",
-      "path": "Resources/Attachments/SCR-20240721-oyrm.png"
     },
     {
       "basename": "lava",
@@ -55,18 +75,6 @@
     {
       "basename": "beach2",
       "path": "Resources/Attachments/Background/beach2.jpg"
-    },
-    {
-      "basename": "Pasted image 20240721164820",
-      "path": "Resources/Attachments/Pasted image 20240721164820.png"
-    },
-    {
-      "basename": "Pasted image 20240721164545",
-      "path": "Resources/Attachments/Pasted image 20240721164545.png"
-    },
-    {
-      "basename": "Pasted image 20240721170302",
-      "path": "Resources/Attachments/Pasted image 20240721170302.png"
     },
     {
       "basename": "Drawing 2024-07-21 13.29.05.excalidraw",
