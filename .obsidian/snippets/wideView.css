@@ -32,6 +32,11 @@ body .wide-page {
   --file-line-width: 75%;
 }
 
+.wide-page .markdown-embed * {
+  max-height: 200px;
+  max-width: 400px;
+}
+
 /* -- Special adjustment for Community Themes */
 
 /* Minimal */

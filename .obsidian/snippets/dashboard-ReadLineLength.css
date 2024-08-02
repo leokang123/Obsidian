@@ -23,8 +23,3 @@ Updated 2023-11-02
   margin-top: 5px;
   color: var(--text-accent);
 }
-
-.markdown-embed * {
-  max-height: 200px;
-  max-width: 400px;
-}

@@ -18,8 +18,9 @@
   "dataview",
   "colored-text",
   "calendar",
-  "better-word-count",
   "obsidian-banners",
   "obsidian-admonition",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-hider",
+  "better-word-count"
 ]
