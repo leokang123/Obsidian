@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca4f67794e6bdf6",
+        "id": "489d7d186495a59f",
         "type": "tabs",
         "children": [
           {
-            "id": "2a0a288c392e9891",
+            "id": "6c05358e2c53525a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Pages/정규표현식.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -175,13 +175,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a0a288c392e9891",
+  "active": "6c05358e2c53525a",
   "lastOpenFiles": [
+    "Pages/네이버.md",
     "Pages/Home.md",
     "Pages/정규표현식.md",
     "Pages/무제 파일.md",
     "Pages/JS용어.md",
-    "Pages/네이버.md",
     "Folder/네이버공부",
     "Pages/대학교.md",
     "Resources/Attachments/Background/univercity.jpg",

@@ -5,14 +5,13 @@
   "baseFontSize": 18,
   "translucency": false,
   "enabledCssSnippets": [
-    "dashboard",
-    "dashboard-ReadLineLength",
     "FolderDescription",
     "MinerBanner",
-    "TagStyle",
-    "FloatingSidebar",
-    "MclMultiColumn",
     "custom-admonitions.72f354",
+    "dashboard-ReadLineLength",
+    "dashboard",
+    "MclMultiColumn",
+    "FloatingSidebar",
     "wideView"
   ],
   "nativeMenus": true
