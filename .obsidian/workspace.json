@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/옵시디언 css 설정.md",
                 "mode": "preview",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/옵시디언 css 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/옵시디언 css 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Studied/옵시디언 css 설정.md"
               }
             }
           },
@@ -200,10 +200,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "e36841ee5a9834f3",
   "lastOpenFiles": [
-    "Studied/정규표현식.md",
+    "Studied/인상적인 옵시디언 문법.md",
+    "Studied/Untitled.md",
+    "Studied/옵시디언 css 설정.md",
     "Resources/Templates/파일.md",
+    "Studied/정규표현식.md",
     "Pages/Home.md",
     "Pages/대학교.md",
     "Pages/잡다한 공부.md",
@@ -212,13 +215,10 @@
     "Resources/Templates/List-card.md",
     "Resources/Templates/List-grid.md",
     "Resources/Templates/Multi-Column.md",
-    "Studied/옵시디언 css 설정.md",
     "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md",
     "Resources/Templates/list-card.md",
-    "Studied/Untitled.md",
     "Resources/Attachments/Background/univercity.jpg",
     "Resources/Attachments/Pasted image 20240722005957.png",
-    "Studied/인상적인 옵시디언 문법.md",
     "Resources/Attachments/Pasted image 20240721170302.png",
     "Resources/Attachments/SCR-20240721-oyrm.png",
     "Resources/Attachments/Pasted image 20240721164820.png",
