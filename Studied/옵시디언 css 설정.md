@@ -2,7 +2,7 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 08월 03일 오전 04시 26분
+수정일: 2024년 08월 03일 오전 04시 31분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
 cssclass: wide-page
@@ -24,7 +24,10 @@ cssclass: wide-page
 
 ## 제목 
 - ### 리스트1 #mcl/list-card
+![[univercity.jpg|400]]
 - ### 리스트2
+내용1
+내용2
 - ### 리스트3
 
 mcl/list-card 를 통해 이렇게 만들수 있다 (카드)
