@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "list-card",
-      "path": "Resources/Templates/list-card.md"
-    },
-    {
       "basename": "옵시디언 css 설정",
       "path": "Studied/옵시디언 css 설정.md"
     },
     {
+      "basename": "Drawing 2024-08-03 04.37.52.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "List-grid",
+      "path": "Resources/Templates/List-grid.md"
+    },
+    {
+      "basename": "List-card",
+      "path": "Resources/Templates/List-card.md"
     },
     {
       "basename": "univercity",
@@ -23,10 +31,6 @@
     {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Studied/Untitled.md"
     },
     {
       "basename": "인상적인 옵시디언 문법",
