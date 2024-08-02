@@ -62,7 +62,7 @@ body.is-adj-rll .view-content {
 /* -- Main Code - Editing and Reading View -- */
 .narrow-page.markdown-source-view .cm-sizer,
 .narrow-page.markdown-preview-view .markdown-preview-sizer {
-  /* max-width: var(--file-line-width); */
+  max-width: var(--file-line-width);
   margin-inline: auto;
 }
 
