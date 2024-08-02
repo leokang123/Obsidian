@@ -1,10 +1,11 @@
 ---
 class: 
-cssclass: wide-page,
+cssclasses:
+  - wide-page
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오전 04시 46분
+수정일: 2024년 08월 03일 오전 05시 00분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -15,15 +16,28 @@ banner_y: 0.5
 >[!multi-column] - 진행중인 일
 >>[!quote] %%fake title %%
 >> [[네이버]]
->>![[네이버]]
+>>
 >
 >>[! quote] %% fake title %%
 >> [[잡다한 공부]]
->> ![[잡다한 공부]]
+>>
 >
 >>[! quote] %% fake title %%
 >> [[대학교]]
->> ![[대학교]]
+>> 
+- #### ![[네이버]] #mcl/list-grid
+    - 
+    - [[00 Home|Main Goal 2]]
+    - [[00 Home|Main Goal 3]]
+        - Collaboration with Jane
+    - [[00 Home|Main Goal 4]]
+- ####  ![[잡다한 공부]]
+    - [[00 Home|Learning Goal 1]]
+    - [[00 Home|Initiative 1]]
+    - [[00 Home|Initiative 2]]
+- #### ![[대학교]]
+    - [[00 Home|Personal Goal 1]]
+    - [[00 Home|Personal Goal 2]]
 
 <br />
 
@@ -65,5 +79,3 @@ SORT file.mtime DESC LIMIT 5
 >>  - 되도록이면 하나의 태그에 대해 **여러 비슷한 태그 만들지 않기**
 >
 
-
-![[인상적인 옵시디언 문법]]

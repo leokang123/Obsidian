@@ -35,6 +35,7 @@ body .wide-page {
 .wide-page .markdown-embed * {
   max-height: 200px;
   max-width: 100%;
+  pointer-events: none;
 }
 
 /* -- Special adjustment for Community Themes */
