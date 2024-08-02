@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#obsidian",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,12 +178,13 @@
   "active": "6c05358e2c53525a",
   "lastOpenFiles": [
     "Folder/잡공부/옵시디언/옵시디언 css 설정.md",
+    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
     "Pages/Home.md",
+    "Pages/대학교.md",
     "Pages/잡다한 공부.md",
     "Resources/Templates/파일.md",
     "Folder/네이버공부/무제 파일.md",
     "Studied",
-    "Pages/대학교.md",
     "Pages/네이버.md",
     "Pages/정규표현식.md",
     "Pages/무제 파일.md",
@@ -205,7 +205,6 @@
     "Resources/Attachments/novel-saleh-gDN6YjthF7U-unsplash.jpg",
     "Resources/Attachments/Pasted image 20240722130740.png",
     "Resources/Canvas/무제 파일.canvas",
-    "Folder/잡공부/옵시디언/인상적인 옵시디언 문법.md",
     "Folder/무제 파일.md",
     "Pages/이름 없는 보드.md",
     "Folder/잡공부/옵시디언",

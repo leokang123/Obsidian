@@ -13,16 +13,16 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
       "basename": "잡다한 공부",
       "path": "Pages/잡다한 공부.md"
     },
     {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "네이버",
