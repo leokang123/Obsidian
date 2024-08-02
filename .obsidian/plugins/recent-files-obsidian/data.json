@@ -9,6 +9,10 @@
       "path": "Pages/네이버.md"
     },
     {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
       "basename": "잡다한 공부",
       "path": "Pages/잡다한 공부.md"
     },
@@ -17,20 +21,12 @@
       "path": "Studied/옵시디언 css 설정.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Studied/Untitled.md"
-    },
-    {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
     },
     {
       "basename": "인상적인 옵시디언 문법",
       "path": "Studied/인상적인 옵시디언 문법.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "대시보드",
