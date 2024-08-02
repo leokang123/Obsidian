@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "옵시디언 css 설정",
-      "path": "Studied/옵시디언 css 설정.md"
-    },
-    {
-      "basename": "Drawing 2024-08-03 04.37.52.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
+    },
+    {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
+      "basename": "List-card",
+      "path": "Resources/Templates/List-card.md"
     },
     {
       "basename": "List-grid",
       "path": "Resources/Templates/List-grid.md"
     },
     {
-      "basename": "List-card",
-      "path": "Resources/Templates/List-card.md"
+      "basename": "Multi-Column",
+      "path": "Resources/Templates/Multi-Column.md"
+    },
+    {
+      "basename": "옵시디언 css 설정",
+      "path": "Studied/옵시디언 css 설정.md"
+    },
+    {
+      "basename": "Drawing 2024-08-03 04.37.52.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md"
     },
     {
       "basename": "univercity",
@@ -29,16 +53,8 @@
       "path": "Resources/Attachments/Pasted image 20240722005957.png"
     },
     {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
       "basename": "인상적인 옵시디언 문법",
       "path": "Studied/인상적인 옵시디언 문법.md"
-    },
-    {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
     },
     {
       "basename": "Pasted image 20240721170302",
@@ -55,18 +71,6 @@
     {
       "basename": "Pasted image 20240721164545",
       "path": "Resources/Attachments/Pasted image 20240721164545.png"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
-    },
-    {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "lava",

@@ -8,12 +8,11 @@
     "FolderDescription",
     "MinerBanner",
     "custom-admonitions.72f354",
-    "dashboard-ReadLineLength",
-    "dashboard",
     "MclMultiColumn",
     "FloatingSidebar",
     "wideView",
-    "TagStyle"
+    "TagStyle",
+    "dashboard-ReadLineLength"
   ],
   "nativeMenus": true
 }
