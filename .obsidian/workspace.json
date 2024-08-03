@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f075ebb1fabc280f",
+        "id": "5395a6d2c3406555",
         "type": "tabs",
         "children": [
           {
-            "id": "4f13b1f076906b26",
+            "id": "c55bf16888425178",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,11 +175,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f13b1f076906b26",
+  "active": "c55bf16888425178",
   "lastOpenFiles": [
     "Pages/Home.md",
-    "Pages/네이버.md",
     "Studied/인상적인 옵시디언 문법.md",
+    "Pages/네이버.md",
     "Pages/공부.md",
     "Studied/정규표현식.md",
     "Studied/클로저 시작하기 (1).md",

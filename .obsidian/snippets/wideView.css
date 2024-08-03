@@ -34,6 +34,7 @@ body .wide-page {
   font-weight: 500;
   font-style: normal;
 }
+
 /* -- 내 커스텀 wide-page 속성 -- */
 .wide-page .markdown-embed * {
   max-height: 200px;
