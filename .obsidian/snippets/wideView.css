@@ -94,6 +94,17 @@ body .wide-page {
   padding: 0.6rem;
 }
 
+.wide-page .callout-content li {
+  margin: 0px 0px 0px 2rem !important;
+}
+
+.wide-page .callout-content li {
+  margin: 0px 0px 0px 2rem !important;
+}
+
+.wide-page .admonition {
+  padding: 1rem 2rem 1rem 2rem !important;
+}
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */
