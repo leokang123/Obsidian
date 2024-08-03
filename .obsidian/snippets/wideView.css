@@ -89,6 +89,11 @@ body .wide-page {
 .wide-page .table-view-tbody td {
   padding: 10px 0px 0px 5px;
 }
+
+.has-list-bullet li p {
+  padding: 0.6rem;
+}
+
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */
