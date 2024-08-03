@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "lamplight",
+      "path": "Resources/Background/lamplight.jpg"
+    },
+    {
+      "basename": "library",
+      "path": "Resources/Background/library.jpg"
+    },
+    {
+      "basename": "beach2",
+      "path": "Resources/Background/beach2.jpg"
+    },
+    {
+      "basename": "beach1",
+      "path": "Resources/Background/beach1.jpg"
+    },
+    {
+      "basename": "city",
+      "path": "Resources/Background/city.jpg"
+    },
+    {
+      "basename": "정규표현식",
+      "path": "Studied/정규표현식.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
@@ -13,16 +37,20 @@
       "path": "Studied/옵시디언 css 설정.md"
     },
     {
-      "basename": "잡다한 공부",
-      "path": "Pages/잡다한 공부.md"
-    },
-    {
       "basename": "네이버",
       "path": "Pages/네이버.md"
     },
     {
+      "basename": "잡다한 공부",
+      "path": "Pages/잡다한 공부.md"
+    },
+    {
       "basename": "대학교",
       "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
     },
     {
       "basename": "DataView",
@@ -35,10 +63,6 @@
     {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
     },
     {
       "basename": "List-card",
@@ -54,7 +78,7 @@
     },
     {
       "basename": "univercity",
-      "path": "Resources/Attachments/Background/univercity.jpg"
+      "path": "Resources/Background/univercity.jpg"
     },
     {
       "basename": "Pasted image 20240722005957",
@@ -78,11 +102,11 @@
     },
     {
       "basename": "lava",
-      "path": "Resources/Attachments/Background/lava.jpg"
+      "path": "Resources/Background/lava.jpg"
     },
     {
       "basename": "programming",
-      "path": "Resources/Attachments/Background/programming.jpg"
+      "path": "Resources/Background/programming.jpg"
     },
     {
       "basename": "무제 파일",
@@ -91,10 +115,6 @@
     {
       "basename": "Drawing 2024-07-22 00.57.58.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md"
-    },
-    {
-      "basename": "beach2",
-      "path": "Resources/Attachments/Background/beach2.jpg"
     },
     {
       "basename": "Drawing 2024-07-21 13.29.05.excalidraw",

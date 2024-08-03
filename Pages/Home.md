@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오전 05시 36분
+수정일: 2024년 08월 03일 오후 15시 45분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -28,7 +28,7 @@ banner_y: 0.5
 >> ```dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "중요"
-FROM #important 
+FROM #중요
 >> ```
 >
 >>[!example] %% fake title %% 
@@ -54,8 +54,8 @@ SORT file.mtime DESC LIMIT 5
 >> - **Studied 폴더에 모든 학습정리**를 하고, 파일에서 태그를 활용하여 관리
 >
 >> [!success]  태그 규칙
->> - 무조건 **영어 소문자**로 
+>> - 되도록 **한글**로, 어쩔수 없는 경우에만 영어 
 >> - 줄임말 쓰지말고, **전체 단어쓰기** 
->>  - 되도록이면 하나의 태그에 대해 **여러 비슷한 태그 만들지 않기**
+>>  - 한번 태그만들면 그 이후에는 **새로 만들지 말고 기존 태그 사용**하기
 >
 

@@ -2,12 +2,12 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 08월 03일 오전 04시 56분
+수정일: 2024년 08월 03일 오후 15시 44분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
 cssclass: wide-page
 ---
-#obsidian #studied
+#옵시디언 #학습정리
 
 
 # CSS 
@@ -68,4 +68,4 @@ mcl/list-grid를 통해 이렇게 만들 수 있다
 
 ### 그냥 
 asdasd
-![[Untitled]]
+![[정규표현식]]

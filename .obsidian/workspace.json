@@ -11,11 +11,9 @@
             "id": "7c4655e87674963a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Pages/Home.md",
-                "mode": "preview",
-                "source": true
+                "file": "Resources/Background/lamplight.jpg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Background/lamplight.jpg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Background/lamplight.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Resources/Background/lamplight.jpg"
               }
             }
           },
@@ -177,23 +175,27 @@
   },
   "active": "7c4655e87674963a",
   "lastOpenFiles": [
-    "Studied/인상적인 옵시디언 문법.md",
-    "Studied/Untitled.md",
+    "Resources/Background/library.jpg",
+    "Resources/Background/lamplight.jpg",
+    "Resources/Background/beach2.jpg",
+    "Resources/Background/beach1.jpg",
+    "Resources/Background/city.jpg",
+    "Studied/정규표현식.md",
     "Pages/Home.md",
+    "Studied/인상적인 옵시디언 문법.md",
     "Studied/옵시디언 css 설정.md",
-    "Pages/잡다한 공부.md",
     "Pages/네이버.md",
+    "Pages/잡다한 공부.md",
     "Pages/대학교.md",
+    "Resources/Templates/대시보드.md",
     "Resources/Templates/DataView.md",
     "Resources/Templates/Multi-Column.md",
     "Resources/Templates/파일.md",
-    "Studied/정규표현식.md",
-    "Resources/Templates/대시보드.md",
     "Resources/Templates/List-card.md",
     "Resources/Templates/List-grid.md",
     "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md",
     "Resources/Templates/list-card.md",
-    "Resources/Attachments/Background/univercity.jpg",
+    "Resources/Background/univercity.jpg",
     "Resources/Attachments/Pasted image 20240722005957.png",
     "Resources/Attachments/Pasted image 20240721170302.png",
     "Resources/Attachments/SCR-20240721-oyrm.png",
@@ -207,11 +209,7 @@
     "Folder/네이버공부",
     "Resources/Templates/이미지.md",
     "Folder/잡공부/옵시디언/mcl.md",
-    "Resources/Attachments/Background/lava.jpg",
-    "Resources/Attachments/Background/programming.jpg",
-    "Resources/Attachments/Background",
-    "Resources/Attachments/Background/library.jpg",
-    "Resources/Attachments/Background/lamplight.jpg",
+    "Resources/Background",
     "Resources/Canvas/무제 파일.canvas",
     "Folder/무제 파일.md",
     "Pages/이름 없는 보드.md",
