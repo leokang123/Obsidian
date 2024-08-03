@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오전 00시 14분
+수정일: 2024년 08월 04일 오전 00시 17분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -80,15 +80,24 @@ SORT series ASC
 dv.span("**노트정리**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 
 // Initialize the calendarData object with various configurations
+
+const hue1 = 13 //red
+const hue2 = 132 //green
+
 const calendarData = {
     year: 2024,  // (optional) defaults to current year
     colors: {    // (optional) defaults to green
-        blue:        ["#8cb9ff", "#69a3ff", "#428bff", "#1872ff", "#0058e2"], // first entry is considered default if supplied
-        green:       ["#c6e48b", "#7bc96f", "#49af5d", "#2e8840", "#196127"],
-        red:         ["#ff9e82", "#ff7b55", "#ff4d1a", "#e73400", "#bd2a00"],
-        orange:      ["#ffa244", "#fd7f00", "#dd6f00", "#bf6000", "#9b4e00"],
-        pink:        ["#ff96cb", "#ff70b8", "#ff3a9d", "#ee0077", "#c30062"],
-        orangeToRed: ["#ffdf04", "#ffbe04", "#ff9a03", "#ff6d02", "#ff2c01"]
+        red2green: [
+            `hsl(${hue1}, 100%, 37%)`,     // 1 - darkest red
+            `hsl(${hue1}, 100%, 50%)`,     // 2 - 
+            `hsl(${hue1}, 100%, 60%)`,     // 3 - 
+            `hsl(${hue1}, 100%, 77%)`,     // 4 - lightest red
+            `hsl(0, 0%, 80%)`,             // 5 - neutral gray
+            `hsl(${hue2*0.7}, 70%, 72%)`,  // 6 - lightest green
+            `hsl(${hue2*0.85}, 43%, 56%)`, // 7 - 
+            `hsl(${hue2}, 49%, 36%)`,      // 8 - 
+            `hsl(${hue2}, 59%, 24%)`,      // 9 - darkest green
+        ],
     },
     showCurrentDayBorder: true, // (optional) defaults to true
     defaultEntryIntensity: 4,   // (optional) defaults to 4
@@ -107,8 +116,8 @@ for (let page of pageArr.where(p => p.series)) {
     // Push the data into the calendarData.entries array
     calendarData.entries.push({
         date: page.생성일.slice(0,10),     // (required) Date in the format YYYY-MM-DD
-        intensity: pageArrLength * 10,   // (required) The data you want to track, will map color intensities automatically
-        color: "orangeToRed",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
+        intensity: 1,   // (required) The data you want to track, will map color intensities automatically
+        color: "red2green",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
     });
     console.log(pageArrLength)
 
