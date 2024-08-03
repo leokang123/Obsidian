@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 21시 19분
+수정일: 2024년 08월 03일 오후 21시 57분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -74,22 +74,3 @@ SORT series ASC
  #불변성 #순수함수 
 
 
-
-# H1
-asd
-asd
-## H2
-asd
-asd
-### H3
-asd
-asd
-#### H4
-asd
-asd
-##### H5
-asd
-asd
-###### H6
-asd
-asd
