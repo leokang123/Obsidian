@@ -79,9 +79,6 @@ body .wide-page {
   margin-top: 2rem;
 }
 
-.wide-page .callout p {
-  margin: 0px;
-}
 .wide-page .callout {
   padding: 12px !important;
 }
@@ -90,21 +87,18 @@ body .wide-page {
   padding: 10px 0px 0px 5px;
 }
 
-.has-list-bullet li p {
-  padding: 0.6rem;
+.wide-page .has-list-bullet li {
+  padding: 1rem 1.6rem 1rem 1.6rem !important;
 }
 
-.wide-page .callout-content li {
-  margin: 0px 0px 0px 2rem !important;
-}
-
-.wide-page .callout-content li {
-  margin: 0px 0px 0px 2rem !important;
+.wide-page .dataview {
+  margin: 0px !important;
 }
 
 .wide-page .admonition {
-  padding: 1rem 2rem 1rem 2rem !important;
+  padding: 1.6rem !important;
 }
+
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */
