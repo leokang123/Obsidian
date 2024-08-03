@@ -11,9 +11,11 @@
             "id": "7c4655e87674963a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Background/lamplight.jpg"
+                "file": "Pages/Home.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Background/lamplight.jpg",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Background/lamplight.jpg",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Background/lamplight.jpg"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -175,8 +177,8 @@
   },
   "active": "7c4655e87674963a",
   "lastOpenFiles": [
-    "Resources/Background/library.jpg",
     "Resources/Background/lamplight.jpg",
+    "Resources/Background/library.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/beach1.jpg",
     "Resources/Background/city.jpg",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "lamplight",
       "path": "Resources/Background/lamplight.jpg"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "정규표현식",
       "path": "Studied/정규표현식.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "인상적인 옵시디언 문법",
