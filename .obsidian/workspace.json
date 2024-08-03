@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c1185b51552a82be",
+        "id": "38bd919df4358a57",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4655e87674963a",
+            "id": "c3506c9ad2a3bc91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/정규표현식.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "307f499701e3c46c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/정규표현식.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -188,11 +175,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "307f499701e3c46c",
+  "active": "c3506c9ad2a3bc91",
   "lastOpenFiles": [
+    "Studied/정규표현식.md",
     "Pages/Home.md",
     "Studied/인상적인 옵시디언 문법.md",
-    "Studied/정규표현식.md",
     "Studied/클로저 시작하기 (1).md",
     "Pages/공부.md",
     "Resources/Templates/파일.md",
