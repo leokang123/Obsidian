@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 17시 25분
+수정일: 2024년 08월 03일 오후 18시 16분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -39,11 +39,6 @@ link(file.path,file.name) AS "최근 사용",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" FROM "Studied" 
 SORT file.mtime DESC LIMIT 5
 >> ```
-
-
-<br />
-<br />
-<br />
 
 ---
 ## 파일관리 방식
