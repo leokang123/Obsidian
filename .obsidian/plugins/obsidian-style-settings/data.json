@@ -36,5 +36,10 @@
   "things-style@@h1-weight": 700,
   "things-style@@h2-size": "1.8em",
   "things-style@@h3-size": "1.5em",
-  "things-style@@h2-color": "#C7EF5A"
+  "things-style@@h2-color": "#FFE92A",
+  "things-style@@h1-color": "#FFBA20",
+  "things-style@@h3-color": "#F5FC91",
+  "things-style@@h4-color": "#00FFAA",
+  "things-style@@h6-size": "0.7em",
+  "things-style@@h6-color": "#FF9CE1"
 }
