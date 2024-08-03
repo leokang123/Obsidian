@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 23시 56분
+수정일: 2024년 08월 03일 오후 23시 58분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -101,10 +101,11 @@ const calendarData = {
 for (let page of dv.pages('"Studied"').where(p => p.series)) {
     // Uncomment the following line for troubleshooting to see the file names
     // dv.span("<br>" + page.file.name)
+    
     // Push the data into the calendarData.entries array
     calendarData.entries.push({
         date: page.생성일.slice(0,10),     // (required) Date in the format YYYY-MM-DD
-        intensity: 12,   // (required) The data you want to track, will map color intensities automatically
+        intensity: 16,   // (required) The data you want to track, will map color intensities automatically
         color: "green",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
     });
 
