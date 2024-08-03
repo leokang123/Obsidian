@@ -11,8 +11,12 @@
             "id": "98eca5770084895b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Home.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -171,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "98eca5770084895b",
   "lastOpenFiles": [
     "Pages/대학교.md",
     "Pages/공부.md",

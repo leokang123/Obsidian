@@ -64,6 +64,7 @@ body .wide-page {
 .wide-page .dataview.small-text {
   display: none;
 }
+
 .wide-page h1 {
   padding-top: 3.5rem;
 }
@@ -73,7 +74,9 @@ body .wide-page {
 .wide-page h3 {
   margin-top: 2rem;
 }
-
+.markdown-preview-view p {
+  padding-bottom: 100px !important;
+}
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */
