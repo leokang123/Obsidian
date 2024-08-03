@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c92f7a9d38332435",
+        "id": "543c0679b5a21f69",
         "type": "tabs",
         "children": [
           {
-            "id": "093c88c6b98e7159",
+            "id": "8136b401c77de644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/옵시디언 css 설정.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/옵시디언 css 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/옵시디언 css 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/옵시디언 css 설정.md"
               }
             }
           },
@@ -175,16 +175,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "093c88c6b98e7159",
+  "active": "8136b401c77de644",
   "lastOpenFiles": [
+    "Pages/Home.md",
+    "Studied/옵시디언 css 설정.md",
+    "Studied/정규표현식.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Pages/공부.md",
-    "Studied/옵시디언 css 설정.md",
     "Resources/Templates/Multi-Column.md",
     "Resources/Templates/Multi-Column-DataView.md",
     "Resources/Templates/파일.md",
     "Resources/Templates/DataView.md",
-    "Pages/Home.md",
     "Pages/네이버.md",
     "Resources/Templates/List-card.md",
     "Resources/Templates/List-grid.md",
@@ -193,7 +194,6 @@
     "Studied/클로저 시작하기 (1).md",
     "Pages/대학교.md",
     "Studied/클로저 시작하기 (2).md",
-    "Studied/정규표현식.md",
     "Resources/Excaldraw/Drawing 2024-08-03 16.16.10.excalidraw.md",
     "Resources/Background/lamplight.jpg",
     "Resources/Background/library.jpg",
