@@ -32,6 +32,7 @@ body .wide-page {
   --file-line-width: 75%;
 }
 
+/* -- 내 커스텀 wide-page 속성 -- */
 .wide-page .markdown-embed * {
   max-height: 200px;
   max-width: 100%;
@@ -59,6 +60,12 @@ body .wide-page {
   font-weight: 400;
   color: var(--linkpink) !important;
 }
+
+.wide-page .dataview.small-text {
+  display: none;
+}
+/* -- 내 커스텀 wide-page 속성 -- */
+
 /* -- Special adjustment for Community Themes */
 
 /* Minimal */
