@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오전 00시 10분
+수정일: 2024년 08월 04일 오전 00시 14분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -99,7 +99,7 @@ const calendarData = {
 
 // DataviewJS loop to iterate over pages in the "Studied" folder where the page has a 'series' property
 const pageArr = dv.pages('"Studied"');
-console.log(pageArr);
+const pageArrLength = pageArr.length;
 for (let page of pageArr.where(p => p.series)) {
     // Uncomment the following line for troubleshooting to see the file names
     // dv.span("<br>" + page.file.name)
@@ -107,10 +107,10 @@ for (let page of pageArr.where(p => p.series)) {
     // Push the data into the calendarData.entries array
     calendarData.entries.push({
         date: page.생성일.slice(0,10),     // (required) Date in the format YYYY-MM-DD
-        intensity: pageArr.length * 10,   // (required) The data you want to track, will map color intensities automatically
-        color: "pink",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
+        intensity: pageArrLength * 10,   // (required) The data you want to track, will map color intensities automatically
+        color: "orangeToRed",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
     });
-    console.log(page.file)
+    console.log(pageArrLength)
 
 }
 
