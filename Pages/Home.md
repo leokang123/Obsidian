@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오전 02시 24분
+수정일: 2024년 08월 04일 오전 02시 29분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -35,19 +35,19 @@ SORT series ASC
 > ```
 > ```ad-pink
 > ~~~ dataviewjs
-console.log(dv.pages('#학습정리 and "Studied"'));
-dv.table(["학습정리", "주제", "수정 날짜"], 
-    dv.pages('#학습정리 and "Studied"')
-    .groupBy(p => p.주제)
-    .sort(p => p.series)
-    .map(group => 
-        group.rows.map(page => [
-            dv.link(page.file.path, page.file.name),
-            page.주제,
-            dv.dateformat(page.file.mtime, "yyyy년 MM월 dd일- HH:mm")
-        ])
-    ).flat()
-);
+> console.log(dv.pages('#학습정리 and "Studied"'))
+>dv.table(["학습정리", "주제", "수정 날짜"], 
+>    dv.pages('#학습정리 and "Studied"')
+>    .groupBy(p => p.주제)
+>    .sort(p => p.series)
+>    .map(group => 
+>        group.rows.map(page => [
+>            dv.link(page.file.path, page.file.name),
+>            page.주제,
+>            dv.dateformat(page.file.mtime, "yyyy년 MM월 dd일-HH:mm")
+>        ])
+>    ).flat()
+>);
 >~~~
 > ```
 
