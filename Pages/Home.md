@@ -26,7 +26,7 @@ banner_y: 0.5
 
 > [!multi-column] 
 > ```ad-blue
-> ~~~dataview
+> ~~~ dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "옵시디언",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
@@ -35,7 +35,7 @@ SORT series ASC
 >~~~
 > ```
 > ```ad-pink
-> ~~~dataview
+> ~~~ dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "학습정리",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
