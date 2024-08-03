@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
+      "basename": "정규표현식",
+      "path": "Studied/정규표현식.md"
+    },
+    {
+      "basename": "univercity",
+      "path": "Resources/Background/univercity.jpg"
+    },
+    {
       "basename": "옵시디언 css 설정",
       "path": "Studied/옵시디언 css 설정.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
+      "basename": "beach2",
+      "path": "Resources/Background/beach2.jpg"
+    },
+    {
+      "basename": "programming",
+      "path": "Resources/Background/programming.jpg"
+    },
+    {
+      "basename": "Pasted image 20240722005957",
+      "path": "Resources/Attachments/Pasted image 20240722005957.png"
     },
     {
       "basename": "무제 파일 1",
@@ -19,10 +43,6 @@
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "Multi-Column-DataView",
@@ -57,10 +77,6 @@
       "path": "Studied/인상적인 옵시디언 문법.md"
     },
     {
-      "basename": "정규표현식",
-      "path": "Studied/정규표현식.md"
-    },
-    {
       "basename": "클로저 시작하기 (1)",
       "path": "Studied/클로저 시작하기 (1).md"
     },
@@ -81,10 +97,6 @@
       "path": "Resources/Background/library.jpg"
     },
     {
-      "basename": "beach2",
-      "path": "Resources/Background/beach2.jpg"
-    },
-    {
       "basename": "beach1",
       "path": "Resources/Background/beach1.jpg"
     },
@@ -95,14 +107,6 @@
     {
       "basename": "Drawing 2024-08-03 04.37.52.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md"
-    },
-    {
-      "basename": "univercity",
-      "path": "Resources/Background/univercity.jpg"
-    },
-    {
-      "basename": "Pasted image 20240722005957",
-      "path": "Resources/Attachments/Pasted image 20240722005957.png"
     },
     {
       "basename": "Pasted image 20240721170302",
@@ -123,10 +127,6 @@
     {
       "basename": "lava",
       "path": "Resources/Background/lava.jpg"
-    },
-    {
-      "basename": "programming",
-      "path": "Resources/Background/programming.jpg"
     },
     {
       "basename": "무제 파일",
