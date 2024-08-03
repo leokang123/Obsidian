@@ -1,10 +1,10 @@
 ---
-수정일: 2024년 08월 03일 오후 19시 22분
+수정일: 2024년 08월 03일 오후 20시 24분
 ---
 
 > [!multi-column] 
 > ```ad-blue
-> ~~~dataview
+> ~~~ dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "옵시디언",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
@@ -12,8 +12,8 @@ FROM #옵시디언 AND "Studied"
 SORT series ASC
 >~~~
 > ```
-> ```ad-blue
-> ~~~dataview
+> ```ad-white
+> ~~~ dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "학습정리",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 

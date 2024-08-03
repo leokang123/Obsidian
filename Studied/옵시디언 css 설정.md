@@ -2,7 +2,7 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 08월 03일 오후 19시 52분
+수정일: 2024년 08월 03일 오후 20시 27분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
 cssclass: wide-page
@@ -50,7 +50,8 @@ mcl/list-card 를 통해 이렇게 만들수 있다 (카드)
 mcl/list-grid를 통해 이렇게 만들 수 있다 
 
 ### 사진
->[!info|left-side] %%FAKE TITLE HERE%%
+
+>[!white|left-side] 
 >
 >![[univercity.jpg|400]]
 >
@@ -115,3 +116,44 @@ asd
 ad
 
 ```
+
+
+## MultiColumn 제목있는경우 
+> [!multi-column] 
+>```ad-white
+>title: 하얀색
+>asd
+>asd
+>asd
+>~~~ js
+> const a = 1;
+>~~~
+>asd
+>asd
+>
+>```
+> 
+>
+> ```ad-cyan
+> title:하늘색
+>ㅁㄴㅇ
+>ㅁㄴㅇ
+> ```
+
+## MultiColumn 제목 없는 경우
+> [!multi-column] 
+>```ad-white
+>asd
+>asd
+>asd
+>
+>asd
+>asd
+>
+>```
+> 
+>
+> ```ad-cyan
+>ㅁㄴㅇ
+>ㅁㄴㅇ
+> ```

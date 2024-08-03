@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/Multi-Column.md",
-                "mode": "source",
+                "file": "Pages/Home.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/Multi-Column.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/Multi-Column.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/Multi-Column.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -177,19 +177,19 @@
   },
   "active": "7fc5a7e3c87faee1",
   "lastOpenFiles": [
-    "Resources/Templates/DataView.md",
-    "Resources/Templates/Multi-Column.md",
-    "Pages/Home.md",
-    "Resources/Templates/Multi-Column-DataView.md",
-    "Resources/Templates/파일.md",
-    "Pages/공부.md",
-    "Pages/네이버.md",
     "Studied/옵시디언 css 설정.md",
-    "Studied/정규표현식.md",
-    "Studied/인상적인 옵시디언 문법.md",
+    "Resources/Templates/Multi-Column-DataView.md",
+    "Resources/Templates/DataView.md",
+    "Resources/Templates/대시보드.md",
     "Resources/Templates/List-card.md",
     "Resources/Templates/List-grid.md",
-    "Resources/Templates/대시보드.md",
+    "Resources/Templates/파일.md",
+    "Resources/Templates/Multi-Column.md",
+    "Pages/Home.md",
+    "Pages/공부.md",
+    "Pages/네이버.md",
+    "Studied/정규표현식.md",
+    "Studied/인상적인 옵시디언 문법.md",
     "2024-08-03.md",
     "Studied/클로저 시작하기 (1).md",
     "Pages/대학교.md",

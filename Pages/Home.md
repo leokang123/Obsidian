@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 19시 57분
+수정일: 2024년 08월 03일 오후 20시 27분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -66,9 +66,6 @@ SORT series ASC
 > #asd
 - ### 부분관리
 > #회고 #네이버
-> asd
-> asd
-> asd
 > #asd 
 > #asd
 - ### 세부적
@@ -76,10 +73,6 @@ SORT series ASC
  #함수형프로그래밍 #비동기 #Git #Jest #컴파일러 
  #프로세스메모리 #Clojure #클로저 #렉시컬스코프 #커링 
  #불변성 #순수함수 
- asd
- asd
- asd
- 
 
 
 
