@@ -5,6 +5,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Studied/Untitled.md"
+    },
+    {
       "basename": "정규표현식",
       "path": "Studied/정규표현식.md"
     },
