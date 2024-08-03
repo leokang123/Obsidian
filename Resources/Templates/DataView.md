@@ -1,8 +1,8 @@
 ---
-수정일: 2024년 08월 03일 오후 20시 14분
+수정일: 2024년 08월 03일 오후 20시 15분
 ---
 
-```ad-white
+```ad-black
 ~~~dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "옵시디언",

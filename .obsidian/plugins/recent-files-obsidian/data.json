@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Multi-Column",
+      "path": "Resources/Templates/Multi-Column.md"
+    },
+    {
       "basename": "DataView",
       "path": "Resources/Templates/DataView.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "Multi-Column",
-      "path": "Resources/Templates/Multi-Column.md"
     },
     {
       "basename": "공부",

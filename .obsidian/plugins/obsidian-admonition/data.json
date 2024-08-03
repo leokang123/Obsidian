@@ -107,6 +107,17 @@
       "injectColor": true,
       "noTitle": true,
       "copy": false
+    },
+    "black": {
+      "type": "black",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,
