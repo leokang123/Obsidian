@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79be7f9eff1b89b7",
+        "id": "e4a5b3f9d484320e",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fa161d37e5e12b",
+            "id": "892a3ab128643917",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/정규표현식.md",
-                "mode": "source",
+                "file": "Pages/공부.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/공부.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/정규표현식.md"
+                "file": "Pages/공부.md"
               }
             }
           },
@@ -167,36 +167,38 @@
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "templates:템플릿 삽입": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9fa161d37e5e12b",
+  "active": "892a3ab128643917",
   "lastOpenFiles": [
     "Pages/Home.md",
+    "Pages/공부.md",
+    "Resources/Templates/List-card.md",
+    "Resources/Templates/List-grid.md",
+    "Resources/Templates/DataView.md",
+    "Resources/Templates/파일.md",
+    "Resources/Templates/대시보드.md",
+    "Resources/Templates/Multi-Column.md",
+    "2024-08-03.md",
+    "Studied/클로저 시작하기 (1).md",
+    "Pages/네이버.md",
+    "Pages/대학교.md",
+    "Studied/클로저 시작하기 (2).md",
     "Studied/정규표현식.md",
     "Studied/옵시디언 css 설정.md",
-    "Studied/클로저 시작하기 (1).md",
     "Studied/인상적인 옵시디언 문법.md",
-    "Pages/대학교.md",
-    "Pages/네이버.md",
-    "Pages/공부.md",
-    "Resources/Templates/파일.md",
     "Resources/Excaldraw/Drawing 2024-08-03 16.16.10.excalidraw.md",
     "Resources/Background/lamplight.jpg",
     "Resources/Background/library.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/beach1.jpg",
     "Resources/Background/city.jpg",
-    "Resources/Templates/대시보드.md",
-    "Resources/Templates/DataView.md",
-    "Resources/Templates/Multi-Column.md",
-    "Resources/Templates/List-card.md",
-    "Resources/Templates/List-grid.md",
     "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md",
     "Resources/Templates/list-card.md",
     "Resources/Background/univercity.jpg",
@@ -215,9 +217,7 @@
     "Resources/Background",
     "Resources/Canvas/무제 파일.canvas",
     "Folder/무제 파일.md",
-    "Pages/이름 없는 보드.md",
     "Folder/잡공부/옵시디언",
-    "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md",
     "Resources/BackGround/Images",
     "Resources/BackGround",
     "무제 폴더 5",

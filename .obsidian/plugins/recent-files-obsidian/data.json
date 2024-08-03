@@ -1,40 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "정규표현식",
-      "path": "Studied/정규표현식.md"
+      "basename": "공부",
+      "path": "Pages/공부.md"
     },
     {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
-      "basename": "옵시디언 css 설정",
-      "path": "Studied/옵시디언 css 설정.md"
+      "basename": "List-card",
+      "path": "Resources/Templates/List-card.md"
+    },
+    {
+      "basename": "List-grid",
+      "path": "Resources/Templates/List-grid.md"
+    },
+    {
+      "basename": "DataView",
+      "path": "Resources/Templates/DataView.md"
+    },
+    {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
+    },
+    {
+      "basename": "Multi-Column",
+      "path": "Resources/Templates/Multi-Column.md"
+    },
+    {
+      "basename": "2024-08-03",
+      "path": "2024-08-03.md"
     },
     {
       "basename": "클로저 시작하기 (1)",
       "path": "Studied/클로저 시작하기 (1).md"
     },
     {
-      "basename": "인상적인 옵시디언 문법",
-      "path": "Studied/인상적인 옵시디언 문법.md"
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
     {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
+      "basename": "클로저 시작하기 (2)",
+      "path": "Studied/클로저 시작하기 (2).md"
     },
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
+      "basename": "정규표현식",
+      "path": "Studied/정규표현식.md"
     },
     {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
+      "basename": "옵시디언 css 설정",
+      "path": "Studied/옵시디언 css 설정.md"
+    },
+    {
+      "basename": "인상적인 옵시디언 문법",
+      "path": "Studied/인상적인 옵시디언 문법.md"
     },
     {
       "basename": "Drawing 2024-08-03 16.16.10.excalidraw",
@@ -59,26 +87,6 @@
     {
       "basename": "city",
       "path": "Resources/Background/city.jpg"
-    },
-    {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
-    },
-    {
-      "basename": "DataView",
-      "path": "Resources/Templates/DataView.md"
-    },
-    {
-      "basename": "Multi-Column",
-      "path": "Resources/Templates/Multi-Column.md"
-    },
-    {
-      "basename": "List-card",
-      "path": "Resources/Templates/List-card.md"
-    },
-    {
-      "basename": "List-grid",
-      "path": "Resources/Templates/List-grid.md"
     },
     {
       "basename": "Drawing 2024-08-03 04.37.52.excalidraw",
