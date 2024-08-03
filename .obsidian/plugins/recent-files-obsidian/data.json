@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "정규표현식",
-      "path": "Studied/정규표현식.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "정규표현식",
+      "path": "Studied/정규표현식.md"
     },
     {
       "basename": "클로저 시작하기 (1)",

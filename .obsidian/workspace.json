@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/정규표현식.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -177,12 +177,12 @@
   },
   "active": "921d8d349efacacb",
   "lastOpenFiles": [
+    "Studied/정규표현식.md",
     "Pages/Home.md",
     "Studied/정규표현식2.md",
     "Studied/클로저 시작하기 (1).md",
     "Studied/옵시디언 css 설정.md",
     "Studied/클로저 시작하기 (2).md",
-    "Studied/정규표현식.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Pages/네이버.md",
     "Pages/대학교.md",
