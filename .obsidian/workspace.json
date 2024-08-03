@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/정규표현식.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "307f499701e3c46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/인상적인 옵시디언 문법.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/인상적인 옵시디언 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/인상적인 옵시디언 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/인상적인 옵시디언 문법.md"
               }
             }
           },
@@ -175,24 +188,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c4655e87674963a",
+  "active": "307f499701e3c46c",
   "lastOpenFiles": [
+    "Studied/정규표현식.md",
+    "Studied/클로저 시작하기 (1).md",
+    "Pages/Home.md",
+    "Pages/공부.md",
+    "Resources/Templates/파일.md",
+    "Studied/인상적인 옵시디언 문법.md",
+    "Resources/Excaldraw/Drawing 2024-08-03 16.16.10.excalidraw.md",
     "Resources/Background/lamplight.jpg",
     "Resources/Background/library.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/beach1.jpg",
     "Resources/Background/city.jpg",
-    "Studied/정규표현식.md",
-    "Pages/Home.md",
-    "Studied/인상적인 옵시디언 문법.md",
     "Studied/옵시디언 css 설정.md",
     "Pages/네이버.md",
-    "Pages/잡다한 공부.md",
     "Pages/대학교.md",
     "Resources/Templates/대시보드.md",
     "Resources/Templates/DataView.md",
     "Resources/Templates/Multi-Column.md",
-    "Resources/Templates/파일.md",
     "Resources/Templates/List-card.md",
     "Resources/Templates/List-grid.md",
     "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md",
@@ -202,7 +217,6 @@
     "Resources/Attachments/Pasted image 20240721170302.png",
     "Resources/Attachments/SCR-20240721-oyrm.png",
     "Resources/Attachments/Pasted image 20240721164820.png",
-    "Resources/Attachments/Pasted image 20240721164545.png",
     "Folder/네이버공부/무제 파일.md",
     "Studied",
     "Pages/정규표현식.md",
@@ -217,7 +231,6 @@
     "Pages/이름 없는 보드.md",
     "Folder/잡공부/옵시디언",
     "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md",
-    "Resources/BackGround/Images/Sky.md",
     "Resources/BackGround/Images",
     "Resources/BackGround",
     "무제 폴더 5",
