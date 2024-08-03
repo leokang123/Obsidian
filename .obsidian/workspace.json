@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e1c519a847ddd82",
+        "id": "c1185b51552a82be",
         "type": "tabs",
         "children": [
           {
-            "id": "1f60a0ef260758b6",
+            "id": "7c4655e87674963a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/Untitled.md",
-                "mode": "source",
+                "file": "Pages/Home.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/Untitled.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/Untitled.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/Untitled.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -175,17 +175,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f60a0ef260758b6",
+  "active": "7c4655e87674963a",
   "lastOpenFiles": [
     "Studied/인상적인 옵시디언 문법.md",
     "Studied/Untitled.md",
     "Pages/Home.md",
+    "Studied/옵시디언 css 설정.md",
     "Pages/잡다한 공부.md",
     "Pages/네이버.md",
     "Pages/대학교.md",
     "Resources/Templates/DataView.md",
     "Resources/Templates/Multi-Column.md",
-    "Studied/옵시디언 css 설정.md",
     "Resources/Templates/파일.md",
     "Studied/정규표현식.md",
     "Resources/Templates/대시보드.md",

@@ -26,13 +26,11 @@
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  },
-  "Studied/인상적인 옵시디언 문법.md": "LiArrowUpCircle",
-  "Studied/옵시디언 css 설정.md": "LiArrowUpCircle"
+  }
 }
