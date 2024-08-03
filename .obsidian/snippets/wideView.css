@@ -88,7 +88,7 @@ body .wide-page {
 }
 
 .wide-page .has-list-bullet li {
-  padding: 1rem 1.6rem 1rem 1.6rem !important;
+  padding: 1rem !important;
 }
 
 .wide-page .dataview {
@@ -101,6 +101,7 @@ body .wide-page {
 
 .wide-page li {
   margin: 0px 0px 0px 1.5rem !important;
+  padding: 0px !important;
 }
 
 /* -- 내 커스텀 wide-page 속성 끝-- */
