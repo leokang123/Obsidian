@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 20시 53분
+수정일: 2024년 08월 03일 오후 20시 59분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -60,6 +60,7 @@ SORT series ASC
 >>  - 시리즈로 정리하는 경우 **series 태그에 숫자 적기**
 >
 ## dasda
+asd
 asd
 asd
 
