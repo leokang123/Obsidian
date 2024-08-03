@@ -26,12 +26,13 @@
 */
 
 /* === Wide Page === */
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Jua&display=swap');
 
-/* -- Main Code - EV & RV -- */
 body .wide-page {
   --file-line-width: 75%;
+  font-family: 'Gothic A1', sans-serif;
+  font-weight: 400;
 }
-
 /* -- 내 커스텀 wide-page 속성 -- */
 .wide-page .markdown-embed * {
   max-height: 200px;
@@ -84,7 +85,7 @@ body .wide-page {
 }
 
 .wide-page .table-view-tbody td {
-  padding: 10px 0px 0px 5px;
+  padding: 1rem 0px 0px 0.5rem;
 }
 
 .wide-page .has-list-bullet li {
