@@ -7,7 +7,12 @@
   "enabledCssSnippets": [
     "FolderDescription",
     "MinerBanner",
-    "custom-admonitions.72f354"
+    "custom-admonitions.72f354",
+    "FloatingSidebar",
+    "MclMultiColumn",
+    "navFolderIcon",
+    "TagStyle",
+    "wideView"
   ],
   "nativeMenus": true,
   "baseFontSizeAction": false

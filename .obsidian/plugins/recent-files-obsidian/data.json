@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "인상적인 옵시디언 문법",
       "path": "Studied/인상적인 옵시디언 문법.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "클로저 시작하기 (1)",
       "path": "Studied/클로저 시작하기 (1).md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "공부",
