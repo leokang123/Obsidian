@@ -30,5 +30,9 @@
   "things-style@@progress-color-3": "#D2B874",
   "things-style@@progress-color-4": "#B0C07E",
   "things-style@@progress-color-5": "#768399",
-  "things-style@@tag-background-color-d": "#5BE7B0"
+  "things-style@@tag-background-color-d": "#5BE7B0",
+  "things-style@@default-font-color": false,
+  "things-style@@h1-size": "1.8rem",
+  "things-style@@h1-weight": 700,
+  "things-style@@h2-color": "#2E80F2"
 }
