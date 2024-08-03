@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pages/Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -177,13 +177,13 @@
   },
   "active": "19d1db8643df5cf9",
   "lastOpenFiles": [
+    "Studied/정규표현식2.md",
+    "Studied/정규표현식.md",
+    "Pages/Home.md",
     "Studied/옵시디언 css 설정.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Studied/클로저 시작하기 (1).md",
     "Studied/클로저 시작하기 (2).md",
-    "Studied/정규표현식2.md",
-    "Studied/정규표현식.md",
-    "Pages/Home.md",
     "Pages/네이버.md",
     "Pages/대학교.md",
     "Pages/공부.md",
