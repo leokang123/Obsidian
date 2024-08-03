@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9de77a35879b0a2b",
+        "id": "86f5114bb33d5dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "5255e3398466296c",
+            "id": "9eeaf7282bf944ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Pages/Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#학습정리",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,20 +175,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5255e3398466296c",
+  "active": "9eeaf7282bf944ef",
   "lastOpenFiles": [
-    "Studied/클로저 시작하기 (2).md",
-    "Studied/클로저 시작하기 (1).md",
     "Studied/옵시디언 css 설정.md",
     "Studied/인상적인 옵시디언 문법.md",
+    "Studied/클로저 시작하기 (1).md",
+    "Studied/클로저 시작하기 (2).md",
+    "Studied/정규표현식2.md",
+    "Studied/정규표현식.md",
     "Pages/Home.md",
     "Pages/네이버.md",
     "Pages/대학교.md",
     "Pages/공부.md",
-    "Studied/정규표현식.md",
     "Studied/Untitled.md",
     "Resources/Templates/파일.md",
-    "Studied/무제 파일.md",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",
