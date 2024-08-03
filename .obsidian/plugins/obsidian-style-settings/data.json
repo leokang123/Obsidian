@@ -32,7 +32,7 @@
   "things-style@@h2-color": "#FF9B2B",
   "things-style@@h1-color": "#FF671F",
   "things-style@@h3-color": "#FFDD68",
-  "things-style@@h4-color": "#F8FF95",
+  "things-style@@h4-color": "#FFFFFF",
   "things-style@@h6-size": "0.8em",
   "things-style@@h6-color": "#FF9CE1",
   "things-style@@h5-color": "#FF7AD1",
@@ -65,5 +65,6 @@
   "modular-css-layout-mc@@mcl-card-gap": "0.5em",
   "things-style@@h4-size": "1.2em",
   "things-style@@h5-size": "1.0em",
-  "floating-toc-styles@@floating-toc-line-height": 2
+  "floating-toc-styles@@floating-toc-line-height": 2,
+  "things-style@@h4-weight": 600
 }
