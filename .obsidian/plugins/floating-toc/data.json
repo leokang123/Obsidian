@@ -1,5 +1,5 @@
 {
-  "ignoreHeaders": "",
+  "ignoreHeaders": "5\n6\n4",
   "ignoreTopHeader": false,
   "positionStyle": "right",
   "isLoadOnMobile": true,
