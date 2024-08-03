@@ -5,12 +5,12 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "무제 파일 1",
-      "path": "Resources/Canvas/무제 파일 1.canvas"
-    },
-    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "무제 파일 1",
+      "path": "Resources/Canvas/무제 파일 1.canvas"
     },
     {
       "basename": "대학교",
