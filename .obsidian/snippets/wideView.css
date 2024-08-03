@@ -79,7 +79,7 @@ body .wide-page {
   margin-top: 2rem;
 }
 
-.wide-page .callout {
+.wide-page .drop-shadow {
   padding: 12px !important;
 }
 
@@ -96,7 +96,11 @@ body .wide-page {
 }
 
 .wide-page .admonition {
-  padding: 1.6rem !important;
+  padding: 1.5rem !important;
+}
+
+.wide-page li {
+  margin: 0px 0px 0px 1.5rem !important;
 }
 
 /* -- 내 커스텀 wide-page 속성 끝-- */
