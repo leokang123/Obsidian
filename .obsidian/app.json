@@ -8,5 +8,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showUnsupportedFiles": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showRibbon": true,
+  "showInlineTitle": false
 }

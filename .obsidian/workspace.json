@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d781c2c9bdce6f3d",
+        "id": "9b57164a13621741",
         "type": "tabs",
         "children": [
           {
-            "id": "58b3aa8b5ad3ac38",
+            "id": "92fd84629e9079b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/옵시디언 css 설정.md",
+                "file": "Studied/클로저 시작하기 (1).md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/옵시디언 css 설정.md",
+                "file": "Studied/클로저 시작하기 (1).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/옵시디언 css 설정.md",
+                "file": "Studied/클로저 시작하기 (1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/옵시디언 css 설정.md"
+                "file": "Studied/클로저 시작하기 (1).md"
               }
             }
           },
@@ -175,16 +175,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "58b3aa8b5ad3ac38",
+  "active": "92fd84629e9079b1",
   "lastOpenFiles": [
-    "Pages/Home.md",
+    "Studied/정규표현식.md",
     "Studied/옵시디언 css 설정.md",
+    "Pages/Home.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Studied/클로저 시작하기 (1).md",
     "Pages/대학교.md",
     "Pages/네이버.md",
     "Pages/공부.md",
-    "Studied/정규표현식.md",
     "Resources/Templates/파일.md",
     "Resources/Excaldraw/Drawing 2024-08-03 16.16.10.excalidraw.md",
     "Resources/Background/lamplight.jpg",

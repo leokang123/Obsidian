@@ -2,7 +2,7 @@
   "cssTheme": "Things",
   "accentColor": "",
   "theme": "obsidian",
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "translucency": false,
   "enabledCssSnippets": [
     "FolderDescription",
@@ -15,5 +15,6 @@
     "wideView"
   ],
   "nativeMenus": true,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "showViewHeader": true
 }

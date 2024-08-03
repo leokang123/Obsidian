@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "클로저 시작하기 (1)",
+      "path": "Studied/클로저 시작하기 (1).md"
+    },
+    {
+      "basename": "정규표현식",
+      "path": "Studied/정규표현식.md"
+    },
+    {
       "basename": "옵시디언 css 설정",
       "path": "Studied/옵시디언 css 설정.md"
     },
@@ -13,10 +21,6 @@
       "path": "Studied/인상적인 옵시디언 문법.md"
     },
     {
-      "basename": "클로저 시작하기 (1)",
-      "path": "Studied/클로저 시작하기 (1).md"
-    },
-    {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "공부",
       "path": "Pages/공부.md"
-    },
-    {
-      "basename": "정규표현식",
-      "path": "Studied/정규표현식.md"
     },
     {
       "basename": "파일",
