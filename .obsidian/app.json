@@ -15,5 +15,6 @@
   "foldIndent": true,
   "showLineNumber": false,
   "showIndentGuide": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "spellcheck": true
 }
