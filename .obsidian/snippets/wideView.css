@@ -49,13 +49,13 @@ body .wide-page {
   display: none;
 }
 /* << EDITING link color INTERNAL >>  */
-.cm-s-obsidian span.cm-hmd-internal-link {
+.wide-page span.cm-hmd-internal-link {
   font-weight: 400;
   color: var(--linkpink) !important;
 }
 
 /* << READING link color INTERNAL >>  */
-.markdown-preview-view .internal-link {
+.wide-page .internal-link {
   font-weight: 400;
   color: var(--linkpink) !important;
 }
