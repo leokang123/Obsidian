@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "05c08f4eca62105f",
+        "id": "e7be5fddfa36e785",
         "type": "tabs",
         "children": [
           {
-            "id": "19d1db8643df5cf9",
+            "id": "921d8d349efacacb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/클로저 시작하기 (1).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "87448cdb2c5a2912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/정규표현식.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/정규표현식.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/정규표현식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/정규표현식.md"
               }
             }
           },
@@ -188,13 +175,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87448cdb2c5a2912",
+  "active": "921d8d349efacacb",
   "lastOpenFiles": [
-    "Studied/옵시디언 css 설정.md",
     "Pages/Home.md",
-    "Studied/클로저 시작하기 (1).md",
-    "Studied/클로저 시작하기 (2).md",
     "Studied/정규표현식2.md",
+    "Studied/클로저 시작하기 (1).md",
+    "Studied/옵시디언 css 설정.md",
+    "Studied/클로저 시작하기 (2).md",
     "Studied/정규표현식.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Pages/네이버.md",

@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오전 03시 01분
+수정일: 2024년 08월 04일 오전 03시 09분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -27,19 +27,20 @@ banner_y: 0.512
 > ```ad-blue
 > ~~~ dataview
 TABLE WITHOUT ID
-link(file.path,file.name) AS "옵시디언",
+link(file.path,file.name) AS "학습정리 :LiBookCheck: ",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
-FROM #옵시디언 AND "Studied"
-SORT series ASC
+FROM #학습정리 AND "Studied"
+SORT 주제, series
 >~~~
 > ```
 > ```ad-pink
 > ~~~ dataview
 TABLE WITHOUT ID
-link(file.path,file.name) AS "학습정리",
+link(file.path,file.name) AS "최근이용 :LiTimer:",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
 FROM #학습정리 AND "Studied"
-SORT 주제, series
+SORT file.mtime DESC
+LIMIT 5
 >~~~
 > ```
 
