@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 20시 32분
+수정일: 2024년 08월 03일 오후 20시 50분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -59,6 +59,9 @@ SORT series ASC
 >>  - 한번 태그만들면 그 이후에는 **새로 만들지 말고 기존 태그 사용**하기
 >>  - 시리즈로 정리하는 경우 **series 태그에 숫자 적기**
 >
+## dasda
+asd
+asd
 
 ## 태그모음
 - ### 전체관리 #mcl/list-card
@@ -75,3 +78,21 @@ SORT series ASC
 
 
 
+# H1
+asd
+asd
+## H2
+asd
+asd
+### H3
+asd
+asd
+#### H4
+asd
+asd
+##### H5
+asd
+asd
+###### H6
+asd
+asd

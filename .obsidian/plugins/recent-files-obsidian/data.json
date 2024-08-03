@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "정규표현식",
-      "path": "Studied/정규표현식.md"
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "정규표현식",
+      "path": "Studied/정규표현식.md"
     },
     {
       "basename": "인상적인 옵시디언 문법",
@@ -55,10 +59,6 @@
     {
       "basename": "클로저 시작하기 (1)",
       "path": "Studied/클로저 시작하기 (1).md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "클로저 시작하기 (2)",

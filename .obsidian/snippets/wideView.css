@@ -73,20 +73,7 @@ body .wide-page {
 .wide-page h3 {
   margin-top: 2rem;
 }
-.wide-page h4 {
-  margin-top: rem;
-}
-/* for notes without tag #PermanentNote */
-.popover.hover-popover {
-  max-height: 30vh;
-  min-height: 30px;
-}
 
-/* for note with tag #PermanentNote */
-.permanent-note .popover.hover-popover {
-  max-height: 40vh;
-  min-height: 40px;
-}
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */

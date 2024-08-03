@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/정규표현식.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/정규표현식.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -177,7 +177,9 @@
   },
   "active": "308454b8da18c7f9",
   "lastOpenFiles": [
+    "Pages/대학교.md",
     "Pages/공부.md",
+    "Studied/정규표현식.md",
     "Pages/Home.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Studied/옵시디언 css 설정.md",
@@ -189,10 +191,8 @@
     "Resources/Templates/파일.md",
     "Resources/Templates/Multi-Column.md",
     "Pages/네이버.md",
-    "Studied/정규표현식.md",
     "2024-08-03.md",
     "Studied/클로저 시작하기 (1).md",
-    "Pages/대학교.md",
     "Studied/클로저 시작하기 (2).md",
     "Resources/Excaldraw/Drawing 2024-08-03 16.16.10.excalidraw.md",
     "Resources/Background/lamplight.jpg",
