@@ -12,8 +12,6 @@
   "obsidian-style-settings",
   "share-note",
   "obsidian-smart-typography",
-  "highlightr-plugin",
-  "floating-toc",
   "obsidian-excalidraw-plugin",
   "dataview",
   "colored-text",
@@ -22,5 +20,7 @@
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-hider",
-  "better-word-count"
+  "better-word-count",
+  "highlightr-plugin",
+  "floating-toc"
 ]
