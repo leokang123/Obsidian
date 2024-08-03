@@ -1,21 +1,8 @@
 {
   "userAdmonitions": {
-    "bell": {
-      "type": "bell",
-      "color": "238, 255, 0",
-      "icon": {
-        "name": "bell",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "Bell",
-      "injectColor": true,
-      "noTitle": false,
-      "copy": true
-    },
-    "blue": {
-      "type": "blue",
-      "color": "87, 182, 255",
+    "cyan": {
+      "type": "cyan",
+      "color": "0, 255, 238",
       "icon": {
         "name": "ad",
         "type": "font-awesome"
@@ -50,6 +37,39 @@
     "red": {
       "type": "red",
       "color": "255, 0, 0",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "yellow": {
+      "type": "yellow",
+      "color": "255, 247, 0",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "orange": {
+      "type": "orange",
+      "color": "255, 136, 0",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "purple": {
+      "type": "purple",
+      "color": "128, 0, 255",
       "icon": {
         "name": "ad",
         "type": "font-awesome"
