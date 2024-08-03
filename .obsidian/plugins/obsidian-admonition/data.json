@@ -15,7 +15,7 @@
     }
   },
   "syntaxHighlight": false,
-  "copyButton": true,
+  "copyButton": false,
   "version": "10.3.2",
   "autoCollapse": false,
   "defaultCollapseType": "open",
