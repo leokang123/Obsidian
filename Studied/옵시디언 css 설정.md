@@ -2,7 +2,7 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 08월 03일 오후 20시 27분
+수정일: 2024년 08월 03일 오후 20시 32분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
 cssclass: wide-page
@@ -84,39 +84,6 @@ asdasd
 > asd
 
 
-```ad-abstract
-
-~~~js
-const a = 1;
-console.log(123);
-~~~
-```
-
-~~~js 
-asdasd
-asdasd
-~~~
-
-> [!multi-column] 
->> [!blue] 123
->> asd
->> asd
-> 
->
-> ```ad-purple
-> title: 123
-> asd
-> asda
-> ```
-
-```ad-red
-asd
-asd
-asd
-ad
-
-```
-
 
 ## MultiColumn 제목있는경우 
 > [!multi-column] 
@@ -156,4 +123,26 @@ ad
 > ```ad-cyan
 >ㅁㄴㅇ
 >ㅁㄴㅇ
+> ```
+
+## Multi-Column으로 DataView를 쓰는게 좋아보임
+
+> [!multi-column] 
+> ```ad-blue
+> ~~~dataview
+TABLE WITHOUT ID
+link(file.path,file.name) AS "옵시디언",
+dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
+FROM #옵시디언 AND "Studied"
+SORT series ASC
+>~~~
+> ```
+> ```ad-purple
+> ~~~dataview
+TABLE WITHOUT ID
+link(file.path,file.name) AS "옵시디언",
+dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
+FROM #옵시디언 AND "Studied"
+SORT series ASC
+>~~~
 > ```

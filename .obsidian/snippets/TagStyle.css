@@ -43,11 +43,9 @@ a.tag:hover {
 }
 
 /* prevent overlapping tags on separate lines */
-
-.cm-line:has(.cm-meta):has(+ .cm-line .cm-meta) {
-  padding-bottom: 6px;
+p:has(.tag ~ br ~ .tag) {
+  line-height: 2;
 }
-
-a {
-  line-height: 10px;
+li:has(.tag ~ br ~ .tag) {
+  line-height: 2;
 }
