@@ -5,12 +5,12 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
-    },
-    {
       "basename": "인상적인 옵시디언 문법",
       "path": "Studied/인상적인 옵시디언 문법.md"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
     },
     {
       "basename": "정규표현식",
