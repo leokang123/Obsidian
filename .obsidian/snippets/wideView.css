@@ -74,6 +74,12 @@ body .wide-page {
   margin-top: 2rem;
 }
 
+.wide-page .callout p {
+  margin: 0px;
+}
+.wide-page .callout {
+  padding: 12px !important;
+}
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */

@@ -2,7 +2,7 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 08월 03일 오후 21시 28분
+수정일: 2024년 08월 03일 오후 21시 42분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
 cssclass: wide-page
@@ -51,7 +51,7 @@ mcl/list-grid를 통해 이렇게 만들 수 있다
 
 ### 사진
 
->[!white|left-side] 
+>[!cyan| left-side] 
 >
 >![[univercity.jpg|400]]
 >
