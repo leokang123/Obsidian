@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/정규표현식.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/정규표현식.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/정규표현식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/공부.md"
+                "file": "Studied/정규표현식.md"
               }
             }
           },
@@ -177,9 +177,10 @@
   },
   "active": "308454b8da18c7f9",
   "lastOpenFiles": [
-    "Pages/Home.md",
-    "Studied/옵시디언 css 설정.md",
     "Pages/공부.md",
+    "Pages/Home.md",
+    "Studied/인상적인 옵시디언 문법.md",
+    "Studied/옵시디언 css 설정.md",
     "Resources/Templates/Multi-Column-DataView.md",
     "Resources/Templates/DataView.md",
     "Resources/Templates/대시보드.md",
@@ -189,7 +190,6 @@
     "Resources/Templates/Multi-Column.md",
     "Pages/네이버.md",
     "Studied/정규표현식.md",
-    "Studied/인상적인 옵시디언 문법.md",
     "2024-08-03.md",
     "Studied/클로저 시작하기 (1).md",
     "Pages/대학교.md",
