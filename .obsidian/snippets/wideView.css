@@ -85,6 +85,10 @@ body .wide-page {
 .wide-page .callout {
   padding: 12px !important;
 }
+
+.wide-page .table-view-tbody td {
+  padding: 10px 0px 0px 5px;
+}
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */
