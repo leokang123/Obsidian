@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 23시 42분
+수정일: 2024년 08월 03일 오후 23시 56분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -76,7 +76,10 @@ SORT series ASC
 
 
 ```dataviewjs
+// Display a title with some optional icons
 dv.span("**노트정리**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
+
+// Initialize the calendarData object with various configurations
 const calendarData = {
     year: 2024,  // (optional) defaults to current year
     colors: {    // (optional) defaults to green
@@ -89,21 +92,25 @@ const calendarData = {
     },
     showCurrentDayBorder: true, // (optional) defaults to true
     defaultEntryIntensity: 4,   // (optional) defaults to 4
-    intensityScaleStart: 10,    // (optional) defaults to lowest value passed to entries.intensity
-    intensityScaleEnd: 100,     // (optional) defaults to highest value passed to entries.intensity
+    intensityScaleStart: 4,    // (optional) defaults to lowest value passed to entries.intensity
+    intensityScaleEnd: 20,     // (optional) defaults to highest value passed to entries.intensity
     entries: [],                // (required) populated in the DataviewJS loop below
 }
 
-//DataviewJS loop
-for (let page of dv.pages('"Studied"').where(p => p.exercise)) {
-    //dv.span("<br>" + page.file.name) // uncomment for troubleshooting
+// DataviewJS loop to iterate over pages in the "Studied" folder where the page has a 'series' property
+for (let page of dv.pages('"Studied"').where(p => p.series)) {
+    // Uncomment the following line for troubleshooting to see the file names
+    // dv.span("<br>" + page.file.name)
+    // Push the data into the calendarData.entries array
     calendarData.entries.push({
-        date: page.file.name,     // (required) Format YYYY-MM-DD
-        intensity: 90, // (required) the data you want to track, will map color intensities automatically
-        content: "🏋️",           // (optional) Add text to the date cell
-        color: "orange",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
-    })
+        date: page.생성일.slice(0,10),     // (required) Date in the format YYYY-MM-DD
+        intensity: 12,   // (required) The data you want to track, will map color intensities automatically
+        color: "green",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
+    });
+
 }
 
+// Render the heatmap calendar using the populated calendarData
 renderHeatmapCalendar(this.container, calendarData)
+
 ```
