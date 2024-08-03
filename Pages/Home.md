@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오전 00시 51분
+수정일: 2024년 08월 04일 오전 01시 02분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -88,21 +88,21 @@ const makeHue = (hue, intense) => {
 	const num = intense * 10;
 	return [
 	        `hsl(${hue+num}, 100%, 60%)`,
-            `hsl(${hue+num*1.2}, 100%, 56%)`,   
-            `hsl(${hue+num*1.4}, 100%, 52%)`,     
-            `hsl(${hue+num*1.6}, 100%, 48%)`,    
-            `hsl(${hue+num*1.8}, 100%, 44%)`,   
-            `hsl(${hue+num*2.0}, 100%, 40%)`,     
-            `hsl(${hue+num*2.2}, 100%, 36%)`,  
-            `hsl(${hue+num*2.4}, 100%, 32%)`, 
-            `hsl(${hue+num*2.6}, 100%, 28%)`,      
-            `hsl(${hue+num*2.8}, 100%, 24%)`,      
+            `hsl(${hue+num*1.2}, 100%, 57%)`,   
+            `hsl(${hue+num*1.4}, 100%, 54%)`,     
+            `hsl(${hue+num*1.6}, 100%, 51%)`,    
+            `hsl(${hue+num*1.8}, 100%, 48%)`,   
+            `hsl(${hue+num*2.0}, 100%, 45%)`,     
+            `hsl(${hue+num*2.2}, 100%, 42%)`,  
+            `hsl(${hue+num*2.4}, 100%, 39%)`, 
+            `hsl(${hue+num*2.6}, 100%, 36%)`,      
+            `hsl(${hue+num*2.8}, 100%, 33%)`,      
         ];
 }
 const calendarData = {
     year: 2024,  // (optional) defaults to current year
     colors: {    // (optional) defaults to green
-        customColor: makeHue(hue2,2),
+        customColor: makeHue(hue2,3),
     },
     showCurrentDayBorder: true, // (optional) defaults to true
     defaultEntryIntensity: 0,   // (optional) defaults to 4
@@ -121,13 +121,13 @@ for (let page of pageArr.where(p => p.series)) {
     // Push the data into the calendarData.entries array
     calendarData.entries.push({
         date: page.생성일.slice(0,10),     // (required) Date in the format YYYY-MM-DD
-        intensity: 0,   // (required) The data you want to track, will map color intensities automatically
+        intensity: pageArrLength,   // (required) The data you want to track, will map color intensities automatically
         color: "customColor",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
     });
-    console.log(pageArrLength)
-
+    console.log(page.file)
 }
 
+console.log(pageArrLength);
 // Render the heatmap calendar using the populated calendarData
 renderHeatmapCalendar(this.container, calendarData)
 
