@@ -44,7 +44,7 @@ a.tag:hover {
 
 /* prevent overlapping tags on separate lines */
 p:has(.tag ~ br ~ .tag) {
-  line-height: 10;
+  line-height: 2;
 }
 .cm-line:has(.cm-meta):has(+ .cm-line .cm-meta) {
   padding-bottom: 6px;
@@ -54,5 +54,5 @@ p:has(.tag ~ br ~ .tag) {
 p {
   padding-top: 6px;
   padding-bottom: 6px;
-  line-height: 10;
+  line-height: 1.19;
 }

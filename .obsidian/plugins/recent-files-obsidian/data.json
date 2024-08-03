@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "DataView",
+      "path": "Resources/Templates/DataView.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "Multi-Column-DataView",
+      "path": "Resources/Templates/Multi-Column-DataView.md"
+    },
+    {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
+      "basename": "Multi-Column",
+      "path": "Resources/Templates/Multi-Column.md"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
     },
     {
       "basename": "옵시디언 css 설정",
@@ -15,30 +39,6 @@
     {
       "basename": "인상적인 옵시디언 문법",
       "path": "Studied/인상적인 옵시디언 문법.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
-    },
-    {
-      "basename": "Multi-Column",
-      "path": "Resources/Templates/Multi-Column.md"
-    },
-    {
-      "basename": "Multi-Column-DataView",
-      "path": "Resources/Templates/Multi-Column-DataView.md"
-    },
-    {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "DataView",
-      "path": "Resources/Templates/DataView.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "List-card",
