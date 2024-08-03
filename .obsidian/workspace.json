@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2882ebc07cf7c9a6",
+        "id": "0c8d02fe35bdb8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "98eca5770084895b",
+            "id": "5b53486ffe67d046",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98eca5770084895b",
+  "active": "5b53486ffe67d046",
   "lastOpenFiles": [
     "Pages/대학교.md",
     "Pages/공부.md",
