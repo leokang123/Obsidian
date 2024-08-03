@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 23시 40분
+수정일: 2024년 08월 03일 오후 23시 42분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -78,7 +78,7 @@ SORT series ASC
 ```dataviewjs
 dv.span("**노트정리**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-    year: 2022,  // (optional) defaults to current year
+    year: 2024,  // (optional) defaults to current year
     colors: {    // (optional) defaults to green
         blue:        ["#8cb9ff", "#69a3ff", "#428bff", "#1872ff", "#0058e2"], // first entry is considered default if supplied
         green:       ["#c6e48b", "#7bc96f", "#49af5d", "#2e8840", "#196127"],
@@ -99,7 +99,7 @@ for (let page of dv.pages('"Studied"').where(p => p.exercise)) {
     //dv.span("<br>" + page.file.name) // uncomment for troubleshooting
     calendarData.entries.push({
         date: page.file.name,     // (required) Format YYYY-MM-DD
-        intensity: page.series, // (required) the data you want to track, will map color intensities automatically
+        intensity: 90, // (required) the data you want to track, will map color intensities automatically
         content: "🏋️",           // (optional) Add text to the date cell
         color: "orange",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
     })
