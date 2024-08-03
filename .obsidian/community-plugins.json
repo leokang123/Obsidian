@@ -1,16 +1,9 @@
 [
-  "obsidian-git",
   "frontmatter-modified-date",
-  "obsidian-excalidraw-plugin",
-  "dataview",
-  "colored-text",
-  "calendar",
   "obsidian-hider",
   "floating-toc",
-  "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-banners",
-  "better-word-count",
   "templater-obsidian",
   "tag-wrangler",
   "obsidian-style-settings",
@@ -22,5 +15,12 @@
   "obsidian-linter",
   "obsidian-icon-folder",
   "homepage",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "colored-text",
+  "calendar",
+  "better-word-count",
+  "obsidian-admonition"
 ]
