@@ -26,12 +26,13 @@
 */
 
 /* === Wide Page === */
-@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;500;600;700;800;900&display=swap');
 
 body .wide-page {
   --file-line-width: 75%;
   font-family: 'Gothic A1', sans-serif;
-  font-weight: 400;
+  font-weight: 500;
+  font-style: normal;
 }
 /* -- 내 커스텀 wide-page 속성 -- */
 .wide-page .markdown-embed * {
