@@ -5,6 +5,10 @@
       "path": "Pages/공부.md"
     },
     {
+      "basename": "Multi-Column",
+      "path": "Resources/Templates/Multi-Column.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
@@ -27,14 +31,6 @@
     {
       "basename": "대시보드",
       "path": "Resources/Templates/대시보드.md"
-    },
-    {
-      "basename": "Multi-Column",
-      "path": "Resources/Templates/Multi-Column.md"
-    },
-    {
-      "basename": "2024-08-03",
-      "path": "2024-08-03.md"
     },
     {
       "basename": "클로저 시작하기 (1)",

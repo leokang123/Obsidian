@@ -24,6 +24,39 @@
       "injectColor": true,
       "noTitle": true,
       "copy": false
+    },
+    "pink": {
+      "type": "pink",
+      "color": "255, 0, 187",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "green": {
+      "type": "green",
+      "color": "0, 255, 51",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "red": {
+      "type": "red",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
