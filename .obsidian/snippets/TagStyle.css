@@ -49,3 +49,17 @@ p:has(.tag ~ br ~ .tag) {
 li:has(.tag ~ br ~ .tag) {
   line-height: 2;
 }
+
+dv.table(["학습정리", "주제", "수정 날짜"], 
+    dv.pages('#학습정리 and "Studied"')
+    .groupBy(p => p.주제)
+    .sort(p => p.series)
+    .map(group => 
+        group.rows.map(page => [
+            page.file.link,
+            page.주제,
+            page.생성일
+            
+        ])
+    )
+)
