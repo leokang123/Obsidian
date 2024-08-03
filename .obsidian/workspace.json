@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/공부.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/공부.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Pages/공부.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "ee7020d3701b33b7",
   "lastOpenFiles": [
-    "Studied/Studied.md",
     "Pages/Home.md",
+    "Studied/옵시디언 css 설정.md",
+    "Studied/Studied.md",
     "Resources/Resources.md",
     "Pages/Pages.md",
     "Pages/공부.md",
@@ -192,7 +193,6 @@
     "Resources/Templates/파일.md",
     "Resources/Templates/DataView.md",
     "Resources/Templates/Multi-Column.md",
-    "Studied/옵시디언 css 설정.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Studied/정규표현식.md",
     "2024-08-03.md",
