@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오전 02시 44분
+수정일: 2024년 08월 04일 오전 02시 46분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -44,7 +44,6 @@ SORT series ASC
 >        group.rows.map(page => [
 >            dv.fileLink(page.file.path),
 >            page.주제,
->            dv.dateformat(page.생성일),
 >        ])
 >    )
 >);
