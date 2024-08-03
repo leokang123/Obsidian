@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 19시 13분
+수정일: 2024년 08월 03일 오후 19시 27분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
@@ -24,23 +24,25 @@ banner_y: 0.5
 
 ## 작업
 
->[!multi-column] - 진행중인 일
->>[!todo] %% fake title %%
->> ```dataview
+> [!multi-column] 
+> ```ad-blue
+> ~~~dataview
 TABLE WITHOUT ID
-link(file.path,file.name) AS "중요",
+link(file.path,file.name) AS "옵시디언",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
-FROM #중요 AND "Studied"
->> ```
->
->>[!example] %% fake title %% 
->> ```dataview 
+FROM #옵시디언 AND "Studied"
+SORT series ASC
+>~~~
+> ```
+> ```ad-pink
+> ~~~dataview
 TABLE WITHOUT ID
-link(file.path,file.name) AS "최근 사용",
+link(file.path,file.name) AS "학습정리",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
-FROM "Studied" 
-SORT file.mtime DESC LIMIT 5
->> ```
+FROM #학습정리 AND "Studied"
+SORT series ASC
+>~~~
+> ```
 
 ---
 ## 파일관리 방식
