@@ -2,7 +2,7 @@
 tags: 
 주제: 
 생성일: 2024-07-22 03:15
-수정일: 2024년 08월 03일 오후 17시 42분
+수정일: 2024년 08월 03일 오후 17시 55분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
 cssclass: wide-page
@@ -81,3 +81,21 @@ asdasd
 > [!warning] 
 > asd
 > asd
+
+```ad-bell
+asd
+asd
+```
+
+```ad-abstract
+
+~~~js
+const a = 1;
+console.log(123);
+~~~
+```
+
+~~~js 
+asdasd
+asdasd
+~~~
