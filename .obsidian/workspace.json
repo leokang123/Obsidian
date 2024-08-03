@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/옵시디언 css 설정.md",
+                "file": "Pages/공부.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/옵시디언 css 설정.md",
+                "file": "Pages/공부.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/옵시디언 css 설정.md",
+                "file": "Pages/공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/옵시디언 css 설정.md"
+                "file": "Pages/공부.md"
               }
             }
           },
@@ -177,9 +177,9 @@
   },
   "active": "308454b8da18c7f9",
   "lastOpenFiles": [
-    "Pages/공부.md",
     "Pages/Home.md",
     "Studied/옵시디언 css 설정.md",
+    "Pages/공부.md",
     "Resources/Templates/Multi-Column-DataView.md",
     "Resources/Templates/DataView.md",
     "Resources/Templates/대시보드.md",
