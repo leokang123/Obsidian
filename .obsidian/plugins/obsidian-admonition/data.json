@@ -1,7 +1,21 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "bell": {
+      "type": "bell",
+      "color": "238, 255, 0",
+      "icon": {
+        "name": "bell",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Bell",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
   "syntaxHighlight": false,
-  "copyButton": false,
+  "copyButton": true,
   "version": "10.3.2",
   "autoCollapse": false,
   "defaultCollapseType": "open",
