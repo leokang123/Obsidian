@@ -49,6 +49,6 @@
   "modular-css-layout-mc@@mcc-img-snw-display": "none",
   "modular-css-layout-mc@@mcl-card-bg-color@@light": "#43434382",
   "modular-css-layout-mc@@mcl-card-bg-color@@dark": "#43434382",
-  "modular-css-layout-mc@@mcl-card-border-color@@dark": "#FD757500",
-  "modular-css-layout-mc@@mcl-card-border-color@@light": "#F76E6E00"
+  "modular-css-layout-mc@@mcl-card-border-color@@dark": "#56563D",
+  "modular-css-layout-mc@@mcl-card-border-color@@light": "#000000"
 }

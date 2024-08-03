@@ -48,7 +48,17 @@ body .wide-page {
 .wide-page .markdown-embed-title {
   display: none;
 }
+/* << EDITING link color INTERNAL >>  */
+.cm-s-obsidian span.cm-hmd-internal-link {
+  font-weight: 400;
+  color: var(--linkpink) !important;
+}
 
+/* << READING link color INTERNAL >>  */
+.markdown-preview-view .internal-link {
+  font-weight: 400;
+  color: var(--linkpink) !important;
+}
 /* -- Special adjustment for Community Themes */
 
 /* Minimal */

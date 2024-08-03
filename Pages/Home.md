@@ -5,13 +5,14 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 16시 52분
+수정일: 2024년 08월 03일 오후 17시 07분
 banner: "![[sky.jpg]]"
 banner_y: 0.5
 ---
 
-# Home
 
+
+## 페이지
 - #### [[네이버]] #mcl/list-card
 ![[네이버]]
 - #### [[공부]]
@@ -21,7 +22,7 @@ banner_y: 0.5
 
 <br /> 
 
-# 작업
+## 작업
 
 >[!multi-column] - 진행중인 일
 >>[!todo] %% fake title %%
@@ -45,7 +46,7 @@ SORT file.mtime DESC LIMIT 5
 <br />
 
 ---
-# 파일관리 방식
+## 파일관리 방식
 
 > [!multi-column] 
 >> [!tip] 파일관리 방식
@@ -60,7 +61,7 @@ SORT file.mtime DESC LIMIT 5
 >>  - 시리즈로 정리하는 경우 **series 태그에 숫자 적기**
 >
 
-# 태그모음
+## 태그모음
 - ### 전체관리 #mcl/list-card
 > #학습정리 #중요 
 - ### 부분관리

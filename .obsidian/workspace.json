@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38bd919df4358a57",
+        "id": "6b01631426558551",
         "type": "tabs",
         "children": [
           {
-            "id": "c3506c9ad2a3bc91",
+            "id": "0e77af5242945749",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3506c9ad2a3bc91",
+  "active": "0e77af5242945749",
   "lastOpenFiles": [
     "Pages/공부.md",
     "Studied/인상적인 옵시디언 문법.md",
