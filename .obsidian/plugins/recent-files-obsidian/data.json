@@ -5,6 +5,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
       "basename": "인상적인 옵시디언 문법",
       "path": "Studied/인상적인 옵시디언 문법.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "univercity",
       "path": "Resources/Background/univercity.jpg"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "공부",

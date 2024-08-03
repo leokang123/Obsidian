@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오전 01시 43분
+수정일: 2024년 08월 04일 오전 01시 44분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -13,7 +13,7 @@ banner_y: 0.512
 ```ad-white
 ~~~ dataviewjs
 // Display a title with some optional icons
-dv.span("노트정리") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
+dv.span("#### 노트정리") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 
 // Initialize the calendarData object with various configurations
 

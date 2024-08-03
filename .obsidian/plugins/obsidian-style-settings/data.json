@@ -66,5 +66,6 @@
   "things-style@@h4-size": "1.2em",
   "things-style@@h5-size": "1.0em",
   "floating-toc-styles@@floating-toc-line-height": 2,
-  "things-style@@h4-weight": 600
+  "things-style@@h4-weight": 600,
+  "things-style@@h4-transform": "uppercase"
 }
