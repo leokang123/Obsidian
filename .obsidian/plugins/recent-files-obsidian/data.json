@@ -5,12 +5,12 @@
       "path": "Studied/정규표현식.md"
     },
     {
-      "basename": "옵시디언 css 설정",
-      "path": "Studied/옵시디언 css 설정.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "옵시디언 css 설정",
+      "path": "Studied/옵시디언 css 설정.md"
     },
     {
       "basename": "클로저 시작하기 (1)",
