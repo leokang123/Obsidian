@@ -32,7 +32,7 @@
   "things-style@@progress-color-5": "#768399",
   "things-style@@tag-background-color-d": "#5BE7B0",
   "things-style@@default-font-color": false,
-  "things-style@@h1-size": "1.8rem",
+  "things-style@@h1-size": "2.0rem",
   "things-style@@h1-weight": 700,
-  "things-style@@h2-color": "#2E80F2"
+  "things-style@@h2-size": "1.6em"
 }
