@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 03일 오후 23시 58분
+수정일: 2024년 08월 04일 오전 00시 10분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
@@ -92,22 +92,25 @@ const calendarData = {
     },
     showCurrentDayBorder: true, // (optional) defaults to true
     defaultEntryIntensity: 4,   // (optional) defaults to 4
-    intensityScaleStart: 4,    // (optional) defaults to lowest value passed to entries.intensity
-    intensityScaleEnd: 20,     // (optional) defaults to highest value passed to entries.intensity
+    intensityScaleStart: 10,    // (optional) defaults to lowest value passed to entries.intensity
+    intensityScaleEnd: 100,     // (optional) defaults to highest value passed to entries.intensity
     entries: [],                // (required) populated in the DataviewJS loop below
 }
 
 // DataviewJS loop to iterate over pages in the "Studied" folder where the page has a 'series' property
-for (let page of dv.pages('"Studied"').where(p => p.series)) {
+const pageArr = dv.pages('"Studied"');
+console.log(pageArr);
+for (let page of pageArr.where(p => p.series)) {
     // Uncomment the following line for troubleshooting to see the file names
     // dv.span("<br>" + page.file.name)
     
     // Push the data into the calendarData.entries array
     calendarData.entries.push({
         date: page.생성일.slice(0,10),     // (required) Date in the format YYYY-MM-DD
-        intensity: 16,   // (required) The data you want to track, will map color intensities automatically
-        color: "green",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
+        intensity: pageArr.length * 10,   // (required) The data you want to track, will map color intensities automatically
+        color: "pink",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
     });
+    console.log(page.file)
 
 }
 
