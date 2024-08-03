@@ -12,6 +12,18 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "blue": {
+      "type": "blue",
+      "color": "87, 182, 255",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
