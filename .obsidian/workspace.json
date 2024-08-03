@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,13 +177,13 @@
   },
   "active": "58b3aa8b5ad3ac38",
   "lastOpenFiles": [
+    "Pages/Home.md",
+    "Studied/옵시디언 css 설정.md",
     "Studied/인상적인 옵시디언 문법.md",
     "Studied/클로저 시작하기 (1).md",
-    "Pages/Home.md",
     "Pages/대학교.md",
     "Pages/네이버.md",
     "Pages/공부.md",
-    "Studied/옵시디언 css 설정.md",
     "Studied/정규표현식.md",
     "Resources/Templates/파일.md",
     "Resources/Excaldraw/Drawing 2024-08-03 16.16.10.excalidraw.md",
