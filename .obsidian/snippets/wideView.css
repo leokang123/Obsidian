@@ -65,10 +65,10 @@ body .wide-page {
   display: none;
 }
 .wide-page h1 {
-  padding-top: 3.5rem;
+  margin-top: 3rem;
 }
 .wide-page h2 {
-  padding-top: 2.5rem;
+  margin-top: 2.5rem;
 }
 .wide-page h3 {
   margin-top: 2rem;
