@@ -5,13 +5,81 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오전 01시 02분
+수정일: 2024년 08월 04일 오전 01시 30분
 banner: "![[sky.jpg]]"
 banner_y: 0.512
 ---
 
 
+```dataviewjs
+// Display a title with some optional icons
+dv.span("**노트정리**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 
+// Initialize the calendarData object with various configurations
+
+const hueRed = 0;      // 빨강 (Red)
+const hueOrange = 30;  // 주황 (Orange)
+const hueYellow = 50;  // 노랑 (Yellow)
+const hueGreen = 130;  // 초록 (Green)
+const hueCyan = 180;   // 청록 (Cyan)
+const hueBlue = 240;   // 파랑 (Blue)
+const huePurple = 280; // 보라 (Purple)
+const huePink = 320;   // 분홍 (Pink)
+
+const makeHue = (hue, intense, per) => {
+	const num = intense * 10;
+	return [
+	        `hsl(${hue+num*0}, 100%, ${per}%)`,
+            `hsl(${hue+num*0.4}, 100%, ${per}%)`,   
+            `hsl(${hue+num*0.8}, 100%, ${per}%)`,     
+            `hsl(${hue+num*1.2}, 100%, ${per}%)`,    
+            `hsl(${hue+num*1.6}, 100%, ${per}%)`,   
+            `hsl(${hue+num*2.0}, 100%, ${per}%)`,     
+            `hsl(${hue+num*2.4}, 100%, ${per}%)`,  
+            `hsl(${hue+num*2.8}, 100%, ${per}%)`, 
+            `hsl(${hue+num*3.2}, 100%, ${per}%)`,      
+            `hsl(${hue+num*3.6}, 100%, ${per}%)`,      
+        ];
+}
+const calendarData = {
+    year: 2024,  // (optional) defaults to current year
+    colors: {    // (optional) defaults to green
+        customColor: makeHue(huePink,7,85),
+    },
+    showCurrentDayBorder: true, // (optional) defaults to true
+    defaultEntryIntensity: 0,   // (optional) defaults to 4
+    intensityScaleStart: 5,    // (optional) defaults to lowest value passed to entries.intensity
+    intensityScaleEnd: 100,     // (optional) defaults to highest value passed to entries.intensity
+    entries: [],                // (required) populated in the DataviewJS loop below 0~15, 16~25
+}
+
+// DataviewJS loop to iterate over pages in the "Studied" folder where the page has a 'series' property
+const pageArr = dv.pages('"Studied"');
+const lengthObj = {};
+pageArr.forEach(p => {
+	const pageDate = p.생성일.slice(0,10);
+	if (!lengthObj.hasOwnProperty(pageDate)) lengthObj[pageDate] = 0;
+	lengthObj[pageDate] += 10;
+})
+
+for (let page of pageArr.where(p => p.series)) {
+    // Uncomment the following line for troubleshooting to see the file names
+    // dv.span("<br>" + page.file.name)
+	const pageDate = page.생성일.slice(0,10);
+	const pageCount = lengthObj[pageDate]-9;
+	console.log(pageCount);
+    // Push the data into the calendarData.entries array
+    calendarData.entries.push({
+        date: pageDate,     // (required) Date in the format YYYY-MM-DD
+        intensity: pageCount,   // (required) The data you want to track, will map color intensities automatically
+        color: "customColor",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
+    });
+}
+
+// Render the heatmap calendar using the populated calendarData
+renderHeatmapCalendar(this.container, calendarData)
+
+```
 ## 페이지
 - #### [[네이버]] #mcl/list-card
 ![[네이버]]
@@ -19,6 +87,7 @@ banner_y: 0.512
 ![[공부]]
 - #### [[대학교]]
 ![[대학교]]
+
 
 ## 작업
 
@@ -75,60 +144,3 @@ SORT series ASC
  #불변성 #순수함수 
 
 
-```dataviewjs
-// Display a title with some optional icons
-dv.span("**노트정리**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
-
-// Initialize the calendarData object with various configurations
-
-const hue1 = 13 //red
-const hue2 = 132 //green
-const hue3 = 240 // blue
-const makeHue = (hue, intense) => {
-	const num = intense * 10;
-	return [
-	        `hsl(${hue+num}, 100%, 60%)`,
-            `hsl(${hue+num*1.2}, 100%, 57%)`,   
-            `hsl(${hue+num*1.4}, 100%, 54%)`,     
-            `hsl(${hue+num*1.6}, 100%, 51%)`,    
-            `hsl(${hue+num*1.8}, 100%, 48%)`,   
-            `hsl(${hue+num*2.0}, 100%, 45%)`,     
-            `hsl(${hue+num*2.2}, 100%, 42%)`,  
-            `hsl(${hue+num*2.4}, 100%, 39%)`, 
-            `hsl(${hue+num*2.6}, 100%, 36%)`,      
-            `hsl(${hue+num*2.8}, 100%, 33%)`,      
-        ];
-}
-const calendarData = {
-    year: 2024,  // (optional) defaults to current year
-    colors: {    // (optional) defaults to green
-        customColor: makeHue(hue2,3),
-    },
-    showCurrentDayBorder: true, // (optional) defaults to true
-    defaultEntryIntensity: 0,   // (optional) defaults to 4
-    intensityScaleStart: 5,    // (optional) defaults to lowest value passed to entries.intensity
-    intensityScaleEnd: 100,     // (optional) defaults to highest value passed to entries.intensity
-    entries: [],                // (required) populated in the DataviewJS loop below 0~15, 16~25
-}
-
-// DataviewJS loop to iterate over pages in the "Studied" folder where the page has a 'series' property
-const pageArr = dv.pages('"Studied"');
-const pageArrLength = (pageArr.length-1)*10 + 1;
-for (let page of pageArr.where(p => p.series)) {
-    // Uncomment the following line for troubleshooting to see the file names
-    // dv.span("<br>" + page.file.name)
-    
-    // Push the data into the calendarData.entries array
-    calendarData.entries.push({
-        date: page.생성일.slice(0,10),     // (required) Date in the format YYYY-MM-DD
-        intensity: pageArrLength,   // (required) The data you want to track, will map color intensities automatically
-        color: "customColor",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
-    });
-    console.log(page.file)
-}
-
-console.log(pageArrLength);
-// Render the heatmap calendar using the populated calendarData
-renderHeatmapCalendar(this.container, calendarData)
-
-```
