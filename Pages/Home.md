@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 05일 오전 03시 31분
+수정일: 2024년 08월 05일 오전 03시 56분
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
 ---
@@ -28,7 +28,7 @@ banner_y: 0.49584
 > ~~~ dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "학습정리 :LiBookCheck: ",
-dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
+dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS "" 
 FROM #학습정리 AND "Studied"
 SORT 주제, series
 >~~~
@@ -37,7 +37,7 @@ SORT 주제, series
 > ~~~ dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "최근이용 :LiTimer:",
-dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
+dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS "" 
 FROM  "Studied"
 SORT file.mtime  DESC
 LIMIT 15
