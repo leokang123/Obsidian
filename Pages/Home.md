@@ -2,18 +2,19 @@
 class: 
 cssclasses:
   - wide-page
-tags: 
 주제: 
-생성일: 2024-07-21 15:45
-수정일: 2024년 08월 05일 오전 04시 31분
+생성일: 일요일, 7월 21일 2024, 3:45:12 오후
+수정일:  2024년 08월 05일 오전 06시 43분
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
 ---
 
-# 메인 페이지 
+# 메인 페이지
+
 ---
 
 ## 페이지
+
 - #### [[네이버]] #mcl/list-card
 ![[네이버]]
 - #### [[공부]]
@@ -21,34 +22,34 @@ banner_y: 0.49584
 - #### [[대학교]]
 ![[대학교]]
 
-
 ## 작업
 
-> [!multi-column] 
+> [!multi-column]
+>
 > ```ad-blue
-> ~~~ dataview
-TABLE WITHOUT ID
-link(file.path,file.name) AS "학습정리 :LiBookCheck: ",
-dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS "" 
-FROM #학습정리 AND "Studied"
-SORT 주제, series
+> ~~~ dataview  
+>TABLE WITHOUT ID  
+>link(file.path,file.name) AS " 학습정리 :LiBookCheck: ",  
+>dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""  
+>FROM #학습정리 AND "Studied"  
+>SORT 주제, series
 >~~~
 > ```
 > ```ad-pink
 > ~~~ dataview
-TABLE WITHOUT ID
-link(file.path,file.name) AS "최근이용 :LiTimer:",
-dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS "" 
-FROM  "Studied"
-SORT file.mtime  DESC
-LIMIT 15
+>TABLE WITHOUT ID  
+>link(file.path,file.name) AS " 최근이용 :LiTimer:",  
+>dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""  
+>FROM "Studied"  
+>SORT file.mtime DESC  
+>LIMIT 15
 >~~~
 > ```
 
+## 파일 관리 방식
 
-## 파일관리 방식
-
-> [!multi-column] 
+> [!multi-column]
+>
 >```ad-tip
 > title: 파일관리 방식
 > - **Studied 폴더에 모든 학습정리**를 한다
@@ -71,22 +72,17 @@ LIMIT 15
 > - (주제) 에 적은 것은 띄워서써도 **전부 이어써진 채로 주제태그에 입력**됨
 >```
 
-
-
 ## 태그모음
+
 - #### 전체관리 #mcl/list-card
- #학습정리 #중요 
+ #학습정리 #중요
 
 - #### 부분관리
 #회고 #네이버 #개념 #잡
 
-
 - #### 세부적
-#옵시디언 #정규표현식 #자바스크립트 #타입스크립트 #객체지향 
- #함수형프로그래밍 #비동기 #Git #Jest #컴파일러 
- #프로세스메모리 #Clojure #클로저 #렉시컬스코프 #커링 
- #불변성 #순수함수 
-
+#옵시디언 #정규표현식 #자바스크립트 #타입스크립트 #객체지향 #함수형프로그래밍
+#비동기 #Git #Jest #컴파일러 #프로세스메모리 #Clojure #클로저 #렉시컬스코프 #커링 #불변성 #순수함수
 
 ~~~ dataviewjs
 // Display a title with some optional icons
@@ -161,4 +157,3 @@ for (let dateInfo of Object.entries(lengthObj)) {
 // Render the heatmap calendar using the populated calendarData
 renderHeatmapCalendar(this.container, calendarData)
 ~~~
-

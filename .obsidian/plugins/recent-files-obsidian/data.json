@@ -5,20 +5,16 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "(옵시디언) 꾸미기프로젝트",
-      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
+      "basename": "log",
+      "path": "Resources/Log/log.md"
     },
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
+      "basename": "(옵시디언) 자동화프로젝트",
+      "path": "Studied/(옵시디언) 자동화프로젝트.md"
     },
     {
       "basename": "(옵시디언) 옵시디언 css 설정",
       "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
-      "basename": "(Clojure) 클로저 시작하기 1",
-      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
     },
     {
       "basename": "(정규표현식) 정규표현식 1",
@@ -29,12 +25,24 @@
       "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
     {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
+      "basename": "(Clojure) 클로저 시작하기 1",
+      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
     },
     {
-      "basename": "(옵시디언) 자동화프로젝트",
-      "path": "Studied/(옵시디언) 자동화프로젝트.md"
+      "basename": "(옵시디언) 꾸미기프로젝트",
+      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
+    },
+    {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
+      "basename": "DataView",
+      "path": "Resources/Templates/DataView.md"
     },
     {
       "basename": "List-card",
@@ -53,28 +61,24 @@
       "path": "Resources/Templates/Multi-Column-DataView.md"
     },
     {
-      "basename": "DataView",
-      "path": "Resources/Templates/DataView.md"
+      "basename": "공부",
+      "path": "Pages/공부.md"
     },
     {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
-    },
-    {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "log",
-      "path": "Resources/Log/log.md"
-    },
-    {
-      "basename": "programming",
-      "path": "Resources/Background/programming.jpg"
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "Pasted image 20240721164820",
+      "path": "Resources/Attachments/Pasted image 20240721164820.png"
+    },
+    {
+      "basename": "programming",
+      "path": "Resources/Background/programming.jpg"
     },
     {
       "basename": "정규표현식3",
