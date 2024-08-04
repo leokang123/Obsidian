@@ -2,8 +2,8 @@
 주제: <% tp.file.title.match(/\[(.*)\]/) || "Default" %>
 cssclasses: wide-page
 생성일: <% tp.date.now("yyyy-MM-DD HH:mm") %>
-수정일: 2024년 08월 04일 오후 18시 29분
-series: <% Number(tp.file.title.match(/\d+/)) + 1 || 1 %>
+수정일: 2024년 08월 04일 오후 18시 28분
+series: <% tp.file.title.match(/\d+/)[0] + 1 || 1 %>
 ---
 
 

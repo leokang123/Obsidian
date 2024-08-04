@@ -1,32 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "qwe qwe1",
-      "path": "Studied/qwe qwe1.md"
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
+      "basename": "[qwe] qwe",
+      "path": "Studied/[qwe] qwe.md"
     },
     {
       "basename": "[qwe] qwe1",
       "path": "Studied/[qwe] qwe1.md"
     },
     {
-      "basename": "[123] 123",
-      "path": "Studied/[123] 123.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
-    },
-    {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "[asd] asd1",
-      "path": "Studied/[asd] asd1.md"
-    },
-    {
-      "basename": "asd\nasd\nasd\n1\n",
-      "path": "Studied/asd\nasd\nasd\n1\n.md"
     },
     {
       "basename": "클로저 시작하기 (1)",
