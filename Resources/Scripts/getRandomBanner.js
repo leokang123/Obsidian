@@ -1,14 +1,14 @@
 const getRandomBanner = (input) => {
-  //   const fs = require("fs");
-  //   const path = require("path");
   console.log(input);
-  //   const parentDir = path.resolve(input, "..");
-  //   const backGroundPath = path.join(parentDir, "Background");
-  //   return parentDir;
-  //   // const resourceLength = resourceArr.length;
-  //   // const randomNumber = Math.floor(Math.random() * resourceLength);
-  //   // return `![[${resourceArr[randomNumber]}]]`;
-  //   return resourceArr;
+  const fs = require("fs");
+  const path = require("path");
+  console.log(input);
+  const parentDir = path.resolve(input, "../..");
+  const backGroundPath = path.join(parentDir, "Resources", "Background");
+  const resourceArr = fs.readdirSync(backGroundPath);
+  const resourceLength = resourceArr.length;
+  const randomNumber = Math.floor(Math.random() * resourceLength);
+  return `\"![[${resourceArr[randomNumber]}]]\"`;
 };
+
 module.exports = getRandomBanner;
-// console.log(getRandomBanner());
