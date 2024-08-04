@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오후 23시 56분
+수정일: 2024년 08월 05일 오전 00시 02분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -141,7 +141,6 @@ if (matches) {
 const lengthObj = {};
 extractedInfo.forEach(p => {
 	const date = p.substring(0,10);
-	console.log(date);
 	if (!lengthObj.hasOwnProperty(date)) lengthObj[date] = 0;
 	lengthObj[date] += 10;
 })
@@ -149,7 +148,7 @@ extractedInfo.forEach(p => {
 for (let fullDate of extractedInfo) {
     // Uncomment the following line for troubleshooting to see the file names
     const date = fullDate.substring(0,10);
-    console.log(lengthObj[date])
+	console.log(lengthObj[date])
     // dv.span("<br>" + page.file.name)
 	const pageDate = date
 	const pageCount = lengthObj[pageDate]-9;
