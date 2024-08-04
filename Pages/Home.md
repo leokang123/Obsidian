@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오후 23시 39분
+수정일: 2024년 08월 04일 오후 23시 45분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -119,7 +119,7 @@ const makeHue = (hue, intense, per) => {
 const calendarData = {
     year: 2024,  // (optional) defaults to current year
     colors: {    // (optional) defaults to green
-        customColor: makeHue(huePink,7,85),
+        customColor: makeHue(hueOrange,7,85),
     },
     showCurrentDayBorder: true, // (optional) defaults to true
     defaultEntryIntensity: 0,   // (optional) defaults to 4
@@ -146,14 +146,17 @@ extractedInfo.forEach(p => {
 	lengthObj[date] += 10;
 })
 
-for (let page of pageArr.where(p => p.series)) {
+for (let fullDate of extractedInfo) {
     // Uncomment the following line for troubleshooting to see the file names
+    const date = fullDate.substring(0,10);
+    console.log(lengthObj[date])
+    console.log(date);
     // dv.span("<br>" + page.file.name)
-	const pageDate = page.생성일.slice(0,10);
+	const pageDate = date
 	const pageCount = lengthObj[pageDate]-9;
     // Push the data into the calendarData.entries array
     calendarData.entries.push({
-        date: pageDate,     // (required) Date in the format YYYY-MM-DD
+        date: "2024. 8. 4",     // (required) Date in the format YYYY-MM-DD
         intensity: pageCount,   // (required) The data you want to track, will map color intensities automatically
         color: "customColor",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
     });
