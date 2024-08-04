@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "870e63484d8a52d0",
+        "id": "9a533ff9b64d60dd",
         "type": "tabs",
         "children": [
           {
-            "id": "7644616d9410ba90",
+            "id": "63ee5de24a224271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(Clojure) 클로저 시작하기.md",
-                "mode": "preview",
+                "file": "Resources/Templates/파일.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(Clojure) 클로저 시작하기.md",
+                "file": "Resources/Templates/파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(Clojure) 클로저 시작하기.md",
+                "file": "Resources/Templates/파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(Clojure) 클로저 시작하기.md"
+                "file": "Resources/Templates/파일.md"
               }
             }
           },
@@ -175,9 +175,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7644616d9410ba90",
+  "active": "63ee5de24a224271",
   "lastOpenFiles": [
+    "Resources/Scripts/getSeriesFromTitle.js",
     "Pages/Home.md",
+    "Studied/(Clojure) 클로저 시작하기.md",
     "Studied/(클로저) 클로저 시작하기 1.md",
     "Studied/(클로저) 클로저 시작하기1.md",
     "Studied/(클로저) 클로저시작하기.md",
@@ -199,7 +201,6 @@
     "Studied/무제 파일.md",
     "Studied/(옵시디언) 인상적인 옵시디언 문법.md",
     "Studied/(정규표현식) 정규표현식.md",
-    "Studied/(Clojure) 클로저 시작하기.md",
     "Studied/[qwe] qwe.md",
     "Studied/qwe qwe q e2.md",
     "Studied/[qwe] qwe qwe 4.md",
@@ -208,7 +209,6 @@
     "Studied/[qwe] qweqwe2.md",
     "Studied/[qwe] qwe qwe1.md",
     "Studied/[qwe] qweq we 2.md",
-    "Studied/[qwe qwe] qwe2.md",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",
