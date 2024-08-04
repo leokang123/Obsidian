@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "401a23be909e6379",
+        "id": "1b39f52a300c3743",
         "type": "tabs",
         "children": [
           {
-            "id": "c977c2027aa7c650",
+            "id": "241702f2a5389814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(옵시디언) 자동화프로젝트.md",
+                "file": "Pages/Home.md",
                 "mode": "preview",
                 "source": true
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1bdb75376c58070c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(옵시디언) 자동화프로젝트.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(옵시디언) 자동화프로젝트.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(옵시디언) 자동화프로젝트.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -149,24 +157,26 @@
     "hiddenItems": {
       "switcher:퀵 스위처 열기": true,
       "graph:그래프 뷰 열기": false,
-      "templates:템플릿 삽입": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": true,
       "command-palette:명령어 팔레트 열기": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "templates:템플릿 삽입": false
     }
   },
-  "active": "c977c2027aa7c650",
+  "active": "241702f2a5389814",
   "lastOpenFiles": [
-    "Pages/Home.md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
-    "Pages/네이버.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Pages/Home.md",
+    "Pages/공부.md",
+    "Studied/(클로저) 클로저와 렉시컬스코프 1.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Pages/네이버.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Studied/(정규표현식) 정규표현식 1.md",
     "Resources/Log/log.md",
@@ -189,14 +199,12 @@
     "Resources/Attachments/Pasted image 20240805002331.png",
     "Resources/Attachments/Pasted image 20240805002203.png",
     "Resources/Attachments/Pasted image 20240805002106.png",
-    "Pages/공부.md",
     "Studied/(옵시디언) 인상적인 옵시디언 문법.md",
     "Studied/(ㅁㄴㅇ) ㅁㄴㅇ 1.md",
     "Studied/(Clojure) 클로저 시작하기 2.md",
     "Studied/무제 파일.md",
     "Resources/Templates/파일.md",
     "Studied/(asd) asd asd 1.md",
-    "Studied/(asd) asda sd1.md",
     "Resources/Scripts/getSeriesAndRandomBanner.js",
     "Resources/Log",
     "Resources/Scripts/makeLogData.js",

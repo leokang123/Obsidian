@@ -1,8 +1,9 @@
 ---
 주제: 옵시디언
-cssclasses: wide-page
+cssclasses:
+  - wide-page
 생성일: 2024-08-04 23:57
-수정일: 2024년 08월 05일 오전 03시 22분
+수정일: 2024년 08월 05일 오전 03시 51분
 series: 1
 banner: "![[milkyway.jpg]]"
 banner_y: 0.536
@@ -90,54 +91,59 @@ asdasd
 > asdadsad  
 > asdasd
 
-Warning
-
-asd  
+```ad-warning
 asd
+asd
+```
 
 ## MultiColumn 제목있는경우
 
-하얀색
-
-asd  
-asd  
-asd
-
-```js
+> [!multi-column] 
+>```ad-white
+>title: 하얀색
+>내용1
+>~~~ js
 const a = 1;
-```
-
-asd  
-asd
-
-하늘색
-
-ㅁㄴㅇ  
-ㅁㄴㅇ
+> ~~~
+>```
+> ```ad-cyan
+> title:하늘색
+>내용2
+> ```
 
 ## MultiColumn 제목 없는 경우
 
-asd  
-asd  
-asd
 
-asd  
-asd
-
-ㅁㄴㅇ  
-ㅁㄴㅇ
+> [!multi-column] 
+>```ad-white
+>내용1
+>```
+> ```ad-cyan
+>내용2
+> ```
 
 ## Multi-Column으로 DataView를 쓰는게 좋아보임
 
-|옵시디언||
-|---|---|
-|[(옵시디언) 인상적인 옵시디언 문법](app://obsidian.md/Studied/(%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8)%20%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8%20%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20%EB%AC%B8%EB%B2%95.md)|2024년 08월 04일- 18:45|
-|[(옵시디언) 옵시디언 css 설정](app://obsidian.md/Studied/(%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8)%20%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20css%20%EC%84%A4%EC%A0%95.md)|2024년 08월 04일- 19:53|
 
-|옵시디언||
-|---|---|
-|[(옵시디언) 인상적인 옵시디언 문법](app://obsidian.md/Studied/(%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8)%20%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8%20%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20%EB%AC%B8%EB%B2%95.md)|2024년 08월 04일- 18:45|
-|[(옵시디언) 옵시디언 css 설정](app://obsidian.md/Studied/(%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8)%20%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20css%20%EC%84%A4%EC%A0%95.md)|2024년 08월 04일- 19:53|
+> [!multi-column] 
+> ```ad-blue
+> ~~~ dataview
+>TABLE WITHOUT ID
+>link(file.path,file.name) AS "옵시디언",
+>dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
+>FROM #옵시디언 AND "Studied"
+>SORT series ASC
+>~~~
+> ```
+> ```ad-white
+> ~~~ dataview
+>TABLE WITHOUT ID
+>link(file.path,file.name) AS "학습정리",
+>dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
+>FROM #학습정리 AND "Studied"
+>SORT series ASC
+>~~~
+> ```
 
 ### 커스텀 CSS
 
