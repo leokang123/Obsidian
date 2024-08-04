@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오후 22시 26분
+수정일: 2024년 08월 04일 오후 22시 53분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -133,6 +133,7 @@ const calendarData = {
 const pageArr = dv.pages('"Studied"');
 const lengthObj = {};
 pageArr.forEach(p => {
+	console.log(p)
 	const pageDate = p.생성일.slice(0,10);
 	if (!lengthObj.hasOwnProperty(pageDate)) lengthObj[pageDate] = 0;
 	lengthObj[pageDate] += 10;
