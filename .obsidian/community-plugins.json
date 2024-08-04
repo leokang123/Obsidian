@@ -5,7 +5,6 @@
   "templater-obsidian",
   "frontmatter-modified-date",
   "obsidian-smart-typography",
-  "share-note",
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-auto-link-title",
@@ -16,5 +15,8 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "OA-file-hider",
-  "floating-toc"
+  "floating-toc",
+  "obsidian-git",
+  "heatmap-calendar",
+  "settings-search"
 ]
