@@ -3,7 +3,7 @@
 cssclasses:
   - wide-page
 생성일: 2024-08-04 23:57
-수정일: 2024년 08월 05일 오전 03시 51분
+수정일: 2024년 08월 05일 오전 04시 19분
 series: 1
 banner: "![[milkyway.jpg]]"
 banner_y: 0.536
@@ -12,7 +12,7 @@ banner_y: 0.536
 # 옵시디언 css 설정
 #옵시디언 #학습정리 
 
-# CSS
+---
 
 옵시디언에서 원하는 기능이 있다면 CSS를 찾아보자
 
@@ -71,6 +71,7 @@ mcl/list-grid를 통해 이렇게 만들 수 있다
 ==[!callout|left-side] or [!callout|right-side] 로 위와같이 만들 수 있다==
 
 ---
+<br>
 
 # H1
 

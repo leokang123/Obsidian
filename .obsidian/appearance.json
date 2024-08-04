@@ -2,7 +2,7 @@
   "cssTheme": "Things",
   "accentColor": "#5c8dff",
   "theme": "obsidian",
-  "baseFontSize": 20,
+  "baseFontSize": 15,
   "translucency": false,
   "enabledCssSnippets": [
     "FolderDescription",

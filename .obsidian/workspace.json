@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6cb35139ba7b556",
+        "id": "ff7e17b82798bf02",
         "type": "tabs",
         "children": [
           {
-            "id": "80fe0296382dbc33",
+            "id": "65128c95b1c1b4fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,24 +164,26 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": true,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": true,
       "command-palette:명령어 팔레트 열기": true,
+      "canvas:새 캔버스 만들기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:그래프 뷰 열기": false,
       "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "templates:템플릿 삽입": false
     }
   },
-  "active": "80fe0296382dbc33",
+  "active": "65128c95b1c1b4fc",
   "lastOpenFiles": [
-    "Studied/(옵시디언) 자동화프로젝트.md",
-    "Pages/Home.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Pages/Home.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Pages/공부.md",
+    "Pages/네이버.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
     "Resources/Templates/List-card.md",
     "Resources/Templates/List-grid.md",
     "Resources/Templates/Multi-Column.md",
@@ -192,7 +194,6 @@
     "Resources/Log/log.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(클로저) 클로저와 렉시컬스코프 1.md",
-    "Pages/네이버.md",
     "Studied/(정규표현식) 정규표현식 1.md",
     "Studied/(특정 주제) 제목 10.md",
     "Resources/Attachments/Pasted image 20240805024009.png",
