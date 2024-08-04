@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4a389e265936b7",
+        "id": "65389152f014ac75",
         "type": "tabs",
         "children": [
           {
-            "id": "3647e96f88bbc4b0",
+            "id": "ce1a6598f7987c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/파일.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b38dcf31140ebd03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/정규표현식 따라잡기2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f9b7ab8ae49b5a7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Templates/파일.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "db70f9b35ae17b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/[정규표현식] 따라잡기4.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b6c7a2a33214179d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/ㅂㅈㄷ.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d18662affb01a00f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Templates/파일.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6c4c6a442f41ce86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/하나 둘 셋 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a030ba0ad4c9d43c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/정규표현식 따라잡기1.md",
+                "file": "Pages/Home.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/[정규표현식] 따라잡기4.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/[정규표현식] 따라잡기4.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/[정규표현식] 따라잡기4.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -260,19 +175,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db70f9b35ae17b55",
+  "active": "ce1a6598f7987c1e",
   "lastOpenFiles": [
     "Resources/Templates/파일.md",
-    "Studied/[정규표현식] 따라잡기4.md",
-    "Studied/[정규표현식] 따라잡기3.md",
-    "Studied/정규표현식 따라잡기3.md",
     "Studied/정규표현식 따라잡기2.md",
+    "Pages/Home.md",
+    "Studied/[정규표현식] 따라잡기4.md",
     "Studied/ㅂㅈㄷ.md",
     "Studied/하나 둘 셋 1.md",
+    "Studied/asd asd 2.md",
+    "Studied/asdas asd d4.md",
+    "Studied/asd asd 1.md",
+    "Studied/[정규표현식] 따라잡기3.md",
+    "Studied/정규표현식 따라잡기3.md",
     "Studied/정규표현식 따라잡기1.md",
     "Studied/정규표현식 따라잡기.md",
     "Studied/클로저 시작하기 (1).md",
-    "Pages/Home.md",
     "Pages/대학교.md",
     "Pages/공부.md",
     "Pages/네이버.md",
@@ -289,10 +207,7 @@
     "Resources/Background/programming.jpg",
     "Resources/Attachments/Pasted image 20240722005957.png",
     "Studied/Studied.md",
-    "Resources/Resources.md",
-    "Pages/Pages.md",
     "Resources/Canvas/무제 파일 1.canvas",
-    "Resources/Templates/Multi-Column-DataView.md",
     "Resources/Background/lamplight.jpg",
     "Resources/Background/library.jpg",
     "Resources/Background/beach1.jpg",
