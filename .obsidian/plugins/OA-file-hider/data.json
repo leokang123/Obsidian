@@ -1,0 +1,7 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "Resources/Scripts",
+    "Resources/Fonts"
+  ]
+}
