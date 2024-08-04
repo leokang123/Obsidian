@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "db70f9b35ae17b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/[정규표현식] 따라잡기4.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b6c7a2a33214179d",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/[정규표현식] 따라잡기4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/[정규표현식] 따라잡기4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Studied/[정규표현식] 따라잡기4.md"
               }
             }
           },
@@ -248,12 +260,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9b7ab8ae49b5a7d",
+  "active": "db70f9b35ae17b55",
   "lastOpenFiles": [
+    "Resources/Templates/파일.md",
+    "Studied/[정규표현식] 따라잡기4.md",
+    "Studied/[정규표현식] 따라잡기3.md",
     "Studied/정규표현식 따라잡기3.md",
     "Studied/정규표현식 따라잡기2.md",
     "Studied/ㅂㅈㄷ.md",
-    "Resources/Templates/파일.md",
     "Studied/하나 둘 셋 1.md",
     "Studied/정규표현식 따라잡기1.md",
     "Studied/정규표현식 따라잡기.md",
@@ -279,8 +293,6 @@
     "Pages/Pages.md",
     "Resources/Canvas/무제 파일 1.canvas",
     "Resources/Templates/Multi-Column-DataView.md",
-    "Resources/Templates/List-card.md",
-    "Resources/Templates/대시보드.md",
     "Resources/Background/lamplight.jpg",
     "Resources/Background/library.jpg",
     "Resources/Background/beach1.jpg",
