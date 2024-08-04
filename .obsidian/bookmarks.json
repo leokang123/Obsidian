@@ -1,17 +1,3 @@
 {
-  "items": [
-    {
-      "type": "group",
-      "ctime": 1722777871302,
-      "items": [
-        {
-          "type": "group",
-          "ctime": 1722777904285,
-          "items": [],
-          "title": "Studied"
-        }
-      ],
-      "title": "sortspec"
-    }
-  ]
+  "items": []
 }
