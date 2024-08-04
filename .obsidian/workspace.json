@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d12f196672316152",
+        "id": "d3f744620f3b85fe",
         "type": "tabs",
         "children": [
           {
-            "id": "b080d9e7b69b6ec1",
+            "id": "a69fdb41ae2f33fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Pages/Home.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "38676dc57f52677c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(asd) asd 1.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -187,36 +175,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b080d9e7b69b6ec1",
+  "active": "a69fdb41ae2f33fd",
   "lastOpenFiles": [
-    "Studied/(asd) asd 2.md",
     "Resources/Templates/파일.md",
+    "Studied/(asd) asd asd 1.md",
+    "Studied/(asd) asda sd1.md",
+    "Studied/asd asd.md",
+    "Studied/asd asd .md",
+    "Studied/asd asd 1.md",
+    "Studied/asd asd 2.md",
+    "Studied/asd asd 3.md",
+    "Studied/asd asd 4.md",
+    "Studied/asd asd 5.md",
+    "Studied/asd asd 6.md",
+    "Studied/asd asd 7.md",
+    "Studied/asd asd 8.md",
+    "Studied/asd asd1.md",
+    "Studied/asd ads ad a.md",
+    "Studied/asdasd .md",
+    "Studied/(asd) asd 2.md",
+    "Resources/Scripts/getSeriesAndRandomBanner.js",
     "Studied/(asd) asd 1.md",
     "Studied/(asd asd ad aSdsd ) asd madn 1.md",
     "Studied/(asda ) asd asd ad 1.md",
     "Studied/asd js dnjkhdqibd i 1.md",
     "Studied/asd asd ad 1.md",
-    "Studied/(asd) asd asd 1.md",
     "Studied/(asd) asd 3.md",
     "Studied/(asd) asdas d.md",
-    "Studied/asd asd .md",
     "Studied/(asd ) asd ad .md",
     "Pages/Home.md",
-    "Studied/(asd) asd d1.md",
-    "Resources/Log/log.md",
-    "Studied/(Cloujure) 클로저 시작하기 10.md",
-    "Studied/(Clojure) 클로저 시작하기 10.md",
-    "Studied/(Clojure) 클로저 시작하기 2.md",
     "Resources/Log",
-    "Resources/무제 파일.md",
     "Resources/Scripts/makeLogData.js",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
-    "Studied/(정규표현식) 정규표현식 1.md",
-    "Studied/(Clojure) 클로저 시작하기.md",
-    "Studied/(정규표현식) 정규표현식.md",
-    "Studied/(옵시디언) 인상적인 옵시디언 문법.md",
-    "Studied/(ㅁㄴㅇ) ㅁㄴㅇ 1 ㅁㄴㅇ 10.md",
-    "Studied/ㅁㄴㅇ ㅁㄴㅇ1.md",
     "Resources/Scripts/findFolder.js",
     "Studied",
     "Resources/Templates",
@@ -224,7 +213,6 @@
     "Resources/Scripts/getSeriesFromTitle.js",
     "Resources/Scripts/makeSubject.js",
     "Resources/Scripts/makeSubjectTag.js",
-    "Resources/Scripts/getRidSubjectTitle.js",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",
