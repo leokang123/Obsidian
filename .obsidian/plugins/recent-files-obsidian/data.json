@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "(Clojure) 클로저 시작하기",
+      "path": "Studied/(Clojure) 클로저 시작하기.md"
+    },
+    {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
     },
     {
-      "basename": "[qwe] qwe",
-      "path": "Studied/[qwe] qwe.md"
-    },
-    {
-      "basename": "[qwe] qwe1",
-      "path": "Studied/[qwe] qwe1.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
-    },
-    {
-      "basename": "클로저 시작하기 (1)",
-      "path": "Studied/클로저 시작하기 (1).md"
     },
     {
       "basename": "대학교",
@@ -139,26 +131,6 @@
     {
       "basename": "무제 파일",
       "path": "Resources/Canvas/무제 파일.canvas"
-    },
-    {
-      "basename": "Drawing 2024-07-22 00.57.58.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-07-22 00.57.58.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-07-21 13.29.05.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-07-21 13.29.05.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-07-21 13.29.20.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-07-21 13.25.13.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-07-21 13.25.13.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-07-22 00.39.43.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-07-22 00.39.43.excalidraw.md"
     }
   ],
   "omittedPaths": []
