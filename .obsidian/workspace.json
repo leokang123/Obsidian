@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14bc8af6cb369ba3",
+        "id": "28596e7c5454f84b",
         "type": "tabs",
         "children": [
           {
-            "id": "b6eb89dfe975e40a",
+            "id": "714580237e753c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,11 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6eb89dfe975e40a",
+  "active": "714580237e753c75",
   "lastOpenFiles": [
-    "Resources/Fonts/Drawing 2024-08-04 21.50.18.excalidraw.md",
     "Pages/Home.md",
     "Resources/Templates/파일.md",
+    "Resources/Fonts/Drawing 2024-08-04 21.50.18.excalidraw.md",
     "Studied/(asd) asd ad1.md",
     "Studied/asd 1.md",
     "Studied/asd 2.md",
