@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/정규표현식 따라잡기.md",
+                "file": "Resources/Templates/파일.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a030ba0ad4c9d43c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/정규표현식 따라잡기1.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/정규표현식 따라잡기.md",
+                "file": "Studied/정규표현식 따라잡기1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/정규표현식 따라잡기.md",
+                "file": "Studied/정규표현식 따라잡기1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/정규표현식 따라잡기.md"
+                "file": "Studied/정규표현식 따라잡기1.md"
               }
             }
           },
@@ -188,9 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d18662affb01a00f",
+  "active": "a030ba0ad4c9d43c",
   "lastOpenFiles": [
     "Resources/Templates/파일.md",
+    "Studied/정규표현식 따라잡기1.md",
     "Studied/정규표현식 따라잡기.md",
     "Studied/클로저 시작하기 (1).md",
     "Pages/Home.md",
@@ -220,7 +233,6 @@
     "Resources/Templates/DataView.md",
     "Resources/Templates/Multi-Column.md",
     "2024-08-03.md",
-    "Resources/Excaldraw/Drawing 2024-08-03 16.16.10.excalidraw.md",
     "Resources/Background/lamplight.jpg",
     "Resources/Background/library.jpg",
     "Resources/Background/beach1.jpg",
