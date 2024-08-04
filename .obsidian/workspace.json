@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ad2b29ee9d155b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(asd) asd1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b4f8b355ebde5f3a",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/(asd) asd1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/(asd) asd1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Studied/(asd) asd1.md"
               }
             }
           },
@@ -224,12 +236,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6f2faf9befa84fb",
+  "active": "ad2b29ee9d155b5c",
   "lastOpenFiles": [
+    "Resources/Templates/파일.md",
+    "Studied/(asd) asd1.md",
     "Studied/(ads) asd 1.md",
     "Studied/[asd] asd 2.md",
     "Studied/(asd) asd.md",
-    "Resources/Templates/파일.md",
     "Studied/(Clojure) 클로저 따라잡기.md",
     "Studied/(Clojure) 클로저 시작하기1.md",
     "Studied/(옵시디언) 옵시디언 css 설정.md",
@@ -251,7 +264,6 @@
     "Studied/[qwe] qwe qwe 1.md",
     "Studied/[qwe] qwe qwe2.md",
     "Studied/[qwe qwe] qwe 2.md",
-    "Studied/[asd asd] asd.md",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",
