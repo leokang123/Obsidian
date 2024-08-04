@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오후 23시 27분
+수정일: 2024년 08월 04일 오후 23시 30분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -169,7 +169,7 @@ const matches = fileContents.match(bracketPattern);
 let extractedInfo = ""; 
 if (matches) { 
 	console.log(matches);
-	extractedInfo = matches.join('\n'); 
+	extractedInfo = matches.map(p => p.slice(1,p.length-1)).join('\n'); 
 }
 
 console.log(extractedInfo);
