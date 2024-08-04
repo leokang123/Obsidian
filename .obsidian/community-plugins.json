@@ -1,10 +1,7 @@
 [
-  "highlightr-plugin",
-  "obsidian-style-settings",
   "tag-wrangler",
   "templater-obsidian",
   "frontmatter-modified-date",
-  "obsidian-smart-typography",
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-auto-link-title",
@@ -18,5 +15,18 @@
   "floating-toc",
   "obsidian-git",
   "heatmap-calendar",
-  "settings-search"
+  "obsidian-style-settings",
+  "obsidian-smart-typography",
+  "highlightr-plugin",
+  "share-note",
+  "remember-cursor-position",
+  "recent-files-obsidian",
+  "quickadd",
+  "mousewheel-image-zoom",
+  "obsidian-linter",
+  "oz-image-plugin",
+  "obsidian-icons-plugin",
+  "obsidian-icon-folder",
+  "homepage",
+  "obsidian-hider"
 ]
