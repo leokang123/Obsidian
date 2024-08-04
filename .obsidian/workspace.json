@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7809e175fb9d873",
+        "id": "8f9948306a1a1f57",
         "type": "tabs",
         "children": [
           {
-            "id": "270ec022449cc144",
+            "id": "ad94b89dbdf7406c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/네이버.md",
+                "file": "Pages/Home.md",
                 "mode": "preview",
                 "source": true
               }
@@ -56,22 +56,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "251c1eac76457313",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "88e0cd308d3f1838",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
@@ -93,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/네이버.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/네이버.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/네이버.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -175,16 +159,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "270ec022449cc144",
+  "active": "ad94b89dbdf7406c",
   "lastOpenFiles": [
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Pages/Home.md",
     "Pages/네이버.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
     "Studied/(정규표현식) 정규표현식 1.md",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Resources/Log/log.md",
     "Studied/(특정 주제) 제목 10.md",
     "Resources/Attachments/Pasted image 20240805024009.png",
