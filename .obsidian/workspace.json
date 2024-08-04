@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/asd asd 2.md",
+                "file": "Resources/Templates/파일.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/asd asd 2.md",
+                "file": "Resources/Templates/파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/asd asd 2.md",
+                "file": "Resources/Templates/파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/asd asd 2.md"
+                "file": "Resources/Templates/파일.md"
               }
             }
           },
@@ -177,9 +177,9 @@
   },
   "active": "7d33ac0718dbce0f",
   "lastOpenFiles": [
-    "Pages/Home.md",
     "Studied/asd asd 2.md",
     "Resources/Templates/파일.md",
+    "Pages/Home.md",
     "Studied/정규표현식 따라잡기2.md",
     "Studied/[정규표현식] 따라잡기4.md",
     "Studied/ㅂㅈㄷ.md",
