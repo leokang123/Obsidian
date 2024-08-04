@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b6ab5dfa9d4695b",
+        "id": "282359efabc4403f",
         "type": "tabs",
         "children": [
           {
-            "id": "7ee9b625e11a3809",
+            "id": "157374eb433be5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "daa1092984b1333c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/asd 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/asd 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/asd 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Studied/asd 1.md"
               }
             }
           },
@@ -175,15 +188,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ee9b625e11a3809",
+  "active": "daa1092984b1333c",
   "lastOpenFiles": [
-    "Pages/Home.md",
     "Resources/Templates/파일.md",
+    "Studied/asd 1.md",
+    "Pages/Home.md",
     "Resources/Templates/Multi-Column.md",
     "Studied/asd 20.md",
     "Studied/123 123.md",
     "Studied/asd 2.md",
-    "Studied/asd 1.md",
     "Studied/asd 123.md",
     "Studied/asd 3.md",
     "Studied/asd1 1.md",
