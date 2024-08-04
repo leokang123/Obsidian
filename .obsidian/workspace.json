@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e5602acb3491252",
+        "id": "16f112babd2e3dbd",
         "type": "tabs",
         "children": [
           {
-            "id": "ef1e3a392dec8d92",
+            "id": "bb2e30245b879597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(옵시디언) 신기한 옵시디언 문법.md",
-                "mode": "source",
+                "file": "Studied/(옵시디언) 꾸미기프로젝트.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+                "file": "Studied/(옵시디언) 꾸미기프로젝트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+                "file": "Studied/(옵시디언) 꾸미기프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
+                "file": "Studied/(옵시디언) 꾸미기프로젝트.md"
               }
             }
           },
@@ -175,19 +175,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef1e3a392dec8d92",
+  "active": "bb2e30245b879597",
   "lastOpenFiles": [
+    "Resources/Templates/무제 파일.md",
+    "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Resources/Log/log.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Pages/Home.md",
+    "Studied/ㅁㄴㅇ ㅁㄴㅇ1.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/ㅁㄴㅇ ㅁㄴㅇ.md",
+    "Studied/(정규표현식) 정규표현식 1.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
+    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Resources/Attachments/Pasted image 20240805002331.png",
     "Resources/Attachments/Pasted image 20240805002203.png",
     "Resources/Attachments/Pasted image 20240805002106.png",
     "Pages/공부.md",
-    "Pages/Home.md",
     "Resources/Background/programming.jpg",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
-    "Studied/(정규표현식) 정규표현식 1.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
-    "Resources/Log/log.md",
-    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Studied/(옵시디언) 인상적인 옵시디언 문법.md",
     "Studied/(ㅁㄴㅇ) ㅁㄴㅇ 1.md",
     "Studied/(Clojure) 클로저 시작하기 2.md",
@@ -202,10 +207,6 @@
     "Studied/asd asd 3.md",
     "Studied/asd asd 4.md",
     "Studied/asd asd 5.md",
-    "Studied/asd asd 6.md",
-    "Studied/asd asd 7.md",
-    "Studied/asd asd 8.md",
-    "Studied/asd asd1.md",
     "Resources/Scripts/getSeriesAndRandomBanner.js",
     "Resources/Log",
     "Resources/Scripts/makeLogData.js",
@@ -223,7 +224,6 @@
     "Resources/Background/lamplight.jpg",
     "Resources/Background/library.jpg",
     "Resources/Background/beach1.jpg",
-    "Resources/Background/city.jpg",
     "Resources/Canvas/무제 파일.canvas",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",

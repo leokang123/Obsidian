@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "(옵시디언) 꾸미기프로젝트",
+      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
+    },
+    {
+      "basename": "log",
+      "path": "Resources/Log/log.md"
+    },
+    {
+      "basename": "(옵시디언) 자동화프로젝트",
+      "path": "Studied/(옵시디언) 자동화프로젝트.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
+    },
+    {
+      "basename": "(정규표현식) 정규표현식 1",
+      "path": "Studied/(정규표현식) 정규표현식 1.md"
+    },
+    {
+      "basename": "(Clojure) 클로저 시작하기 1",
+      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
+    },
+    {
       "basename": "(옵시디언) 신기한 옵시디언 문법",
       "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
@@ -9,36 +37,12 @@
       "path": "Pages/공부.md"
     },
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
       "basename": "programming",
       "path": "Resources/Background/programming.jpg"
     },
     {
-      "basename": "(Clojure) 클로저 시작하기 1",
-      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
-    },
-    {
-      "basename": "(정규표현식) 정규표현식 1",
-      "path": "Studied/(정규표현식) 정규표현식 1.md"
-    },
-    {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
-      "basename": "log",
-      "path": "Resources/Log/log.md"
-    },
-    {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "Resources/Templates/무제 파일.md"
     },
     {
       "basename": "Multi-Column",

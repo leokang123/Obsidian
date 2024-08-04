@@ -13,7 +13,7 @@ const getSeriesAndRandomBanner = (input) => {
   const str = input.trim();
   const strArr = str.split(' ');
   let lastElement = strArr[strArr.length - 1].match(/\d+/);
-  if (lastElement === null) lastElement = 1;
+  if (lastElement === null) lastElement = [1];
   const bannerData = getRandomBanner();
   const propertyData = `${lastElement[0]}\n${bannerData}`;
   console.log(propertyData);
