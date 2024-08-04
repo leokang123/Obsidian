@@ -5,6 +5,18 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "정규표현식3",
+      "path": "Studied/정규표현식3.md"
+    },
+    {
+      "basename": "정규표현식2",
+      "path": "Studied/정규표현식2.md"
+    },
+    {
+      "basename": "정규표현식1",
+      "path": "Studied/정규표현식1.md"
+    },
+    {
       "basename": "정규표현식",
       "path": "Studied/정규표현식.md"
     },
