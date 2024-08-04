@@ -1,3 +1,4 @@
+const fs = require('fs');
 const makeSubject = (input) => {
   const str = input;
   const strArr = str.split(' ');

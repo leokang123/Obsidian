@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(옵시디언) 옵시디언 css 설정.md"
+                "file": "Studied/(ㅁㄴㅇ)ㅁ ㅁㄴㅇ1.md"
               }
             }
           },
@@ -175,8 +173,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f01e565220d23a14",
+  "active": "3b6e60062139c783",
   "lastOpenFiles": [
+    "Resources/Scripts/getRandomBanner.js",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(ㅁㄴㅇ)ㅁ ㅁㄴㅇ1.md",
     "Pages/Home.md",
     "Pages/공부.md",
     "Studied/(asd) asd as 1.md",
@@ -205,11 +206,8 @@
     "Studied/[asd] asd 2.md",
     "Studied/(asd) asd.md",
     "Studied/(Clojure) 클로저 따라잡기.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/무제 파일.md",
     "Studied/(옵시디언) 인상적인 옵시디언 문법.md",
-    "Studied/(정규표현식) 정규표현식.md",
-    "Studied/[qwe] qwe.md",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",
