@@ -30,6 +30,42 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b4f8b355ebde5f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(ads) asd 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "332e748fca8a86e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(asd) asd.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6a9b6656bc6791e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/[asd] asd 2.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -190,8 +226,11 @@
   },
   "active": "b6f2faf9befa84fb",
   "lastOpenFiles": [
-    "Studied/(Clojure) 클로저 따라잡기.md",
+    "Studied/(ads) asd 1.md",
+    "Studied/[asd] asd 2.md",
+    "Studied/(asd) asd.md",
     "Resources/Templates/파일.md",
+    "Studied/(Clojure) 클로저 따라잡기.md",
     "Studied/(Clojure) 클로저 시작하기1.md",
     "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/무제 파일.md",
@@ -213,9 +252,6 @@
     "Studied/[qwe] qwe qwe2.md",
     "Studied/[qwe qwe] qwe 2.md",
     "Studied/[asd asd] asd.md",
-    "Studied/[qwe qwe] qwe1.md",
-    "Studied/[qwe qwe] qwe.md",
-    "Studied/[qwe] qwe1.md",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",

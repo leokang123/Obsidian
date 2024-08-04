@@ -5,6 +5,18 @@
       "path": "Resources/Templates/파일.md"
     },
     {
+      "basename": "(ads) asd 1",
+      "path": "Studied/(ads) asd 1.md"
+    },
+    {
+      "basename": "[asd] asd 2",
+      "path": "Studied/[asd] asd 2.md"
+    },
+    {
+      "basename": "(asd) asd",
+      "path": "Studied/(asd) asd.md"
+    },
+    {
       "basename": "(Clojure) 클로저 따라잡기",
       "path": "Studied/(Clojure) 클로저 따라잡기.md"
     },
