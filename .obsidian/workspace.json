@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d18662affb01a00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/정규표현식 따라잡기.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/정규표현식 따라잡기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/정규표현식 따라잡기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Studied/정규표현식 따라잡기.md"
               }
             }
           },
@@ -175,15 +188,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3647e96f88bbc4b0",
+  "active": "d18662affb01a00f",
   "lastOpenFiles": [
+    "Resources/Templates/파일.md",
+    "Studied/정규표현식 따라잡기.md",
     "Studied/클로저 시작하기 (1).md",
     "Pages/Home.md",
     "Pages/대학교.md",
     "Pages/공부.md",
     "Pages/네이버.md",
     "Studied/정규표현식.md",
-    "Resources/Templates/파일.md",
     "Studied/정규표현식3.md",
     "Studied/정규표현식1.md",
     "Studied/정규표현식2.md",
@@ -211,7 +225,6 @@
     "Resources/Background/library.jpg",
     "Resources/Background/beach1.jpg",
     "Resources/Background/city.jpg",
-    "Resources/Excaldraw/Drawing 2024-08-03 04.37.52.excalidraw.md",
     "Resources/Attachments/Pasted image 20240721170302.png",
     "Resources/Attachments/SCR-20240721-oyrm.png",
     "Studied",
