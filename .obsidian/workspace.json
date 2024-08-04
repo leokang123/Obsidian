@@ -188,6 +188,54 @@
             }
           },
           {
+            "id": "c0e313c42e675214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/asda d123.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c4325d46ffc13f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/asd saad 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0b3024fb93f5cea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/asad s123.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fff648fcac2534d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/asdasd 123.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "eee6447db4aabce8",
             "type": "leaf",
             "state": {
@@ -236,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -310,7 +358,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/asdasd as d1.md",
+                "file": "Studied/asdasd 123.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/asdasd as d1.md",
+                "file": "Studied/asdasd 123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/asdasd as d1.md"
+                "file": "Studied/asdasd 123.md"
               }
             }
           },
@@ -392,10 +440,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98cf2b5d8733fd1e",
+  "active": "fff648fcac2534d7",
   "lastOpenFiles": [
-    "Studied/asdasd 4.md",
+    "Studied/asad s123.md",
+    "Studied/asdasd 123.md",
+    "Studied/asd saad 1.md",
+    "Studied/asda d123.md",
     "Studied/asdasd as d1.md",
+    "Studied/asdasd 4.md",
     "Studied/asdasd 3.md",
     "Studied/asdasd 2.md",
     "Studied/asdads 1.md",
@@ -416,10 +468,6 @@
     "Studied/(asd) asd 123.md",
     "Studied/asd asd 9.md",
     "Studied/asd asd 8.md",
-    "Studied/asd asd 7.md",
-    "Studied/asd asd 6.md",
-    "Studied/asd sad 1.md",
-    "Studied/asd asd .md",
     "Resources/Scripts/getRandomBanner.js",
     "Resources/Scripts/getSeriesFromTitle.js",
     "Resources/Scripts/makeSubject.js",
