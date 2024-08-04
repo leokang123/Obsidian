@@ -1,9 +1,8 @@
-const fs = require('fs');
 const makeSubject = (input) => {
-  const str = input;
-  const strArr = str.split(' ');
-  const matchStr = strArr[0].match(/\((.*)\)/);
-  return matchStr ? matchStr[1] : 'Default';
+  const str = input.trim();
+  const matchStr = str.match(/\((.*)\)/);
+
+  return matchStr ? matchStr[1].replaceAll(' ', '') : 'Default';
 };
 
 module.exports = makeSubject;

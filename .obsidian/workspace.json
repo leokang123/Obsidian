@@ -4,22 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "02c0d2eb585c638a",
+        "id": "a24c9361d89a657f",
         "type": "tabs",
         "children": [
           {
-            "id": "186a85901292ac01",
+            "id": "7e5192a044dc2861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/파일.md",
-                "mode": "source",
+                "file": "Pages/Home.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "02af1ddcebe33a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍) 클로저 시작하기 30.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "895dc757033b9a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍) 클로저 시작하기 40.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "adf7c1fe8eb043cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍) 클로저 시작하기 10.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "db0b1fe4518b87e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍 ) 클로저 시작하기 30.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0655d582fc2c3de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수 형 프로그래 밍) 클로저 시작하기 45.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a08eb9f9be5a43ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍) 클로저 시작하기 31.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -93,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/(함수형 프로그래밍) 클로저 시작하기 31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/(함수형 프로그래밍) 클로저 시작하기 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Studied/(함수형 프로그래밍) 클로저 시작하기 31.md"
               }
             }
           },
@@ -175,34 +248,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "186a85901292ac01",
+  "active": "a08eb9f9be5a43ae",
   "lastOpenFiles": [
+    "Studied/(함수 형 프로그래 밍) 클로저 시작하기 45.md",
+    "Studied/(함수형 프로그래밍) 클로저 시작하기 31.md",
+    "Studied/(함수형 프로그래밍 ) 클로저 시작하기 30.md",
+    "Studied/(함수형 프로그래밍) 클로저 시작하기 10.md",
+    "Studied/(함수형 프로그래밍) 클로저 시작하기 40.md",
+    "Studied/(함수형 프로그래밍) 클로저 시작하기 30.md",
+    "Pages/Home.md",
+    "Studied/(함수형프로그래밍) 클로저 시작하기12.md",
+    "Studied/(함수형 프로그래밍) ㅁㄴㅇ ㅁㄴㅇ.md",
+    "Studied/(함수형 프로그래밍) 클로저 시작하기10.md",
+    "Studied/(주제) 제목 시리즈번호1.md",
+    "Studied/(함수형프로그래밍) 클로저 시작하기1.md",
+    "Studied/(함수형프로그래밍) 클로저 시작하기.md",
+    "Studied/(주제) 제목 1.md",
+    "Studied/(함수형프로그래밍) 쿨로저 시작하기 10.md",
+    "Resources/Templates/파일.md",
+    "Studied/(함수형 프로그래밍) 클로저 시작하기 1.md",
+    "Studied/(함수형프로그래밍) 클로저 시작하기11.md",
+    "Resources/Templates/무제 파일.md",
     "Studied/asd 2.md",
     "Studied/asd 4.md",
     "Studied/asd 3.md",
-    "Resources/Templates/파일.md",
     "Studied/asd 1.md",
     "Studied/(asd) asd 1.md",
-    "Pages/Home.md",
     "Resources/Fonts/Drawing 2024-08-04 21.50.18.excalidraw.md",
     "Studied/(asd) asd ad1.md",
-    "Resources/Templates/Multi-Column.md",
-    "Studied/asd 20.md",
-    "Studied/123 123.md",
-    "Studied/asd 123.md",
-    "Studied/asd1 1.md",
-    "Studied/123 124.md",
-    "Studied/asd 5.md",
-    "Studied/123 125.md",
-    "Studied/asd 6.md",
-    "Studied/asd 8.md",
-    "Studied/asd 7.md",
-    "Studied/asd 9.md",
-    "Studied/asd asd1.md",
-    "Studied/asd 10.md",
-    "Studied/asd 13.md",
-    "Studied/asd 12.md",
-    "Studied/asd 11.md",
     "Resources/Scripts/findFolder.js",
     "Studied",
     "Resources/Templates",

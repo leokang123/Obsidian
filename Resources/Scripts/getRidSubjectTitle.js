@@ -1,9 +1,8 @@
 const getRidSubjectTitle = (input) => {
-  const str = input;
-  const strArr = str.split(' ');
-  const matchStr = strArr[0].match(/\((.*)\)/);
-  if (matchStr === null) return 'Default';
-  const title = strArr.slice(1).join(' ');
+  const str = input.trim();
+  const matchArr = str.match(/\((.*)\)/);
+  if (matchArr === null) return 'Default';
+  const title = str.substring(matchStr[0].length);
   return title;
 };
 
