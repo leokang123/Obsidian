@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 05일 오전 00시 02분
+수정일: 2024년 08월 05일 오전 00시 04분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -145,7 +145,7 @@ extractedInfo.forEach(p => {
 	lengthObj[date] += 10;
 })
 
-for (let fullDate of extractedInfo) {
+for (let fullDate of Object.entries(lengthObj)) {
     // Uncomment the following line for troubleshooting to see the file names
     const date = fullDate.substring(0,10);
 	console.log(lengthObj[date])
