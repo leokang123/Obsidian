@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f9948306a1a1f57",
+        "id": "3aa55116bbd122a3",
         "type": "tabs",
         "children": [
           {
-            "id": "ad94b89dbdf7406c",
+            "id": "a3c5b698b5d1e964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(옵시디언) 자동화프로젝트.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(옵시디언) 자동화프로젝트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(옵시디언) 자동화프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/(옵시디언) 자동화프로젝트.md"
               }
             }
           },
@@ -159,15 +159,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad94b89dbdf7406c",
+  "active": "a3c5b698b5d1e964",
   "lastOpenFiles": [
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Pages/Home.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Pages/네이버.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
     "Studied/(정규표현식) 정규표현식 1.md",
     "Resources/Log/log.md",
     "Studied/(특정 주제) 제목 10.md",

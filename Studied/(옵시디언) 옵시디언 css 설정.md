@@ -2,10 +2,10 @@
 주제: 옵시디언
 cssclasses: wide-page
 생성일: 2024-08-04 23:57
-수정일: 2024년 08월 05일 오전 01시 33분
+수정일: 2024년 08월 05일 오전 03시 22분
 series: 1
 banner: "![[milkyway.jpg]]"
-banner_y: 0.6
+banner_y: 0.536
 ---
 
 # 옵시디언 css 설정
@@ -24,9 +24,8 @@ banner_y: 0.6
 
 ## 제목
 
-- ### 리스트1
-    
-    ![univercity.jpg](app://9e355834744d155427c707fe72c8106a6839/Users/jeonghun/Documents/Obsidian%20Vault/Resources/Background/univercity.jpg?1721621838634)
+- ### 리스트1 #mcl/list-card 
+    ![[univercity.jpg|500]]
 - ### 리스트2
     
     내용1  
