@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "(옵시디언) 신기한 옵시디언 문법",
+      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "programming",
+      "path": "Resources/Background/programming.jpg"
     },
     {
       "basename": "(Clojure) 클로저 시작하기 1",
@@ -21,10 +33,6 @@
       "path": "Resources/Log/log.md"
     },
     {
-      "basename": "(옵시디언) 신기한 옵시디언 문법",
-      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
-    },
-    {
       "basename": "파일",
       "path": "Resources/Templates/파일.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "List-card",
       "path": "Resources/Templates/List-card.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
     },
     {
       "basename": "대학교",
@@ -63,10 +67,6 @@
     {
       "basename": "beach2",
       "path": "Resources/Background/beach2.jpg"
-    },
-    {
-      "basename": "programming",
-      "path": "Resources/Background/programming.jpg"
     },
     {
       "basename": "Pasted image 20240722005957",
