@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "f01e565220d23a14",
   "lastOpenFiles": [
+    "Pages/Home.md",
+    "Pages/공부.md",
     "Studied/(asd) asd as 1.md",
     "Studied/(asd0a) asd 123.md",
     "Resources/Scripts/getSeriesFromTitle.js",
@@ -184,7 +186,6 @@
     "Resources/Scripts/makeSubjectTag.js",
     "Resources/Scripts/getRidSubjectTitle.js",
     "Resources/Scripts",
-    "Pages/Home.md",
     "Resources/Templates/파일.md",
     "Studied/asd asd 10.md",
     "Studied/(asdas)sad asda dsa s123.md",

@@ -2,7 +2,7 @@
 tags: 
 주제: 옵시디언
 생성일: 2024-07-22 03:15
-수정일: 2024년 08월 04일 오전 03시 02분
+수정일: 2024년 08월 04일 오후 19시 51분
 banner: "![[beach1.jpg]]"
 banner_y: 0.524
 cssclass: wide-page
@@ -130,7 +130,7 @@ asdasd
 
 > [!multi-column] 
 > ```ad-blue
-> ~~~dataview
+> ~~~ dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "옵시디언",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
@@ -139,7 +139,7 @@ SORT series ASC
 >~~~
 > ```
 > ```ad-purple
-> ~~~dataview
+> ~~~ dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS "옵시디언",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
@@ -147,3 +147,10 @@ FROM #옵시디언 AND "Studied"
 SORT series ASC
 >~~~
 > ```
+
+
+### 커스텀 CSS
+
+대부분의 내 커스텀 CSS는 wide-page.css 의 커스텀 부분에 전부 작성해 두었다. 
+
+이상이 생기면 거기서 하나씩 확인해보자 
