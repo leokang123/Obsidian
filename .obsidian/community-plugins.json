@@ -3,11 +3,9 @@
   "table-editor-obsidian",
   "obsidian-auto-link-title",
   "obsidian-banners",
-  "better-word-count",
   "calendar",
   "colored-text",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "OA-file-hider",
   "floating-toc",
   "obsidian-git",
@@ -15,7 +13,6 @@
   "highlightr-plugin",
   "homepage",
   "obsidian-icon-folder",
-  "obsidian-icons-plugin",
   "oz-image-plugin",
   "obsidian-linter",
   "mousewheel-image-zoom",
@@ -28,5 +25,6 @@
   "templater-obsidian",
   "frontmatter-modified-date",
   "obsidian-hider",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-excalidraw-plugin"
 ]
