@@ -2,7 +2,7 @@
 주제: Clojure
 cssclasses: wide-page
 생성일: 2024-08-05 00:01
-수정일: 2024년 08월 05일 오전 00시 01분
+수정일: 2024년 08월 05일 오전 01시 11분
 series: 1
 banner: "![[programming.jpg]]"
 banner_y: 0.6

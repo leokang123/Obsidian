@@ -5,6 +5,10 @@
       "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
     },
     {
+      "basename": "(Clojure) 클로저 시작하기 1",
+      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
+    },
+    {
       "basename": "log",
       "path": "Resources/Log/log.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "(정규표현식) 정규표현식 1",
       "path": "Studied/(정규표현식) 정규표현식 1.md"
-    },
-    {
-      "basename": "(Clojure) 클로저 시작하기 1",
-      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
     },
     {
       "basename": "(옵시디언) 신기한 옵시디언 문법",

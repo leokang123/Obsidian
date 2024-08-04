@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Studied/(옵시디언) 꾸미기프로젝트.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -177,8 +177,9 @@
   },
   "active": "bb2e30245b879597",
   "lastOpenFiles": [
-    "Resources/Templates/무제 파일.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Resources/Templates/무제 파일.md",
     "Resources/Log/log.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
     "Pages/Home.md",
@@ -186,7 +187,6 @@
     "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/ㅁㄴㅇ ㅁㄴㅇ.md",
     "Studied/(정규표현식) 정규표현식 1.md",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Resources/Attachments/Pasted image 20240805002331.png",
     "Resources/Attachments/Pasted image 20240805002203.png",
