@@ -32,55 +32,31 @@
             }
           },
           {
-            "id": "ad2b29ee9d155b5c",
+            "id": "1441383df6a20676",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(asd) asd1.md",
+                "file": "Studied/(클로저) 클로저 시작하기.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "b4f8b355ebde5f3a",
+            "id": "2e5104e9410509c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(ads) asd 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "332e748fca8a86e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(asd) asd.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b6a9b6656bc6791e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/[asd] asd 2.md",
+                "file": "Studied/(클로저) 클로저시작하기.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/(클로저) 클로저시작하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/(클로저) 클로저시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Studied/(클로저) 클로저시작하기.md"
               }
             }
           },
@@ -236,17 +212,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6f2faf9befa84fb",
+  "active": "2e5104e9410509c1",
   "lastOpenFiles": [
+    "Studied/(클로저) 클로저 시작하기.md",
+    "Studied/(클로저) 클로저시작하기.md",
+    "Resources/Templates/파일.md",
+    "Studied/(Clojure) 클로저 시작하기1.md",
     "Studied/(asd) asd1.md",
+    "Resources/Scripts/getRidSubjectTitle.js",
+    "Resources/Scripts/getRid.js",
+    "Resources/Scripts/makeSubjectTag.js",
+    "Resources/Scripts/makeSubject.js",
     "Resources/Scripts/myFunction.js",
     "Resources/Scripts",
-    "Resources/Templates/파일.md",
     "Studied/(ads) asd 1.md",
     "Studied/[asd] asd 2.md",
     "Studied/(asd) asd.md",
     "Studied/(Clojure) 클로저 따라잡기.md",
-    "Studied/(Clojure) 클로저 시작하기1.md",
     "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/무제 파일.md",
     "Studied/(옵시디언) 인상적인 옵시디언 문법.md",
@@ -264,7 +246,6 @@
     "Studied/[qwe] qwe qwe 3.md",
     "Studied/[qwe] qwe qwe 2.md",
     "Studied/[qwe] qwe qwe 1.md",
-    "Studied/[qwe] qwe qwe2.md",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",
@@ -281,10 +262,6 @@
     "Resources/Background",
     "Resources/Canvas/무제 파일.canvas",
     "Folder/잡공부/옵시디언",
-    "Resources/BackGround/Images",
-    "Resources/BackGround",
-    "무제 폴더 5",
-    "무제 폴더 4",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
     "무제 파일 6.canvas",

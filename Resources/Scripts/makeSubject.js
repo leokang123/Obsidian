@@ -6,5 +6,5 @@ const makeSubject = (input) => {
 };
 
 module.exports = {
-  makeSubject;
-}
+  makeSubject,
+};
