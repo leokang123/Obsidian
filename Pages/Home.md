@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오후 23시 01분
+수정일: 2024년 08월 04일 오후 23시 04분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -165,6 +165,17 @@ const logPath = 'Resources/Log/log.md';
 const fileContents = await dv.io.load(logPath);
 
 // 파일 내용을 표시합니다.
-const logData = fileContents;
-console.log(logData);
+const lines = fileContents.split('\n');
+// # Log 이후의 내용을 찾기 위한 플래그 
+let logSection = false; 
+let logContents = ""; // 줄 단위로 파일 내용을 탐색하며 # Log 이후의 내용만 추출합니다. 
+for (const line of lines) { 
+	if (logSection) { 
+		logContents += line + "\n"; 
+	} 
+	if (line.trim() === "# Log") { 
+		logSection = true; 
+	} 
+}
+console.log(logContents);
 ```

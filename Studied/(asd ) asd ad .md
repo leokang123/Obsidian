@@ -11,3 +11,4 @@ series: <% tp.user.getSeriesFromTitle(tp.file.title) %>
 # <% tp.user.getRidSubjectTitle(tp.file.title) %>
 <% tp.user.makeSubjectTag(tp.file.title) %>
 
+<% tp.date.now("yyyy-MM-DD HH:mm") %>
