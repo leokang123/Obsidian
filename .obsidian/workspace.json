@@ -236,6 +236,18 @@
             }
           },
           {
+            "id": "e8bc7b9c564057c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/asdasd 124.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "eee6447db4aabce8",
             "type": "leaf",
             "state": {
@@ -284,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -358,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/asdasd 123.md",
+                "file": "Studied/asdasd 124.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/asdasd 123.md",
+                "file": "Studied/asdasd 124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -398,7 +410,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/asdasd 123.md"
+                "file": "Studied/asdasd 124.md"
               }
             }
           },
@@ -440,10 +452,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fff648fcac2534d7",
+  "active": "e8bc7b9c564057c7",
   "lastOpenFiles": [
-    "Studied/asad s123.md",
     "Studied/asdasd 123.md",
+    "Studied/asdasd 124.md",
+    "Studied/asad s123.md",
     "Studied/asd saad 1.md",
     "Studied/asda d123.md",
     "Studied/asdasd as d1.md",
@@ -467,7 +480,6 @@
     "Studied/(asd) asda sd1.md",
     "Studied/(asd) asd 123.md",
     "Studied/asd asd 9.md",
-    "Studied/asd asd 8.md",
     "Resources/Scripts/getRandomBanner.js",
     "Resources/Scripts/getSeriesFromTitle.js",
     "Resources/Scripts/makeSubject.js",
