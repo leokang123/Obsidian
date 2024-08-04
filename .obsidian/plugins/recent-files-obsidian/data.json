@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
     },
     {
       "basename": "List-card",

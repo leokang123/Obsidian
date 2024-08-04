@@ -11,7 +11,6 @@
   "floating-toc",
   "obsidian-git",
   "obsidian-hider",
-  "highlightr-plugin",
   "homepage",
   "obsidian-icon-folder",
   "oz-image-plugin",
@@ -29,5 +28,6 @@
   "obsidian-icons-plugin",
   "heatmap-calendar",
   "quickadd",
-  "OA-file-hider"
+  "OA-file-hider",
+  "highlightr-plugin"
 ]
