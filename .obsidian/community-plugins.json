@@ -1,7 +1,4 @@
 [
-  "tag-wrangler",
-  "templater-obsidian",
-  "frontmatter-modified-date",
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-auto-link-title",
@@ -12,21 +9,5 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "OA-file-hider",
-  "floating-toc",
-  "obsidian-git",
-  "heatmap-calendar",
-  "obsidian-style-settings",
-  "obsidian-smart-typography",
-  "highlightr-plugin",
-  "share-note",
-  "remember-cursor-position",
-  "recent-files-obsidian",
-  "quickadd",
-  "mousewheel-image-zoom",
-  "obsidian-linter",
-  "oz-image-plugin",
-  "obsidian-icons-plugin",
-  "obsidian-icon-folder",
-  "homepage",
-  "obsidian-hider"
+  "floating-toc"
 ]

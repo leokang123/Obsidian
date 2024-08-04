@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
-                "mode": "source",
+                "file": "Studied/무제 파일.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/무제 파일.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "25c5c95dedabb9f0",
+            "id": "b1e31f5beabf1c12",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -175,8 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a69fdb41ae2f33fd",
+  "active": "3b6e60062139c783",
   "lastOpenFiles": [
+    "Pages/Home.md",
+    "Studied/무제 파일.md",
     "Resources/Templates/파일.md",
     "Studied/(asd) asd asd 1.md",
     "Studied/(asd) asda sd1.md",
@@ -202,8 +204,6 @@
     "Studied/asd asd ad 1.md",
     "Studied/(asd) asd 3.md",
     "Studied/(asd) asdas d.md",
-    "Studied/(asd ) asd ad .md",
-    "Pages/Home.md",
     "Resources/Log",
     "Resources/Scripts/makeLogData.js",
     "Resources/Scripts/findFolder.js",
