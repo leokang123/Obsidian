@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Studied/(옵시디언) 자동화프로젝트.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -177,6 +177,7 @@
   },
   "active": "bb2e30245b879597",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20240805012533.png",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Resources/Templates/무제 파일.md",
@@ -206,7 +207,6 @@
     "Studied/asd asd 2.md",
     "Studied/asd asd 3.md",
     "Studied/asd asd 4.md",
-    "Studied/asd asd 5.md",
     "Resources/Scripts/getSeriesAndRandomBanner.js",
     "Resources/Log",
     "Resources/Scripts/makeLogData.js",
