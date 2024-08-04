@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 05일 오전 00시 04분
+수정일: 2024년 08월 05일 오전 00시 08분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -127,8 +127,8 @@ const calendarData = {
     intensityScaleEnd: 100,     // (optional) defaults to highest value passed to entries.intensity
     entries: [],                // (required) populated in the DataviewJS loop below 0~15, 16~25
 }
-
-// DataviewJS loop to iterate over pages in the "Studied" folder where the page has a 'series' property
+// log에 기록한 데이터 기반으로 마킹한다 
+// 따라서 잘못 추가한 파일은 로그에서 수동으로 지워줘야 한다
 const logPath = 'Resources/Log/log.md';
 const fileContents = await dv.io.load(logPath);
 const bracketPattern = /\[(.*?)\]/g; // 정규 표현식을 사용하여 대괄호 사이의 모든 정보 추출 
@@ -145,14 +145,10 @@ extractedInfo.forEach(p => {
 	lengthObj[date] += 10;
 })
 
-for (let fullDate of Object.entries(lengthObj)) {
-    // Uncomment the following line for troubleshooting to see the file names
-    const date = fullDate.substring(0,10);
-	console.log(lengthObj[date])
-    // dv.span("<br>" + page.file.name)
+for (let dateInfo of Object.entries(lengthObj)) {
+    const date = dateInfo[0].substring(0,10);
 	const pageDate = date
-	const pageCount = lengthObj[pageDate]-9;
-    // Push the data into the calendarData.entries array
+	const pageCount = dateInfo[1] - 9;
     calendarData.entries.push({
         date: date,     // (required) Date in the format YYYY-MM-DD
         intensity: pageCount,   // (required) The data you want to track, will map color intensities automatically
