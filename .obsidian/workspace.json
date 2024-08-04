@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f01e565220d23a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Templates/파일.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "816a9afab2cbdef1",
             "type": "leaf",
             "state": {
@@ -32,43 +20,19 @@
             }
           },
           {
-            "id": "226a0c8d90521723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/asd asd 1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f2a7cdeed8e097e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/asd asd asd .md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "74984ff962195597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/asd asd 2.md",
+                "file": "Pages/Home.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/asd asd 2.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/asd asd 2.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/asd asd 2.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -224,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74984ff962195597",
+  "active": "f2a7cdeed8e097e4",
   "lastOpenFiles": [
     "Studied/asd asd asd .md",
     "Studied/asd asd 2.md",
