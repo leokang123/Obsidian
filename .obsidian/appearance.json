@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Things",
-  "accentColor": "",
+  "cssTheme": "Typewriter",
+  "accentColor": "#5c8dff",
   "theme": "obsidian",
   "baseFontSize": 20,
   "translucency": false,
