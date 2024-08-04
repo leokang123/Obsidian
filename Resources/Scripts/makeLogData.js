@@ -6,11 +6,9 @@ const makeLogData = (input) => {
   const seoulTime = new Date().toLocaleString('kr', {
     timeZone: 'Asia/Seoul',
   });
-  const logData = `[${seoulTime}] ${input} 생성`;
+  const logData = `[${seoulTime}] ${input.file.title} 생성\n`;
   fs.appendFileSync(logPath, logData);
   console.log(`${logPath}에 로그 기록 완료`);
 };
 
 module.exports = makeLogData;
-
-makeLogData();
