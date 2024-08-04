@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03e3beb63c8cd7d4",
+        "id": "02c0d2eb585c638a",
         "type": "tabs",
         "children": [
           {
-            "id": "e9991b4888b3aaa9",
+            "id": "186a85901292ac01",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,23 +175,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9991b4888b3aaa9",
+  "active": "186a85901292ac01",
   "lastOpenFiles": [
-    "Pages/Home.md",
+    "Studied/asd 2.md",
+    "Studied/asd 4.md",
+    "Studied/asd 3.md",
     "Resources/Templates/파일.md",
+    "Studied/asd 1.md",
+    "Studied/(asd) asd 1.md",
+    "Pages/Home.md",
     "Resources/Fonts/Drawing 2024-08-04 21.50.18.excalidraw.md",
     "Studied/(asd) asd ad1.md",
-    "Studied/asd 1.md",
-    "Studied/asd 2.md",
     "Resources/Templates/Multi-Column.md",
     "Studied/asd 20.md",
     "Studied/123 123.md",
     "Studied/asd 123.md",
-    "Studied/asd 3.md",
     "Studied/asd1 1.md",
     "Studied/123 124.md",
     "Studied/asd 5.md",
-    "Studied/asd 4.md",
     "Studied/123 125.md",
     "Studied/asd 6.md",
     "Studied/asd 8.md",
@@ -202,7 +203,6 @@
     "Studied/asd 13.md",
     "Studied/asd 12.md",
     "Studied/asd 11.md",
-    "Studied/asd 15.md",
     "Resources/Scripts/findFolder.js",
     "Studied",
     "Resources/Templates",
