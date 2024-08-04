@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(Clojure) 클로저 시작하기.md",
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(Clojure) 클로저 시작하기.md",
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(Clojure) 클로저 시작하기.md",
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(Clojure) 클로저 시작하기.md"
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md"
               }
             }
           },
@@ -188,9 +188,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "52de6553ee112d56",
   "lastOpenFiles": [
+    "Studied/무제 파일.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(옵시디언) 인상적인 옵시디언 문법.md",
+    "Studied/(정규표현식) 정규표현식.md",
     "Resources/Templates/파일.md",
+    "Studied/(Clojure) 클로저 시작하기.md",
     "Studied/[qwe] qwe.md",
     "Studied/qwe qwe q e2.md",
     "Studied/[qwe] qwe qwe 4.md",
@@ -211,11 +216,6 @@
     "Studied/[qwe] qwe1.md",
     "Studied/qwe qwe 4.md",
     "Studied/qwe qwe10.md",
-    "Studied/[qwe] qwe qwe 14.md",
-    "Studied/asd\nasd\nasd\n1\n.md",
-    "Studied/qwe qwe.md",
-    "Studied/qwe qwe 3.md",
-    "Studied/qwe qwe 2.md",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",
