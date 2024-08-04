@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오후 22시 55분
+수정일: 2024년 08월 04일 오후 23시 01분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -155,4 +155,16 @@ for (let page of pageArr.where(p => p.series)) {
 // Render the heatmap calendar using the populated calendarData
 renderHeatmapCalendar(this.container, calendarData)
 ~~~
+```
+
+```dataviewjs
+const logPath = 'Resources/Log/log.md';
+// 특정 파일의 경로를 지정합니다.
+
+// 파일 내용을 읽습니다.
+const fileContents = await dv.io.load(logPath);
+
+// 파일 내용을 표시합니다.
+const logData = fileContents;
+console.log(logData);
 ```
