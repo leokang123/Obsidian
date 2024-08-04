@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(asd) asd1.md",
+                "file": "Resources/Templates/파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(asd) asd1.md",
+                "file": "Resources/Templates/파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(asd) asd1.md"
+                "file": "Resources/Templates/파일.md"
               }
             }
           },
@@ -236,11 +236,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "b6f2faf9befa84fb",
   "lastOpenFiles": [
+    "Studied/(asd) asd1.md",
+    "Resources/Scripts/myFunction.js",
     "Resources/Scripts",
     "Resources/Templates/파일.md",
-    "Studied/(asd) asd1.md",
     "Studied/(ads) asd 1.md",
     "Studied/[asd] asd 2.md",
     "Studied/(asd) asd.md",
@@ -284,8 +285,6 @@
     "Resources/BackGround",
     "무제 폴더 5",
     "무제 폴더 4",
-    "무제 폴더 3",
-    "무제 폴더 2",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",
     "무제 파일 6.canvas",
