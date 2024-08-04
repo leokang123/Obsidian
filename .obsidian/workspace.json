@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c60188f3fdeafa1c",
+        "id": "30cd10167577f6a5",
         "type": "tabs",
         "children": [
           {
-            "id": "e79597ca66ebb0fe",
+            "id": "31d9051057b9146d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e79597ca66ebb0fe",
+  "active": "31d9051057b9146d",
   "lastOpenFiles": [
     "Resources/Templates/파일.md",
     "Pages/Home.md",
