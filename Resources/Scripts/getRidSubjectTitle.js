@@ -7,6 +7,4 @@ const getRidSubjectTitle = (input) => {
   return title;
 };
 
-module.exports = {
-  getRidSubjectTitle,
-};
+module.exports = getRidSubjectTitle;

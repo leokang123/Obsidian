@@ -1,4 +1,10 @@
-import { makeSubject } from './makeSubject';
+// import 안된단다 여기선
+const makeSubject = (input) => {
+  const str = input;
+  const strArr = str.split(' ');
+  const matchStr = strArr[0].match(/\((.*)\)/);
+  return matchStr ? matchStr[1] : 'Default';
+};
 
 const makeSubjectTag = (input) => {
   const subject = makeSubject(input);
@@ -6,6 +12,4 @@ const makeSubjectTag = (input) => {
   return `#${subject}`;
 };
 
-module.exports = {
-  makeSubjectTag,
-};
+module.exports = makeSubjectTag;

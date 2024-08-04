@@ -5,6 +5,4 @@ const makeSubject = (input) => {
   return matchStr ? matchStr[1] : 'Default';
 };
 
-module.exports = {
-  makeSubject,
-};
+module.exports = makeSubject;
