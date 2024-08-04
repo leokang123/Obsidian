@@ -2,11 +2,11 @@
 주제: <% tp.user.makeSubject(tp.file.title) %>
 cssclasses: wide-page
 생성일: <% tp.date.now("yyyy-MM-DD HH:mm") %>
-수정일: 2024년 08월 04일 오후 20시 25분
+수정일: 2024년 08월 04일 오후 20시 07분
 series: <% tp.user.getSeriesFromTitle(tp.file.title) %>
+banner: "<% tp.user.getRandomBanner() %>"
+banner_y: 0.5
 ---
 
 # <% tp.user.getRidSubjectTitle(tp.file.title) %>
 <% tp.user.makeSubjectTag(tp.file.title) %>
-
-<% tp.user.getRandomBanner() %>
