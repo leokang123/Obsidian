@@ -177,6 +177,7 @@
   },
   "active": "af8cc9a96c7daafd",
   "lastOpenFiles": [
+    "Resources/Scripts/makeLogData.js",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Pages/Home.md",
     "Studied/(정규표현식) 정규표현식 1.md",
@@ -202,7 +203,6 @@
     "Studied/(주제) 제목 시리즈번호1.md",
     "Studied/(함수형프로그래밍) 클로저 시작하기1.md",
     "Studied/(함수형프로그래밍) 클로저 시작하기.md",
-    "Studied/(주제) 제목 1.md",
     "Resources/Scripts/findFolder.js",
     "Studied",
     "Resources/Templates",
