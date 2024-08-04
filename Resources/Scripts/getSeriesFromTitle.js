@@ -1,9 +1,9 @@
 const getSeriesFromTitle = (input) => {
   const str = input.trim();
   const strArr = str.split(' ');
-  if (matchStr === null) return;
-  const title = strArr.slice(1).join(' ');
-  return title;
+  const lastElement = strArr[strArr.length - 1].match(/\d+/)[0];
+  if (lastElement === null) return 1;
+  return Number(lastElement) + 1;
 };
 
 module.exports = getSeriesFromTitle;
