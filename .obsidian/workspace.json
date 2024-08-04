@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "b09dead130c7d831",
+        "id": "4a01dbce8d4f99d0",
         "type": "tabs",
         "children": [
           {
-            "id": "7d33ac0718dbce0f",
+            "id": "f604ad1340625bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Pages/Home.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ed5b88f1cf523bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/[123] 123.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f20ea28576ab0e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/[qwe] qwe1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9d77fab4a7525b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/qwe qwe1.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/qwe qwe1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/파일.md",
+                "file": "Studied/qwe qwe1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/파일.md"
+                "file": "Studied/qwe qwe1.md"
               }
             }
           },
@@ -175,11 +212,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d33ac0718dbce0f",
+  "active": "9d77fab4a7525b52",
   "lastOpenFiles": [
-    "Studied/asd asd 2.md",
-    "Resources/Templates/파일.md",
+    "Studied/[qwe] qwe1.md",
+    "Studied/qwe qwe1.md",
+    "Studied/[123] 123.md",
     "Pages/Home.md",
+    "Resources/Templates/파일.md",
+    "Studied/[asd] asd1.md",
+    "Studied/asd\nasd\nasd\n1\n.md",
+    "Studied/asd asd 2.md",
     "Studied/정규표현식 따라잡기2.md",
     "Studied/[정규표현식] 따라잡기4.md",
     "Studied/ㅂㅈㄷ.md",
@@ -198,15 +240,10 @@
     "Studied/정규표현식3.md",
     "Studied/정규표현식1.md",
     "Studied/정규표현식2.md",
-    "Studied/인상적인 옵시디언 문법.md",
-    "Studied/옵시디언 css 설정.md",
-    "Studied/클로저 시작하기 (2).md",
-    "Studied/Untitled.md",
     "Resources/Background/univercity.jpg",
     "Resources/Background/beach2.jpg",
     "Resources/Background/programming.jpg",
     "Resources/Attachments/Pasted image 20240722005957.png",
-    "Studied/Studied.md",
     "Resources/Canvas/무제 파일 1.canvas",
     "Resources/Background/lamplight.jpg",
     "Resources/Background/library.jpg",
