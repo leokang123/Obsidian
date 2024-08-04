@@ -5,6 +5,7 @@ const makeLogData = (filePath) => {
   const logPath = path.join(obsidianPath, 'Resources/Log/log.md');
   const seoulTime = new Date().toLocaleString('kr', {
     timeZone: 'Asia/Seoul',
+    hour12: false,
   });
   const relativeFilePath = path.relative(obsidianPath, filePath);
   const logData = `[${seoulTime}] ${relativeFilePath} 생성\n`;

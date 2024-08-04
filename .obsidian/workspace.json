@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f744620f3b85fe",
+        "id": "97b15fb686e6be43",
         "type": "tabs",
         "children": [
           {
-            "id": "a69fdb41ae2f33fd",
+            "id": "cd4ca819032d51eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/무제 파일.md",
-                "mode": "preview",
+                "file": "Pages/Home.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/무제 파일.md",
+                "file": "Pages/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/무제 파일.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/무제 파일.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -175,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b6e60062139c783",
+  "active": "cd4ca819032d51eb",
   "lastOpenFiles": [
-    "Pages/Home.md",
     "Studied/무제 파일.md",
+    "Pages/Home.md",
+    "Studied/(ㅁㄴㅇ) ㅁㄴㅇ 1.md",
     "Resources/Templates/파일.md",
     "Studied/(asd) asd asd 1.md",
     "Studied/(asd) asda sd1.md",
@@ -203,7 +205,6 @@
     "Studied/asd js dnjkhdqibd i 1.md",
     "Studied/asd asd ad 1.md",
     "Studied/(asd) asd 3.md",
-    "Studied/(asd) asdas d.md",
     "Resources/Log",
     "Resources/Scripts/makeLogData.js",
     "Resources/Scripts/findFolder.js",

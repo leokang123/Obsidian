@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오후 23시 30분
+수정일: 2024년 08월 04일 오후 23시 39분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -86,7 +86,6 @@ LIMIT 5
  #불변성 #순수함수 
 
 
-```ad-black
 ~~~ dataviewjs
 // Display a title with some optional icons
 dv.span("#### 노트정리") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
@@ -130,13 +129,21 @@ const calendarData = {
 }
 
 // DataviewJS loop to iterate over pages in the "Studied" folder where the page has a 'series' property
-const pageArr = dv.pages('"Resources/Log"');
+const logPath = 'Resources/Log/log.md';
+const fileContents = await dv.io.load(logPath);
+const bracketPattern = /\[(.*?)\]/g; // 정규 표현식을 사용하여 대괄호 사이의 모든 정보 추출 
+const matches = fileContents.match(bracketPattern); 
+let extractedInfo = ""; 
+if (matches) { 
+	extractedInfo = matches.map(p => p.slice(1,p.length-1))
+}
+
 const lengthObj = {};
-pageArr.forEach(p => {
-	console.log(p)
-	const pageDate = p.생성일.slice(0,10);
-	if (!lengthObj.hasOwnProperty(pageDate)) lengthObj[pageDate] = 0;
-	lengthObj[pageDate] += 10;
+extractedInfo.forEach(p => {
+	const date = p.substring(0,10);
+	console.log(date);
+	if (!lengthObj.hasOwnProperty(date)) lengthObj[date] = 0;
+	lengthObj[date] += 10;
 })
 
 for (let page of pageArr.where(p => p.series)) {
@@ -155,22 +162,12 @@ for (let page of pageArr.where(p => p.series)) {
 // Render the heatmap calendar using the populated calendarData
 renderHeatmapCalendar(this.container, calendarData)
 ~~~
-```
+
+
+
 
 ```dataviewjs
-const logPath = 'Resources/Log/log.md';
-// 특정 파일의 경로를 지정합니다.
 
-// 파일 내용을 읽습니다.
-const fileContents = await dv.io.load(logPath);
 
-const bracketPattern = /\[(.*?)\]/g; // 정규 표현식을 사용하여 대괄호 사이의 모든 정보 추출 
-const matches = fileContents.match(bracketPattern); 
-let extractedInfo = ""; 
-if (matches) { 
-	console.log(matches);
-	extractedInfo = matches.map(p => p.slice(1,p.length-1)).join('\n'); 
-}
 
-console.log(extractedInfo);
 ```

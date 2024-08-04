@@ -28,3 +28,4 @@ cssclasses: wide-page
 [2024. 8. 4. 오후 11:22:04] Studied/asd asd 7.md 생성
 [2024. 8. 4. 오후 11:22:17] Studied/asd asd 8.md 생성
 [2024. 8. 4. 오후 11:22:23] Studied/asd asd1.md 생성
+[2024. 8. 4. 23시 35분 30초] Studied/(ㅁㄴㅇ) ㅁㄴㅇ 1.md 생성
