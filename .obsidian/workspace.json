@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "16f4b40030400e1f",
+        "id": "3b6ab5dfa9d4695b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b1b5b2600b869e9",
+            "id": "7ee9b625e11a3809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Resources/Templates/파일.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -175,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b1b5b2600b869e9",
+  "active": "7ee9b625e11a3809",
   "lastOpenFiles": [
     "Pages/Home.md",
     "Resources/Templates/파일.md",
