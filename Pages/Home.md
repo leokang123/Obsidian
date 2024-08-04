@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 04일 오후 22시 53분
+수정일: 2024년 08월 04일 오후 22시 55분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -130,7 +130,7 @@ const calendarData = {
 }
 
 // DataviewJS loop to iterate over pages in the "Studied" folder where the page has a 'series' property
-const pageArr = dv.pages('"Studied"');
+const pageArr = dv.pages('"Resources/Log"');
 const lengthObj = {};
 pageArr.forEach(p => {
 	console.log(p)
