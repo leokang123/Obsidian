@@ -11,8 +11,12 @@
             "id": "2df743fdd19387b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Templates/파일.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -174,8 +178,8 @@
   "active": "2df743fdd19387b3",
   "lastOpenFiles": [
     "Pages/Home.md",
-    "Studied/(asd) asd ad1.md",
     "Resources/Templates/파일.md",
+    "Studied/(asd) asd ad1.md",
     "Studied/asd 1.md",
     "Studied/asd 2.md",
     "Resources/Templates/Multi-Column.md",
