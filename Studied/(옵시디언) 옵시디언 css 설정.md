@@ -2,7 +2,7 @@
 주제: 옵시디언
 cssclasses: wide-page
 생성일: 2024-08-04 23:57
-수정일: 2024년 08월 05일 오전 00시 36분
+수정일: 2024년 08월 05일 오전 01시 33분
 series: 1
 banner: "![[milkyway.jpg]]"
 banner_y: 0.6
@@ -59,7 +59,8 @@ mcl/list-grid를 통해 이렇게 만들 수 있다
 
 ### 사진
 
-![univercity.jpg](app://9e355834744d155427c707fe72c8106a6839/Users/jeonghun/Documents/Obsidian%20Vault/Resources/Background/univercity.jpg?1721621838634)
+> [!white|left-side]
+> ![[univercity.jpg|400]]
 
 **고양이**(cat)는 [식육목](https://namu.wiki/w/%EC%8B%9D%EC%9C%A1%EB%AA%A9 "식육목") [고양이과](https://namu.wiki/w/%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B3%BC "고양이과") 고양이속의 한 종(_Felis catus_)이다. 고양이의 신체적 특성과 습성은 다른 고양이과 동물들과 유사하게 빠른 반사신경, 탁월한 유연성, 날카로운 이빨, 넣고 꺼낼 수 있는 발톱 등이 있다.
 

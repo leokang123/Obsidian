@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "16f112babd2e3dbd",
+        "id": "41ce1b2cfdb1ecb0",
         "type": "tabs",
         "children": [
           {
-            "id": "bb2e30245b879597",
+            "id": "25087f8c4b0ffe5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Studied/(옵시디언) 자동화프로젝트.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -175,21 +175,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb2e30245b879597",
+  "active": "25087f8c4b0ffe5b",
   "lastOpenFiles": [
+    "Pages/Home.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
     "Resources/Attachments/Pasted image 20240805012847.png",
     "Resources/Attachments/Pasted image 20240805012533.png",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Resources/Templates/무제 파일.md",
     "Resources/Log/log.md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
-    "Pages/Home.md",
     "Studied/ㅁㄴㅇ ㅁㄴㅇ1.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/ㅁㄴㅇ ㅁㄴㅇ.md",
     "Studied/(정규표현식) 정규표현식 1.md",
-    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Resources/Attachments/Pasted image 20240805002331.png",
     "Resources/Attachments/Pasted image 20240805002203.png",
     "Resources/Attachments/Pasted image 20240805002106.png",
@@ -223,7 +223,6 @@
     "Resources/Attachments/Pasted image 20240722005957.png",
     "Resources/Canvas/무제 파일 1.canvas",
     "Resources/Background/lamplight.jpg",
-    "Resources/Background/library.jpg",
     "Resources/Canvas/무제 파일.canvas",
     "Resources/Canvas/무제 파일 3.canvas",
     "Resources/Canvas/무제 파일 2.canvas",

@@ -107,7 +107,7 @@ body .wide-page {
   padding: 0.5rem !important;
 }
 .wide-page img {
-  margin: 0.5rem !important;
+  margin: 1rem 0 1rem 0 !important;
 }
 
 /* -- 내 커스텀 wide-page 속성 끝-- */

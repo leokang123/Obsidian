@@ -5,6 +5,18 @@
       "path": "Studied/(옵시디언) 자동화프로젝트.md"
     },
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
+    },
+    {
+      "basename": "(옵시디언) 신기한 옵시디언 문법",
+      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
+    },
+    {
       "basename": "(옵시디언) 꾸미기프로젝트",
       "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
     },
@@ -17,20 +29,8 @@
       "path": "Resources/Log/log.md"
     },
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
       "basename": "(정규표현식) 정규표현식 1",
       "path": "Studied/(정규표현식) 정규표현식 1.md"
-    },
-    {
-      "basename": "(옵시디언) 신기한 옵시디언 문법",
-      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
     {
       "basename": "공부",
