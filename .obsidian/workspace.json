@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80a9810ebdbecec9",
+        "id": "35749469d4965038",
         "type": "tabs",
         "children": [
           {
-            "id": "1e47c671bce9afee",
+            "id": "d949706a05d833f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e47c671bce9afee",
+  "active": "d949706a05d833f1",
   "lastOpenFiles": [
     "Studied",
     "Resources/Scripts/findFolder.js",
