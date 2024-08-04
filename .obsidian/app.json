@@ -16,5 +16,12 @@
   "showLineNumber": false,
   "showIndentGuide": true,
   "rightToLeft": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

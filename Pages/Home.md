@@ -5,7 +5,7 @@ cssclasses:
 tags: 
 주제: 
 생성일: 2024-07-21 15:45
-수정일: 2024년 08월 05일 오전 00시 37분
+수정일: 2024년 08월 05일 오전 02시 34분
 banner: "![[sky.jpg]]"
 banner_y: 0.516
 ---
@@ -38,9 +38,9 @@ SORT 주제, series
 TABLE WITHOUT ID
 link(file.path,file.name) AS "최근이용 :LiTimer:",
 dateformat(file.mtime, "yyyy년 MM월 dd일- HH:mm") AS "" 
-FROM #학습정리 AND "Studied"
-SORT file.mtime DESC
-LIMIT 5
+FROM  "Studied"
+SORT file.mtime  DESC
+LIMIT 15
 >~~~
 > ```
 
