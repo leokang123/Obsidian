@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
+      "basename": "(Clojure) 클로저 시작하기1",
+      "path": "Studied/(Clojure) 클로저 시작하기1.md"
+    },
+    {
       "basename": "(옵시디언) 옵시디언 css 설정",
       "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "(정규표현식) 정규표현식",
       "path": "Studied/(정규표현식) 정규표현식.md"
-    },
-    {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
     },
     {
       "basename": "(Clojure) 클로저 시작하기",

@@ -6,5 +6,14 @@
       ],
       "key": "R"
     }
-  ]
+  ],
+  "quickadd:choice:87a493c0-0ec5-439d-ae9a-48dea6c6d49e": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": []
 }
