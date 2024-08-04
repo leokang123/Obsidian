@@ -1,5 +1,5 @@
 const getRandomBanner = (input) => {
-  const fs = require('fs');
+  // const fs = require('fs');
   // const path = require('path');
   // const obsidianPath = '/Users/jeonghun/Documents/Obsidian Vault';
   // const backGroundPath = path.join(obsidianPath, 'Resources', 'Background');
