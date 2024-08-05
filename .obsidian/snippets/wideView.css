@@ -65,8 +65,9 @@ body .wide-page {
   --link-decoration: none;
 }
 .wide-page .internal-link:hover {
-  font-weight: 400;
-  color: var(--h3-color) !important;
+  font-weight: 600;
+  color: var(--h4-color) !important;
+  text-decoration-line: none;
 }
 
 .wide-page .dataview.small-text {

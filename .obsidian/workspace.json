@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#학습정리",
+                "query": "tag:#mcl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -158,14 +160,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "801a093c3f425ea8",
+  "active": "434ba1380045a74b",
   "lastOpenFiles": [
-    "Resources/Log/log.md",
-    "Pages/Home.md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
-    "Studied/(정규표현식) 정규표현식 1.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Pages/Home.md",
+    "Resources/Log/log.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(정규표현식) 정규표현식 1.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Resources/Templates/대시보드.md",
