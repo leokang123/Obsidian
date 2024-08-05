@@ -17,10 +17,10 @@
   "things-style@@h3-size": "1.5em",
   "things-style@@h4-size": "1.3em",
   "things-style@@h5-size": "1.1em",
-  "things-style@@h5-color": "#FFFBEC",
-  "things-style@@h4-color": "#FFFBEC",
-  "things-style@@h3-color": "#FFFBEC",
-  "things-style@@h2-color": "#FFFBEC",
-  "things-style@@h1-color": "#FFFBEC",
+  "things-style@@h5-color": "#EEE9D6",
+  "things-style@@h4-color": "#EEE9D6",
+  "things-style@@h3-color": "#EEE9D6",
+  "things-style@@h2-color": "#EEE9D6",
+  "things-style@@h1-color": "#EEE9D6",
   "things-style@@h6-color": "#E5B567"
 }
