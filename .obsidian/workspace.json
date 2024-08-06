@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce2e750a3f260736",
+        "id": "3996d89b359099eb",
         "type": "tabs",
         "children": [
           {
-            "id": "a253b635adfecd06",
+            "id": "618ce89de3d4fdce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,11 +160,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a253b635adfecd06",
+  "active": "77daa229d451d88c",
   "lastOpenFiles": [
-    "Resources/Kanban/이름 없는 보드 2.md",
-    "Pages/Home.md",
     "2024-08-06.md",
+    "Pages/Home.md",
+    "Resources/Kanban/이름 없는 보드 2.md",
     "Resources/Log/log.md",
     "Resources/Kanban/이름 없는 보드.md",
     "Resources/Kanban/이름 없는 보드 1.md",
