@@ -5,16 +5,32 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "이름 없는 보드 2",
-      "path": "Resources/Kanban/이름 없는 보드 2.md"
+      "basename": "2024-08-06",
+      "path": "Tasks/2024-08-06.md"
     },
     {
       "basename": "log",
       "path": "Resources/Log/log.md"
     },
     {
-      "basename": "(클로저) 시작하기",
-      "path": "Studied/(클로저) 시작하기.md"
+      "basename": "Task",
+      "path": "Resources/Templates/Task.md"
+    },
+    {
+      "basename": "파일",
+      "path": "Resources/Templates/파일.md"
+    },
+    {
+      "basename": "EmptyNote",
+      "path": "Resources/Templates/EmptyNote.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "Resources/Templates/대시보드.md"
+    },
+    {
+      "basename": "이름 없는 보드 2",
+      "path": "Resources/Kanban/이름 없는 보드 2.md"
     },
     {
       "basename": "(옵시디언) 자동화프로젝트",
@@ -47,14 +63,6 @@
     {
       "basename": "(옵시디언) 꾸미기프로젝트",
       "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
-    },
-    {
-      "basename": "대시보드",
-      "path": "Resources/Templates/대시보드.md"
-    },
-    {
-      "basename": "파일",
-      "path": "Resources/Templates/파일.md"
     },
     {
       "basename": "DataView",

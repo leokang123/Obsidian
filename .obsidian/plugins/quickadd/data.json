@@ -5,7 +5,7 @@
       "name": "makeFile",
       "type": "Template",
       "command": true,
-      "templatePath": "Resources/Templates/파일.md",
+      "templatePath": "Resources/Templates/EmptyNote.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE}}"
@@ -29,41 +29,6 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": true
-    },
-    {
-      "id": "077d847d-0da9-4021-8994-66276440a49a",
-      "name": "makeLog",
-      "type": "Capture",
-      "command": false,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": false,
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": false,
-        "format": ""
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default"
     }
   ],
   "macros": [],
