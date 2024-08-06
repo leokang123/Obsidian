@@ -11,7 +11,8 @@
     "FloatingSidebar",
     "navFolderIcon",
     "TagStyle",
-    "wideView"
+    "wideView",
+    "MclMultiColumn"
   ],
   "nativeMenus": true,
   "baseFontSizeAction": false,

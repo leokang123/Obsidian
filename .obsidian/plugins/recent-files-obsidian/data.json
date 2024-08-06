@@ -5,6 +5,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "(옵시디언) 자동화프로젝트",
+      "path": "Studied/(옵시디언) 자동화프로젝트.md"
+    },
+    {
       "basename": "(Clojure) 클로저 시작하기 1",
       "path": "Studied/(Clojure) 클로저 시작하기 1.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "공부",
       "path": "Pages/공부.md"
-    },
-    {
-      "basename": "(옵시디언) 자동화프로젝트",
-      "path": "Studied/(옵시디언) 자동화프로젝트.md"
     },
     {
       "basename": "(옵시디언) 신기한 옵시디언 문법",

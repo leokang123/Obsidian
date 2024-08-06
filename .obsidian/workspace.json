@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3d75fd793d7a673",
+        "id": "da5119d65873b849",
         "type": "tabs",
         "children": [
           {
-            "id": "965854697e1fa837",
+            "id": "5ba8bbc9f30199b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,24 +126,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "434ba1380045a74b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pages/Home.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,10 +149,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "965854697e1fa837",
+  "active": "b4c0880c4e6745fe",
   "lastOpenFiles": [
-    "Studied/(Clojure) 클로저 시작하기 1.md",
+    "Pages/이름 없는 보드.md",
     "Pages/Home.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md",
     "Resources/Canvas/무제 파일.canvas",
@@ -176,7 +167,6 @@
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.20.excalidraw.md",
     "Resources/Log/log.md",
     "Pages/공부.md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Studied/(정규표현식) 정규표현식 1.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
