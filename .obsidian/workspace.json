@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8200e198396d0c35",
+        "id": "3fa52b2b3b100456",
         "type": "tabs",
         "children": [
           {
-            "id": "1a6de0da1c3d7116",
+            "id": "c94c69e104fedab1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md"
+                "file": "Pages/Home.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -157,10 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1a6de0da1c3d7116",
+  "active": "c94c69e104fedab1",
   "lastOpenFiles": [
-    "Resources/Canvas/무제 파일.canvas",
     "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md",
+    "Resources/Canvas/무제 파일.canvas",
     "Resources/Canvas/무제 파일 1.canvas",
     "Resources/Excaldraw/Drawing 2024-07-21 13.25.13.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-07-21 13.29.05.excalidraw.md",
