@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b835539cda609b1c",
+            "id": "ca8557a288918247",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ca8557a288918247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Log/log.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Log/log.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Log/log.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Log/log.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -174,12 +161,12 @@
   },
   "active": "ca8557a288918247",
   "lastOpenFiles": [
+    "Resources/Log/log.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(afmasd) asd 4.md",
     "Studied/(asd) asddwe 10.md",
     "Pages/Home.md",
     "Tasks/2024-08-06.md",
-    "Resources/Log/log.md",
     "Tasks/2024-08-05.md",
     "Resources/Templates/이름 없는 보드.md",
     "Resources/Templates/Task.md",

@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "log",
       "path": "Resources/Log/log.md"
     },
     {
       "basename": "(Clojure) 클로저 시작하기 1",
       "path": "Studied/(Clojure) 클로저 시작하기 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "2024-08-06",
