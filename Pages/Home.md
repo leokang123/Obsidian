@@ -4,7 +4,7 @@ cssclasses:
   - wide-page
 주제: 
 생성일: 일요일, 7월 21일 2024, 3:45:12 오후
-수정일:  2024년 08월 06일 오전 10시 54분
+수정일:  2024년 08월 06일 오전 11시 08분
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
 ---
@@ -157,3 +157,46 @@ for (let dateInfo of Object.entries(lengthObj)) {
 // Render the heatmap calendar using the populated calendarData
 renderHeatmapCalendar(this.container, calendarData)
 ~~~
+
+Text displayed above.
+
+--- start-multi-column: ExampleRegion1
+
+```column-settings  
+number of columns: 2  
+Border: off
+Shadow: off
+Column Size: [50%,50%]  
+```
+
+ ```ad-blue
+ ~~~ dataview  
+TABLE WITHOUT ID  
+link(file.path,file.name) AS " 학습정리 :LiBookCheck: ",  
+dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""  
+FROM #학습정리 AND "Studied"  
+SORT 주제, series
+~~~
+```
+
+--- end-column ---
+
+```ad-pink
+~~~ dataview
+TABLE WITHOUT ID  
+link(file.path,file.name) AS " 최근이용 :LiTimer:",  
+dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""  
+FROM "Studied"  
+SORT file.mtime DESC  
+LIMIT 15
+~~~
+```
+
+--- end-multi-column
+
+Text displayed below.
+
+```column-settings  
+( **OR** )  
+Column Size: [25%, 75%]  
+```

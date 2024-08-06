@@ -5,6 +5,14 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "(Clojure) 클로저 시작하기 1",
+      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
+    },
+    {
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
+    },
+    {
       "basename": "Drawing 2024-08-05 14.36.37.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md"
     },
@@ -17,10 +25,6 @@
       "path": "Pages/공부.md"
     },
     {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
       "basename": "(옵시디언) 자동화프로젝트",
       "path": "Studied/(옵시디언) 자동화프로젝트.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "(정규표현식) 정규표현식 1",
       "path": "Studied/(정규표현식) 정규표현식 1.md"
-    },
-    {
-      "basename": "(Clojure) 클로저 시작하기 1",
-      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
     },
     {
       "basename": "(옵시디언) 꾸미기프로젝트",
