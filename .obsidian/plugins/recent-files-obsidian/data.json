@@ -5,6 +5,18 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "이름 없는 보드 2",
+      "path": "Resources/Kanban/이름 없는 보드 2.md"
+    },
+    {
+      "basename": "log",
+      "path": "Resources/Log/log.md"
+    },
+    {
+      "basename": "(클로저) 시작하기",
+      "path": "Studied/(클로저) 시작하기.md"
+    },
+    {
       "basename": "(옵시디언) 자동화프로젝트",
       "path": "Studied/(옵시디언) 자동화프로젝트.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Drawing 2024-08-05 14.36.37.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md"
-    },
-    {
-      "basename": "log",
-      "path": "Resources/Log/log.md"
     },
     {
       "basename": "공부",
