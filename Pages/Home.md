@@ -39,14 +39,14 @@ banner_y: 0.49584
 > ```
 > 
 > ```ad-pink
-> ~~~ dataview
->TABLE WITHOUT ID  
->link(file.path,file.name) AS " 최근이용 :LiTimer:",  
->dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""
-> FROM “Studied”
->SORT file.mtime DESC  
+>~~~ dataview
+> TABLE WITHOUT ID
+> link(file.path,file.name) AS " 최근이용 :LiTimer:",  
+> dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""
+> FROM "Studied" or "Tasks"
+> SORT file.mtime DESC 
 >LIMIT 15
->  ~~~
+> ~~~
 > ```
 
 ~~~ button 
