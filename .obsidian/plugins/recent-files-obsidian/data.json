@@ -5,16 +5,8 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "(asd) asd 2",
-      "path": "Studied/(asd) asd 2.md"
-    },
-    {
-      "basename": "(gkasd) asd 1",
-      "path": "Studied/(gkasd) asd 1.md"
-    },
-    {
-      "basename": "(asd) asd 1",
-      "path": "Studied/(asd) asd 1.md"
+      "basename": "log",
+      "path": "System/Log/log.md"
     },
     {
       "basename": "makeFileInDataview",

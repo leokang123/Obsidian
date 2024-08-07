@@ -1,4 +1,4 @@
 {
   "folder": "Tasks",
-  "template": "Resources/Templates/Task"
+  "template": "System/Templates/Task"
 }

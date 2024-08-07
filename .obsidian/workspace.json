@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f6b39be1121de52",
+        "id": "fbfae5095b204981",
         "type": "tabs",
         "children": [
           {
-            "id": "1a57130336b7bbdc",
+            "id": "ae37ca2c6ab927ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,23 +148,24 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
-      "command-palette:명령어 팔레트 열기": false,
       "canvas:새 캔버스 만들기": false,
+      "command-palette:명령어 팔레트 열기": false,
       "graph:그래프 뷰 열기": false,
-      "templates:템플릿 삽입": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
+      "obsidian-kanban:새 보드 만들기": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "templater-obsidian:Templater": false,
+      "templates:템플릿 삽입": false,
+      "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "1a57130336b7bbdc",
+  "active": "ae37ca2c6ab927ce",
   "lastOpenFiles": [
-    "Studied/(asd) asd 2.md",
+    "System/Log/log.md",
     "Pages/Home.md",
     "Studied/(gkasd) asd 1.md",
     "Studied/(asd) asd 1.md",
+    "Studied/(asd) asd 2.md",
     "System/Buttons/makeFileInDataview.md",
     "Pages/공부.md",
     "System/Buttons/addproject.md",
@@ -182,7 +183,6 @@
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Fonts",
-    "System/Log/log.md",
     "System/Log",
     "System/Scripts/getRidSubjectTitle.js",
     "System/Scripts/makeSubjectTag.js",
