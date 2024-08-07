@@ -1,6 +1,5 @@
 [
   "obsidian-admonition",
-  "table-editor-obsidian",
   "obsidian-auto-link-title",
   "obsidian-banners",
   "colored-text",
@@ -14,13 +13,14 @@
   "recent-files-obsidian",
   "remember-cursor-position",
   "share-note",
-  "obsidian-smart-typography",
   "templater-obsidian",
-  "obsidian-hider",
-  "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "floating-toc",
   "obsidian-linter",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-style-settings",
+  "obsidian-smart-typography",
+  "obsidian-hider",
+  "table-editor-obsidian"
 ]

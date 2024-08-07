@@ -9,10 +9,10 @@
     "MinerBanner",
     "custom-admonitions.72f354",
     "FloatingSidebar",
+    "MclMultiColumn",
     "navFolderIcon",
     "TagStyle",
-    "wideView",
-    "MclMultiColumn"
+    "wideView"
   ],
   "nativeMenus": true,
   "baseFontSizeAction": false,

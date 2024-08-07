@@ -152,11 +152,7 @@
       "canvas:새 캔버스 만들기": false,
       "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
   "active": "77d8de96ce364b28",
