@@ -5,7 +5,7 @@
       "name": "makeFile",
       "type": "Template",
       "command": true,
-      "templatePath": "Resources/Templates/EmptyNote.md",
+      "templatePath": "System/Templates/EmptyNote.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE}}"

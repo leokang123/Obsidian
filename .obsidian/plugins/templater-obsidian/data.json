@@ -16,15 +16,15 @@
   "folder_templates": [
     {
       "folder": "Tasks",
-      "template": "Resources/Templates/Task.md"
+      "template": "System/Templates/Task.md"
     },
     {
       "folder": "Studied",
-      "template": "Resources/Templates/파일.md"
+      "template": "System/Templates/파일.md"
     },
     {
       "folder": "Pages",
-      "template": "Resources/Templates/대시보드.md"
+      "template": "System/Templates/대시보드.md"
     }
   ],
   "syntax_highlighting": true,

@@ -6,8 +6,6 @@ type command
 
 action QuickAdd: makeFile
 
-class makeFileInDataview
-
 ```
 
 ^button-makeFileInDataview
