@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5204b1d547dfcaf",
+        "id": "d1a7665315448301",
         "type": "tabs",
         "children": [
           {
-            "id": "e7530feabb6925d8",
+            "id": "77d8de96ce364b28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "e7530feabb6925d8",
+  "active": "77d8de96ce364b28",
   "lastOpenFiles": [
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",

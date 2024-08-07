@@ -8,7 +8,6 @@ const makeSubject = (input) => {
 
 const makeSubjectTag = (input) => {
   const subject = makeSubject(input);
-  if (subject === 'Default') return '#Default';
   return `#${subject}`;
 };
 

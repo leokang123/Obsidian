@@ -4,7 +4,7 @@ cssclasses:
   - wide-page
 주제: 
 생성일: 일요일, 7월 21일 2024, 3:45:12 오후
-수정일:  2024년 08월 06일 오전 11시 31분
+수정일:  2024년 08월 07일 오후 12시 20분
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
 ---
@@ -127,7 +127,7 @@ const calendarData = {
 }
 // log에 기록한 데이터 기반으로 마킹한다 
 // 따라서 잘못 추가한 파일은 로그에서 수동으로 지워줘야 한다
-const logPath = 'Resources/Log/log.md';
+const logPath = 'System/Log/log.md';
 const fileContents = await dv.io.load(logPath);
 const bracketPattern = /\[(.*?)\]/g; // 정규 표현식을 사용하여 대괄호 사이의 모든 정보 추출 
 const matches = fileContents.match(bracketPattern); 
