@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "(옵시디언) 모바일 동기화",
-      "path": "Studied/(옵시디언) 모바일 동기화.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
@@ -17,16 +9,24 @@
       "path": "System/Log/log.md"
     },
     {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(자바스크립트) 코드컨벤션 ",
+      "path": "Studied/(자바스크립트) 코드컨벤션 .md"
+    },
+    {
+      "basename": "(옵시디언) 모바일 동기화",
+      "path": "Studied/(옵시디언) 모바일 동기화.md"
+    },
+    {
       "basename": "(옵시디언) 꾸미기프로젝트",
       "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
     },
     {
       "basename": "(옵시디언) 신기한 옵시디언 문법",
       "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
-    },
-    {
-      "basename": "(자바스크립트) 코드컨벤션 ",
-      "path": "Studied/(자바스크립트) 코드컨벤션 .md"
     },
     {
       "basename": "2024-08-07",
