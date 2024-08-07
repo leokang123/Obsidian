@@ -22,5 +22,8 @@
   "things-style@@h3-color": "#EEE9D6",
   "things-style@@h2-color": "#EEE9D6",
   "things-style@@h1-color": "#EEE9D6",
-  "things-style@@h6-color": "#E5B567"
+  "things-style@@h6-color": "#E5B567",
+  "things-style@@em-color": "#D2B5C0",
+  "things-style@@mobile-black-background": false,
+  "things-style@@code-color-d": "#376496"
 }

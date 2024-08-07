@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d0a7bc78b3c8231d",
+        "id": "01d35a0ed9a54590",
         "type": "tabs",
         "children": [
           {
-            "id": "8ca4099263727920",
+            "id": "4f1d85c5bde5f6e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(자바스크립트) 코드컨벤션 .md",
-                "mode": "source",
+                "file": "Pages/Home.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d5422bc307a04280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 모바일 동기화.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(자바스크립트) 코드컨벤션 .md",
+                "file": "Studied/(옵시디언) 모바일 동기화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(자바스크립트) 코드컨벤션 .md",
+                "file": "Studied/(옵시디언) 모바일 동기화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(자바스크립트) 코드컨벤션 .md"
+                "file": "Studied/(옵시디언) 모바일 동기화.md"
               }
             }
           }
@@ -159,12 +172,24 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "8ca4099263727920",
+  "active": "d5422bc307a04280",
   "lastOpenFiles": [
     "Pages/Home.md",
-    "Studied/(자바스크립트) 코드컨벤션 .md",
-    "Studied/(asd) asd 1.md",
+    "Studied/(옵시디언) 모바일 동기화.md",
     "System/Log/log.md",
+    "Pages/공부.md",
+    "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Resources/Attachments/Pasted image 20240808013150.png",
+    "Resources/Attachments/Pasted image 20240808013125.png",
+    "Resources/Attachments/Pasted image 20240808013106.png",
+    "Resources/Attachments/Pasted image 20240808012915.png",
+    "Resources/Attachments/IMG_3995.png",
+    "Resources/Attachments/IMG_3996.png",
+    "Resources/Attachments/스크린샷 2024-08-08 오전 1.23.26.png",
+    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+    "Studied/(자바스크립트) 코드컨벤션 .md",
+    "Studied/==.md",
+    "Studied/(asd) asd 1.md",
     "Tasks/2024-08-07.md",
     "Tasks/2024-08-06.md",
     "Studied/ads asd 1.md",
@@ -172,12 +197,9 @@
     "Studied/(gkasd) asd 1.md",
     "Studied/(asd) asd 2.md",
     "System/Buttons/makeFileInDataview.md",
-    "Pages/공부.md",
     "System/Buttons/addproject.md",
     "System/Buttons",
     "Studied/(옵시디언) 옵시디언 css 설정.md",
-    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
-    "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(정규표현식) 정규표현식 1.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
@@ -194,9 +216,6 @@
     "System/Templates/파일.md",
     "System/Templates/대시보드.md",
     "System/Templates/무제 파일.md",
-    "System/Templates/Task.md",
-    "System/Templates/Multi-Column-DataView.md",
-    "System/Templates/Multi-Column.md",
     "Resources/Attachments/Pasted image 20240807111023.png",
     "Resources/Background/yort.jpg",
     "Resources/Canvas/무제 파일.canvas",

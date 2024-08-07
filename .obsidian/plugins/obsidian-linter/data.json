@@ -183,7 +183,7 @@
       "tabsize": ""
     },
     "empty-line-around-blockquotes": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-code-fences": {
       "enabled": true

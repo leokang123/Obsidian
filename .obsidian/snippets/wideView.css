@@ -111,6 +111,9 @@ body .wide-page {
   margin: 1rem 0 1rem 0 !important;
 }
 
+.wide-page code {
+  color: rgb(95, 187, 233);
+}
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */
