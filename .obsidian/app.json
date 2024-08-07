@@ -13,7 +13,7 @@
   "showInlineTitle": false,
   "foldHeading": true,
   "foldIndent": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showIndentGuide": true,
   "rightToLeft": false,
   "spellcheck": true,

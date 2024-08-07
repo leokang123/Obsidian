@@ -22,6 +22,27 @@ banner_y: 0.49584
 - #### [[대학교]]
 ![[대학교]]
 
+  
+
+
+Bananas Have: 5
+
+Bananas Lost: 5
+
+```button
+
+name How Many Bananas Today?
+
+type calculate
+
+action $30 - $32
+
+color yellow
+
+```
+
+
+
 ## 작업
 
 > [!multi-column]
