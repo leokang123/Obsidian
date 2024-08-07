@@ -42,8 +42,8 @@ banner_y: 0.49584
 > ~~~ dataview
 >TABLE WITHOUT ID  
 >link(file.path,file.name) AS " 최근이용 :LiTimer:",  
->dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""  
->FROM "Studied"  
+>dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""
+> FROM “Studied”
 >SORT file.mtime DESC  
 >LIMIT 15
 >  ~~~

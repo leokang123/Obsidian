@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbfae5095b204981",
+        "id": "8de769969193c2ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ae37ca2c6ab927ce",
+            "id": "4928f2610b3d5661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Pages/Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -159,10 +159,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "ae37ca2c6ab927ce",
+  "active": "4928f2610b3d5661",
   "lastOpenFiles": [
-    "System/Log/log.md",
+    "Tasks/2024-08-07.md",
+    "Tasks/2024-08-06.md",
     "Pages/Home.md",
+    "System/Log/log.md",
+    "Studied/ads asd 1.md",
+    "Pages/무제 파일.md",
     "Studied/(gkasd) asd 1.md",
     "Studied/(asd) asd 1.md",
     "Studied/(asd) asd 2.md",
@@ -176,7 +180,6 @@
     "Studied/(정규표현식) 정규표현식 1.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
-    "Tasks/2024-08-06.md",
     "Studied/(새파일) 테스트.md",
     "Resources/Scripts/makeSubject.js",
     "Resources/Scripts",
@@ -194,9 +197,6 @@
     "System/Templates/Multi-Column-DataView.md",
     "System/Templates/Multi-Column.md",
     "System/Templates/List-grid.md",
-    "System/Templates/List-card.md",
-    "System/Templates/EmptyNote.md",
-    "System/Templates/DataView.md",
     "Resources/Attachments/Pasted image 20240807111023.png",
     "Resources/Background/yort.jpg",
     "Resources/Canvas/무제 파일.canvas",
