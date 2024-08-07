@@ -1,14 +1,23 @@
 // import 안된단다 여기선
 const makeSubject = (input) => {
   const str = input.trim();
-  const matchStr = str.match(/\((.*)\)/);
+  const matchStr = str.match(/^\((.*)\)/g);
+  if (!matchStr) return 'Default';
 
-  return matchStr ? matchStr[1].replaceAll(' ', '') : 'Default';
+  const matchArr = matchStr[0].split(' ');
+  const filteredSubject = matchArr.map((p) => {
+    const tmp = p.slice(1, p.length - 1);
+    return tmp.replaceAll(' ', '');
+  });
+  return filteredSubject;
 };
 
 const makeSubjectTag = (input) => {
   const subject = makeSubject(input);
-  return `#${subject}`;
+  const makeTag = subject.map((p) => `#${p}`).join(' ');
+  return makeTag;
 };
 
 module.exports = makeSubjectTag;
+
+console.log(makeSubjectTag('(대학교)  1교시'));

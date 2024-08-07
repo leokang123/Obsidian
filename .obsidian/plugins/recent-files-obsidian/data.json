@@ -5,16 +5,24 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "(옵시디언) 모바일 동기화",
+      "path": "Studied/(옵시디언) 모바일 동기화.md"
+    },
+    {
       "basename": "log",
       "path": "System/Log/log.md"
     },
     {
-      "basename": "2024-08-07",
-      "path": "Tasks/2024-08-07.md"
-    },
-    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "2024-08-07",
+      "path": "Tasks/2024-08-07.md"
     },
     {
       "basename": "(Clojure) 클로저 시작하기 1",
@@ -27,10 +35,6 @@
     {
       "basename": "(옵시디언) 꾸미기프로젝트",
       "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
-    },
-    {
-      "basename": "(옵시디언) 모바일 동기화",
-      "path": "Studied/(옵시디언) 모바일 동기화.md"
     },
     {
       "basename": "(옵시디언) 자동화프로젝트",
@@ -71,10 +75,6 @@
     {
       "basename": "(정규표현식) 정규표현식 1",
       "path": "Studied/(정규표현식) 정규표현식 1.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "이름 없는 보드 2",
