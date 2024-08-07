@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a9a6796ca53538",
+        "id": "7f6b39be1121de52",
         "type": "tabs",
         "children": [
           {
-            "id": "11bfcda8c132dba3",
+            "id": "1a57130336b7bbdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "bb8d70e8224d395d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(asd) asd 1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(asd) asd 1.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(asd) asd 1.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(asd) asd 1.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -172,9 +159,11 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "bb8d70e8224d395d",
+  "active": "1a57130336b7bbdc",
   "lastOpenFiles": [
+    "Studied/(asd) asd 2.md",
     "Pages/Home.md",
+    "Studied/(gkasd) asd 1.md",
     "Studied/(asd) asd 1.md",
     "System/Buttons/makeFileInDataview.md",
     "Pages/공부.md",
@@ -208,8 +197,6 @@
     "System/Templates/List-card.md",
     "System/Templates/EmptyNote.md",
     "System/Templates/DataView.md",
-    "Resources/Templates/무제 파일.md",
-    "Pages/네이버.md",
     "Resources/Attachments/Pasted image 20240807111023.png",
     "Resources/Background/yort.jpg",
     "Resources/Canvas/무제 파일.canvas",
