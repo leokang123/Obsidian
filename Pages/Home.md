@@ -29,23 +29,22 @@ banner_y: 0.49584
 > [!multi-column]
 > 
 > ```ad-blue
-> ~~~ dataview  
->TABLE WITHOUT ID  
->link(file.path,file.name) AS " 학습정리 :LiBookCheck: ",  
->dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""  
->FROM #학습정리 AND "Studied"  
->SORT 주제, series
->~~~
-> ```
-> 
-> ```ad-pink
 >~~~ dataview
 > TABLE WITHOUT ID
 > link(file.path,file.name) AS " 최근이용 :LiTimer:",  
 > dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""
 > FROM "Studied" or "Tasks"
 > SORT file.mtime DESC 
->LIMIT 15
+>LIMIT 10
+> ~~~
+> ```
+> 
+> ```ad-purple
+> title: ToDo List
+> ~~~ tasks  
+> path includes task  
+> not done  
+> short mode  
 > ~~~
 > ```
 

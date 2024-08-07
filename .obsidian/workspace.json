@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c67b700e1ebf3894",
+        "id": "e1bcaae5609a276a",
         "type": "tabs",
         "children": [
           {
-            "id": "9fcd6476365525c2",
+            "id": "32cf0544a11dcac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ea96bc6c6cff434e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Log/log.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Log/log.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Log/log.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Log/log.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -172,14 +159,30 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "ea96bc6c6cff434e",
+  "active": "32cf0544a11dcac1",
   "lastOpenFiles": [
-    "Pages/Home.md",
-    "Pages/공부.md",
-    "Studied/(자바스크립트) 코드컨벤션 .md",
-    "Studied/(옵시디언) 모바일 동기화.md",
     "System/Log/log.md",
+    "Pages/Home.md",
+    "Tasks/2024-08-07.md",
+    "Pages/공부.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Studied/(옵시디언) 모바일 동기화.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+    "Tasks/2024-08-08.md",
+    "System/Templates/Task.md",
+    "System/Templates/Multi-Column-DataView.md",
+    "Tasks/2024-08-09.md",
+    "Tasks/2024-08-10.md",
+    "System/Templates/<% tp.user.getTomorrow(tp.file.name) %>.md",
+    "System/Scripts/getTomorrow.js",
+    "System/Scripts/getYesterday.js",
+    "System/Templates/<% tp.date.tomorrow(\"YYYY-MM-DD\") %>.md",
+    "Pages/대학교.md",
+    "Tasks/2024-08-06.md",
+    "Studied/(자바스크립트) 코드컨벤션 .md",
     "Resources/Attachments/Pasted image 20240808013150.png",
     "Resources/Attachments/Pasted image 20240808013125.png",
     "Resources/Attachments/Pasted image 20240808013106.png",
@@ -187,23 +190,13 @@
     "Resources/Attachments/IMG_3995.png",
     "Resources/Attachments/IMG_3996.png",
     "Resources/Attachments/스크린샷 2024-08-08 오전 1.23.26.png",
-    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Studied/==.md",
     "Studied/(asd) asd 1.md",
-    "Tasks/2024-08-07.md",
-    "Tasks/2024-08-06.md",
     "Studied/ads asd 1.md",
     "Pages/무제 파일.md",
     "Studied/(gkasd) asd 1.md",
     "Studied/(asd) asd 2.md",
-    "System/Buttons/makeFileInDataview.md",
-    "System/Buttons/addproject.md",
     "System/Buttons",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
-    "Studied/(정규표현식) 정규표현식 1.md",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
-    "Studied/(새파일) 테스트.md",
     "Resources/Scripts/makeSubject.js",
     "Resources/Scripts",
     "System/Fonts/나눔손글씨 성실체.ttf",
@@ -211,11 +204,6 @@
     "System/Fonts",
     "System/Log",
     "System/Scripts/getRidSubjectTitle.js",
-    "System/Scripts/makeSubjectTag.js",
-    "System/Scripts/getSeriesAndRandomBanner.js",
-    "System/Templates/파일.md",
-    "System/Templates/대시보드.md",
-    "System/Templates/무제 파일.md",
     "Resources/Attachments/Pasted image 20240807111023.png",
     "Resources/Background/yort.jpg",
     "Resources/Canvas/무제 파일.canvas",

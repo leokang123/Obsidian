@@ -4,8 +4,8 @@
       "type": "cyan",
       "color": "0, 255, 238",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -14,10 +14,10 @@
     },
     "pink": {
       "type": "pink",
-      "color": "255, 0, 187",
+      "color": "247, 120, 213",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -26,10 +26,10 @@
     },
     "green": {
       "type": "green",
-      "color": "0, 255, 51",
+      "color": "122, 255, 149",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -38,10 +38,10 @@
     },
     "red": {
       "type": "red",
-      "color": "255, 0, 0",
+      "color": "251, 111, 111",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -50,10 +50,10 @@
     },
     "yellow": {
       "type": "yellow",
-      "color": "255, 247, 0",
+      "color": "253, 248, 119",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -62,10 +62,10 @@
     },
     "orange": {
       "type": "orange",
-      "color": "255, 136, 0",
+      "color": "248, 185, 114",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -74,10 +74,10 @@
     },
     "purple": {
       "type": "purple",
-      "color": "128, 0, 255",
+      "color": "173, 105, 242",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -86,10 +86,10 @@
     },
     "blue": {
       "type": "blue",
-      "color": "0, 98, 255",
+      "color": "102, 157, 244",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -100,8 +100,8 @@
       "type": "white",
       "color": "255, 255, 255",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
@@ -112,8 +112,8 @@
       "type": "black",
       "color": "#7d7d7d",
       "icon": {
-        "name": "lucide-badge-alert",
-        "type": "obsidian"
+        "name": "adjust",
+        "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,

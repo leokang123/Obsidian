@@ -3,8 +3,8 @@
 cssclasses:
   - wide-page
 생성일: 2024-08-04 23:57
-수정일:  2024년 08월 07일 오후 12시 44분
-series: 1
+수정일:  2024년 08월 08일 오전 03시 32분
+series: 2
 banner: "![[milkyway.jpg]]"
 banner_y: 0.536
 tags: [옵시디언, 학습정리]

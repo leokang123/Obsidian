@@ -8,12 +8,12 @@ banner_y: 0.088
 <%* tp.user.makeLogData(tp.file.path(), tp.file.title) %>
 #데일리노트
 
-# {{date}}
+# <% tp.file.title %>
 
 - [ ] TBU
 - [ ] TBU
 
-[[<% tp.date.yesterday("YYYY-MM-DD") %>|< 전날]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>|다음날 >]]
+[[<% tp.user.getYesterday(tp.file.title) %>|< 전날]] | [[<% tp.user.getTomorrow(tp.file.title) %>|다음날 >]]
 
 ---
 
