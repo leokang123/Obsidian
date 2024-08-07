@@ -4,8 +4,8 @@
       "type": "cyan",
       "color": "0, 255, 238",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
@@ -16,8 +16,8 @@
       "type": "pink",
       "color": "255, 0, 187",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
@@ -28,8 +28,8 @@
       "type": "green",
       "color": "0, 255, 51",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
@@ -40,8 +40,8 @@
       "type": "red",
       "color": "255, 0, 0",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
@@ -52,8 +52,8 @@
       "type": "yellow",
       "color": "255, 247, 0",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
@@ -64,8 +64,8 @@
       "type": "orange",
       "color": "255, 136, 0",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
@@ -76,8 +76,8 @@
       "type": "purple",
       "color": "128, 0, 255",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
@@ -88,8 +88,8 @@
       "type": "blue",
       "color": "0, 98, 255",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
@@ -100,8 +100,8 @@
       "type": "white",
       "color": "255, 255, 255",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "name": "lucide-badge-alert",
+        "type": "obsidian"
       },
       "command": false,
       "injectColor": true,
