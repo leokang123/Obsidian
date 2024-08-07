@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e74c5949a9cf4185",
+        "id": "f12df37dbbf60428",
         "type": "tabs",
         "children": [
           {
-            "id": "b52efd8bfc913d09",
+            "id": "de50dc958412f723",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "b52efd8bfc913d09",
+  "active": "de50dc958412f723",
   "lastOpenFiles": [
     "Resources/Log/log.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
