@@ -35,9 +35,9 @@
       "text-to-insert": "aliases: \ntags: "
     },
     "move-tags-to-yaml": {
-      "enabled": false,
+      "enabled": true,
       "how-to-handle-existing-tags": "Nothing",
-      "tags-to-ignore": ""
+      "tags-to-ignore": "mcl/list-card\nmcl/list-grid"
     },
     "remove-yaml-keys": {
       "enabled": false,
@@ -269,7 +269,12 @@
   "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "Pages",
+    "System",
+    "Resources",
+    ""
+  ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
