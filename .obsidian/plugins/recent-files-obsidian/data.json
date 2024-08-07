@@ -5,16 +5,16 @@
       "path": "Studied/(옵시디언) 모바일 동기화.md"
     },
     {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
       "basename": "log",
       "path": "System/Log/log.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
     },
     {
       "basename": "(옵시디언) 꾸미기프로젝트",
