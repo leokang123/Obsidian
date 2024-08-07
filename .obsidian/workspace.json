@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a7fa0691f1d5b77",
+        "id": "a5ad50adc5b58b09",
         "type": "tabs",
         "children": [
           {
-            "id": "939942759178422d",
+            "id": "403ac42225698c16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,8 +159,9 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "939942759178422d",
+  "active": "403ac42225698c16",
   "lastOpenFiles": [
+    "Resources/Templates/무제 파일.md",
     "Pages/네이버.md",
     "Studied/(새파일) 테스트.md",
     "Pages/Home.md",
@@ -192,7 +193,6 @@
     "Resources/Background/yort.jpg",
     "Tasks",
     "Pages/무제 파일.md",
-    "2024-08-06.md",
     "Resources/Kanban",
     "Resources/Canvas/무제 파일.canvas",
     "Resources/Canvas/무제 파일 1.canvas",
