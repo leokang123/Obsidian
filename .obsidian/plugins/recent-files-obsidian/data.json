@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "(새파일) 테스트",
+      "path": "Studied/(새파일) 테스트.md"
+    },
+    {
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
     },
     {
       "basename": "(옵시디언) 신기한 옵시디언 문법",
@@ -83,10 +91,6 @@
     {
       "basename": "Multi-Column-DataView",
       "path": "Resources/Templates/Multi-Column-DataView.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "대학교",
