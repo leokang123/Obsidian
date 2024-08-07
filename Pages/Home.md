@@ -22,31 +22,12 @@ banner_y: 0.49584
 - #### [[대학교]]
 ![[대학교]]
 
-  
-
-
-Bananas Have: 5
-
-Bananas Lost: 5
-
-```button
-
-name How Many Bananas Today?
-
-type calculate
-
-action $30 - $32
-
-color yellow
-
-```
-
 
 
 ## 작업
 
 > [!multi-column]
->
+> 
 > ```ad-blue
 > ~~~ dataview  
 >TABLE WITHOUT ID  
@@ -56,6 +37,7 @@ color yellow
 >SORT 주제, series
 >~~~
 > ```
+> 
 > ```ad-pink
 > ~~~ dataview
 >TABLE WITHOUT ID  
@@ -64,8 +46,13 @@ color yellow
 >FROM "Studied"  
 >SORT file.mtime DESC  
 >LIMIT 15
->~~~
+>  ~~~
 > ```
+
+~~~ button 
+id makeFileInDataview
+color green
+~~~
 
 ## 파일 관리 방식
 

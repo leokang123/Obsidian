@@ -111,6 +111,14 @@ body .wide-page {
   margin: 1rem 0 1rem 0 !important;
 }
 
+.wide-page #makeFileInDataview {
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  position: absolute;
+  width: var(--file-line-width);
+}
+
 /* -- 내 커스텀 wide-page 속성 끝-- */
 
 /* -- Special adjustment for Community Themes */

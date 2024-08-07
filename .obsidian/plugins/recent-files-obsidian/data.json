@@ -5,16 +5,24 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "makeFileInDataview",
+      "path": "System/Buttons/makeFileInDataview.md"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
+    },
+    {
       "basename": "(옵시디언) 신기한 옵시디언 문법",
       "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
     {
       "basename": "(옵시디언) 꾸미기프로젝트",
       "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
-    },
-    {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
     },
     {
       "basename": "(정규표현식) 정규표현식 1",
@@ -43,10 +51,6 @@
     {
       "basename": "Drawing 2024-08-05 14.36.37.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
     },
     {
       "basename": "대학교",
