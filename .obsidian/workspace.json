@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69cf50466bb4c8bb",
+        "id": "7a7a6417490abe8f",
         "type": "tabs",
         "children": [
           {
-            "id": "8878ca98d70008c8",
+            "id": "b4c8d4519d4a010f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "77daa229d451d88c",
+  "active": "b4c8d4519d4a010f",
   "lastOpenFiles": [
     "Studied/(asd) asd 1.md",
     "Pages/Home.md",
