@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "943c5f9c48f7b180",
+        "id": "998152b50313cad4",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f20195cc118ca4",
+            "id": "dce6edcd51751d22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "d8f20195cc118ca4",
+  "active": "dce6edcd51751d22",
   "lastOpenFiles": [
     "Studied/(옵시디언) 모바일 동기화.md",
     "System/Log/log.md",
