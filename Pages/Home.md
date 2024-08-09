@@ -166,3 +166,4 @@ for (let dateInfo of Object.entries(lengthObj)) {
 // Render the heatmap calendar using the populated calendarData
 renderHeatmapCalendar(this.container, calendarData)
 ~~~
+

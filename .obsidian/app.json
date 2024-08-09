@@ -1,0 +1,27 @@
+{
+  "attachmentFolderPath": "Resources/Attachments",
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "newFileLocation": "current",
+  "trashOption": "local",
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": false,
+  "promptDelete": false,
+  "showRibbon": true,
+  "showInlineTitle": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
