@@ -119,6 +119,17 @@
       "injectColor": true,
       "noTitle": true,
       "copy": false
+    },
+    "multi-column": {
+      "type": "multi-column",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "angle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

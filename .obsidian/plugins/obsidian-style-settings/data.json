@@ -27,5 +27,6 @@
   "things-style@@mobile-black-background": false,
   "things-style@@code-color-d": "#376496",
   "things-style@@h4-weight": 400,
-  "things-style@@h5-weight": 400
+  "things-style@@h5-weight": 400,
+  "things-style@@quote-color": "#CACCCC"
 }
