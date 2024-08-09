@@ -130,6 +130,17 @@
       "command": false,
       "injectColor": true,
       "noTitle": false
+    },
+    "grey": {
+      "type": "grey",
+      "color": "145, 141, 141",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,
