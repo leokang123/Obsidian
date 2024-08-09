@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "998152b50313cad4",
+        "id": "b47ff235b1df24e1",
         "type": "tabs",
         "children": [
           {
-            "id": "dce6edcd51751d22",
+            "id": "d37f609719fd55dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,13 +159,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "dce6edcd51751d22",
+  "active": "d37f609719fd55dc",
   "lastOpenFiles": [
+    "Tasks/2024-08-08.md",
+    "Pages/Home.md",
     "Studied/(옵시디언) 모바일 동기화.md",
     "System/Log/log.md",
     "Studied/(대학교) (객체지향론) 디자인패턴 2.md",
     "Studied/(대학교) (객체지향론) 솔리드 원칙.md",
-    "Pages/Home.md",
     "Pages/공부.md",
     "Pages/네이버.md",
     "Tasks/2024-08-07.md",
@@ -174,7 +175,6 @@
     "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
-    "Tasks/2024-08-08.md",
     "System/Templates/Task.md",
     "System/Templates/Multi-Column-DataView.md",
     "Tasks/2024-08-09.md",

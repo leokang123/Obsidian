@@ -44,6 +44,7 @@ banner_y: 0.49584
 > ~~~ tasks  
 > path includes task  
 > not done  
+> tag include #todo
 > short mode  
 > ~~~
 > ```

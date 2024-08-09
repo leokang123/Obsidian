@@ -5,6 +5,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "2024-08-08",
+      "path": "Tasks/2024-08-08.md"
+    },
+    {
       "basename": "(옵시디언) 모바일 동기화",
       "path": "Studied/(옵시디언) 모바일 동기화.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "(옵시디언) 신기한 옵시디언 문법",
       "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
-    },
-    {
-      "basename": "2024-08-08",
-      "path": "Tasks/2024-08-08.md"
     },
     {
       "basename": "Task",
