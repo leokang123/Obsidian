@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd75041f2cf88ec0",
+        "id": "6341d85079d2d60c",
         "type": "tabs",
         "children": [
           {
-            "id": "1f02f5dcfb3106ed",
+            "id": "1e54db4a76fdcafc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ce14fffa4d795483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mcl",
+                "query": "tag:#로그래밍",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md"
               }
             }
           }
@@ -159,12 +172,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "1f02f5dcfb3106ed",
+  "active": "ce14fffa4d795483",
   "lastOpenFiles": [
-    "Tasks/2024-08-08.md",
     "Pages/Home.md",
-    "Studied/(옵시디언) 모바일 동기화.md",
+    "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
     "System/Log/log.md",
+    "Studied/asd asd 1.md",
+    "System/Templates/파일.md",
+    "Studied/(함수형 프로그래밍) 함수형프로그래밍이란.md",
+    "Tasks/2024-08-08.md",
+    "Studied/(옵시디언) 모바일 동기화.md",
     "Studied/(대학교) (객체지향론) 디자인패턴 2.md",
     "Studied/(대학교) (객체지향론) 솔리드 원칙.md",
     "Pages/공부.md",
@@ -185,7 +202,6 @@
     "System/Templates/<% tp.date.tomorrow(\"YYYY-MM-DD\") %>.md",
     "Pages/대학교.md",
     "Tasks/2024-08-06.md",
-    "Studied/(자바스크립트) 코드컨벤션 .md",
     "Resources/Attachments/Pasted image 20240808013150.png",
     "Resources/Attachments/Pasted image 20240808013125.png",
     "Resources/Attachments/Pasted image 20240808013106.png",
@@ -193,9 +209,6 @@
     "Resources/Attachments/IMG_3995.png",
     "Resources/Attachments/IMG_3996.png",
     "Resources/Attachments/스크린샷 2024-08-08 오전 1.23.26.png",
-    "Studied/==.md",
-    "Studied/(asd) asd 1.md",
-    "Studied/ads asd 1.md",
     "System/Buttons",
     "Resources/Scripts/makeSubject.js",
     "Resources/Scripts",
