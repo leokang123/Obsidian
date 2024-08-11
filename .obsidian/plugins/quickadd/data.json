@@ -38,7 +38,7 @@
       "templatePath": "System/Templates/대학파일.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{VALUE}}"
+        "format": "(대학교) {{VALUE}}"
       },
       "folder": {
         "enabled": true,
