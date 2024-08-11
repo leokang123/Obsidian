@@ -19,10 +19,6 @@
       "template": "System/Templates/Task.md"
     },
     {
-      "folder": "Studied",
-      "template": "System/Templates/파일.md"
-    },
-    {
       "folder": "Pages",
       "template": "System/Templates/대시보드.md"
     }

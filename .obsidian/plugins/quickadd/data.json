@@ -5,7 +5,37 @@
       "name": "makeFile",
       "type": "Template",
       "command": true,
-      "templatePath": "System/Templates/EmptyNote.md",
+      "templatePath": "System/Templates/파일.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Studied"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "b746e7eb-8a3e-4088-80c5-17842bd2212b",
+      "name": "makeUnivFile",
+      "type": "Template",
+      "command": true,
+      "templatePath": "System/Templates/대학파일.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE}}"
@@ -34,7 +64,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "Resources/Templates",
+  "templateFolderPath": "System/Templates",
   "announceUpdates": true,
   "version": "1.11.0",
   "disableOnlineFeatures": true,

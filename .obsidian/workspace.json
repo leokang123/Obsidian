@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3759ce8ace1c533",
+        "id": "504cd2ebada91b10",
         "type": "tabs",
         "children": [
           {
-            "id": "d6bd99d744f5a9a8",
+            "id": "de2edd04ef65d5bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "b7ebd5bb5b3e4af3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/대학교.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/대학교.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/대학교.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/대학교.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -172,46 +159,45 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "b7ebd5bb5b3e4af3",
+  "active": "de2edd04ef65d5bc",
   "lastOpenFiles": [
-    "Studied/(대학교) (객체지향) 두번째 수업 2.md",
-    "Pages/대학교.md",
+    "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md",
+    "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
     "Pages/Home.md",
     "Pages/공부.md",
-    "Studied/(대학교) (객체지향) 첫수업 1.md",
-    "Studied/(대학교) (암호학) 첫수업 1.md",
-    "Studied/(대학교) (객체지향) 세번째 수업 3.md",
-    "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
+    "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Resources/Excaldraw/Drawing 2024-08-11 19.03.12.excalidraw.md",
+    "Resources/Background/library.jpg",
+    "Resources/Background/programming.jpg",
+    "Resources/Background/sunsetSeaSurfing.jpg",
+    "Resources/Background/trumpCard.jpg",
+    "Studied/(자바스크립트) 코드컨벤션 .md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
     "System/Log/log.md",
-    "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
-    "Tasks/2024-08-09.md",
+    "Studied/(정규표현식) 정규표현식 1.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
+    "Studied/(정규표현식) 정규표현식이란 3.md",
+    "Studied/(대학교) (객체지향 세번째 수업 3.md",
+    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
+    "Studied/(대학교) (정규표현식) 정규표현식이란 1.md",
+    "Studied/(객체지향) 첫수업 1.md",
+    "Resources/Background/niceMountainView.jpg",
+    "Pages/대학교.md",
+    "Studied/(대학교) (암호학) 첫수업 1.md",
+    "Studied/(대학교) (객체지향) 두번째 수업 2.md",
+    "Tasks/2024-08-06.md",
+    "Tasks/2024-08-07.md",
+    "Tasks/2024-08-08.md",
+    "System/Templates/파일.md",
     "Resources/Attachments/Pasted image 20240809164046.png",
     "Resources/Attachments/Pasted image 20240809163339.png",
     "Resources/Attachments/Pasted image 20240809162620.png",
-    "Studied/asd asd 1.md",
-    "System/Templates/파일.md",
-    "Studied/(함수형 프로그래밍) 함수형프로그래밍이란.md",
-    "Tasks/2024-08-08.md",
-    "Studied/(옵시디언) 모바일 동기화.md",
-    "Studied/(대학교) (객체지향론) 디자인패턴 2.md",
-    "Studied/(대학교) (객체지향론) 솔리드 원칙.md",
-    "Pages/네이버.md",
-    "Tasks/2024-08-07.md",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
-    "Studied/(옵시디언) 꾸미기프로젝트.md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
-    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
-    "System/Templates/Task.md",
     "System/Scripts/getTomorrow.js",
     "System/Scripts/getYesterday.js",
     "Resources/Attachments/Pasted image 20240808013150.png",
     "Resources/Attachments/Pasted image 20240808013125.png",
-    "Resources/Attachments/Pasted image 20240808013106.png",
-    "Resources/Attachments/Pasted image 20240808012915.png",
-    "Resources/Attachments/IMG_3995.png",
-    "Resources/Attachments/IMG_3996.png",
-    "Resources/Attachments/스크린샷 2024-08-08 오전 1.23.26.png",
     "System/Buttons",
     "Resources/Scripts/makeSubject.js",
     "Resources/Scripts",
