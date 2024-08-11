@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "공부",
+      "path": "Pages/공부.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(대학교) (캡스톤 디자인) 첫번째 설계 1",
+      "path": "Studied/(대학교) (캡스톤 디자인) 첫번째 설계 1.md"
+    },
+    {
+      "basename": "(대학교) (데이터 통신) 두번쨰 수업 2",
+      "path": "Studied/(대학교) (데이터 통신) 두번쨰 수업 2.md"
+    },
+    {
+      "basename": "(대학교) (모바일 컴퓨팅) 첫번째 수업 1",
+      "path": "Studied/(대학교) (모바일 컴퓨팅) 첫번째 수업 1.md"
+    },
+    {
+      "basename": "(대학교) (암호학) 첫번째 수업 1",
+      "path": "Studied/(대학교) (암호학) 첫번째 수업 1.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "대학파일",
+      "path": "System/Templates/대학파일.md"
+    },
+    {
+      "basename": "(대학교) (데이터 통신) 두번째 수업 2",
+      "path": "Studied/(대학교) (데이터 통신) 두번째 수업 2.md"
+    },
+    {
+      "basename": "(대학교) (데이터 통신) 첫번쨰 수업 1",
+      "path": "Studied/(대학교) (데이터 통신) 첫번쨰 수업 1.md"
+    },
+    {
+      "basename": "(대학교) (객체지향) 첫번째수업 1",
+      "path": "Studied/(대학교) (객체지향) 첫번째수업 1.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "System/Templates/대시보드.md"
     },
     {
       "basename": "(대학교) (객체지향) 첫번째 수업 1",
@@ -17,12 +57,24 @@
       "path": "System/Log/log.md"
     },
     {
+      "basename": "(옵시디언) 꾸미기프로젝트",
+      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
+    },
+    {
       "basename": "파일",
       "path": "System/Templates/파일.md"
     },
     {
-      "basename": "대학파일",
-      "path": "System/Templates/대학파일.md"
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
+    },
+    {
+      "basename": "(옵시디언) 신기한 옵시디언 문법",
+      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
     },
     {
       "basename": "Pasted image 20240805012533",
@@ -33,20 +85,8 @@
       "path": "Studied/(옵시디언) 모바일 동기화.md"
     },
     {
-      "basename": "(옵시디언) 꾸미기프로젝트",
-      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
-    },
-    {
       "basename": "(옵시디언) 자동화프로젝트",
       "path": "Studied/(옵시디언) 자동화프로젝트.md"
-    },
-    {
-      "basename": "(옵시디언) 신기한 옵시디언 문법",
-      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
     },
     {
       "basename": "(함수형 프로그래밍) 함수형 프로그래밍이란",
@@ -59,10 +99,6 @@
     {
       "basename": "(자바스크립트) 코드컨벤션 ",
       "path": "Studied/(자바스크립트) 코드컨벤션 .md"
-    },
-    {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
     },
     {
       "basename": "(Clojure) 클로저 시작하기 1",
