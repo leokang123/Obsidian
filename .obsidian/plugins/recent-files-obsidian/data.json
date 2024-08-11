@@ -5,24 +5,92 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "log",
-      "path": "System/Log/log.md"
+      "basename": "(대학교) ㅁㄴㅇ 1",
+      "path": "Studied/(대학교) ㅁㄴㅇ 1.md"
     },
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
+      "basename": "파일",
+      "path": "System/Templates/파일.md"
     },
     {
-      "basename": "Drawing 2024-08-05 14.36.37.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md"
+      "basename": "(정규표현식) 123",
+      "path": "Studied/(정규표현식) 123.md"
+    },
+    {
+      "basename": "(함수형 프로그래밍) 함수형 프로그래밍 2",
+      "path": "Studied/(함수형 프로그래밍) 함수형 프로그래밍 2.md"
+    },
+    {
+      "basename": "(함수형 프로그래밍) 함수형 프로그래밍이란",
+      "path": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md"
     },
     {
       "basename": "(함수형 프로그래밍) 프로그래밍 패러다임",
       "path": "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md"
     },
     {
+      "basename": "(대학교) (암호학) 첫번째 수업 1",
+      "path": "Studied/(대학교) (암호학) 첫번째 수업 1.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(대학교) (객체지향) 첫번째 수업 1",
+      "path": "Studied/(대학교) (객체지향) 첫번째 수업 1.md"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
+      "basename": "makeFileInDataview",
+      "path": "System/Buttons/makeFileInDataview.md"
+    },
+    {
+      "basename": "makeUnivFileInDataView",
+      "path": "System/Buttons/makeUnivFileInDataView.md"
+    },
+    {
       "basename": "(옵시디언) 꾸미기프로젝트",
       "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
+    },
+    {
+      "basename": "(옵시디언) 신기한 옵시디언 문법",
+      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
+    },
+    {
+      "basename": "(옵시디언) 자동화프로젝트",
+      "path": "Studied/(옵시디언) 자동화프로젝트.md"
+    },
+    {
+      "basename": "(정규표현식) 정규표현식 1",
+      "path": "Studied/(정규표현식) 정규표현식 1.md"
+    },
+    {
+      "basename": "(자바스크립트) 코드컨벤션 ",
+      "path": "Studied/(자바스크립트) 코드컨벤션 .md"
+    },
+    {
+      "basename": "(Clojure) 클로저 시작하기 1",
+      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
+    },
+    {
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
+    },
+    {
+      "basename": "(옵시디언) 모바일 동기화",
+      "path": "Studied/(옵시디언) 모바일 동기화.md"
+    },
+    {
+      "basename": "Drawing 2024-08-05 14.36.37.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md"
     },
     {
       "basename": "Drawing 2024-08-11 19.03.12.excalidraw",
@@ -45,36 +113,8 @@
       "path": "Resources/Background/trumpCard.jpg"
     },
     {
-      "basename": "(자바스크립트) 코드컨벤션 ",
-      "path": "Studied/(자바스크립트) 코드컨벤션 .md"
-    },
-    {
-      "basename": "(옵시디언) 자동화프로젝트",
-      "path": "Studied/(옵시디언) 자동화프로젝트.md"
-    },
-    {
-      "basename": "(Clojure) 클로저 시작하기 1",
-      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
-    },
-    {
-      "basename": "(정규표현식) 정규표현식 1",
-      "path": "Studied/(정규표현식) 정규표현식 1.md"
-    },
-    {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
-      "basename": "(함수형 프로그래밍) 함수형 프로그래밍이란",
-      "path": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md"
-    },
-    {
       "basename": "niceMountainView",
       "path": "Resources/Background/niceMountainView.jpg"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "2024-08-06",
@@ -89,10 +129,6 @@
       "path": "Tasks/2024-08-08.md"
     },
     {
-      "basename": "파일",
-      "path": "System/Templates/파일.md"
-    },
-    {
       "basename": "2024-08-09",
       "path": "Tasks/2024-08-09.md"
     },
@@ -101,24 +137,8 @@
       "path": "System/Templates/대학파일.md"
     },
     {
-      "basename": "makeUnivFileInDataView",
-      "path": "System/Buttons/makeUnivFileInDataView.md"
-    },
-    {
-      "basename": "makeFileInDataview",
-      "path": "System/Buttons/makeFileInDataview.md"
-    },
-    {
-      "basename": "(옵시디언) 모바일 동기화",
-      "path": "Studied/(옵시디언) 모바일 동기화.md"
-    },
-    {
       "basename": "네이버",
       "path": "Pages/네이버.md"
-    },
-    {
-      "basename": "(옵시디언) 신기한 옵시디언 문법",
-      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
     {
       "basename": "Task",

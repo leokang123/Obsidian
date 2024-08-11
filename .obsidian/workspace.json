@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "333757d957dbaada",
+        "id": "75fda3c76f6ca356",
         "type": "tabs",
         "children": [
           {
-            "id": "49bde03fdb9c0170",
+            "id": "93d43a5ba14db615",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,93 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "58db72297a8c7470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/대학교.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "38facc932e9d9a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (암호학) 첫번째 수업 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "87dd37ce66062355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "caa3dcc924b3cc0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c7091674068e967f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(함수형 프로그래밍) 함수형 프로그래밍 2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9f67e3c487f1e78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Templates/파일.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7174c457db665aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) ㅁㄴㅇ 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -93,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(대학교) ㅁㄴㅇ 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(대학교) ㅁㄴㅇ 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/(대학교) ㅁㄴㅇ 1.md"
               }
             }
           }
@@ -159,38 +244,39 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "49bde03fdb9c0170",
+  "active": "7174c457db665aba",
   "lastOpenFiles": [
-    "System/Log/log.md",
+    "System/Templates/파일.md",
+    "Studied/(대학교) ㅁㄴㅇ 1.md",
+    "Studied/(정규표현식) 123.md",
+    "Studied/(함수형 프로그래밍) 함수형 프로그래밍 2.md",
+    "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
+    "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
+    "Studied/(대학교) (암호학) 첫번째 수업 1.md",
+    "Pages/대학교.md",
+    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
     "Pages/Home.md",
     "Pages/공부.md",
-    "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md",
-    "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
+    "System/Log/log.md",
+    "System/Buttons/makeFileInDataview.md",
+    "System/Buttons/makeUnivFileInDataView.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(정규표현식) 정규표현식 1.md",
+    "Studied/(자바스크립트) 코드컨벤션 .md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(옵시디언) 모바일 동기화.md",
+    "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-08-11 19.03.12.excalidraw.md",
     "Resources/Background/library.jpg",
     "Resources/Background/programming.jpg",
     "Resources/Background/sunsetSeaSurfing.jpg",
     "Resources/Background/trumpCard.jpg",
-    "Studied/(자바스크립트) 코드컨벤션 .md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
-    "Studied/(정규표현식) 정규표현식 1.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
-    "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
     "Studied/(정규표현식) 정규표현식이란 3.md",
     "Studied/(대학교) (객체지향 세번째 수업 3.md",
-    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
-    "Studied/(대학교) (정규표현식) 정규표현식이란 1.md",
-    "Studied/(객체지향) 첫수업 1.md",
     "Resources/Background/niceMountainView.jpg",
-    "Pages/대학교.md",
-    "Studied/(대학교) (암호학) 첫수업 1.md",
-    "Studied/(대학교) (객체지향) 두번째 수업 2.md",
-    "Tasks/2024-08-06.md",
-    "Tasks/2024-08-07.md",
-    "Tasks/2024-08-08.md",
-    "System/Templates/파일.md",
     "Resources/Attachments/Pasted image 20240809164046.png",
     "Resources/Attachments/Pasted image 20240809163339.png",
     "Resources/Attachments/Pasted image 20240809162620.png",

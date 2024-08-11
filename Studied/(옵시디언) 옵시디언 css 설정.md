@@ -3,7 +3,7 @@
 cssclasses:
   - wide-page
 생성일: 2024-08-04 23:57
-수정일:  2024년 08월 08일 오전 03시 32분
+수정일:  2024년 08월 11일 오후 20시 13분
 series: 2
 banner: "![[milkyway.jpg]]"
 banner_y: 0.536

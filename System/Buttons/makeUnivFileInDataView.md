@@ -7,5 +7,4 @@ type command
 action QuickAdd: makeUnivFile
 
 ```
-
-^button-makeFileInDataview
+^button-makeUnivFileInDataview

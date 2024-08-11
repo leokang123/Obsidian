@@ -7,5 +7,4 @@ type command
 action QuickAdd: makeFile
 
 ```
-
 ^button-makeFileInDataview
