@@ -30,6 +30,126 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "62a10a51803a06a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/대학교.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e2a9b1e6f7b3f33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17aad4852f6eca73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (캡스톤 디자인) 첫번째 설계 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a0189c690450540e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (객체지향) 첫번째수업 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "98cad4f2ca4f5c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (데이터 통신) 두번째 수업 2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4c310c360cf3a70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (데이터 통신) 두번쨰 수업 2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cffca5140c6ae314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (데이터 통신) 첫번쨰 수업 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2dfd9aff25f3dfd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (모바일 컴퓨팅) 첫번째 수업 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "efc9be39f8e66abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 꾸미기프로젝트.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "58c65aa87c43975d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 모바일 동기화.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -175,20 +295,22 @@
   "active": "50d08a2b1d5909e0",
   "lastOpenFiles": [
     "Pages/대학교.md",
-    "Studied/(대학교) (캡스톤 디자인) 첫번째 설계 1.md",
-    "Studied/(대학교) (데이터 통신) 두번쨰 수업 2.md",
-    "Studied/(대학교) (모바일 컴퓨팅) 첫번째 수업 1.md",
-    "Studied/(대학교) (암호학) 첫번째 수업 1.md",
     "Pages/공부.md",
+    "Studied/(옵시디언) 모바일 동기화.md",
+    "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Studied/(대학교) (모바일 컴퓨팅) 첫번째 수업 1.md",
+    "Studied/(대학교) (데이터 통신) 첫번쨰 수업 1.md",
+    "Studied/(대학교) (데이터 통신) 두번쨰 수업 2.md",
+    "Studied/(대학교) (데이터 통신) 두번째 수업 2.md",
+    "Studied/(대학교) (객체지향) 첫번째수업 1.md",
+    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
+    "Studied/(대학교) (캡스톤 디자인) 첫번째 설계 1.md",
+    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+    "Studied/(대학교) (암호학) 첫번째 수업 1.md",
     "Pages/Home.md",
     "System/Templates/대학파일.md",
-    "Studied/(대학교) (데이터 통신) 두번째 수업 2.md",
-    "Studied/(대학교) (데이터 통신) 첫번쨰 수업 1.md",
-    "Studied/(대학교) (객체지향) 첫번째수업 1.md",
     "System/Templates/대시보드.md",
-    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
     "System/Log/log.md",
-    "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(대학교) (객체지향) 두번째 수업 2.md",
     "System/Templates/파일.md",
     "Studied/(asd) sd s d2.md",
@@ -198,8 +320,6 @@
     "Studied/(대학교) (asd) sd 2.md",
     "Studied/(대학교) (asd) sad 2.md",
     "Studied/(대학교) (asd) ds d3.md",
-    "Studied/(대학교) (asd) ds  2.md",
-    "Studied/(대학교) (asd) ds d 3.md",
     "System/Scripts/toggleAndSaveFile.js",
     "Resources/Attachments/Pasted image 20240805012533.png",
     "System/Scripts/saveOpenFile.js",

@@ -75,8 +75,8 @@
     "yaml-title-alias": {
       "enabled": false,
       "preserve-existing-alias-section-style": false,
-      "keep-alias-that-matches-the-filename": false,
-      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
+      "keep-alias-that-matches-the-filename": true,
+      "use-yaml-key-to-keep-track-of-old-filename-or-heading": false,
       "alias-helper-key": "linter-yaml-title-alias"
     },
     "capitalize-headings": {
