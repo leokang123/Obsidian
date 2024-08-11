@@ -5,6 +5,22 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "2024-08-12",
+      "path": "Tasks/2024-08-12.md"
+    },
+    {
+      "basename": "Task",
+      "path": "System/Templates/Task.md"
+    },
+    {
+      "basename": "2024-08-09",
+      "path": "Tasks/2024-08-09.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
@@ -61,10 +77,6 @@
       "path": "System/Templates/Multi-Column-DataView.md"
     },
     {
-      "basename": "Task",
-      "path": "System/Templates/Task.md"
-    },
-    {
       "basename": "Multi-Column",
       "path": "System/Templates/Multi-Column.md"
     },
@@ -87,10 +99,6 @@
     {
       "basename": "백업",
       "path": "System/DB/백업.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     },
     {
       "basename": "(옵시디언) 꾸미기프로젝트",

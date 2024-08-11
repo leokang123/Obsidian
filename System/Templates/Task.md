@@ -22,5 +22,7 @@ banner_y: 0.088
 ```tasks  
 path includes task  
 not done  
+tag does not include #todo 
+tag does not include #naver
 short mode  
 ```

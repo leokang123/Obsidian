@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a530c1977ca8732b",
+        "id": "f1426853800aae10",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf7df6caf119477",
+            "id": "9666a95a469ea2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,18 +151,22 @@
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "templates:템플릿 삽입": false,
+      "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "3bf7df6caf119477",
+  "active": "9666a95a469ea2e5",
   "lastOpenFiles": [
-    "Pages/공부.md",
+    "Pages/네이버.md",
+    "Tasks/2024-08-12.md",
     "Pages/Home.md",
+    "System/Templates/Task.md",
+    "Tasks/2024-08-09.md",
+    "Pages/공부.md",
     "Pages/대학교.md",
     "System/Log/log.md",
     "Studied/(테스트) 테스트허.md",
@@ -183,11 +187,7 @@
     "Studied/(대학교) (정규표현식) 대학에서 사용하는 정규표현식.md",
     "Studied/(대학교) (객체지향) 네번째 수업 4.md",
     "Studied/(대학교) (객체지향) 다섯번째 수업.md",
-    "Studied/(정규표현식) 어떻게 될까.md",
-    "System/Templates/대학파일.md",
-    "Studied/(대학교) (객체지향) 세번쨰 수업 3.md",
     "System/Scripts/getSemester.js",
-    "System/Templates/파일.md",
     "System/Scripts/getSeriesAndRandomBanner.js",
     "System/Scripts/getSeries.js",
     "System/Scripts/getRandomBanner.js",
