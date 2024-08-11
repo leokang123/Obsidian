@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
+      "basename": "(옵시디언) 모바일 동기화",
+      "path": "Studied/(옵시디언) 모바일 동기화.md"
     },
     {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
+      "basename": "Pasted image 20240805012533",
+      "path": "Resources/Attachments/Pasted image 20240805012533.png"
+    },
+    {
+      "basename": "(옵시디언) 자동화프로젝트",
+      "path": "Studied/(옵시디언) 자동화프로젝트.md"
+    },
+    {
+      "basename": "(옵시디언) 신기한 옵시디언 문법",
+      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
+    },
+    {
+      "basename": "(옵시디언) 꾸미기프로젝트",
+      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
+    },
+    {
       "basename": "log",
       "path": "System/Log/log.md"
     },
     {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
+      "basename": "공부",
+      "path": "Pages/공부.md"
     },
     {
-      "basename": "(옵시디언) 모바일 동기화",
-      "path": "Studied/(옵시디언) 모바일 동기화.md"
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
     },
     {
       "basename": "(함수형 프로그래밍) 함수형 프로그래밍이란",
@@ -31,22 +47,6 @@
     {
       "basename": "(자바스크립트) 코드컨벤션 ",
       "path": "Studied/(자바스크립트) 코드컨벤션 .md"
-    },
-    {
-      "basename": "(옵시디언) 자동화프로젝트",
-      "path": "Studied/(옵시디언) 자동화프로젝트.md"
-    },
-    {
-      "basename": "(정규표현식) 정규표현식 1",
-      "path": "Studied/(정규표현식) 정규표현식 1.md"
-    },
-    {
-      "basename": "(옵시디언) 꾸미기프로젝트",
-      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
-    },
-    {
-      "basename": "(옵시디언) 신기한 옵시디언 문법",
-      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
     {
       "basename": "(옵시디언) 옵시디언 css 설정",

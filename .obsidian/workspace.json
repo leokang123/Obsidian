@@ -20,14 +20,72 @@
             }
           },
           {
-            "id": "bc63d20289cc25f1",
+            "id": "c67316dccd98cc31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/(옵시디언) 모바일 동기화.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "dae8dc0787318bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Log/log.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6caef3a45556bb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 꾸미기프로젝트.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "68994de8e9ecfb38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "48e53679deadb01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 자동화프로젝트.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "31920a039738fc5e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Attachments/Pasted image 20240805012533.png"
               }
             }
           }
@@ -106,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/(옵시디언) 모바일 동기화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/(옵시디언) 모바일 동기화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/공부.md"
+                "file": "Studied/(옵시디언) 모바일 동기화.md"
               }
             }
           }
@@ -172,19 +230,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc63d20289cc25f1",
+  "active": "c67316dccd98cc31",
   "lastOpenFiles": [
     "Pages/Home.md",
-    "System/Log/log.md",
-    "Pages/대학교.md",
     "Studied/(옵시디언) 모바일 동기화.md",
+    "Resources/Attachments/Pasted image 20240805012533.png",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+    "Studied/(옵시디언) 꾸미기프로젝트.md",
+    "Studied/(정규표현식) 정규표현식 1.md",
+    "System/Log/log.md",
+    "Pages/공부.md",
+    "Pages/대학교.md",
     "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
     "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
     "Studied/(자바스크립트) 코드컨벤션 .md",
-    "Studied/(옵시디언) 자동화프로젝트.md",
-    "Studied/(정규표현식) 정규표현식 1.md",
-    "Studied/(옵시디언) 꾸미기프로젝트.md",
-    "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Studied/(옵시디언) 옵시디언 css 설정.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(ds d) ds x1.md",
@@ -198,8 +258,6 @@
     "Studied/(asd) ds d 2.md",
     "Studied/(asd) ds 2.md",
     "Studied/(asd) ds d2 .md",
-    "Studied/(dsa) ds ad 2.md",
-    "Studied/(asd) ds d 3.md",
     "System/Scripts/saveOpenFile.js",
     "Resources/Background/library.jpg",
     "Resources/Background/programming.jpg",
@@ -212,7 +270,6 @@
     "System/Scripts/getTomorrow.js",
     "System/Scripts/getYesterday.js",
     "Resources/Attachments/Pasted image 20240808013150.png",
-    "Resources/Attachments/Pasted image 20240808013125.png",
     "System/Buttons",
     "Resources/Scripts/makeSubject.js",
     "Resources/Scripts",
