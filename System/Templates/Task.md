@@ -11,7 +11,6 @@ banner_y: 0.088
 # <% tp.file.title %>
 
 - [ ] TBU
-- [ ] TBU
 
 [[<% tp.user.getYesterday(tp.file.title) %>|< 전날]] | [[<% tp.user.getTomorrow(tp.file.title) %>|다음날 >]]
 
@@ -20,9 +19,10 @@ banner_y: 0.088
 ## 일감 감옥
 
 ```tasks  
-path includes task  
+tag includes #study
 not done  
-tag does not include #todo 
-tag does not include #naver
+hide tags
+hide due date
+hide edit button
 short mode  
 ```

@@ -26,29 +26,49 @@ banner_y: 0.49584
 
 ## 작업
 
-  
 `````ad-multi-column
 ````ad-blue
+title: ToDo List
+```tasks
+path includes task
+not done
+tag include #todo
+due today
+hide tags
+hide due date
+hide edit button
+hide backlink
+short mode
+```
+````
+
+````ad-purple
+title: Done
+```tasks
+path includes task
+done
+tag include #todo
+due today
+hide tags
+hide due date
+hide edit button
+short mode
+```
+````
+`````
+
+````ad-grey
 ```dataview
 TABLE WITHOUT ID
 link(file.path,file.name) AS " 최근이용 :LiTimer:",
 dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""
 FROM "Studied" or "Tasks"
 SORT file.mtime DESC
-LIMIT 10
+LIMIT 7
 ```
 ````
 
-````ad-purple
-title: ToDo List
-```tasks
-path includes task
-not done
-tag include #todo
-short mode
-```
-````
-`````
+
 
 ~~~ button 
 id makeFileInDataview
@@ -88,7 +108,7 @@ color green
  #대학교 #일반 #학습정리 #중요 
 
 - #### 부분관리
-#회고 #네이버 #개념 #잡 
+#회고 #네이버 #개념 #잡  #3-2 #4-1 #4-2
 
 - #### 세부적
 #옵시디언 #정규표현식 #자바스크립트 #타입스크립트 #객체지향 #함수형프로그래밍
