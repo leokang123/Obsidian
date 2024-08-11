@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
+                "file": "Pages/공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
+                "file": "Pages/공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 첫번째 수업 1.md"
+                "file": "Pages/공부.md"
               }
             }
           }
@@ -304,12 +304,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec316b245f5af38a",
+  "active": "2b556c29aa5461f5",
   "lastOpenFiles": [
-    "Pages/Home.md",
-    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
-    "Pages/공부.md",
     "Pages/대학교.md",
+    "Pages/공부.md",
+    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
+    "Pages/Home.md",
     "Pages/네이버.md",
     "System/Log/log.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
