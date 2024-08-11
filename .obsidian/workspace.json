@@ -20,133 +20,145 @@
             }
           },
           {
-            "id": "50d08a2b1d5909e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/공부.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "62a10a51803a06a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/대학교.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e2a9b1e6f7b3f33a",
+            "id": "ec316b245f5af38a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "17aad4852f6eca73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (캡스톤 디자인) 첫번째 설계 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a0189c690450540e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (객체지향) 첫번째수업 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "98cad4f2ca4f5c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (데이터 통신) 두번째 수업 2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4c310c360cf3a70c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (데이터 통신) 두번쨰 수업 2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cffca5140c6ae314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (데이터 통신) 첫번쨰 수업 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2dfd9aff25f3dfd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (모바일 컴퓨팅) 첫번째 수업 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "efc9be39f8e66abc",
+            "id": "6c6fbf99a2405636",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Studied/(옵시디언) 꾸미기프로젝트.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "58c65aa87c43975d",
+            "id": "020b256e8db584a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(자바스크립트) 코드컨벤션 .md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "804d26a05b2b7b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 자동화프로젝트.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9370d5e855504059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 옵시디언 css 설정.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6f03e667b4b95a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(옵시디언) 신기한 옵시디언 문법.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "333dc6187c49890f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Studied/(옵시디언) 모바일 동기화.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3798e094a4c93b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(Clojure) 클로저 시작하기 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d254be30a71c7a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Log/log.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3493fc8318a10925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/네이버.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "163e6a65ab7bbef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/대학교.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2b556c29aa5461f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/공부.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/공부.md"
+                "file": "Studied/(대학교) (객체지향) 첫번째 수업 1.md"
               }
             }
           }
@@ -292,34 +304,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50d08a2b1d5909e0",
+  "active": "ec316b245f5af38a",
   "lastOpenFiles": [
-    "Pages/대학교.md",
+    "Pages/Home.md",
+    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
     "Pages/공부.md",
+    "Pages/대학교.md",
+    "Pages/네이버.md",
+    "System/Log/log.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
     "Studied/(옵시디언) 모바일 동기화.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
-    "Studied/(대학교) (모바일 컴퓨팅) 첫번째 수업 1.md",
-    "Studied/(대학교) (데이터 통신) 첫번쨰 수업 1.md",
-    "Studied/(대학교) (데이터 통신) 두번쨰 수업 2.md",
-    "Studied/(대학교) (데이터 통신) 두번째 수업 2.md",
-    "Studied/(대학교) (객체지향) 첫번째수업 1.md",
-    "Studied/(대학교) (객체지향) 첫번째 수업 1.md",
-    "Studied/(대학교) (캡스톤 디자인) 첫번째 설계 1.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
-    "Studied/(대학교) (암호학) 첫번째 수업 1.md",
-    "Pages/Home.md",
-    "System/Templates/대학파일.md",
-    "System/Templates/대시보드.md",
-    "System/Log/log.md",
-    "Studied/(대학교) (객체지향) 두번째 수업 2.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(자바스크립트) 코드컨벤션 .md",
+    "Studied/ㅁㄴㅇㅁㄴㅇ 2.md",
+    "Studied/(대학교) ㅁㄴㅇㅁ ㅇㄴ2.md",
+    "Studied/(대학교) (딥러닝) 첫번째 수업 1.md",
+    "Studied/(대학교) (캡스톤 디자인) 첫번째 설계 1.md",
+    "Studied/(ㅁㄴㅇ) ㅇㄴ ㅇ2.md",
+    "Studied/(대학교) (객체지향) 첫번째수업 1.md",
+    "Studied/(대학교) (데이터 통신) 두번째 수업 2.md",
+    "Studied/(대학교) (데이터 통신) 두번쨰 수업 2.md",
+    "Studied/(대학교) (데이터 통신) 첫번쨰 수업 1.md",
+    "Studied/(대학교) (모바일 컴퓨팅) 첫번째 수업 1.md",
+    "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
+    "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
     "System/Templates/파일.md",
-    "Studied/(asd) sd s d2.md",
-    "Studied/(대학교) (ㅁㄴㅇ) ㅇㄴㅁ ㅇ2.md",
-    "Studied/(대학교) (asdad) sd 2.md",
-    "Studied/(대학교) (asd) sd wsd2.md",
-    "Studied/(대학교) (asd) sd 2.md",
-    "Studied/(대학교) (asd) sad 2.md",
-    "Studied/(대학교) (asd) ds d3.md",
     "System/Scripts/toggleAndSaveFile.js",
     "Resources/Attachments/Pasted image 20240805012533.png",
     "System/Scripts/saveOpenFile.js",
