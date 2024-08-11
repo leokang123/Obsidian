@@ -1,7 +1,8 @@
+const fs = require('fs');
+const path = require('path');
+const obsidianPath = '/Users/jeonghun/Documents/Obsidian Vault';
+
 const getRandomBanner = () => {
-  const fs = require('fs');
-  const path = require('path');
-  const obsidianPath = '/Users/jeonghun/Documents/Obsidian Vault';
   const backGroundPath = path.join(obsidianPath, 'Resources', 'Background');
   const resourceArr = fs.readdirSync(backGroundPath);
   const resourceLength = resourceArr.length;
@@ -9,14 +10,25 @@ const getRandomBanner = () => {
   return `banner: \"![[${resourceArr[randomNumber]}]]\"\nbanner_y: 0.6`;
 };
 
-const getSeriesAndRandomBanner = (input) => {
+const getSeries = (input) => {
+  const studiedPath = path.join(obsidianPath, 'Studied');
+  const mdFiles = fs.readdirSync(studiedPath);
+
   const str = input.trim();
-  const strArr = str.split(' ');
-  let lastElement = strArr[strArr.length - 1].match(/\d+/);
-  if (lastElement === null) lastElement = [1];
+  const matchArr = str.match(/\((.*)\)/g);
+  if (matchArr === null) return 1;
+  const compactMatch = matchArr[0].replaceAll(' ', '');
+  const filteredFile = mdFiles.filter((p) => {
+    const compareCompact = p.replaceAll(' ', '');
+    return compareCompact.includes(compactMatch);
+  });
+  return filteredFile.length;
+};
+
+const getSeriesAndRandomBanner = (input) => {
+  const series = getSeries(input);
   const bannerData = getRandomBanner();
-  const propertyData = `${lastElement[0]}\n${bannerData}`;
-  console.log(propertyData);
+  const propertyData = `${series}\n${bannerData}`;
   return propertyData;
 };
 

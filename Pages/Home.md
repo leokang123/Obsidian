@@ -3,8 +3,8 @@ class:
 cssclasses:
   - wide-page
 주제: 
-생성일: 일요일, 7월 21일 2024, 3:45:12 오후
-수정일:  2024년 08월 07일 오후 12시 20분
+생성일: 토요일, 8월 3일 2024, 7:32:30 오후
+수정일: 월요일, 8월 5일 2024, 6:21:04 오전
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
 ---
@@ -15,39 +15,39 @@ banner_y: 0.49584
 
 ## 페이지
 
-- #### [[네이버]] #mcl/list-card
-![[네이버]]
-- #### [[공부]]
+
+
+- #### [[공부]] #mcl/list-card
 ![[공부]]
 - #### [[대학교]]
 ![[대학교]]
 
 
-
 ## 작업
 
-> [!multi-column]
-> 
-> ```ad-blue
->~~~ dataview
-> TABLE WITHOUT ID
-> link(file.path,file.name) AS " 최근이용 :LiTimer:",  
-> dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""
-> FROM "Studied" or "Tasks"
-> SORT file.mtime DESC 
->LIMIT 10
-> ~~~
-> ```
-> 
-> ```ad-purple
-> title: ToDo List
-> ~~~ tasks  
-> path includes task  
-> not done  
-> tag include #todo
-> short mode  
-> ~~~
-> ```
+  
+`````ad-multi-column
+````ad-blue
+```dataview
+TABLE WITHOUT ID
+link(file.path,file.name) AS " 최근이용 :LiTimer:",
+dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""
+FROM "Studied" or "Tasks"
+SORT file.mtime DESC
+LIMIT 10
+```
+````
+
+````ad-purple
+title: ToDo List
+```tasks
+path includes task
+not done
+tag include #todo
+short mode
+```
+````
+`````
 
 ~~~ button 
 id makeFileInDataview

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
@@ -9,64 +13,104 @@
       "path": "Pages/대학교.md"
     },
     {
-      "basename": "(대학교) (객체지향) 첫번째 수업 1",
-      "path": "Studied/(대학교) (객체지향) 첫번째 수업 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
-    },
-    {
       "basename": "log",
       "path": "System/Log/log.md"
     },
     {
-      "basename": "(Clojure) 클로저 시작하기 1",
-      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
+      "basename": "(대학교) (암호학) 다른 테스트 파일",
+      "path": "Studied/(대학교) (암호학) 다른 테스트 파일.md"
     },
     {
-      "basename": "(옵시디언) 모바일 동기화",
-      "path": "Studied/(옵시디언) 모바일 동기화.md"
+      "basename": "(대학교) (암호학) 테스트 파일",
+      "path": "Studied/(대학교) (암호학) 테스트 파일.md"
     },
     {
-      "basename": "(옵시디언) 꾸미기프로젝트",
-      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
+      "basename": "(대학교) (객체지향) 다른 테스트 파일",
+      "path": "Studied/(대학교) (객체지향) 다른 테스트 파일.md"
     },
     {
-      "basename": "(옵시디언) 신기한 옵시디언 문법",
-      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
+      "basename": "(대학교) (객체지향) 테스트 파일",
+      "path": "Studied/(대학교) (객체지향) 테스트 파일.md"
     },
     {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
-      "basename": "(옵시디언) 자동화프로젝트",
-      "path": "Studied/(옵시디언) 자동화프로젝트.md"
-    },
-    {
-      "basename": "(자바스크립트) 코드컨벤션 ",
-      "path": "Studied/(자바스크립트) 코드컨벤션 .md"
-    },
-    {
-      "basename": "(함수형 프로그래밍) 프로그래밍 패러다임",
-      "path": "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md"
-    },
-    {
-      "basename": "(함수형 프로그래밍) 함수형 프로그래밍이란",
-      "path": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md"
+      "basename": "대학파일",
+      "path": "System/Templates/대학파일.md"
     },
     {
       "basename": "파일",
       "path": "System/Templates/파일.md"
     },
     {
-      "basename": "대학파일",
-      "path": "System/Templates/대학파일.md"
+      "basename": "(함수형 프로그래밍) 프로그래밍 패러다임",
+      "path": "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md"
+    },
+    {
+      "basename": "(Clojure) 클로저 시작하기 1",
+      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
+    },
+    {
+      "basename": "(옵시디언) 신기한 옵시디언 문법",
+      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
+    },
+    {
+      "basename": "(함수형 프로그래밍) 함수형 프로그래밍이란",
+      "path": "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md"
+    },
+    {
+      "basename": "Multi-Column-DataView",
+      "path": "System/Templates/Multi-Column-DataView.md"
+    },
+    {
+      "basename": "Task",
+      "path": "System/Templates/Task.md"
+    },
+    {
+      "basename": "Multi-Column",
+      "path": "System/Templates/Multi-Column.md"
+    },
+    {
+      "basename": "List-grid",
+      "path": "System/Templates/List-grid.md"
+    },
+    {
+      "basename": "List-card",
+      "path": "System/Templates/List-card.md"
+    },
+    {
+      "basename": "EmptyNote",
+      "path": "System/Templates/EmptyNote.md"
+    },
+    {
+      "basename": "DataView",
+      "path": "System/Templates/DataView.md"
+    },
+    {
+      "basename": "백업",
+      "path": "System/DB/백업.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "(옵시디언) 꾸미기프로젝트",
+      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
+    },
+    {
+      "basename": "(자바스크립트) 코드컨벤션 ",
+      "path": "Studied/(자바스크립트) 코드컨벤션 .md"
+    },
+    {
+      "basename": "(옵시디언) 자동화프로젝트",
+      "path": "Studied/(옵시디언) 자동화프로젝트.md"
+    },
+    {
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
+    },
+    {
+      "basename": "(옵시디언) 모바일 동기화",
+      "path": "Studied/(옵시디언) 모바일 동기화.md"
     },
     {
       "basename": "대시보드",
@@ -99,14 +143,6 @@
     {
       "basename": "library",
       "path": "Resources/Background/library.jpg"
-    },
-    {
-      "basename": "programming",
-      "path": "Resources/Background/programming.jpg"
-    },
-    {
-      "basename": "sunsetSeaSurfing",
-      "path": "Resources/Background/sunsetSeaSurfing.jpg"
     }
   ],
   "omittedPaths": []
