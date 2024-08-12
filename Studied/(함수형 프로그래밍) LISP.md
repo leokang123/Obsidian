@@ -2,7 +2,7 @@
 주제: 함수형프로그래밍
 cssclasses: wide-page
 생성일: 2024년 08월 12일 오후 16시 12분
-수정일:  2024년 08월 12일 오후 16시 43분
+수정일:  2024년 08월 12일 오후 17시 31분
 series: 2
 banner: "![[surfingBoards.jpg]]"
 banner_y: 0.6
@@ -37,9 +37,72 @@ tags: [일반, 함수형프로그래밍, Clojure, 개념]
 LISP 이름 자체는 **LIS**t **P**rocessing의 줄임말으로, **연결리스트**는 리스프의 주요 자료구조 중 하나로 **리스프 코드는 그 자체로 하나의 리스트**이다. 
 ```
 
-## LISP의 특징들 
+## LISP의 특징들
 
 ### 1. 코드와 데이터의 동일설 (Homoiconicity)
-LISP에서 코드와 데이터는 동일한 구조로 표현된다. 즉, 리스프에서 코드는 리스트(List)로 표현되며, 이 리스트는 데이터로서도 취급될 수 있다 
-이러한 특징은 LISP의 메타 프로그래밍 능력을 크게 강화시킨다 
 
+- LISP에서 코드와 데이터는 동일한 구조로 표현된다. 즉, 리스프에서 **코드는 리스트(List)** 로 표현되며, 이 리스트는 데이터로서도 취급될 수 있다
+이러한 특징은 LISP의 **메타 프로그래밍 능력을 크게 강화**시킨다
+
+- LISP 는 **S-표현식**으로 코드가 작성되며, S-표현식은 **리스트(List)와 원자(Atom)** 로 구성된다. 이 구조는 LISP의 데이터 구조와 동일하므로 프로그램의 **코드와 데이터가 본질적으로 동일한 형식**으로 다루어진다
+- 이 특성으로 **프로그램 코드 자체가 데이터처럼 쉽게 조작** 될 수 있다. 프로그램이 **자신의 코드를 동적으로 생성, 변경, 평**가할 수 있는 **메타 프로그래밍**이 가능해진다
+
+````ad-white
+title: 간단한 문법 
+collapse: true
+```Lisp
+;; 산술 연산 
+(+ 1 2 3 4)  ;; 더하기, 결과: 10
+(* 2 3 4)    ;; 곱하기, 결과: 24
+(- 10 3)     ;; 빼기, 결과: 7
+(/ 20 5)     ;; 나누기, 결과: 4
+
+;; 변수정의 
+(setq x 10)
+(setq y 20)
+(+ x y)  ;; 결과: 30
+
+;; 함수정의 
+(defun add (a b)
+  (+ a b))
+
+(add 5 7)  ;; 결과: 12
+
+;; 조건문 
+(defun check-number (x)
+  (if (> x 0)
+      "Positive"
+      "Non-positive"))
+
+(check-number 5)   ;; 결과: "Positive"
+(check-number -3)  ;; 결과: "Non-positive"
+
+;; 재귀함수 
+(defun factorial (n)
+  (if (<= n 1)
+      1
+      (* n (factorial (- n 1)))))
+
+(factorial 5)  ;; 결과: 120
+
+;; 리스트 처리 
+(setq my-list '(1 2 3 4 5))
+
+(car my-list)    ;; 리스트의 첫 번째 요소, 결과: 1
+(cdr my-list)    ;; 리스트의 첫 번째 요소를 제외한 나머지, 결과: (2 3 4 5)
+(append my-list '(6 7))  ;; 리스트를 합침, 결과: (1 2 3 4 5 6 7)
+
+;; 매크로 정의 
+(defmacro unless (condition &body body)
+  `(if (not ,condition)
+       (progn ,@body)))
+
+(unless (= 1 2)
+  (print "1 is not equal to 2"))
+
+;; 반복문 
+(loop for i from 1 to 5
+      do (print i))
+
+```
+````
