@@ -2,7 +2,7 @@
 주제: 함수형프로그래밍
 cssclasses: wide-page
 생성일: 2024년 08월 12일 오후 16시 12분
-수정일:  2024년 08월 12일 오후 17시 31분
+수정일:  2024년 08월 12일 오후 23시 49분
 series: 2
 banner: "![[surfingBoards.jpg]]"
 banner_y: 0.6
@@ -106,3 +106,31 @@ collapse: true
 
 ```
 ````
+
+### 2. 함수형 프로그래밍 (Functional Programming)
+
+LISP은 **함수형 프로그래밍 개념을 매우 잘 지원**한다. 함수형 프로그래밍은 **함수를 일급 객체**로 다루며, 함수 내에서 다른 함수를 인자로 받거나 반환 할 수 있다 또한 상태 변화 없이 **순수 함수**를 사용하는 것을 장려한다
+- **고차함수**(High-Order Functions): LISP에선 함수가 일급 객체로, **함수를 인자로 전달**하거나 **반환값으로 사용**할 수 있다. → 고차함수 정의임
+
+````ad-white
+title:예시 
+```lisp
+(mapcar #'(lambda (x) (+ x 1)) '(1 2 3))
+```
+````
+
+### 3. 재귀 (Recursion)
+
+### 4. 매크로 시스템 (Macro System)
+
+### 5. 동적 타이핑 (Dynamic Typing)
+
+### 6. 가비지 컬렉션 (Garbage Collection)
+
+### 7. 리스트 처리 기능 (List Processing)
+
+### 8. 인터랙티브 프로그래밍 (Interactive Programming)
+
+### 9. 자연스러운 확장성 (Extensibility)
+
+### 10. 구조적 프로그램 제어 (Structured Program Control)
