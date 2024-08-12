@@ -33,7 +33,7 @@ title: ToDo List
 path includes task
 not done
 tag include #todo
-due today
+(due after yesterday) AND (due before tomorrow)
 hide tags
 hide due date
 hide edit button
@@ -48,7 +48,7 @@ title: Done
 path includes task
 done
 tag include #todo
-due today
+(due after yesterday) AND (due before tomorrow)
 hide tags
 hide due date
 hide edit button
