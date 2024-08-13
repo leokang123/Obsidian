@@ -32,4 +32,6 @@ const getSeriesAndRandomBanner = (input) => {
   return propertyData;
 };
 
+console.log(1 > '3');
+
 module.exports = getSeriesAndRandomBanner;

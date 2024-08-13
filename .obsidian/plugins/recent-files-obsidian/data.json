@@ -9,16 +9,32 @@
       "path": "Pages/공부.md"
     },
     {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(대학교) (모바일 컴퓨팅) 두번째",
+      "path": "Studied/(대학교) (모바일 컴퓨팅) 두번째.md"
+    },
+    {
+      "basename": "(대학교) (모바일 컴퓨팅) 첫번째",
+      "path": "Studied/(대학교) (모바일 컴퓨팅) 첫번째.md"
+    },
+    {
+      "basename": "(타입 스크립트) 타입스크립트 시작하기",
+      "path": "Studied/(타입 스크립트) 타입스크립트 시작하기.md"
+    },
+    {
+      "basename": "2024-08-13",
+      "path": "Tasks/2024-08-13.md"
+    },
+    {
       "basename": "log",
       "path": "System/Log/log.md"
     },
     {
       "basename": "백업",
       "path": "System/DB/백업.md"
-    },
-    {
-      "basename": "2024-08-13",
-      "path": "Tasks/2024-08-13.md"
     },
     {
       "basename": "2024-08-12",
@@ -59,10 +75,6 @@
     {
       "basename": "2024-08-08",
       "path": "Tasks/2024-08-08.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "(대학교) (암호학) 다른 테스트 파일",
