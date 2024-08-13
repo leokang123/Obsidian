@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0d2b7c14e238eae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(타입 스크립트) 타입스크립트 시작하기.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(타입 스크립트) 타입스크립트 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(타입 스크립트) 타입스크립트 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/(타입 스크립트) 타입스크립트 시작하기.md"
               }
             }
           }
@@ -159,10 +172,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "973e44c1e0a84137",
+  "active": "0d2b7c14e238eae1",
   "lastOpenFiles": [
-    "Pages/공부.md",
     "Pages/Home.md",
+    "Pages/공부.md",
     "Pages/대학교.md",
     "Studied/(대학교) (모바일 컴퓨팅) 두번째.md",
     "Studied/(대학교) (모바일 컴퓨팅) 첫번째.md",
