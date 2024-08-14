@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "95d0abc4bceeac56",
+            "id": "53edbf74b774c0ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(타입스크립트) 프로젝트 예고 .md",
-                "mode": "preview",
+                "file": "Studied/(타입스크립트) 첫시작.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(타입스크립트) 프로젝트 예고 .md",
+                "file": "Studied/(타입스크립트) 첫시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(타입스크립트) 프로젝트 예고 .md",
+                "file": "Studied/(타입스크립트) 첫시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(타입스크립트) 프로젝트 예고 .md"
+                "file": "Studied/(타입스크립트) 첫시작.md"
               }
             }
           }
@@ -172,9 +172,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "95d0abc4bceeac56",
+  "active": "53edbf74b774c0ba",
   "lastOpenFiles": [
     "Pages/Home.md",
+    "Studied/(타입스크립트) 첫시작.md",
     "Studied/(타입스크립트) 프로젝트 예고 .md",
     "Resources/Excaldraw/Drawing 2024-08-14 13.57.09.excalidraw.md",
     "Resources/Attachments/Pasted image 20240814141338.png",
