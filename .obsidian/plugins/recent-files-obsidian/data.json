@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "(타입스크립트) 다양한 타입지정 ",
+      "path": "Studied/(타입스크립트) 다양한 타입지정 .md"
+    },
+    {
       "basename": "(타입스크립트) 첫시작",
       "path": "Studied/(타입스크립트) 첫시작.md"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
     },
     {
       "basename": "Home",
@@ -19,10 +27,6 @@
     {
       "basename": "(타입 스크립트) 타입스크립트 시작하기",
       "path": "Studied/(타입 스크립트) 타입스크립트 시작하기.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
     },
     {
       "basename": "(자바스크립트) 코드컨벤션 ",
@@ -195,10 +199,6 @@
     {
       "basename": "makeUnivFileInDataView",
       "path": "System/Buttons/makeUnivFileInDataView.md"
-    },
-    {
-      "basename": "Drawing 2024-08-05 14.36.37.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-08-05 14.36.37.excalidraw.md"
     }
   ],
   "omittedPaths": []
