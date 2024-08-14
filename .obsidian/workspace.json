@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8a96fc02490fbf",
+        "id": "5786329882bcc5e9",
         "type": "tabs",
         "children": [
           {
-            "id": "756bbfdf63431dc1",
+            "id": "0c210d14ec86552e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,25 +20,13 @@
             }
           },
           {
-            "id": "26330310e0b55c7a",
+            "id": "95d0abc4bceeac56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Studied/(타입스크립트) 프로젝트 예고 .md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "379baab8250e9456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(타입스크립트) 프로젝트 예고 .md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -184,10 +172,12 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "26330310e0b55c7a",
+  "active": "95d0abc4bceeac56",
   "lastOpenFiles": [
     "Pages/Home.md",
     "Studied/(타입스크립트) 프로젝트 예고 .md",
+    "Resources/Excaldraw/Drawing 2024-08-14 13.57.09.excalidraw.md",
+    "Resources/Attachments/Pasted image 20240814141338.png",
     "Studied/(타입 스크립트) 타입스크립트 시작하기.md",
     "Pages/공부.md",
     "Studied/(자바스크립트) 코드컨벤션 .md",
@@ -213,8 +203,6 @@
     "Tasks/2024-08-10.md",
     "Tasks/2024-08-09.md",
     "Studied/(테스트) 테스트허.md",
-    "Studied/(테스트) 테스트호잇.md",
-    "Studied/(대학교) (암호학) 다른 테스트 파일.md",
     "System/Scripts/getSemester.js",
     "System/Scripts/getSeriesAndRandomBanner.js",
     "System/Scripts/getSeries.js",
@@ -228,7 +216,6 @@
     "Resources/Background/sunsetSeaSurfing.jpg",
     "Resources/Background/trumpCard.jpg",
     "Resources/Background/niceMountainView.jpg",
-    "Resources/Attachments/Pasted image 20240809164046.png",
     "System/Scripts/getTomorrow.js",
     "System/Scripts/getYesterday.js",
     "System/Buttons",

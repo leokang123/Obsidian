@@ -9,6 +9,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "Drawing 2024-08-14 13.57.09.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-08-14 13.57.09.excalidraw.md"
+    },
+    {
       "basename": "(타입 스크립트) 타입스크립트 시작하기",
       "path": "Studied/(타입 스크립트) 타입스크립트 시작하기.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2024-08-11 19.03.12.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-08-11 19.03.12.excalidraw.md"
-    },
-    {
-      "basename": "library",
-      "path": "Resources/Background/library.jpg"
     }
   ],
   "omittedPaths": []
