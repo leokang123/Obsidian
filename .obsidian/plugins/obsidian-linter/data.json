@@ -64,7 +64,7 @@
       "force-retention-of-create-value": false,
       "date-modified": true,
       "date-modified-key": "수정일",
-      "format": " yyyy년 MM월 DD일 a HH시 mm분",
+      "format": " yyyy-MM-DD HH:mm:ss",
       "convert-to-utc": false
     },
     "yaml-title": {
