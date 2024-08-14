@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd50e86b93bffa0b",
+        "id": "4296e14f5a83e962",
         "type": "tabs",
         "children": [
           {
-            "id": "696f34c58c56ffbe",
+            "id": "9781737adcea063e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "97f88cd20bcc64da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/공부.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fe2955de7c575328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(자바스크립트) 코드컨벤션 .md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(자바스크립트) 코드컨벤션 .md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(자바스크립트) 코드컨벤션 .md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(자바스크립트) 코드컨벤션 .md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -184,18 +159,19 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "fe2955de7c575328",
+  "active": "9781737adcea063e",
   "lastOpenFiles": [
-    "Pages/공부.md",
-    "Studied/(함수형 프로그래밍) LISP.md",
+    "Studied/(타입 스크립트) 타입스크립트 시작하기.md",
     "Pages/Home.md",
+    "Pages/공부.md",
+    "Studied/(자바스크립트) 코드컨벤션 .md",
+    "Studied/(함수형 프로그래밍) LISP.md",
     "System/Log/log.md",
     "Tasks/2024-08-14.md",
     "Tasks/2024-08-13.md",
     "Tasks/2024-08-08.md",
     "Pages/대학교.md",
     "Pages/네이버.md",
-    "Studied/(타입 스크립트) 타입스크립트 시작하기.md",
     "Studied/(대학교) (모바일 컴퓨팅) 두번째.md",
     "Studied/(대학교) (모바일 컴퓨팅) 첫번째.md",
     "Resources/Attachments/Pasted image 20240813153305.png",
@@ -214,7 +190,6 @@
     "Studied/(테스트) 테스트호잇.md",
     "Studied/(대학교) (암호학) 다른 테스트 파일.md",
     "Studied/(대학교) (암호학) 테스트 파일.md",
-    "Studied/(대학교) (객체지향) 다른 테스트 파일.md",
     "System/Scripts/getSemester.js",
     "System/Scripts/getSeriesAndRandomBanner.js",
     "System/Scripts/getSeries.js",
