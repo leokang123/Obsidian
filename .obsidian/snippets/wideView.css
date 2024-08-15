@@ -59,13 +59,17 @@ body .wide-page {
 }
 
 /* << READING link color INTERNAL >>  */
-.wide-page td,
-h1,
+.wide-page h1,
 h2,
 h3,
-h4,
-h5,
-h6 .internal-link {
+h4 .internal-link {
+  font-weight: 400;
+  color: var(--linkpink) !important;
+  --link-decoration: none;
+}
+
+/* dataview 링크 css */
+.wide-page td .internal-link {
   font-weight: 400;
   color: var(--linkpink) !important;
   --link-decoration: none;
