@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "(타입스크립트) 인터페이스와 타입 ",
+      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(타입스크립트) 첫시작",
+      "path": "Studied/(타입스크립트) 첫시작.md"
+    },
+    {
+      "basename": "(타입스크립트) 다양한 타입지정 ",
+      "path": "Studied/(타입스크립트) 다양한 타입지정 .md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
     },
     {
       "basename": "(타입스크립트) 프로젝트 예고 ",
@@ -29,10 +41,6 @@
       "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
     },
     {
-      "basename": "(타입스크립트) 인터페이스와 타입 ",
-      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
-    },
-    {
       "basename": "(옵시디언) 자동화프로젝트",
       "path": "Studied/(옵시디언) 자동화프로젝트.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "(Clojure) 클로저 시작하기 1",
       "path": "Studied/(Clojure) 클로저 시작하기 1.md"
-    },
-    {
-      "basename": "(타입스크립트) 다양한 타입지정 ",
-      "path": "Studied/(타입스크립트) 다양한 타입지정 .md"
     },
     {
       "basename": "(옵시디언) 모바일 동기화",
@@ -63,10 +67,6 @@
     {
       "basename": "(함수형 프로그래밍) LISP",
       "path": "Studied/(함수형 프로그래밍) LISP.md"
-    },
-    {
-      "basename": "(타입스크립트) 첫시작",
-      "path": "Studied/(타입스크립트) 첫시작.md"
     },
     {
       "basename": "(자바스크립트) 코드컨벤션 ",
