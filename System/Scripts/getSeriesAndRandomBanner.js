@@ -32,6 +32,10 @@ const getSeriesAndRandomBanner = (input) => {
   return propertyData;
 };
 
-console.log(1 > '3');
-
 module.exports = getSeriesAndRandomBanner;
+const backGroundPath = path.join(obsidianPath, 'Resources', 'Background');
+const resourceArr = fs.readdirSync(backGroundPath);
+console.log(resourceArr);
+const resourceLength = resourceArr.length;
+const randomNumber = Math.floor(Math.random() * resourceLength);
+console.log(resourceLength);
