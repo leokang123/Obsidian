@@ -9,16 +9,36 @@
       "path": "Pages/공부.md"
     },
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "2024-08-14",
+      "path": "Tasks/2024-08-14.md"
+    },
+    {
+      "basename": "2024-08-15",
+      "path": "Tasks/2024-08-15.md"
+    },
+    {
+      "basename": "2024-08-16",
+      "path": "Tasks/2024-08-16.md"
+    },
+    {
+      "basename": "(타입 스크립트) 타입가드",
+      "path": "Studied/(타입 스크립트) 타입가드.md"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
       "basename": "(타입스크립트) 첫시작",
       "path": "Studied/(타입스크립트) 첫시작.md"
     },
     {
       "basename": "(타입스크립트) 다양한 타입지정 ",
       "path": "Studied/(타입스크립트) 다양한 타입지정 .md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "(타입스크립트) 프로젝트 예고 ",
@@ -85,20 +105,8 @@
       "path": "System/Templates/대학파일.md"
     },
     {
-      "basename": "2024-08-15",
-      "path": "Tasks/2024-08-15.md"
-    },
-    {
       "basename": "Drawing 2024-08-14 13.57.09.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-08-14 13.57.09.excalidraw.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
-    },
-    {
-      "basename": "2024-08-14",
-      "path": "Tasks/2024-08-14.md"
     },
     {
       "basename": "2024-08-13",
@@ -191,14 +199,6 @@
     {
       "basename": "대시보드",
       "path": "System/Templates/대시보드.md"
-    },
-    {
-      "basename": "Pasted image 20240805012533",
-      "path": "Resources/Attachments/Pasted image 20240805012533.png"
-    },
-    {
-      "basename": "Drawing 2024-08-11 22.27.42.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-08-11 22.27.42.excalidraw.md"
     }
   ],
   "omittedPaths": []
