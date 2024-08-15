@@ -59,7 +59,13 @@ body .wide-page {
 }
 
 /* << READING link color INTERNAL >>  */
-.wide-page .internal-link {
+.wide-page td,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 .internal-link {
   font-weight: 400;
   color: var(--linkpink) !important;
   --link-decoration: none;
