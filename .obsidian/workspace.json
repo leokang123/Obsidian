@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ebfda6453b7d8fc",
+        "id": "68f20c3544eff6fc",
         "type": "tabs",
         "children": [
           {
-            "id": "208cb35a97012c09",
+            "id": "f03c21d4b58eb0b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "1b29e6755673b20b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/공부.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f5d2fd8c63a6fba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(타입스크립트) 클래스 .md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "36a5b6628f77984b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(타입스크립트) 다양한 타입지정 .md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(타입스크립트) 클래스 .md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(타입스크립트) 클래스 .md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(타입스크립트) 클래스 .md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -196,14 +159,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "f5d2fd8c63a6fba4",
+  "active": "f03c21d4b58eb0b3",
   "lastOpenFiles": [
-    "Resources/Background/nightCityBlur.jpg",
+    "Studied/(타입스크립트) 다양한 타입지정 .md",
+    "Pages/Home.md",
     "Pages/공부.md",
     "Studied/(타입스크립트) 클래스 .md",
+    "Resources/Background/nightCityBlur.jpg",
     "Studied/(타입 스크립트) 타입가드.md",
-    "Pages/Home.md",
-    "Studied/(타입스크립트) 다양한 타입지정 .md",
     "Studied/(타입스크립트) 인터페이스와 타입 .md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Studied/(타입스크립트) 다양한 타입지정.md",
@@ -240,7 +203,6 @@
     "System/Scripts/saveOpenFile.js",
     "Resources/Background/library.jpg",
     "Resources/Background/programming.jpg",
-    "Resources/Background/sunsetSeaSurfing.jpg",
     "System/Scripts/getTomorrow.js",
     "System/Scripts/getYesterday.js",
     "System/Buttons",
