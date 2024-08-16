@@ -29,5 +29,6 @@
   "things-style@@h4-weight": 600,
   "things-style@@h5-weight": 500,
   "things-style@@quote-color": "#CACCCC",
-  "things-style@@h6-weight": 500
+  "things-style@@h6-weight": 500,
+  "things-style@@h1-weight": 700
 }
