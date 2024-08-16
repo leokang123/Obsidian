@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
-      "basename": "(타입스크립트) 인터페이스와 타입 ",
-      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
+      "basename": "(타입스크립트) 클래스 ",
+      "path": "Studied/(타입스크립트) 클래스 .md"
     },
     {
       "basename": "공부",
@@ -15,6 +11,18 @@
     {
       "basename": "(타입 스크립트) 타입가드",
       "path": "Studied/(타입 스크립트) 타입가드.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(타입스크립트) 다양한 타입지정 ",
+      "path": "Studied/(타입스크립트) 다양한 타입지정 .md"
+    },
+    {
+      "basename": "(타입스크립트) 인터페이스와 타입 ",
+      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
     },
     {
       "basename": "(옵시디언) 신기한 옵시디언 문법",
@@ -191,10 +199,6 @@
     {
       "basename": "EmptyNote",
       "path": "System/Templates/EmptyNote.md"
-    },
-    {
-      "basename": "DataView",
-      "path": "System/Templates/DataView.md"
     }
   ],
   "omittedPaths": []
