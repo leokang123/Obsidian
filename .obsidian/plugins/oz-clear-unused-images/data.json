@@ -1,7 +1,7 @@
 {
   "deleteOption": ".trash",
   "logsModal": true,
-  "excludedFolders": "Resources/Background",
-  "ribbonIcon": true,
-  "excludeSubfolders": false
+  "excludedFolders": "Resources/Background, System",
+  "ribbonIcon": false,
+  "excludeSubfolders": true
 }

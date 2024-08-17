@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68f20c3544eff6fc",
+        "id": "301fe759440d14f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f03c21d4b58eb0b3",
+            "id": "259b5a8de1b5d006",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "b438115120f75b4c",
+            "id": "26ce5b56777f4bf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,7 @@
             }
           },
           {
-            "id": "5e1600a3ba56b9fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(타입 스크립트) 프로젝트 예고.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "12cf26bd36516f11",
+            "id": "64f92a8050f77ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,83 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "af3141bd892e7018",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Attachments/Pasted image 20240817182523.png"
-              }
-            }
-          },
-          {
-            "id": "dd434e087072f444",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Attachments/Pasted image 20240816000804.png"
-              }
-            }
-          },
-          {
-            "id": "2556aefbfce7cdff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Attachments/Pasted image 20240814230639.png"
-              }
-            }
-          },
-          {
-            "id": "a161ace937c62c8b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Attachments/Pasted image 20240814141338.png"
-              }
-            }
-          },
-          {
-            "id": "629301ac4a025225",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Attachments/Pasted image 20240817182623.png"
-              }
-            }
-          },
-          {
-            "id": "f682c25e46b9cecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(타입 스크립트) 타입스크립트 시작하기.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ca5ca426f9d270c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(타입스크립트) 첫시작.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Attachments/Pasted image 20240817182623.png",
+                "file": "Pages/공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Attachments/Pasted image 20240817182623.png",
+                "file": "Pages/공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Attachments/Pasted image 20240817182623.png"
+                "file": "Pages/공부.md"
               }
             }
           }
@@ -271,19 +185,33 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "629301ac4a025225",
+  "active": "26ce5b56777f4bf1",
   "lastOpenFiles": [
-    "Resources/Attachments/Pasted image 20240817182523.png",
-    "Resources/Attachments/Pasted image 20240817182623.png",
-    "Resources/Attachments/Pasted image 20240814141338.png",
-    "Resources/Attachments/Pasted image 20240814230639.png",
-    "Resources/Attachments/Pasted image 20240816000804.png",
+    "Pages/Home.md",
     "Studied/(타입스크립트) 프로젝트 경과.md",
-    "Studied/(타입 스크립트) 프로젝트 예고.md",
+    "System/DB/백업.md",
+    "Resources/Attachments/Pasted image 20240817184721.png",
+    "System/Fonts/나눔손글씨 성실체.ttf",
+    "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "Pages/공부.md",
+    "Resources/Attachments/Pasted image 20240816000804.png",
+    "Resources/Attachments/Pasted image 20240814141338.png",
+    "System/Log/log.md",
+    "Studied/(ㅁㄴㅇ_ ㅁㄴ) ㅁㄴㅇ .md",
+    "System/Scripts/toggleAndSaveFile.js",
+    "System/Scripts/makeSubjectTag.js",
+    "System/Scripts/makeSubject.js",
+    "System/Scripts/makeLogData.js",
+    "System/Scripts/getYesterday.js",
+    "System/Scripts/getTomorrow.js",
+    "System/Scripts/getSeriesAndRandomBanner.js",
+    "System/Scripts/getSemester.js",
+    "Resources/Attachments/Pasted image 20240817182623.png",
+    "Resources/Attachments/Pasted image 20240817182523.png",
+    "Resources/Attachments/Pasted image 20240814230639.png",
+    "Studied/(타입 스크립트) 프로젝트 예고.md",
     "Studied/(타입 스크립트) 클래스.md",
     "Studied/(타입 스크립트) 제네릭.md",
-    "Pages/Home.md",
     "Studied/(타입 스크립트) 타입스크립트 시작하기.md",
     "Studied/(타입스크립트) 첫시작.md",
     "Studied/(타입스크립트) 다양한 타입지정 .md",
@@ -296,28 +224,15 @@
     "Tasks/2024-08-14.md",
     "Tasks/2024-08-15.md",
     "Tasks/2024-08-16.md",
-    "System/Log/log.md",
     "Studied/(대학교) *궁금하면 직접 해보면 된다!*.md",
     "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
     "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
     "Studied/(옵시디언) 모바일 동기화.md",
-    "Pages/대학교.md",
     "Resources/Attachments/Pasted image 20240813153305.png",
     "Resources/Attachments/Pasted image 20240813153301.png",
     "Resources/Attachments/Pasted image 20240812162039.png",
-    "System/Scripts/getSemester.js",
-    "System/Scripts/getSeriesAndRandomBanner.js",
-    "System/Scripts/getSeries.js",
-    "System/Scripts/getRandomBanner.js",
-    "System/DB",
-    "System/Scripts/toggleAndSaveFile.js",
-    "Resources/Attachments/Pasted image 20240805012533.png",
-    "System/Scripts/saveOpenFile.js",
-    "System/Scripts/getTomorrow.js",
-    "System/Scripts/getYesterday.js",
-    "System/Buttons",
     "Resources/Canvas/무제 파일.canvas",
     "Resources/Canvas/무제 파일 1.canvas"
   ]

@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(타입스크립트) 프로젝트 경과",
+      "path": "Studied/(타입스크립트) 프로젝트 경과.md"
+    },
+    {
+      "basename": "백업",
+      "path": "System/DB/백업.md"
+    },
+    {
+      "basename": "Pasted image 20240816000804",
+      "path": "Resources/Attachments/Pasted image 20240816000804.png"
+    },
+    {
+      "basename": "Pasted image 20240814141338",
+      "path": "Resources/Attachments/Pasted image 20240814141338.png"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
     },
     {
       "basename": "Pasted image 20240817182623",
@@ -13,28 +37,12 @@
       "path": "Resources/Attachments/Pasted image 20240817182523.png"
     },
     {
-      "basename": "Pasted image 20240814141338",
-      "path": "Resources/Attachments/Pasted image 20240814141338.png"
-    },
-    {
       "basename": "Pasted image 20240814230639",
       "path": "Resources/Attachments/Pasted image 20240814230639.png"
     },
     {
-      "basename": "Pasted image 20240816000804",
-      "path": "Resources/Attachments/Pasted image 20240816000804.png"
-    },
-    {
-      "basename": "(타입스크립트) 프로젝트 경과",
-      "path": "Studied/(타입스크립트) 프로젝트 경과.md"
-    },
-    {
       "basename": "(타입 스크립트) 프로젝트 예고",
       "path": "Studied/(타입 스크립트) 프로젝트 예고.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
     },
     {
       "basename": "(타입 스크립트) 클래스",
@@ -89,10 +97,6 @@
       "path": "Tasks/2024-08-16.md"
     },
     {
-      "basename": "log",
-      "path": "System/Log/log.md"
-    },
-    {
       "basename": "(함수형 프로그래밍) 프로그래밍 패러다임",
       "path": "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
-    },
-    {
-      "basename": "백업",
-      "path": "System/DB/백업.md"
     },
     {
       "basename": "(함수형 프로그래밍) LISP",
@@ -195,10 +195,6 @@
     {
       "basename": "(대학교) (암호학) 다른 테스트 파일",
       "path": "Studied/(대학교) (암호학) 다른 테스트 파일.md"
-    },
-    {
-      "basename": "(대학교) (암호학) 테스트 파일",
-      "path": "Studied/(대학교) (암호학) 테스트 파일.md"
     }
   ],
   "omittedPaths": []
