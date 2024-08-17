@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "(타입 스크립트) 클래스",
+      "path": "Studied/(타입 스크립트) 클래스.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(타입스크립트) 인터페이스와 타입 ",
+      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
     },
     {
       "basename": "Home",
@@ -45,10 +53,6 @@
       "path": "Studied/(타입 스크립트) 프로젝트 예고.md"
     },
     {
-      "basename": "(타입 스크립트) 클래스",
-      "path": "Studied/(타입 스크립트) 클래스.md"
-    },
-    {
       "basename": "(타입 스크립트) 제네릭",
       "path": "Studied/(타입 스크립트) 제네릭.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "(타입 스크립트) 타입가드",
       "path": "Studied/(타입 스크립트) 타입가드.md"
-    },
-    {
-      "basename": "(타입스크립트) 인터페이스와 타입 ",
-      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
     },
     {
       "basename": "(옵시디언) 신기한 옵시디언 문법",
