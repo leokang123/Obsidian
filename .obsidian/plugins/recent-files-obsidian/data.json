@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "(타입스크립트) 프로젝트 경과",
+      "path": "Studied/(타입스크립트) 프로젝트 경과.md"
+    },
+    {
       "basename": "(타입 스크립트) 프로젝트 예고",
       "path": "Studied/(타입 스크립트) 프로젝트 예고.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "List-grid",
       "path": "System/Templates/List-grid.md"
-    },
-    {
-      "basename": "List-card",
-      "path": "System/Templates/List-card.md"
     }
   ],
   "omittedPaths": []
