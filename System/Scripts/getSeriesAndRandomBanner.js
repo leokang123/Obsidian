@@ -33,9 +33,9 @@ const getSeriesAndRandomBanner = (input) => {
 };
 
 module.exports = getSeriesAndRandomBanner;
-const backGroundPath = path.join(obsidianPath, 'Resources', 'Background');
-const resourceArr = fs.readdirSync(backGroundPath);
-console.log(resourceArr);
-const resourceLength = resourceArr.length;
-const randomNumber = Math.floor(Math.random() * resourceLength);
-console.log(resourceLength);
+// const backGroundPath = path.join(obsidianPath, 'Resources', 'Background');
+// const resourceArr = fs.readdirSync(backGroundPath);
+// console.log(resourceArr);
+// const resourceLength = resourceArr.length;
+// const randomNumber = Math.floor(Math.random() * resourceLength);
+// console.log(resourceLength);

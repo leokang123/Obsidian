@@ -50,8 +50,58 @@
               "type": "markdown",
               "state": {
                 "file": "Studied/(타입스크립트) 프로젝트 경과.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "af3141bd892e7018",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Attachments/Pasted image 20240817182523.png"
+              }
+            }
+          },
+          {
+            "id": "dd434e087072f444",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Attachments/Pasted image 20240816000804.png"
+              }
+            }
+          },
+          {
+            "id": "2556aefbfce7cdff",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Attachments/Pasted image 20240814230639.png"
+              }
+            }
+          },
+          {
+            "id": "a161ace937c62c8b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Attachments/Pasted image 20240814141338.png"
+              }
+            }
+          },
+          {
+            "id": "629301ac4a025225",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Attachments/Pasted image 20240817182623.png"
               }
             }
           },
@@ -80,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -154,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(타입스크립트) 프로젝트 경과.md",
+                "file": "Resources/Attachments/Pasted image 20240817182623.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(타입스크립트) 프로젝트 경과.md",
+                "file": "Resources/Attachments/Pasted image 20240817182623.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(타입스크립트) 프로젝트 경과.md"
+                "file": "Resources/Attachments/Pasted image 20240817182623.png"
               }
             }
           }
@@ -217,13 +267,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "templates:템플릿 삽입": false,
-      "daily-notes:오늘의 데일리 노트 열기": false
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "12cf26bd36516f11",
+  "active": "629301ac4a025225",
   "lastOpenFiles": [
-    "Studied/(타입 스크립트) 프로젝트 예고.md",
+    "Resources/Attachments/Pasted image 20240817182523.png",
+    "Resources/Attachments/Pasted image 20240817182623.png",
+    "Resources/Attachments/Pasted image 20240814141338.png",
+    "Resources/Attachments/Pasted image 20240814230639.png",
+    "Resources/Attachments/Pasted image 20240816000804.png",
     "Studied/(타입스크립트) 프로젝트 경과.md",
+    "Studied/(타입 스크립트) 프로젝트 예고.md",
     "Pages/공부.md",
     "Studied/(타입 스크립트) 클래스.md",
     "Studied/(타입 스크립트) 제네릭.md",
@@ -242,16 +298,12 @@
     "Tasks/2024-08-16.md",
     "System/Log/log.md",
     "Studied/(대학교) *궁금하면 직접 해보면 된다!*.md",
-    "Resources/Attachments/Pasted image 20240816000804.png",
     "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md",
     "Studied/(함수형 프로그래밍) 함수형 프로그래밍이란.md",
     "Studied/(옵시디언) 꾸미기프로젝트.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
     "Studied/(옵시디언) 모바일 동기화.md",
     "Pages/대학교.md",
-    "System/DB/백업.md",
-    "Resources/Attachments/Pasted image 20240814230639.png",
-    "Resources/Attachments/Pasted image 20240814141338.png",
     "Resources/Attachments/Pasted image 20240813153305.png",
     "Resources/Attachments/Pasted image 20240813153301.png",
     "Resources/Attachments/Pasted image 20240812162039.png",
@@ -263,8 +315,6 @@
     "System/Scripts/toggleAndSaveFile.js",
     "Resources/Attachments/Pasted image 20240805012533.png",
     "System/Scripts/saveOpenFile.js",
-    "Resources/Background/library.jpg",
-    "Resources/Background/programming.jpg",
     "System/Scripts/getTomorrow.js",
     "System/Scripts/getYesterday.js",
     "System/Buttons",
