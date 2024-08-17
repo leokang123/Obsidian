@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f13172b7655f6ec",
+        "id": "554210c40e58d300",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f4ceb8beaca96a",
+            "id": "34bf61632ff80ea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,18 +156,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "templates:템플릿 삽입": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "c4f4ceb8beaca96a",
+  "active": "34bf61632ff80ea8",
   "lastOpenFiles": [
-    "Pages/공부.md",
+    "Tasks/2024-08-17.md",
     "Pages/Home.md",
+    "Pages/공부.md",
     "Tasks/2024-08-15.md",
     "Tasks/2024-08-14.md",
     "Tasks/2024-08-16.md",
-    "Tasks/2024-08-17.md",
     "Studied/(타입스크립트) 프로젝트 경과.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
     "System/Log/log.md",

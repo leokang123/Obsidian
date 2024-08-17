@@ -5,6 +5,10 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "2024-08-17",
+      "path": "Tasks/2024-08-17.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "2024-08-16",
       "path": "Tasks/2024-08-16.md"
-    },
-    {
-      "basename": "2024-08-17",
-      "path": "Tasks/2024-08-17.md"
     },
     {
       "basename": "(타입스크립트) 프로젝트 경과",
