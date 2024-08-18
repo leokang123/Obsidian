@@ -5,12 +5,16 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "2024-08-17",
-      "path": "Tasks/2024-08-17.md"
+      "basename": "(타입 스크립트) 클래스",
+      "path": "Studied/(타입 스크립트) 클래스.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "2024-08-17",
+      "path": "Tasks/2024-08-17.md"
     },
     {
       "basename": "2024-08-15",
@@ -35,10 +39,6 @@
     {
       "basename": "log",
       "path": "System/Log/log.md"
-    },
-    {
-      "basename": "(타입 스크립트) 클래스",
-      "path": "Studied/(타입 스크립트) 클래스.md"
     },
     {
       "basename": "(타입스크립트) 인터페이스와 타입 ",
