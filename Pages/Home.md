@@ -37,7 +37,6 @@ tag include #todo
 hide tags
 hide due date
 hide edit button
-hide backlink
 short mode
 ```
 ````
@@ -49,6 +48,36 @@ path includes task
 done
 tag include #todo
 (due after yesterday) AND (due before tomorrow)
+hide tags
+hide due date
+hide edit button
+short mode
+```
+````
+`````
+
+`````ad-multi-column
+````ad-blue
+title: 전날 밀린 Todo
+```tasks
+path includes task
+not done
+tag include #todo
+(due after last 2 days) AND (due before last today)
+hide tags
+hide due date
+hide edit button
+short mode
+```
+````
+
+````ad-purple
+title: Done
+```tasks
+path includes task
+done
+tag include #todo
+(due after last 2 days) AND (due before last today)
 hide tags
 hide due date
 hide edit button
