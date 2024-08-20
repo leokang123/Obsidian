@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "(타입스크립트) 프로젝트 경과",
-      "path": "Studied/(타입스크립트) 프로젝트 경과.md"
+      "basename": "(옵시디언) 신기한 옵시디언 문법",
+      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
     {
       "basename": "공부",
@@ -11,6 +11,10 @@
     {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(타입스크립트) 프로젝트 경과",
+      "path": "Studied/(타입스크립트) 프로젝트 경과.md"
     },
     {
       "basename": "log",
@@ -131,10 +135,6 @@
     {
       "basename": "(타입 스크립트) 타입가드",
       "path": "Studied/(타입 스크립트) 타입가드.md"
-    },
-    {
-      "basename": "(옵시디언) 신기한 옵시디언 문법",
-      "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
     {
       "basename": "(타입스크립트) 다양한 타입지정",
