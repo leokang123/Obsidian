@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "(옵시디언) 신기한 옵시디언 문법",
       "path": "Studied/(옵시디언) 신기한 옵시디언 문법.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "(타입스크립트) 프로젝트 경과",
