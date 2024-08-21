@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "(타입 스크립트) 제네릭",
+      "path": "Studied/(타입 스크립트) 제네릭.md"
+    },
+    {
       "basename": "(타입스크립트) 인터페이스와 타입 ",
       "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
     },
@@ -9,16 +13,12 @@
       "path": "Pages/공부.md"
     },
     {
-      "basename": "(타입 스크립트) 타입가드",
-      "path": "Studied/(타입 스크립트) 타입가드.md"
-    },
-    {
-      "basename": "(타입 스크립트) 제네릭",
-      "path": "Studied/(타입 스크립트) 제네릭.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(타입 스크립트) 타입가드",
+      "path": "Studied/(타입 스크립트) 타입가드.md"
     },
     {
       "basename": "2024-08-21",
