@@ -38,13 +38,12 @@
               "type": "markdown",
               "state": {
                 "file": "Studied/(타입 스크립트) 제네릭.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(타입 스크립트) 제네릭.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(타입 스크립트) 제네릭.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(타입 스크립트) 제네릭.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -184,10 +183,12 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "a147db5b33be78fa",
+  "active": "ab23fa3b5cb92200",
   "lastOpenFiles": [
-    "Pages/공부.md",
+    "Studied/(대학교) (기본타입을 제네릭타입으로 쓰겠다고 개기면 IDE에서부터 안된다고 막힌다).md",
     "Pages/Home.md",
+    "Studied/(타입 스크립트) 제네릭.md",
+    "Pages/공부.md",
     "Tasks/2024-08-21.md",
     "Studied/(옵시디언) 신기한 옵시디언 문법.md",
     "Studied/(타입스크립트) 프로젝트 경과.md",
@@ -210,8 +211,6 @@
     "Pages/네이버.md",
     "Studied/(타입 스크립트) 클래스.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
-    "Studied/(타입스크립트) 인터페이스와 타입 .md",
-    "System/DB/백업.md",
     "Resources/Attachments/Pasted image 20240817184721.png",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
