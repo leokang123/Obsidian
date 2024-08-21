@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "(자바스크립트) 코어 자바스크립트",
+      "path": "Studied/(자바스크립트) 코어 자바스크립트.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
     {
-      "basename": "(타입스크립트) 인터페이스와 타입 ",
-      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
+      "basename": "Home",
+      "path": "Pages/Home.md"
     },
     {
       "basename": "(타입 스크립트) 제네릭",
       "path": "Studied/(타입 스크립트) 제네릭.md"
+    },
+    {
+      "basename": "2024-08-22",
+      "path": "Tasks/2024-08-22.md"
+    },
+    {
+      "basename": "(타입스크립트) 인터페이스와 타입 ",
+      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
     },
     {
       "basename": "(타입 스크립트) 타입가드",
@@ -191,10 +199,6 @@
     {
       "basename": "2024-08-08",
       "path": "Tasks/2024-08-08.md"
-    },
-    {
-      "basename": "2024-08-12",
-      "path": "Tasks/2024-08-12.md"
     }
   ],
   "omittedPaths": []
