@@ -18,7 +18,6 @@
   "floating-toc",
   "obsidian-linter",
   "obsidian-tasks-plugin",
-  "obsidian-kanban",
   "obsidian-style-settings",
   "obsidian-smart-typography",
   "table-editor-obsidian",
@@ -26,5 +25,6 @@
   "buttons",
   "open-in-new-tab",
   "insert-unsplash-image",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "obsidian-kanban"
 ]

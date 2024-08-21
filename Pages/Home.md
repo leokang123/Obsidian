@@ -1,12 +1,11 @@
 ---
-class: 
 cssclasses:
   - wide-page
-주제: 
 생성일: 토요일, 8월 3일 2024, 7:32:30 오후
-수정일: 월요일, 8월 5일 2024, 6:21:04 오전
+수정일:  2024-08-22 06:27:07
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
+tags: [대학교, 일반, 학습정리, 중요, 회고, 네이버, 개념, 잡, 프로젝트, 책리뷰, 3-2, 4-1, 4-2, 옵시디언, 정규표현식, 자바스크립트, 타입스크립트, 객체지향, 함수형프로그래밍, 비동기, Git, Jest, 컴파일러, 프로세스메모리, Clojure, 클로저, 렉시컬스코프, 커링, 불변성, 순수함수]
 ---
 
 # 메인 페이지
@@ -15,16 +14,20 @@ banner_y: 0.49584
 
 ## 페이지
 
-
 - #### [[네이버]] #mcl/list-card
 ![[네이버]]
-- #### [[공부]] 
+- #### [[공부]]
 ![[공부]]
 - #### [[대학교]]
 ![[대학교]]
 
-
-## 작업
+```dataviewjs 
+const dateObj = dv.current().file.mtime.c;
+const fullDate = `${dateObj.year}년 ${dateObj.month}월 ${dateObj.day}일`;
+const result = `## 작업\n\r**${fullDate}**`;
+console.log(`Apply Date in Home Page (${fullDate})`);
+dv.span(result);
+```
 
 `````ad-multi-column
 ````ad-blue
@@ -97,8 +100,6 @@ LIMIT 7
 ```
 ````
 
-
-
 ~~~ button 
 id makeFileInDataview
 color green
@@ -134,7 +135,7 @@ color green
 ## 태그모음
 
 - #### 전체관리 #mcl/list-card
- #대학교 #일반 #학습정리 #중요 
+ #대학교 #일반 #학습정리 #중요
 
 - #### 부분관리
 #회고 #네이버 #개념 #잡 #프로젝트 #책리뷰 #3-2 #4-1 #4-2

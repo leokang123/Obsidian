@@ -1,0 +1,1 @@
+#task #todo <% tp.file.cursor(0) %> 📅 <% tp.date.now() %>

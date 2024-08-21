@@ -270,7 +270,6 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "Pages",
     "System",
     "Resources",
     ""
