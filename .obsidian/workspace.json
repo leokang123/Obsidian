@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c53d3f18e78b160",
+        "id": "c51d06b286964963",
         "type": "tabs",
         "children": [
           {
-            "id": "5a9792d0d424d15c",
+            "id": "9a5089701119835d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,10 +159,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "5a9792d0d424d15c",
+  "active": "9a5089701119835d",
   "lastOpenFiles": [
-    "Tasks/2024-08-22.md",
     "Pages/Home.md",
+    "Tasks/2024-08-22.md",
     "Studied/(자바스크립트) 코드컨벤션 .md",
     "System/Scripts/asd.md",
     "Pages/공부.md",

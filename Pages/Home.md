@@ -2,7 +2,7 @@
 cssclasses:
   - wide-page
 생성일: 토요일, 8월 3일 2024, 7:32:30 오후
-수정일:  2024-08-24 03:34:27
+수정일:  2024-08-24 03:55:17
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
 tags: [대학교, 일반, 학습정리, 중요, 회고, 네이버, 개념, 잡, 프로젝트, 책리뷰, 3-2, 4-1, 4-2, 옵시디언, 정규표현식, 자바스크립트, 타입스크립트, 객체지향, 함수형프로그래밍, 비동기, Git, Jest, 컴파일러, 프로세스메모리, Clojure, 클로저, 렉시컬스코프, 커링, 불변성, 순수함수]
@@ -12,7 +12,7 @@ tags: [대학교, 일반, 학습정리, 중요, 회고, 네이버, 개념, 잡, 
 
 ---
 
-## 페이지
+## 학습 정리
 
 - #### [[네이버]] #mcl/list-card
 ![[네이버]]
@@ -21,13 +21,9 @@ tags: [대학교, 일반, 학습정리, 중요, 회고, 네이버, 개념, 잡, 
 - #### [[대학교]]
 ![[대학교]]
 
-```dataviewjs 
-const dateObj = dv.current().file.mtime.c;
-const fullDate = `${dateObj.year}년 ${dateObj.month}월 ${dateObj.day}일`;
-const result = `## 작업\n\r**${fullDate}**`;
-console.log(`Apply Date in Home Page (${fullDate})`);
-dv.span(result);
-```
+## 작업
+
+`$= dv.span('**' + moment().format('YYYY년 MM월 DD일, dddd') + '**') `
 
 `````ad-multi-column
 ````ad-blue
