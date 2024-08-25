@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -186,6 +186,13 @@
   },
   "active": "8a20e3ec2a4a7d6e",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20240826051420.png",
+    "Resources/Attachments/Pasted image 20240826051408.png",
+    "Resources/Attachments/Pasted image 20240826051350.png",
+    "Resources/Attachments/Pasted image 20240826051340.png",
+    "Resources/Attachments/Pasted image 20240826051323.png",
+    "Resources/Attachments/Pasted image 20240826051258.png",
+    "Resources/Attachments/Pasted image 20240826051153.png",
     "Pages/공부.md",
     "Pages/Home.md",
     "System/Log/log.md",
@@ -211,14 +218,12 @@
     "System/Templates/파일.md",
     "Studied/주제.md",
     "Studied/(아무거나) ㄹㅇ 아무거나.md",
-    "Tasks/2024-08-19.md",
     "Resources/Attachments/Pasted image 20240822035805.png",
     "Resources/Attachments/Pasted image 20240822034707.png",
     "Resources/Attachments/Pasted image 20240817184721.png",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "Resources/Attachments/Pasted image 20240816000804.png",
-    "Resources/Attachments/Pasted image 20240814141338.png",
     "System/Scripts/toggleAndSaveFile.js",
     "System/Scripts/makeSubjectTag.js",
     "System/Scripts/makeSubject.js",
@@ -227,11 +232,6 @@
     "System/Scripts/getTomorrow.js",
     "System/Scripts/getSeriesAndRandomBanner.js",
     "System/Scripts/getSemester.js",
-    "Resources/Attachments/Pasted image 20240817182623.png",
-    "Resources/Attachments/Pasted image 20240817182523.png",
-    "Resources/Attachments/Pasted image 20240814230639.png",
-    "Resources/Background/nightCityBlur.jpg",
-    "Resources/Attachments/Pasted image 20240813153305.png",
     "Resources/Canvas/무제 파일.canvas",
     "Resources/Canvas/무제 파일 1.canvas"
   ]
