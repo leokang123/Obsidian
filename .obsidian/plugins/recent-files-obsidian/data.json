@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
+      "basename": "(자바스크립트) <코어자바스크립트> 데이터타입",
+      "path": "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
+      "basename": "2024-08-26",
+      "path": "Tasks/2024-08-26.md"
+    },
+    {
+      "basename": "(자바스크립트) <코어자바스크립트> 책 소개",
+      "path": "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
     },
     {
       "basename": "2024-08-22",
@@ -27,14 +43,6 @@
     {
       "basename": "2024-08-21",
       "path": "Tasks/2024-08-21.md"
-    },
-    {
-      "basename": "(자바스크립트) 코어 자바스크립트",
-      "path": "Studied/(자바스크립트) 코어 자바스크립트.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
     },
     {
       "basename": "네이버",
