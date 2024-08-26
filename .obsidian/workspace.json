@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a89cbeca84b551fa",
+        "id": "03084aff7b5fe89e",
         "type": "tabs",
         "children": [
           {
-            "id": "5a887c4ee1077e00",
+            "id": "a260d5b6aec04157",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,11 +159,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "5a887c4ee1077e00",
+  "active": "a260d5b6aec04157",
   "lastOpenFiles": [
+    "Tasks/2024-08-22.md",
+    "Pages/Home.md",
+    "Pages/대학교.md",
+    "System/Log/log.md",
     "Pages/공부.md",
     "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
-    "Pages/Home.md",
     "Resources/Attachments/Pasted image 20240826184156.png",
     "Resources/Attachments/Pasted image 20240826051420.png",
     "Resources/Attachments/Pasted image 20240826051408.png",
@@ -172,13 +175,10 @@
     "Resources/Attachments/Pasted image 20240826051323.png",
     "Resources/Attachments/Pasted image 20240826051258.png",
     "Resources/Attachments/Pasted image 20240826051153.png",
-    "System/Log/log.md",
     "Tasks/2024-08-26.md",
     "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md",
     "Studied/(자바스크립트) [코어자바스크립트] 데이터 타입.md",
     "Studied/(자바스크립트) (코어자바스크립트) 데이터 타입.md",
-    "Pages/대학교.md",
-    "Tasks/2024-08-22.md",
     "Studied/(자바스크립트) 코드컨벤션 .md",
     "System/Scripts/asd.md",
     "Studied/(타입스크립트) 프로젝트 경과.md",
