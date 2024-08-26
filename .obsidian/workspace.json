@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pages/Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -161,10 +161,10 @@
   },
   "active": "50b819e28d59ef45",
   "lastOpenFiles": [
+    "System/Log/log.md",
+    "Pages/Home.md",
     "Pages/공부.md",
     "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
-    "Pages/Home.md",
-    "System/Log/log.md",
     "Tasks/2024-08-27.md",
     "Tasks/2024-08-22.md",
     "Pages/대학교.md",

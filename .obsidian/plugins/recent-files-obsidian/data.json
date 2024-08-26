@@ -5,16 +5,16 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
     {
       "basename": "(자바스크립트) <코어자바스크립트> 데이터타입",
       "path": "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
     },
     {
       "basename": "2024-08-27",
