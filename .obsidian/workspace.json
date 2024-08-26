@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -186,6 +186,7 @@
   },
   "active": "8a20e3ec2a4a7d6e",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20240826184156.png",
     "Resources/Attachments/Pasted image 20240826051420.png",
     "Resources/Attachments/Pasted image 20240826051408.png",
     "Resources/Attachments/Pasted image 20240826051350.png",
@@ -223,7 +224,6 @@
     "Resources/Attachments/Pasted image 20240817184721.png",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
-    "Resources/Attachments/Pasted image 20240816000804.png",
     "System/Scripts/toggleAndSaveFile.js",
     "System/Scripts/makeSubjectTag.js",
     "System/Scripts/makeSubject.js",
