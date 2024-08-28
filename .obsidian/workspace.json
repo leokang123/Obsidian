@@ -18,33 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "8c405c61df6b8be3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/공부.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "57c3fc5552f031a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(타입스크립트) 열거형, 이름공간.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -184,11 +159,11 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "57c3fc5552f031a1",
+  "active": "a634e40b024a4e44",
   "lastOpenFiles": [
     "Pages/공부.md",
-    "Pages/Home.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
+    "Pages/Home.md",
     "Studied/(타입 스크립트) 제네릭.md",
     "Tasks/2024-08-28.md",
     "System/Log/log.md",
