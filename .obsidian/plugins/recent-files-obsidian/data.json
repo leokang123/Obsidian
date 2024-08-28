@@ -5,6 +5,18 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(타입스크립트) 열거형, 이름공간",
+      "path": "Studied/(타입스크립트) 열거형, 이름공간.md"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
       "basename": "2024-08-29",
       "path": "Tasks/2024-08-29.md"
     },
@@ -17,24 +29,12 @@
       "path": "System/Templates/Task.md"
     },
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
-    },
-    {
-      "basename": "(타입스크립트) 열거형, 이름공간",
-      "path": "Studied/(타입스크립트) 열거형, 이름공간.md"
-    },
-    {
       "basename": "(타입 스크립트) 제네릭",
       "path": "Studied/(타입 스크립트) 제네릭.md"
     },
     {
       "basename": "2024-08-28",
       "path": "Tasks/2024-08-28.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
     },
     {
       "basename": "(자바스크립트) <코어자바스크립트> 데이터타입",

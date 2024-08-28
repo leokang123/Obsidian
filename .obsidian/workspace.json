@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "127d8ef803fa2ea6",
+        "id": "af5cf2f9b2f687ac",
         "type": "tabs",
         "children": [
           {
-            "id": "578ca5de8dfea29c",
+            "id": "53a486206eb41c7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,17 +159,17 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "578ca5de8dfea29c",
+  "active": "53a486206eb41c7c",
   "lastOpenFiles": [
-    "Tasks/2024-08-29.md",
-    "System/Templates/todo.md",
-    "Pages/Home.md",
-    "System/Templates/Task.md",
     "Pages/공부.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
+    "System/Log/log.md",
+    "Pages/Home.md",
+    "Tasks/2024-08-29.md",
+    "System/Templates/todo.md",
+    "System/Templates/Task.md",
     "Studied/(타입 스크립트) 제네릭.md",
     "Tasks/2024-08-28.md",
-    "System/Log/log.md",
     "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
     "Tasks/2024-08-27.md",
     "Tasks/2024-08-22.md",
