@@ -9,6 +9,10 @@
       "path": "Pages/공부.md"
     },
     {
+      "basename": "(타입 스크립트) 제네릭",
+      "path": "Studied/(타입 스크립트) 제네릭.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "EmptyNote",
       "path": "System/Templates/EmptyNote.md"
-    },
-    {
-      "basename": "(타입 스크립트) 제네릭",
-      "path": "Studied/(타입 스크립트) 제네릭.md"
     },
     {
       "basename": "(타입스크립트) 인터페이스와 타입 ",
