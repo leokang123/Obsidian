@@ -5,6 +5,18 @@
       "path": "Pages/Home.md"
     },
     {
+      "basename": "2024-08-29",
+      "path": "Tasks/2024-08-29.md"
+    },
+    {
+      "basename": "todo",
+      "path": "System/Templates/todo.md"
+    },
+    {
+      "basename": "Task",
+      "path": "System/Templates/Task.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
@@ -65,16 +77,8 @@
       "path": "Pages/네이버.md"
     },
     {
-      "basename": "Task",
-      "path": "System/Templates/Task.md"
-    },
-    {
       "basename": "대학파일",
       "path": "System/Templates/대학파일.md"
-    },
-    {
-      "basename": "todo",
-      "path": "System/Templates/todo.md"
     },
     {
       "basename": "파일",
@@ -195,10 +199,6 @@
     {
       "basename": "(타입스크립트) 다양한 타입지정",
       "path": "Studied/(타입스크립트) 다양한 타입지정.md"
-    },
-    {
-      "basename": "(Clojure) 클로저 시작하기 1",
-      "path": "Studied/(Clojure) 클로저 시작하기 1.md"
     }
   ],
   "omittedPaths": []

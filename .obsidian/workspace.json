@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "266b98d11c98068e",
+        "id": "127d8ef803fa2ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "a634e40b024a4e44",
+            "id": "578ca5de8dfea29c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,11 +159,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "a634e40b024a4e44",
+  "active": "578ca5de8dfea29c",
   "lastOpenFiles": [
+    "Tasks/2024-08-29.md",
+    "System/Templates/todo.md",
+    "Pages/Home.md",
+    "System/Templates/Task.md",
     "Pages/공부.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
-    "Pages/Home.md",
     "Studied/(타입 스크립트) 제네릭.md",
     "Tasks/2024-08-28.md",
     "System/Log/log.md",
@@ -188,13 +191,10 @@
     "Studied/(타입스크립트) 프로젝트 경과.md",
     "Tasks/2024-08-21.md",
     "Pages/네이버.md",
-    "System/Templates/Task.md",
     "System/Templates/대학파일.md",
-    "System/Templates/todo.md",
     "Tasks/2024-08-23.md",
     "Studied/(아무거나) 아무거나.md",
     "Studied/(대학교) (아무거나) 아무거나.md",
-    "Tasks/2024-08-24.md",
     "Resources/Attachments/Pasted image 20240822035805.png",
     "Resources/Attachments/Pasted image 20240822034707.png",
     "System/Fonts/나눔손글씨 성실체.ttf",

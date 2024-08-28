@@ -10,7 +10,7 @@ banner_y: 0.088
 
 # <% tp.file.title %>
 
-- [ ] #task #todo<% tp.file.cursor(0) %> 📅 <% tp.date.now() %> 
+- [ ] #task #todo <% tp.file.cursor(0) %> 📅 <% tp.date.now() %> 
 
 [[<% tp.user.getYesterday(tp.file.title) %>|< 전날]] | [[<% tp.user.getTomorrow(tp.file.title) %>|다음날 >]]
 
