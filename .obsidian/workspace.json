@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ece8c565ac7822b",
+        "id": "266b98d11c98068e",
         "type": "tabs",
         "children": [
           {
-            "id": "275edc18056bb200",
+            "id": "b8ab475e9856e7ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,57 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9d1617c112a215a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/공부.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2d4c655e751f073e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3f2c5dc40d66b5a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6506c27a1b4be7a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md"
               }
             }
           }
@@ -159,12 +208,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "275edc18056bb200",
+  "active": "2d4c655e751f073e",
   "lastOpenFiles": [
-    "Tasks/2024-08-28.md",
-    "Pages/Home.md",
-    "System/Log/log.md",
     "Pages/공부.md",
+    "Studied/(타입스크립트) 열거형, 이름공간.md",
+    "Pages/Home.md",
+    "Tasks/2024-08-28.md",
+    "System/Log/log.md",
     "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
     "Tasks/2024-08-27.md",
     "Tasks/2024-08-22.md",
@@ -194,7 +244,6 @@
     "Studied/(대학교) (아무거나) 아무거나.md",
     "Tasks/2024-08-24.md",
     "System/Templates/파일.md",
-    "Studied/주제.md",
     "Resources/Attachments/Pasted image 20240822035805.png",
     "Resources/Attachments/Pasted image 20240822034707.png",
     "System/Fonts/나눔손글씨 성실체.ttf",
