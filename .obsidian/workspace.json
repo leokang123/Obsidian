@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "257a6cd830da02d3",
+        "id": "2ece8c565ac7822b",
         "type": "tabs",
         "children": [
           {
-            "id": "95462e48c15af94d",
+            "id": "275edc18056bb200",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,10 +159,11 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "95462e48c15af94d",
+  "active": "275edc18056bb200",
   "lastOpenFiles": [
-    "System/Log/log.md",
+    "Tasks/2024-08-28.md",
     "Pages/Home.md",
+    "System/Log/log.md",
     "Pages/공부.md",
     "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
     "Tasks/2024-08-27.md",
@@ -194,7 +195,6 @@
     "Tasks/2024-08-24.md",
     "System/Templates/파일.md",
     "Studied/주제.md",
-    "Studied/(아무거나) ㄹㅇ 아무거나.md",
     "Resources/Attachments/Pasted image 20240822035805.png",
     "Resources/Attachments/Pasted image 20240822034707.png",
     "System/Fonts/나눔손글씨 성실체.ttf",
