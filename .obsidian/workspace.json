@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d1617c112a215a2",
+            "id": "a634e40b024a4e44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "a634e40b024a4e44",
+            "id": "8c405c61df6b8be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "01953627812c1909",
+            "id": "57c3fc5552f031a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,7 +184,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "01953627812c1909",
+  "active": "57c3fc5552f031a1",
   "lastOpenFiles": [
     "Pages/공부.md",
     "Pages/Home.md",
