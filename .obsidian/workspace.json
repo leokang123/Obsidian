@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8ab475e9856e7ee",
+            "id": "9d1617c112a215a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "9d1617c112a215a2",
+            "id": "a634e40b024a4e44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "01953627812c1909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/공부.md"
+                "file": "Studied/(타입스크립트) 열거형, 이름공간.md"
               }
             }
           }
@@ -172,12 +184,12 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "9d1617c112a215a2",
+  "active": "01953627812c1909",
   "lastOpenFiles": [
-    "Studied/(타입스크립트) 열거형, 이름공간.md",
     "Pages/공부.md",
-    "Studied/(타입 스크립트) 제네릭.md",
     "Pages/Home.md",
+    "Studied/(타입스크립트) 열거형, 이름공간.md",
+    "Studied/(타입 스크립트) 제네릭.md",
     "Tasks/2024-08-28.md",
     "System/Log/log.md",
     "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
