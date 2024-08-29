@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af5cf2f9b2f687ac",
+        "id": "1ef5c0971bba35b7",
         "type": "tabs",
         "children": [
           {
-            "id": "53a486206eb41c7c",
+            "id": "67d94ed563eab94d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,11 +159,11 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "53a486206eb41c7c",
+  "active": "67d94ed563eab94d",
   "lastOpenFiles": [
+    "Pages/공부.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
     "Pages/Home.md",
-    "Pages/공부.md",
     "System/Log/log.md",
     "Tasks/2024-08-29.md",
     "System/Templates/todo.md",

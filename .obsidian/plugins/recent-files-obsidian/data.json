@@ -5,12 +5,12 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "(타입스크립트) 열거형, 이름공간",
-      "path": "Studied/(타입스크립트) 열거형, 이름공간.md"
-    },
-    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(타입스크립트) 열거형, 이름공간",
+      "path": "Studied/(타입스크립트) 열거형, 이름공간.md"
     },
     {
       "basename": "log",
