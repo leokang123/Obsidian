@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "852c25015abd9420",
+        "id": "223c5deea81b20b1",
         "type": "tabs",
         "children": [
           {
-            "id": "f8dbf6b492de089b",
+            "id": "8cfde491022882f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ba55261070c99a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -172,14 +159,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "ba55261070c99a33",
+  "active": "8cfde491022882f9",
   "lastOpenFiles": [
+    "Tasks/2024-08-30.md",
+    "Pages/Home.md",
+    "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md",
     "Resources/Attachments/Pasted image 20240830011744.png",
     "Resources/Attachments/Pasted image 20240830011616.png",
     "Resources/Attachments/Pasted image 20240830011559.png",
-    "Pages/Home.md",
-    "Tasks/2024-08-30.md",
-    "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md",
     "Pages/공부.md",
     "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
@@ -199,7 +186,6 @@
     "Resources/Attachments/Pasted image 20240826051340.png",
     "Resources/Attachments/Pasted image 20240826051323.png",
     "Resources/Attachments/Pasted image 20240826051258.png",
-    "Resources/Attachments/Pasted image 20240826051153.png",
     "Tasks/2024-08-26.md",
     "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md",
     "Studied/(자바스크립트) [코어자바스크립트] 데이터 타입.md",
