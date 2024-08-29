@@ -5,16 +5,20 @@
       "path": "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md"
     },
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "2024-08-30",
+      "path": "Tasks/2024-08-30.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
     {
       "basename": "(자바스크립트) <코어자바스크립트> 데이터타입",
       "path": "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "(타입스크립트) 열거형, 이름공간",
@@ -195,10 +199,6 @@
     {
       "basename": "(타입스크립트) 첫시작",
       "path": "Studied/(타입스크립트) 첫시작.md"
-    },
-    {
-      "basename": "(타입스크립트) 다양한 타입지정 ",
-      "path": "Studied/(타입스크립트) 다양한 타입지정 .md"
     }
   ],
   "omittedPaths": []
