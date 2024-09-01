@@ -2,7 +2,7 @@
 주제: 자바스크립트
 cssclasses: wide-page
 생성일:  2024-09-01 17:25
-수정일:  2024-09-01 17:54:14
+수정일:  2024-09-01 18:17:34
 series: 5
 banner: "![[flightSupply.jpg]]"
 banner_y: 0.388
@@ -33,7 +33,7 @@ tags: [일반, 자바스크립트, 책리뷰]
 ```js
 var a = 1;
 console.log(a);         // 1
-console.log(global.a);  // 1
+console.log(window.a);  // 1
 ```
 
 자바스크립트의 모든 변수는 실은 특정 객체의 프로퍼티로서 동작하기 때문에 가능한 상황이다. 사용자가 var 연산자를 이용해 변수를 선언하더라도 실제 자바스크립트 엔진은 어떤 특정 객체의 프로퍼티로 인식하는 것이고, 그 특정 객체는 이전에 배운 LexicalEnvironment(이하 L.E) 이다. 따라서 실행 컨텍스트는 변수를 수집해서 L.E의 프로퍼티로 저장하고, 변수가 호출되면 L.E를 조회해서 일치하는 프로퍼티가 있을 경우 그 값을 반환한다.
@@ -45,14 +45,35 @@ console.log(global.a);  // 1
 > 할당하는 과정 자체는 거의 일치하지만 값을 삭제하는 경우에 둘이 다르다.
 > ```js
 > var a = 1;
-> delete global.a;  // false
-> console.log(a, global.a, this.a); // 1 1 1 
+> delete window.a;  // false
+> console.log(a, window.a, this.a); // 1 1 1 
 > ```
 > ```js
 > global.b = 2;
-> delete global.b; // true
-> console.log(b, global.b, this.b); // Uncaught RefernceError: b is not defined
+> delete window.b; // true
+> console.log(b, window.b, this.b); // Uncaught RefernceError: b is not defined
 > ```
 > var을 사용하는 것은 해당 변수를 전역객체의 프로퍼티로 할당하면서 추가적으로 해당 프로퍼티의 configurable 속성(변경 및 삭제 가능성)을 false로 정의하는 것이다
 > 이처럼 var로 선언한 전역변수와 전역객체의 프로퍼치는 호이스팅 여부 및 configurable여부에서 차이를 보인다.
 
+> 추가로 NodeJs환경에서의 결과는 책의 내용과 사뭇 다르다 *(브라우저 환경은 책과 동일)*
+> 책에서는 Nodejs환경에서 `console.log(this)`를 하면 global객체가 출력된다 했는데, 실제로 해보니 `{}`와 같은 빈 객체가 나왔다.
+> 이유는 다음과 같다
+> - Node 에서 실행되는 **js 파일은 하나의 모듈(Module)** 이다
+> - 실제로 node 명령어를 통해 js 파일 하나를 실행하면, **파일의 전체 script가 하나의 함수 안**에 들어가게 된다.
+> - **Node 엔진은 해당 함수를 실행함**으로써 사용자가 작성한 코드의 결과를 출력하는 것이다.
+> - 결과적으로, js파일에서 작성하는 **코드 전체는 하나의 함수 내부에 들어가**게 되는 것이므로, **지역 scope**를 가지게 된다
+>
+> 따라서 자바스크립트 엔진에서 **함수선언문으로 함수를 실행할 시 this가 전역객체를 참조**하는다는 점을 이용하여 우리가 원하는 결과를 출력할 수 있다.
+> ```js
+> function a() {
+>   console.log(this); // global
+>   console.log(this === global); // true;
+> }
+> a(); 
+> ```
+
+## 참조
+
+[\[NodeJS\] Node 의 this 란? (+ 화살표 함수의 this)](https://haeunyah.tistory.com/86)
+[\[JS\] 📚 자바스크립트 this 💯 완전 정복](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-this-%EC%B4%9D%EC%A0%95%EB%A6%AC)
