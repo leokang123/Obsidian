@@ -2,7 +2,7 @@
 주제: 자바스크립트
 cssclasses: wide-page
 생성일:  2024-09-01 17:25
-수정일:  2024-09-01 18:36:13
+수정일:  2024-09-01 19:25:16
 series: 5
 banner: "![[flightSupply.jpg]]"
 banner_y: 0.388
@@ -76,6 +76,8 @@ console.log(window.a);  // 1
 > ```
 
 ### 메소드로서 호출할 때 그 메소드 내부에서의 This
+
+낼부터 다시
 
 ## 참조
 
