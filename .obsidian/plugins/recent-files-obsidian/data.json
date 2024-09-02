@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "Drawing 2024-09-01 23.03.31.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-09-01 23.03.31.excalidraw.md"
+    },
+    {
       "basename": "(자바스크립트) <코어자바스크립트> this",
       "path": "Studied/(자바스크립트) <코어자바스크립트> this.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "(자바스크립트) <코어자바스크립트> 실행 컨텍스트",
       "path": "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "2024-08-30",
@@ -195,10 +199,6 @@
     {
       "basename": "(타입 스크립트) 프로젝트 예고",
       "path": "Studied/(타입 스크립트) 프로젝트 예고.md"
-    },
-    {
-      "basename": "(타입 스크립트) 타입스크립트 시작하기",
-      "path": "Studied/(타입 스크립트) 타입스크립트 시작하기.md"
     }
   ],
   "omittedPaths": []
