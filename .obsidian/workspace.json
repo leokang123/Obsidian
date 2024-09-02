@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "143cceabea48fe31",
+        "id": "9670d9bbb64ce8fb",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2b6ba30a1ec943",
+            "id": "5de4940bf9f2e6ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b6063ef97234f4cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/공부.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3618cde2a9006415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(자바스크립트) <코어자바스크립트> this.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(자바스크립트) <코어자바스크립트> this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Studied/(자바스크립트) <코어자바스크립트> this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Studied/(자바스크립트) <코어자바스크립트> this.md"
               }
             }
           }
@@ -159,12 +184,24 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "2e2b6ba30a1ec943",
+  "active": "3618cde2a9006415",
   "lastOpenFiles": [
-    "Resources/Excaldraw/Drawing 2024-09-01 23.03.31.excalidraw.md",
+    "Pages/공부.md",
     "Pages/Home.md",
     "Studied/(자바스크립트) <코어자바스크립트> this.md",
-    "Pages/공부.md",
+    "Tasks/2024-09-02.md",
+    "Pages/대학교.md",
+    "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
+    "System/Log/log.md",
+    "Studied/(대학교) (객체지향) 첫번쨰수업.md",
+    "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md",
+    "Studied/(대학교) (객체지향) 테스트 파일.md",
+    "Studied/(대학교) (암호학) 테스트 파일.md",
+    "Studied/(대학교) (암호학) 다른 테스트 파일.md",
+    "Studied/(대학교) (모바일 컴퓨팅) 첫번째.md",
+    "Studied/(대학교) (모바일 컴퓨팅) 두번째.md",
+    "Studied/(대학교) (객체지향) 다른 테스트 파일.md",
+    "Resources/Excaldraw/Drawing 2024-09-01 23.03.31.excalidraw.md",
     "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md",
     "Tasks/2024-08-30.md",
     "Resources/Attachments/Pasted image 20240830011744.png",
@@ -172,15 +209,12 @@
     "Resources/Attachments/Pasted image 20240830011559.png",
     "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
-    "System/Log/log.md",
     "Tasks/2024-08-29.md",
     "System/Templates/todo.md",
     "System/Templates/Task.md",
     "Studied/(타입 스크립트) 제네릭.md",
     "Tasks/2024-08-28.md",
     "Tasks/2024-08-27.md",
-    "Tasks/2024-08-22.md",
-    "Pages/대학교.md",
     "Resources/Attachments/Pasted image 20240826184156.png",
     "Resources/Attachments/Pasted image 20240826051420.png",
     "Resources/Attachments/Pasted image 20240826051408.png",
@@ -188,15 +222,6 @@
     "Resources/Attachments/Pasted image 20240826051340.png",
     "Resources/Attachments/Pasted image 20240826051323.png",
     "Resources/Attachments/Pasted image 20240826051258.png",
-    "Tasks/2024-08-26.md",
-    "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md",
-    "Studied/(자바스크립트) [코어자바스크립트] 데이터 타입.md",
-    "Studied/(자바스크립트) (코어자바스크립트) 데이터 타입.md",
-    "Studied/(자바스크립트) 코드컨벤션 .md",
-    "System/Scripts/asd.md",
-    "Studied/(타입스크립트) 프로젝트 경과.md",
-    "Tasks/2024-08-21.md",
-    "Pages/네이버.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",

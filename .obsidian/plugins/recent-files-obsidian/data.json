@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
-      "basename": "Drawing 2024-09-01 23.03.31.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-09-01 23.03.31.excalidraw.md"
-    },
-    {
       "basename": "(자바스크립트) <코어자바스크립트> this",
       "path": "Studied/(자바스크립트) <코어자바스크립트> this.md"
     },
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "2024-09-02",
+      "path": "Tasks/2024-09-02.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 첫번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md"
+    },
+    {
+      "basename": "Drawing 2024-09-01 23.03.31.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-09-01 23.03.31.excalidraw.md"
     },
     {
       "basename": "(자바스크립트) <코어자바스크립트> 실행 컨텍스트",
@@ -31,10 +47,6 @@
     {
       "basename": "(타입스크립트) 열거형, 이름공간",
       "path": "Studied/(타입스크립트) 열거형, 이름공간.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
     },
     {
       "basename": "2024-08-29",
@@ -63,10 +75,6 @@
     {
       "basename": "2024-08-22",
       "path": "Tasks/2024-08-22.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "2024-08-26",
@@ -135,30 +143,6 @@
     {
       "basename": "2024-08-14",
       "path": "Tasks/2024-08-14.md"
-    },
-    {
-      "basename": "(대학교) (객체지향) 다른 테스트 파일",
-      "path": "Studied/(대학교) (객체지향) 다른 테스트 파일.md"
-    },
-    {
-      "basename": "(대학교) (모바일 컴퓨팅) 첫번째",
-      "path": "Studied/(대학교) (모바일 컴퓨팅) 첫번째.md"
-    },
-    {
-      "basename": "(대학교) (암호학) 테스트 파일",
-      "path": "Studied/(대학교) (암호학) 테스트 파일.md"
-    },
-    {
-      "basename": "(대학교) (암호학) 다른 테스트 파일",
-      "path": "Studied/(대학교) (암호학) 다른 테스트 파일.md"
-    },
-    {
-      "basename": "(대학교) (객체지향) 테스트 파일",
-      "path": "Studied/(대학교) (객체지향) 테스트 파일.md"
-    },
-    {
-      "basename": "(대학교) (모바일 컴퓨팅) 두번째",
-      "path": "Studied/(대학교) (모바일 컴퓨팅) 두번째.md"
     },
     {
       "basename": "(함수형 프로그래밍) 프로그래밍 패러다임",
