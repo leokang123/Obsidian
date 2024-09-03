@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec459a9200f7241a",
+        "id": "a6085a0e6038eccc",
         "type": "tabs",
         "children": [
           {
-            "id": "c73a0a45a9696e71",
+            "id": "a04834fa58406e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,20 +159,21 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "c73a0a45a9696e71",
+  "active": "a04834fa58406e3b",
   "lastOpenFiles": [
-    "Tasks/2024-09-03.md",
-    "Pages/Home.md",
     "Pages/대학교.md",
     "Studied/(대학교) (암호학) 첫번째 수업.md",
+    "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md",
+    "Pages/Home.md",
+    "System/Log/log.md",
+    "Tasks/2024-09-03.md",
+    "Pages/공부.md",
+    "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md",
+    "Studied/(자바스크립트) <코어자바스크립트> this.md",
     "Resources/Excaldraw/Drawing 2024-09-02 14.37.21.excalidraw.md",
     "Resources/Attachments/Pasted image 20240902133346.png",
-    "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md",
-    "Studied/(자바스크립트) <코어자바스크립트> this.md",
-    "Pages/공부.md",
     "Tasks/2024-09-02.md",
     "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
-    "System/Log/log.md",
     "Studied/(대학교) (객체지향) 첫번쨰수업.md",
     "Studied/(대학교) (객체지향) 테스트 파일.md",
     "Studied/(대학교) (암호학) 테스트 파일.md",
@@ -190,7 +191,6 @@
     "Studied/(타입스크립트) 열거형, 이름공간.md",
     "Tasks/2024-08-29.md",
     "System/Templates/todo.md",
-    "System/Templates/Task.md",
     "Resources/Attachments/Pasted image 20240826184156.png",
     "Resources/Attachments/Pasted image 20240826051420.png",
     "Resources/Attachments/Pasted image 20240826051408.png",
