@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9670d9bbb64ce8fb",
+        "id": "ec459a9200f7241a",
         "type": "tabs",
         "children": [
           {
-            "id": "b6063ef97234f4cc",
+            "id": "c73a0a45a9696e71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,43 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "75e62fe87627f474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/대학교.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b1646f3072dd0d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (암호학) 첫번째 수업.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d52365b96663ae6f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-09-02 14.37.21.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-09-02 14.37.21.excalidraw.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-09-02 14.37.21.excalidraw.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-09-02 14.37.21.excalidraw.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -194,14 +159,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "d52365b96663ae6f",
+  "active": "c73a0a45a9696e71",
   "lastOpenFiles": [
+    "Tasks/2024-09-03.md",
+    "Pages/Home.md",
+    "Pages/대학교.md",
     "Studied/(대학교) (암호학) 첫번째 수업.md",
     "Resources/Excaldraw/Drawing 2024-09-02 14.37.21.excalidraw.md",
     "Resources/Attachments/Pasted image 20240902133346.png",
-    "Pages/대학교.md",
     "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md",
-    "Pages/Home.md",
     "Studied/(자바스크립트) <코어자바스크립트> this.md",
     "Pages/공부.md",
     "Tasks/2024-09-02.md",
@@ -225,7 +191,6 @@
     "Tasks/2024-08-29.md",
     "System/Templates/todo.md",
     "System/Templates/Task.md",
-    "Studied/(타입 스크립트) 제네릭.md",
     "Resources/Attachments/Pasted image 20240826184156.png",
     "Resources/Attachments/Pasted image 20240826051420.png",
     "Resources/Attachments/Pasted image 20240826051408.png",
