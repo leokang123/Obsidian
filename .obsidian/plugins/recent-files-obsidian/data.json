@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "(대학교) (모바일컴퓨팅) 두번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(대학교) (딥러닝) 첫번쨰 수업",
+      "path": "Studied/(대학교) (딥러닝) 첫번쨰 수업.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
     },
     {
       "basename": "(대학교) (암호학) 첫번째 수업",
@@ -191,10 +199,6 @@
     {
       "basename": "Pasted image 20240814230639",
       "path": "Resources/Attachments/Pasted image 20240814230639.png"
-    },
-    {
-      "basename": "(타입 스크립트) 프로젝트 예고",
-      "path": "Studied/(타입 스크립트) 프로젝트 예고.md"
     }
   ],
   "omittedPaths": []
