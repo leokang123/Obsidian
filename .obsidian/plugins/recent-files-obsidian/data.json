@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (암호학) 두번째 수업",
-      "path": "Studied/(대학교) (암호학) 두번째 수업.md"
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
     },
     {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(타입스크립트) 열거형, 이름공간",
+      "path": "Studied/(타입스크립트) 열거형, 이름공간.md"
+    },
+    {
+      "basename": "(옵시디언) 모바일 동기화",
+      "path": "Studied/(옵시디언) 모바일 동기화.md"
+    },
+    {
+      "basename": "(자바스크립트) <코어자바스크립트> this",
+      "path": "Studied/(자바스크립트) <코어자바스크립트> this.md"
+    },
+    {
+      "basename": "(대학교) (암호학) 두번째 수업",
+      "path": "Studied/(대학교) (암호학) 두번째 수업.md"
     },
     {
       "basename": "(대학교) (데이터통신) 첫번째 수업",
@@ -41,16 +57,8 @@
       "path": "Tasks/2024-09-03.md"
     },
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
-    },
-    {
       "basename": "(자바스크립트) <코어자바스크립트> 책 소개",
       "path": "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md"
-    },
-    {
-      "basename": "(자바스크립트) <코어자바스크립트> this",
-      "path": "Studied/(자바스크립트) <코어자바스크립트> this.md"
     },
     {
       "basename": "Drawing 2024-09-02 14.37.21.excalidraw",
@@ -75,10 +83,6 @@
     {
       "basename": "(자바스크립트) <코어자바스크립트> 데이터타입",
       "path": "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md"
-    },
-    {
-      "basename": "(타입스크립트) 열거형, 이름공간",
-      "path": "Studied/(타입스크립트) 열거형, 이름공간.md"
     },
     {
       "basename": "2024-08-29",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240814141338",
       "path": "Resources/Attachments/Pasted image 20240814141338.png"
-    },
-    {
-      "basename": "Pasted image 20240817182623",
-      "path": "Resources/Attachments/Pasted image 20240817182623.png"
     }
   ],
   "omittedPaths": []
