@@ -5,16 +5,16 @@
       "path": "Studied/(대학교) (암호학) 두번째 수업.md"
     },
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
     {
       "basename": "(대학교) (데이터통신) 첫번째 수업",
       "path": "Studied/(대학교) (데이터통신) 첫번째 수업.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "(대학교) (모바일컴퓨팅) 두번째 수업",

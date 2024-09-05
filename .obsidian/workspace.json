@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c4a990820f77895",
+        "id": "a76133664b5d0eae",
         "type": "tabs",
         "children": [
           {
-            "id": "32d72663c797b064",
+            "id": "9b51fc660227a82f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,7 @@
             }
           },
           {
-            "id": "b74d37debece7d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/대학교.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7e7821e8c3c8941c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (암호학) 두번째 수업.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c80f76ef1e665f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (암호학) 두번째 수업.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6efc3fafc9262037",
+            "id": "10d181a057953476",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,12 +172,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "7e7821e8c3c8941c",
+  "active": "10d181a057953476",
   "lastOpenFiles": [
-    "Pages/대학교.md",
-    "Studied/(대학교) (암호학) 두번째 수업.md",
-    "Studied/(대학교) (데이터통신) 첫번째 수업.md",
     "Pages/Home.md",
+    "Studied/(대학교) (암호학) 두번째 수업.md",
+    "Pages/대학교.md",
+    "Resources/Attachments/Pasted image 20240905134115.png",
+    "Resources/Attachments/Pasted image 20240905134100.png",
+    "Studied/(대학교) (데이터통신) 첫번째 수업.md",
     "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
     "Resources/Attachments/Pasted image 20240904111556.png",
     "Resources/Attachments/Pasted image 20240904111204.png",
@@ -243,9 +209,6 @@
     "Resources/Attachments/Pasted image 20240830011744.png",
     "Resources/Attachments/Pasted image 20240830011616.png",
     "Resources/Attachments/Pasted image 20240830011559.png",
-    "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md",
-    "Resources/Attachments/Pasted image 20240826184156.png",
-    "Resources/Attachments/Pasted image 20240826051420.png",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
