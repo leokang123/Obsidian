@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (데이터통신) 첫번째 수업",
-      "path": "Studied/(대학교) (데이터통신) 첫번째 수업.md"
-    },
-    {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
     {
+      "basename": "(대학교) (암호학) 두번째 수업",
+      "path": "Studied/(대학교) (암호학) 두번째 수업.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 첫번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 첫번째 수업.md"
     },
     {
       "basename": "(대학교) (모바일컴퓨팅) 두번째 수업",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240817182623",
       "path": "Resources/Attachments/Pasted image 20240817182623.png"
-    },
-    {
-      "basename": "Pasted image 20240817182523",
-      "path": "Resources/Attachments/Pasted image 20240817182523.png"
     }
   ],
   "omittedPaths": []
