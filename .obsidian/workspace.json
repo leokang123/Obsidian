@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "2212491b6094a1bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (객체지향) 첫번째 수업.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "14740252b5146974",
             "type": "leaf",
             "state": {
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (데이터통신) 두번째 수업.md",
+                "file": "Studied/(대학교) (객체지향) 첫번째 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (데이터통신) 두번째 수업.md",
+                "file": "Studied/(대학교) (객체지향) 첫번째 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (데이터통신) 두번째 수업.md"
+                "file": "Studied/(대학교) (객체지향) 첫번째 수업.md"
               }
             }
           }
@@ -185,8 +197,11 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "14740252b5146974",
+  "active": "2212491b6094a1bd",
   "lastOpenFiles": [
+    "Pages/대학교.md",
+    "Studied/(대학교) (객체지향) 첫번째 수업.md",
+    "Studied/(대학교) (데이터통신) 두번째 수업.md",
     "Resources/Attachments/Pasted image 20240905155325.png",
     "Resources/Attachments/Pasted image 20240905155103.png",
     "Resources/Attachments/Pasted image 20240905155039.png",
@@ -196,8 +211,6 @@
     "Resources/Attachments/Pasted image 20240905154410.png",
     "Resources/Attachments/Pasted image 20240905153632.png",
     "Resources/Attachments/Pasted image 20240905152545.png",
-    "Pages/대학교.md",
-    "Studied/(대학교) (데이터통신) 두번째 수업.md",
     "Pages/Home.md",
     "Pages/공부.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
@@ -205,7 +218,6 @@
     "Studied/(자바스크립트) <코어자바스크립트> this.md",
     "Studied/(대학교) (암호학) 두번째 수업.md",
     "Resources/Attachments/Pasted image 20240905142736.png",
-    "Resources/Attachments/Pasted image 20240905142509.png",
     "Studied/(대학교) (데이터통신) 첫번째 수업.md",
     "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
     "Studied/(대학교) (딥러닝) 첫번쨰 수업.md",
