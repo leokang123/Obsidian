@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f218f8cb1b6c220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Home.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "77cbc74bc81c785f",
             "type": "leaf",
             "state": {
@@ -32,13 +20,13 @@
             }
           },
           {
-            "id": "a6df4445679899b7",
+            "id": "1612df4b26be789f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
-                "mode": "preview",
+                "file": "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",
-                "mode": "source",
+                "file": "Pages/Home.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",
+                "file": "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",
+                "file": "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md"
+                "file": "Studied/(대학교) (암호학) 세번째 수업(유한체).md"
               }
             }
           }
@@ -197,8 +185,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "0082f25c96b09c64",
+  "active": "1612df4b26be789f",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20240909131009.png",
+    "Resources/Attachments/Pasted image 20240909130730.png",
+    "Pages/대학교.md",
+    "Studied/(대학교) (암호학) 두번째 수업.md",
+    "Studied/(대학교) (암호학) 두번째 수업(시저).md",
+    "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
+    "Pages/Home.md",
+    "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",
     "Resources/Attachments/Pasted image 20240909114431.png",
     "Resources/Attachments/Pasted image 20240909114121.png",
     "Resources/Attachments/Pasted image 20240909113305.png",
@@ -206,23 +202,17 @@
     "Resources/Attachments/Pasted image 20240909110100.png",
     "Resources/Attachments/Pasted image 20240909110015.png",
     "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
-    "Pages/대학교.md",
     "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md",
-    "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",
     "Resources/Attachments/Pasted image 20240909105009.png",
     "Resources/Attachments/Pasted image 20240909104602.png",
-    "Pages/Home.md",
     "Studied/(대학교) (딥러닝) 두번째 수업.md",
     "Resources/Attachments/Pasted image 20240909101224.png",
-    "Resources/Attachments/Pasted image 20240909100943.png",
-    "Resources/Attachments/Pasted image 20240909100759.png",
     "Pages/공부.md",
     "Studied/(대학교) (데이터통신) 두번째 수업.md",
     "Studied/(대학교) (객체지향) 첫번째 수업.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
     "Studied/(옵시디언) 모바일 동기화.md",
     "Studied/(자바스크립트) <코어자바스크립트> this.md",
-    "Studied/(대학교) (암호학) 두번째 수업.md",
     "Studied/(대학교) (데이터통신) 첫번째 수업.md",
     "Studied/(대학교) (딥러닝) 첫번쨰 수업.md",
     "Studied/(대학교) (암호학) 첫번째 수업.md",
@@ -233,8 +223,6 @@
     "Tasks/2024-09-02.md",
     "Studied/(대학교) (객체지향) 첫번쨰수업.md",
     "Studied/(대학교) (객체지향) 테스트 파일.md",
-    "Studied/(대학교) (암호학) 테스트 파일.md",
-    "Studied/(대학교) (암호학) 다른 테스트 파일.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
