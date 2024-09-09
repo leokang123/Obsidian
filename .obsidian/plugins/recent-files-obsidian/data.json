@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (객체지향) 첫번째 수업",
-      "path": "Studied/(대학교) (객체지향) 첫번째 수업.md"
+      "basename": "(대학교) (딥러닝) 두번째 수업",
+      "path": "Studied/(대학교) (딥러닝) 두번째 수업.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 두번째 수업",
-      "path": "Studied/(대학교) (데이터통신) 두번째 수업.md"
     },
     {
       "basename": "Home",
@@ -19,6 +15,14 @@
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 두번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 두번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (객체지향) 첫번째 수업",
+      "path": "Studied/(대학교) (객체지향) 첫번째 수업.md"
     },
     {
       "basename": "(타입스크립트) 열거형, 이름공간",
@@ -195,10 +199,6 @@
     {
       "basename": "(옵시디언) 자동화프로젝트",
       "path": "Studied/(옵시디언) 자동화프로젝트.md"
-    },
-    {
-      "basename": "백업",
-      "path": "System/DB/백업.md"
     }
   ],
   "omittedPaths": []

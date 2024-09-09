@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a76133664b5d0eae",
+        "id": "d0ea83e8ec2798ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9b51fc660227a82f",
+            "id": "0f218f8cb1b6c220",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "093393f42a43f90a",
+            "id": "c7beabe47303779b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "2212491b6094a1bd",
+            "id": "99e756f2514bb547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 첫번째 수업.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "14740252b5146974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (데이터통신) 두번째 수업.md",
+                "file": "Studied/(대학교) (딥러닝) 두번째 수업.md",
                 "mode": "source",
                 "source": true
               }
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 첫번째 수업.md",
+                "file": "Studied/(대학교) (딥러닝) 두번째 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 첫번째 수업.md",
+                "file": "Studied/(대학교) (딥러닝) 두번째 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 첫번째 수업.md"
+                "file": "Studied/(대학교) (딥러닝) 두번째 수업.md"
               }
             }
           }
@@ -197,11 +185,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "2212491b6094a1bd",
+  "active": "99e756f2514bb547",
   "lastOpenFiles": [
     "Pages/대학교.md",
-    "Studied/(대학교) (객체지향) 첫번째 수업.md",
+    "Studied/(대학교) (딥러닝) 두번째 수업.md",
+    "Pages/Home.md",
+    "Pages/공부.md",
     "Studied/(대학교) (데이터통신) 두번째 수업.md",
+    "Studied/(대학교) (객체지향) 첫번째 수업.md",
     "Resources/Attachments/Pasted image 20240905155325.png",
     "Resources/Attachments/Pasted image 20240905155103.png",
     "Resources/Attachments/Pasted image 20240905155039.png",
@@ -211,8 +202,6 @@
     "Resources/Attachments/Pasted image 20240905154410.png",
     "Resources/Attachments/Pasted image 20240905153632.png",
     "Resources/Attachments/Pasted image 20240905152545.png",
-    "Pages/Home.md",
-    "Pages/공부.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
     "Studied/(옵시디언) 모바일 동기화.md",
     "Studied/(자바스크립트) <코어자바스크립트> this.md",
@@ -234,7 +223,6 @@
     "Studied/(대학교) (암호학) 다른 테스트 파일.md",
     "Studied/(대학교) (모바일 컴퓨팅) 첫번째.md",
     "Studied/(대학교) (모바일 컴퓨팅) 두번째.md",
-    "Studied/(대학교) (객체지향) 다른 테스트 파일.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
