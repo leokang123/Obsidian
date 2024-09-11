@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (암호학) 세번째 수업(유한체)",
-      "path": "Studied/(대학교) (암호학) 세번째 수업(유한체).md"
+      "basename": "(대학교) (데이터통신) 세번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 세번째 수업.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
     {
-      "basename": "(대학교) (암호학) 두번째 수업(시저)",
-      "path": "Studied/(대학교) (암호학) 두번째 수업(시저).md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(대학교) (암호학) 세번째 수업(유한체)",
+      "path": "Studied/(대학교) (암호학) 세번째 수업(유한체).md"
+    },
+    {
+      "basename": "(대학교) (암호학) 두번째 수업(시저)",
+      "path": "Studied/(대학교) (암호학) 두번째 수업(시저).md"
     },
     {
       "basename": "(대학교) (모바일컴퓨팅) 세번째 수업",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-14",
       "path": "Tasks/2024-08-14.md"
-    },
-    {
-      "basename": "(함수형 프로그래밍) 프로그래밍 패러다임",
-      "path": "Studied/(함수형 프로그래밍) 프로그래밍 패러다임.md"
     }
   ],
   "omittedPaths": []
