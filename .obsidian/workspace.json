@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f696e0de80ffdad4",
+            "id": "143dd9f52ac03fa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 두번째 수업.md",
+                "file": "Studied/(대학교) (암호학) 다섯번째 수업.md",
                 "mode": "source",
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 두번째 수업.md",
+                "file": "Studied/(대학교) (암호학) 다섯번째 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 두번째 수업.md",
+                "file": "Studied/(대학교) (암호학) 다섯번째 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (객체지향) 두번째 수업.md"
+                "file": "Studied/(대학교) (암호학) 다섯번째 수업.md"
               }
             }
           }
@@ -185,9 +185,11 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "f696e0de80ffdad4",
+  "active": "143dd9f52ac03fa2",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20240912134642.png",
     "Pages/대학교.md",
+    "Studied/(대학교) (암호학) 다섯번째 수업.md",
     "Studied/(대학교) (객체지향) 두번째 수업.md",
     "Studied/(대학교) (데이터통신) 세번째 수업.md",
     "Resources/Attachments/Pasted image 20240911160634.png",
@@ -221,8 +223,6 @@
     "Tasks/2024-09-03.md",
     "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md",
     "Resources/Excaldraw/Drawing 2024-09-02 14.37.21.excalidraw.md",
-    "Tasks/2024-09-02.md",
-    "Studied/(대학교) (객체지향) 첫번쨰수업.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
