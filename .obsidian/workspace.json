@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1ec4cbf5d09d702a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (데이터통신) 네번째 수업.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "143dd9f52ac03fa2",
             "type": "leaf",
             "state": {
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (암호학) 다섯번째 수업.md",
+                "file": "Studied/(대학교) (데이터통신) 네번째 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (암호학) 다섯번째 수업.md",
+                "file": "Studied/(대학교) (데이터통신) 네번째 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (암호학) 다섯번째 수업.md"
+                "file": "Studied/(대학교) (데이터통신) 네번째 수업.md"
               }
             }
           }
@@ -185,11 +197,12 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "143dd9f52ac03fa2",
+  "active": "1ec4cbf5d09d702a",
   "lastOpenFiles": [
-    "Resources/Attachments/Pasted image 20240912134642.png",
     "Pages/대학교.md",
+    "Studied/(대학교) (데이터통신) 네번째 수업.md",
     "Studied/(대학교) (암호학) 다섯번째 수업.md",
+    "Resources/Attachments/Pasted image 20240912134642.png",
     "Studied/(대학교) (객체지향) 두번째 수업.md",
     "Studied/(대학교) (데이터통신) 세번째 수업.md",
     "Resources/Attachments/Pasted image 20240911160634.png",
@@ -203,7 +216,6 @@
     "Resources/Attachments/Pasted image 20240909140131.png",
     "Resources/Attachments/Pasted image 20240909132545.png",
     "Resources/Attachments/Pasted image 20240909131912.png",
-    "Resources/Attachments/Pasted image 20240909131009.png",
     "Studied/(대학교) (암호학) 두번째 수업.md",
     "Studied/(대학교) (암호학) 두번째 수업(시저).md",
     "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",

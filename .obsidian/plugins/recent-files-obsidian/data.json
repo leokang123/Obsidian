@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (암호학) 다섯번째 수업",
-      "path": "Studied/(대학교) (암호학) 다섯번째 수업.md"
+      "basename": "(대학교) (데이터통신) 네번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 네번째 수업.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(대학교) (암호학) 다섯번째 수업",
+      "path": "Studied/(대학교) (암호학) 다섯번째 수업.md"
     },
     {
       "basename": "(대학교) (객체지향) 두번째 수업",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-17",
       "path": "Tasks/2024-08-17.md"
-    },
-    {
-      "basename": "2024-08-16",
-      "path": "Tasks/2024-08-16.md"
     }
   ],
   "omittedPaths": []
