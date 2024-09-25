@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f313c9f93297169e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/공부.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "87a18daebe2fae7b",
             "type": "leaf",
             "state": {
@@ -27,6 +39,18 @@
               "state": {
                 "file": "Pages/대학교.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4bd87807906328dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,14 +209,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "564cf0e9592c011f",
+  "active": "4bd87807906328dd",
   "lastOpenFiles": [
     "Pages/대학교.md",
+    "Studied/(대학교) (암호학) 여섯번째 수업.md",
     "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
+    "Pages/공부.md",
     "Pages/Home.md",
     "Studied/(대학교) (암호학) 다섯번째 수업.md",
     "Studied/(대학교) (데이터통신) 네번째 수업.md",
-    "Studied/(대학교) (암호학) 여섯번째 수업.md",
     "Studied/(대학교) (데이터통신) 세번째 수업.md",
     "Resources/Attachments/Pasted image 20240912155155.png",
     "Resources/Attachments/Pasted image 20240912154119.png",
@@ -212,7 +237,6 @@
     "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
     "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md",
     "Studied/(대학교) (딥러닝) 두번째 수업.md",
-    "Pages/공부.md",
     "Studied/(대학교) (데이터통신) 두번째 수업.md",
     "Studied/(대학교) (객체지향) 첫번째 수업.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
