@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "(대학교) (데이터통신) 네번째 수압",
+      "path": "Studied/(대학교) (데이터통신) 네번째 수압.md"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
@@ -25,16 +41,8 @@
       "path": "Studied/(대학교) (딥러닝) 네번째 수업.md"
     },
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
-    },
-    {
       "basename": "(대학교) (모바일컴퓨팅) 다섯번째 수업",
       "path": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md"
-    },
-    {
-      "basename": "공부",
-      "path": "Pages/공부.md"
     },
     {
       "basename": "(대학교) (데이터통신) 네번째 수업",
@@ -103,10 +111,6 @@
     {
       "basename": "(대학교) (암호학) 첫번째 수업",
       "path": "Studied/(대학교) (암호학) 첫번째 수업.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
     },
     {
       "basename": "2024-09-03",
@@ -195,10 +199,6 @@
     {
       "basename": "파일",
       "path": "System/Templates/파일.md"
-    },
-    {
-      "basename": "2024-08-19",
-      "path": "Tasks/2024-08-19.md"
     }
   ],
   "omittedPaths": []
