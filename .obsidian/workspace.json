@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f09dd40a56fc2d4b",
+        "id": "3f8a50aa75903670",
         "type": "tabs",
         "children": [
           {
-            "id": "70a903765f2bc452",
+            "id": "0b12b993352ab9dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "565ad79716cd9b81",
+            "id": "87a18daebe2fae7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "5d8ffe5e1de76bea",
+            "id": "564cf0e9592c011f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (암호학) 여섯번째 수업.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "324311c093166331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (데이터통신) 네번째 수업.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "143dd9f52ac03fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (암호학) 다섯번째 수업.md",
+                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
                 "mode": "source",
                 "source": true
               }
@@ -143,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (암호학) 여섯번째 수업.md",
+                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (암호학) 여섯번째 수업.md",
+                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (암호학) 여섯번째 수업.md"
+                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md"
               }
             }
           }
@@ -209,14 +185,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "5d8ffe5e1de76bea",
+  "active": "564cf0e9592c011f",
   "lastOpenFiles": [
-    "Pages/Home.md",
-    "Studied/(대학교) (암호학) 여섯번째 수업.md",
     "Pages/대학교.md",
+    "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
+    "Pages/Home.md",
     "Studied/(대학교) (암호학) 다섯번째 수업.md",
-    "Studied/(대학교) (데이터통신) 세번째 수업.md",
     "Studied/(대학교) (데이터통신) 네번째 수업.md",
+    "Studied/(대학교) (암호학) 여섯번째 수업.md",
+    "Studied/(대학교) (데이터통신) 세번째 수업.md",
     "Resources/Attachments/Pasted image 20240912155155.png",
     "Resources/Attachments/Pasted image 20240912154119.png",
     "Resources/Attachments/Pasted image 20240912154117.png",
@@ -246,7 +223,6 @@
     "Studied/(대학교) (암호학) 첫번째 수업.md",
     "System/Log/log.md",
     "Tasks/2024-09-03.md",
-    "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
