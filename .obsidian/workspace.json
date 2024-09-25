@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "629abf31a1305be3",
+            "id": "e0ac02c56b5746c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "e0ac02c56b5746c4",
+            "id": "6500f88408e12647",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "c94ad2b3ec34e3b7",
+            "id": "66df8410da40f5fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
-                "mode": "source",
+                "file": "Studied/(대학교) (딥러닝) 세번째수업.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
+                "file": "Studied/(대학교) (딥러닝) 세번째수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
+                "file": "Studied/(대학교) (딥러닝) 세번째수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md"
+                "file": "Studied/(대학교) (딥러닝) 세번째수업.md"
               }
             }
           }
@@ -185,12 +185,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "c94ad2b3ec34e3b7",
+  "active": "66df8410da40f5fc",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20240925130920.png",
     "Pages/대학교.md",
-    "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
+    "Studied/(대학교) (딥러닝) 다섯번째 수업.md",
+    "Studied/(대학교) (딥러닝) 세번째수업.md",
+    "Studied/(대학교) (딥러닝) 네번째 수업.md",
     "Pages/Home.md",
-    "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
+    "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
     "Pages/공부.md",
     "Studied/(대학교) (암호학) 여섯번째 수업.md",
     "Studied/(대학교) (암호학) 다섯번째 수업.md",
@@ -220,9 +223,6 @@
     "Studied/(옵시디언) 모바일 동기화.md",
     "Studied/(자바스크립트) <코어자바스크립트> this.md",
     "Studied/(대학교) (데이터통신) 첫번째 수업.md",
-    "Studied/(대학교) (딥러닝) 첫번쨰 수업.md",
-    "Studied/(대학교) (암호학) 첫번째 수업.md",
-    "System/Log/log.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",

@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (모바일컴퓨팅) 다섯번째 수업",
-      "path": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md"
+      "basename": "(대학교) (딥러닝) 세번째수업",
+      "path": "Studied/(대학교) (딥러닝) 세번째수업.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
     {
+      "basename": "(대학교) (딥러닝) 다섯번째 수업",
+      "path": "Studied/(대학교) (딥러닝) 다섯번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (딥러닝) 네번째 수업",
+      "path": "Studied/(대학교) (딥러닝) 네번째 수업.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
-      "basename": "(대학교) (딥러닝) 여섯번째 수업",
-      "path": "Studied/(대학교) (딥러닝) 여섯번째 수업.md"
+      "basename": "(대학교) (모바일컴퓨팅) 다섯번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md"
     },
     {
       "basename": "공부",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-08-19",
       "path": "Tasks/2024-08-19.md"
-    },
-    {
-      "basename": "EmptyNote",
-      "path": "System/Templates/EmptyNote.md"
-    },
-    {
-      "basename": "(타입스크립트) 인터페이스와 타입 ",
-      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
     }
   ],
   "omittedPaths": []
