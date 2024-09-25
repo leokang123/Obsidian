@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f8a50aa75903670",
+        "id": "ceab9a0b89c1c9aa",
         "type": "tabs",
         "children": [
           {
-            "id": "0b12b993352ab9dd",
+            "id": "629abf31a1305be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,7 @@
             }
           },
           {
-            "id": "f313c9f93297169e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/공부.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "87a18daebe2fae7b",
+            "id": "e0ac02c56b5746c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,31 +32,19 @@
             }
           },
           {
-            "id": "4bd87807906328dd",
+            "id": "c94ad2b3ec34e3b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "564cf0e9592c011f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
+                "file": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
+                "file": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
+                "file": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (딥러닝) 여섯번째 수업.md"
+                "file": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md"
               }
             }
           }
@@ -209,13 +185,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "4bd87807906328dd",
+  "active": "c94ad2b3ec34e3b7",
   "lastOpenFiles": [
     "Pages/대학교.md",
-    "Studied/(대학교) (암호학) 여섯번째 수업.md",
+    "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
+    "Pages/Home.md",
     "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
     "Pages/공부.md",
-    "Pages/Home.md",
+    "Studied/(대학교) (암호학) 여섯번째 수업.md",
     "Studied/(대학교) (암호학) 다섯번째 수업.md",
     "Studied/(대학교) (데이터통신) 네번째 수업.md",
     "Studied/(대학교) (데이터통신) 세번째 수업.md",
@@ -246,7 +223,6 @@
     "Studied/(대학교) (딥러닝) 첫번쨰 수업.md",
     "Studied/(대학교) (암호학) 첫번째 수업.md",
     "System/Log/log.md",
-    "Tasks/2024-09-03.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
