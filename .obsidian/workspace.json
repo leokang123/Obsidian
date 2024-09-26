@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ceab9a0b89c1c9aa",
+        "id": "43c55274890a23c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d66e172d16ecbe",
+            "id": "f231cb3f55268fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "9a7c0cb5b052649e",
+            "id": "9e3b865650bafb8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a82ffc2ab6fa03c1",
+            "id": "1eeda2612395a10c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (암호학) 일곱번째 수업.md",
+                "file": "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (암호학) 일곱번째 수업.md",
+                "file": "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (암호학) 일곱번째 수업.md",
+                "file": "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (암호학) 일곱번째 수업.md"
+                "file": "Studied/(대학교) (데이터통신) 여섯번째 수업.md"
               }
             }
           }
@@ -184,20 +184,21 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "a82ffc2ab6fa03c1",
+  "active": "1eeda2612395a10c",
   "lastOpenFiles": [
-    "Resources/Attachments/Pasted image 20240926134357.png",
     "Pages/대학교.md",
-    "Studied/(대학교) (암호학) 일곱번째 수업.md",
+    "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
     "Pages/Home.md",
+    "Pages/공부.md",
+    "Studied/(대학교) (데이터통신) 다섯번째 수업.md",
+    "Studied/(대학교) (암호학) 일곱번째 수업.md",
+    "Resources/Attachments/Pasted image 20240926134357.png",
     "Studied/(대학교) (객체지향) 세번째 수업.md",
     "Resources/Attachments/Pasted image 20240926130429.png",
-    "Studied/(대학교) (데이터통신) 네번째 수압.md",
     "Resources/Attachments/Pasted image 20240925163007.png",
     "Resources/Attachments/Pasted image 20240925160001.png",
     "Resources/Attachments/Pasted image 20240925153049.png",
     "Resources/Attachments/Pasted image 20240925150933.png",
-    "Pages/공부.md",
     "System/Log/log.md",
     "Studied/(데이터통신) 네번째 수업.md",
     "Studied/(대학교) (암호학) 다섯번째 수업.md",
@@ -212,7 +213,6 @@
     "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
     "Studied/(대학교) (데이터통신) 네번째 수업.md",
     "Studied/(대학교) (데이터통신) 세번째 수업.md",
-    "Resources/Attachments/Pasted image 20240912155155.png",
     "Studied/(대학교) (객체지향) 두번째 수업.md",
     "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
     "Studied/(대학교) (암호학) 두번째 수업.md",

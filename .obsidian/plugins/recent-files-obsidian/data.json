@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (암호학) 일곱번째 수업",
-      "path": "Studied/(대학교) (암호학) 일곱번째 수업.md"
+      "basename": "(대학교) (데이터통신) 여섯번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 여섯번째 수업.md"
     },
     {
       "basename": "대학교",
@@ -13,16 +13,20 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "(대학교) (객체지향) 세번째 수업",
-      "path": "Studied/(대학교) (객체지향) 세번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 네번째 수압",
-      "path": "Studied/(대학교) (데이터통신) 네번째 수압.md"
-    },
-    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 다섯번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 다섯번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (암호학) 일곱번째 수업",
+      "path": "Studied/(대학교) (암호학) 일곱번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (객체지향) 세번째 수업",
+      "path": "Studied/(대학교) (객체지향) 세번째 수업.md"
     },
     {
       "basename": "log",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-21",
       "path": "Tasks/2024-08-21.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
     }
   ],
   "omittedPaths": []
