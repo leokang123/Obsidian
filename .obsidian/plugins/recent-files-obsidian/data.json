@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (객체지향) 세번째 수업",
-      "path": "Studied/(대학교) (객체지향) 세번째 수업.md"
+      "basename": "(대학교) (암호학) 일곱번째 수업",
+      "path": "Studied/(대학교) (암호학) 일곱번째 수업.md"
     },
     {
       "basename": "대학교",
@@ -11,6 +11,10 @@
     {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(대학교) (객체지향) 세번째 수업",
+      "path": "Studied/(대학교) (객체지향) 세번째 수업.md"
     },
     {
       "basename": "(대학교) (데이터통신) 네번째 수압",
@@ -195,10 +199,6 @@
     {
       "basename": "네이버",
       "path": "Pages/네이버.md"
-    },
-    {
-      "basename": "대학파일",
-      "path": "System/Templates/대학파일.md"
     }
   ],
   "omittedPaths": []
