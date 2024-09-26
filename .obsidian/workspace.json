@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0ac02c56b5746c4",
+            "id": "f3d66e172d16ecbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "f3d66e172d16ecbe",
+            "id": "81d9943eca68e067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/공부.md",
+                "file": "Pages/대학교.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "2e0e424c6c6c7d32",
+            "id": "39574ca425d89f1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(대학교) (데이터통신) 네번째 수압.md",
+                "file": "Studied/(대학교) (객체지향) 세번째 수업.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(대학교) (데이터통신) 네번째 수압.md",
+                "file": "Studied/(대학교) (객체지향) 세번째 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(대학교) (데이터통신) 네번째 수압.md",
+                "file": "Studied/(대학교) (객체지향) 세번째 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(대학교) (데이터통신) 네번째 수압.md"
+                "file": "Studied/(대학교) (객체지향) 세번째 수업.md"
               }
             }
           }
@@ -184,18 +184,19 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "2e0e424c6c6c7d32",
+  "active": "39574ca425d89f1a",
   "lastOpenFiles": [
+    "Pages/대학교.md",
+    "Studied/(대학교) (객체지향) 세번째 수업.md",
+    "Pages/Home.md",
+    "Studied/(대학교) (데이터통신) 네번째 수압.md",
     "Resources/Attachments/Pasted image 20240925163007.png",
     "Resources/Attachments/Pasted image 20240925160001.png",
     "Resources/Attachments/Pasted image 20240925153049.png",
     "Resources/Attachments/Pasted image 20240925150933.png",
     "Pages/공부.md",
-    "Studied/(대학교) (데이터통신) 네번째 수압.md",
     "System/Log/log.md",
     "Studied/(데이터통신) 네번째 수업.md",
-    "Pages/Home.md",
-    "Pages/대학교.md",
     "Studied/(대학교) (암호학) 다섯번째 수업.md",
     "Studied/(대학교) (암호학) 여섯번째 수업.md",
     "Studied/(대학교) (딥러닝) 세번째수업.md",
@@ -210,7 +211,6 @@
     "Studied/(대학교) (데이터통신) 세번째 수업.md",
     "Resources/Attachments/Pasted image 20240912155155.png",
     "Resources/Attachments/Pasted image 20240912154119.png",
-    "Resources/Attachments/Pasted image 20240912154117.png",
     "Studied/(대학교) (객체지향) 두번째 수업.md",
     "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
     "Studied/(대학교) (암호학) 두번째 수업.md",
