@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (데이터통신) 여섯번째 수업",
-      "path": "Studied/(대학교) (데이터통신) 여섯번째 수업.md"
+      "basename": "(대학교) (객체지향) 네번째 수업",
+      "path": "Studied/(대학교) (객체지향) 네번째 수업.md"
     },
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
     },
     {
+      "basename": "(대학교) (딥러닝) 다섯번째 수업",
+      "path": "Studied/(대학교) (딥러닝) 다섯번째 수업.md"
+    },
+    {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 여섯번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 여섯번째 수업.md"
     },
     {
       "basename": "공부",
@@ -43,10 +51,6 @@
     {
       "basename": "(대학교) (딥러닝) 세번째수업",
       "path": "Studied/(대학교) (딥러닝) 세번째수업.md"
-    },
-    {
-      "basename": "(대학교) (딥러닝) 다섯번째 수업",
-      "path": "Studied/(대학교) (딥러닝) 다섯번째 수업.md"
     },
     {
       "basename": "(대학교) (딥러닝) 네번째 수업",
@@ -195,10 +199,6 @@
     {
       "basename": "(타입스크립트) 프로젝트 경과",
       "path": "Studied/(타입스크립트) 프로젝트 경과.md"
-    },
-    {
-      "basename": "2024-08-21",
-      "path": "Tasks/2024-08-21.md"
     }
   ],
   "omittedPaths": []
