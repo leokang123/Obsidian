@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1ef77eecb1a20f8",
+            "id": "47cbaa8ff3da529d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,14 +20,12 @@
             }
           },
           {
-            "id": "47cbaa8ff3da529d",
+            "id": "3c458697e798227e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Pages/대학교.md",
-                "mode": "preview",
-                "source": true
+                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/대학교.md",
+                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/대학교.md",
+                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/대학교.md"
+                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md"
               }
             }
           }
@@ -172,12 +170,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "47cbaa8ff3da529d",
+  "active": "3c458697e798227e",
   "lastOpenFiles": [
     "Pages/Home.md",
+    "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md",
+    "Pages/대학교.md",
     "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
     "Resources/Attachments/Pasted image 20240930103553.png",
-    "Pages/대학교.md",
     "Studied/(대학교) (객체지향) 네번째 수업.md",
     "Studied/(대학교) (딥러닝) 다섯번째 수업.md",
     "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
