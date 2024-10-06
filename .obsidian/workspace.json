@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47cbaa8ff3da529d",
+            "id": "3c458697e798227e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3c458697e798227e",
+            "id": "f9912a037d85a9c3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md"
+                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.59.11.excalidraw.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md",
+                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.59.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md",
+                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.59.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md"
+                "file": "Resources/Excaldraw/Drawing 2024-10-06 14.59.11.excalidraw.md"
               }
             }
           }
@@ -170,9 +170,11 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "3c458697e798227e",
+  "active": "f9912a037d85a9c3",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted Image 20241006145927_532.png",
     "Pages/Home.md",
+    "Resources/Excaldraw/Drawing 2024-10-06 14.59.11.excalidraw.md",
     "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md",
     "Pages/대학교.md",
     "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
@@ -206,8 +208,6 @@
     "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
     "Studied/(대학교) (암호학) 두번째 수업.md",
     "Studied/(대학교) (암호학) 두번째 수업(시저).md",
-    "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",
-    "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
