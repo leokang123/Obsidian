@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "(코틀린) 시작(큰 도약)",
-      "path": "Studied/(코틀린) 시작(큰 도약).md"
+      "basename": "(코틀린) 앱에서 출력",
+      "path": "Studied/(코틀린) 앱에서 출력.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(코틀린) 시작(큰 도약)",
+      "path": "Studied/(코틀린) 시작(큰 도약).md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-28",
       "path": "Tasks/2024-08-28.md"
-    },
-    {
-      "basename": "2024-08-27",
-      "path": "Tasks/2024-08-27.md"
     }
   ],
   "omittedPaths": []
