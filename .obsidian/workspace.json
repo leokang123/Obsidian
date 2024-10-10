@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "6f6967774d02768e",
+            "id": "4a1c0182ea3f0805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(코틀린) 앱에서 출력.md",
-                "mode": "preview",
+                "file": "Studied/(코틀린) 상태관리.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(코틀린) 앱에서 출력.md",
+                "file": "Studied/(코틀린) 상태관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(코틀린) 앱에서 출력.md",
+                "file": "Studied/(코틀린) 상태관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(코틀린) 앱에서 출력.md"
+                "file": "Studied/(코틀린) 상태관리.md"
               }
             }
           }
@@ -196,15 +196,18 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "6f6967774d02768e",
+  "active": "4a1c0182ea3f0805",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20241010214342.png",
+    "Resources/Attachments/Pasted image 20241010213958.png",
+    "Pages/공부.md",
+    "Studied/(코틀린) 상태관리.md",
+    "Studied/(코틀린) 앱에서 출력.md",
     "Resources/Attachments/Pasted image 20241009223125.png",
     "Resources/Attachments/Pasted image 20241009223040.png",
     "Resources/Attachments/스크린샷 2024-10-09 오후 10.00.56.png",
     "Resources/Attachments/Pasted image 20241009215057.png",
     "Resources/Attachments/Pasted image 20241009213913.png",
-    "Pages/공부.md",
-    "Studied/(코틀린) 앱에서 출력.md",
     "Studied/(코틀린) 시작(큰 도약).md",
     "Pages/Home.md",
     "Resources/Excaldraw/Drawing 2024-10-06 14.59.11.excalidraw.md",
@@ -218,8 +221,6 @@
     "Studied/(대학교) (딥러닝) 다섯번째 수업.md",
     "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
     "Resources/Attachments/Pasted image 20240926153703.png",
-    "Resources/Attachments/Pasted image 20240926153639.png",
-    "Resources/Attachments/Pasted image 20240926153545.png",
     "Studied/(대학교) (데이터통신) 다섯번째 수업.md",
     "Studied/(대학교) (암호학) 일곱번째 수업.md",
     "Studied/(대학교) (객체지향) 세번째 수업.md",
@@ -233,7 +234,6 @@
     "Studied/(대학교) (데이터통신) 네번째 수업.md",
     "Studied/(대학교) (데이터통신) 세번째 수업.md",
     "Studied/(대학교) (객체지향) 두번째 수업.md",
-    "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
