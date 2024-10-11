@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43c55274890a23c5",
+        "id": "4724776f6d67ea18",
         "type": "tabs",
         "children": [
           {
-            "id": "e4319a70405fe09b",
+            "id": "9a4b578eb9ddb80b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "631c32281a668e34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/공부.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4a1c0182ea3f0805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(코틀린) 상태관리.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0907fbda8f2281df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(코틀린) 시작(큰 도약).md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studied/(코틀린) 상태관리.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studied/(코틀린) 상태관리.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studied/(코틀린) 상태관리.md"
+                "file": "Pages/Home.md"
               }
             }
           }
@@ -196,12 +159,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "4a1c0182ea3f0805",
+  "active": "9a4b578eb9ddb80b",
   "lastOpenFiles": [
-    "Resources/Attachments/Pasted image 20241010214342.png",
-    "Resources/Attachments/Pasted image 20241010213958.png",
+    "Tasks/2024-10-11.md",
+    "Pages/대학교.md",
+    "Pages/Home.md",
     "Pages/공부.md",
     "Studied/(코틀린) 상태관리.md",
+    "Resources/Attachments/Pasted image 20241010214342.png",
+    "Resources/Attachments/Pasted image 20241010213958.png",
     "Studied/(코틀린) 앱에서 출력.md",
     "Resources/Attachments/Pasted image 20241009223125.png",
     "Resources/Attachments/Pasted image 20241009223040.png",
@@ -209,18 +175,15 @@
     "Resources/Attachments/Pasted image 20241009215057.png",
     "Resources/Attachments/Pasted image 20241009213913.png",
     "Studied/(코틀린) 시작(큰 도약).md",
-    "Pages/Home.md",
     "Resources/Excaldraw/Drawing 2024-10-06 14.59.11.excalidraw.md",
     "Resources/Attachments/Pasted Image 20241006154155_525.png",
     "Resources/Attachments/Pasted Image 20241006145927_532.png",
     "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md",
-    "Pages/대학교.md",
     "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
     "Resources/Attachments/Pasted image 20240930103553.png",
     "Studied/(대학교) (객체지향) 네번째 수업.md",
     "Studied/(대학교) (딥러닝) 다섯번째 수업.md",
     "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
-    "Resources/Attachments/Pasted image 20240926153703.png",
     "Studied/(대학교) (데이터통신) 다섯번째 수업.md",
     "Studied/(대학교) (암호학) 일곱번째 수업.md",
     "Studied/(대학교) (객체지향) 세번째 수업.md",
