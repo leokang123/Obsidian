@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "(코틀린) 상속",
-      "path": "Studied/(코틀린) 상속.md"
-    },
-    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "이름 없는 보드",
+      "path": "Studied/이름 없는 보드.md"
+    },
+    {
+      "basename": "(코틀린) 상속",
+      "path": "Studied/(코틀린) 상속.md"
     },
     {
       "basename": "(코틀린) 상태관리",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-29",
       "path": "Tasks/2024-08-29.md"
-    },
-    {
-      "basename": "todo",
-      "path": "System/Templates/todo.md"
     }
   ],
   "omittedPaths": []
