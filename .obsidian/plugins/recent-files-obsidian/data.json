@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "(코틀린) 상속",
-      "path": "Studied/(코틀린) 상속.md"
+      "basename": "(코틀린) 내비게이션",
+      "path": "Studied/(코틀린) 내비게이션.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(코틀린) 상속",
+      "path": "Studied/(코틀린) 상속.md"
     },
     {
       "basename": "이름 없는 보드",
@@ -195,10 +199,6 @@
     {
       "basename": "(자바스크립트) <코어자바스크립트> 데이터타입",
       "path": "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md"
-    },
-    {
-      "basename": "2024-08-29",
-      "path": "Tasks/2024-08-29.md"
     }
   ],
   "omittedPaths": []
