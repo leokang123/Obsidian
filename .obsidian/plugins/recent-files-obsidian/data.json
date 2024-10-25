@@ -1,32 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "(대학교) (모바일컴퓨팅) 두번째 수업",
-      "path": "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md"
+      "basename": "Drawing 2024-10-25 13.14.44.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md"
     },
     {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
+      "basename": "(코틀린) 상태관리",
+      "path": "Studied/(코틀린) 상태관리.md"
     },
     {
-      "basename": "(대학교) (모바일컴퓨팅) 첫번째 수업",
-      "path": "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md"
+      "basename": "공부",
+      "path": "Pages/공부.md"
     },
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "(코틀린) 앱에서 출력",
+      "path": "Studied/(코틀린) 앱에서 출력.md"
     },
     {
-      "basename": "(대학교) (모바일컴퓨팅) 세번째 수업",
-      "path": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md"
+      "basename": "(코틀린) 시작(큰 도약)",
+      "path": "Studied/(코틀린) 시작(큰 도약).md"
     },
     {
       "basename": "(코틀린) 내비게이션",
       "path": "Studied/(코틀린) 내비게이션.md"
     },
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 두번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 첫번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 세번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md"
     },
     {
       "basename": "(코틀린) 상속",
@@ -37,20 +53,8 @@
       "path": "Studied/이름 없는 보드.md"
     },
     {
-      "basename": "(코틀린) 상태관리",
-      "path": "Studied/(코틀린) 상태관리.md"
-    },
-    {
       "basename": "2024-10-11",
       "path": "Tasks/2024-10-11.md"
-    },
-    {
-      "basename": "(코틀린) 앱에서 출력",
-      "path": "Studied/(코틀린) 앱에서 출력.md"
-    },
-    {
-      "basename": "(코틀린) 시작(큰 도약)",
-      "path": "Studied/(코틀린) 시작(큰 도약).md"
     },
     {
       "basename": "Drawing 2024-10-06 14.59.11.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-30",
       "path": "Tasks/2024-08-30.md"
-    },
-    {
-      "basename": "(자바스크립트) <코어자바스크립트> 데이터타입",
-      "path": "Studied/(자바스크립트) <코어자바스크립트> 데이터타입.md"
     }
   ],
   "omittedPaths": []
