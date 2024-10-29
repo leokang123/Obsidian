@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ad60798df2ceaf3",
+        "id": "9855e72dbd0a0d72",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5906ee528d752a",
+            "id": "05a48803cb48c826",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,11 +16,13 @@
                 "file": "Pages/Home.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           },
           {
-            "id": "f27e89e15a0b8373",
+            "id": "a5f44411106d0bb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,81 +30,27 @@
                 "file": "Pages/공부.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "공부"
             }
           },
           {
-            "id": "55f6374f8687c422",
+            "id": "6f041f24ca0b43cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(코틀린) 상태관리.md",
-                "mode": "preview",
+                "file": "Studied/(코틀린) 권한 부여.md",
+                "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "ac42091808f33077",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2148507b60fc3168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(코틀린) 앱에서 출력.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5ae3de29020687a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(코틀린) 시작(큰 도약).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4d53e722bd9b4f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(코틀린) 내비게이션.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "70e3558f47725754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/대학교.md",
-                "mode": "preview",
-                "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "(코틀린) 권한 부여"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -137,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -145,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -153,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -176,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md",
+                "file": "Studied/(코틀린) 권한 부여.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "(코틀린) 권한 부여의 백링크"
             }
           },
           {
@@ -193,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md",
+                "file": "Studied/(코틀린) 권한 부여.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "(코틀린) 권한 부여의 나가는 링크"
             }
           },
           {
@@ -207,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -216,8 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md"
-              }
+                "file": "Studied/(코틀린) 권한 부여.md"
+              },
+              "icon": "lucide-list",
+              "title": "(코틀린) 권한 부여 개요"
             }
           }
         ],
@@ -242,16 +206,18 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "ac42091808f33077",
+  "active": "6f041f24ca0b43cc",
   "lastOpenFiles": [
-    "Studied/(코틀린) 상태관리.md",
-    "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md",
+    "Resources/Attachments/Pasted image 20241029172244.png",
     "Pages/공부.md",
-    "Studied/(코틀린) 앱에서 출력.md",
-    "Studied/(코틀린) 시작(큰 도약).md",
-    "Studied/(코틀린) 내비게이션.md",
+    "Studied/(코틀린) 권한 부여.md",
     "Pages/Home.md",
     "Pages/대학교.md",
+    "Studied/(코틀린) 내비게이션.md",
+    "Studied/(코틀린) 시작(큰 도약).md",
+    "Studied/(코틀린) 앱에서 출력.md",
+    "Studied/(코틀린) 상태관리.md",
+    "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md",
     "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md",
     "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md",
     "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",
@@ -278,8 +244,6 @@
     "Studied/(대학교) (암호학) 일곱번째 수업.md",
     "Studied/(대학교) (객체지향) 세번째 수업.md",
     "System/Log/log.md",
-    "Studied/(데이터통신) 네번째 수업.md",
-    "Studied/(대학교) (암호학) 다섯번째 수업.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",

@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-10-25 13.14.44.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md"
-    },
-    {
-      "basename": "(코틀린) 상태관리",
-      "path": "Studied/(코틀린) 상태관리.md"
+      "basename": "(코틀린) 권한 부여",
+      "path": "Studied/(코틀린) 권한 부여.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
-    },
-    {
-      "basename": "(코틀린) 앱에서 출력",
-      "path": "Studied/(코틀린) 앱에서 출력.md"
-    },
-    {
-      "basename": "(코틀린) 시작(큰 도약)",
-      "path": "Studied/(코틀린) 시작(큰 도약).md"
-    },
-    {
-      "basename": "(코틀린) 내비게이션",
-      "path": "Studied/(코틀린) 내비게이션.md"
     },
     {
       "basename": "Home",
@@ -31,6 +15,26 @@
     {
       "basename": "대학교",
       "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(코틀린) 내비게이션",
+      "path": "Studied/(코틀린) 내비게이션.md"
+    },
+    {
+      "basename": "(코틀린) 시작(큰 도약)",
+      "path": "Studied/(코틀린) 시작(큰 도약).md"
+    },
+    {
+      "basename": "(코틀린) 앱에서 출력",
+      "path": "Studied/(코틀린) 앱에서 출력.md"
+    },
+    {
+      "basename": "(코틀린) 상태관리",
+      "path": "Studied/(코틀린) 상태관리.md"
+    },
+    {
+      "basename": "Drawing 2024-10-25 13.14.44.excalidraw",
+      "path": "Resources/Excaldraw/Drawing 2024-10-25 13.14.44.excalidraw.md"
     },
     {
       "basename": "(대학교) (모바일컴퓨팅) 두번째 수업",
@@ -195,10 +199,6 @@
     {
       "basename": "(자바스크립트) <코어자바스크립트> 실행 컨텍스트",
       "path": "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md"
-    },
-    {
-      "basename": "2024-08-30",
-      "path": "Tasks/2024-08-30.md"
     }
   ],
   "omittedPaths": []
