@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "(코틀린) 권한 부여",
-      "path": "Studied/(코틀린) 권한 부여.md"
+      "basename": "(코틀린) 쇼핑리스트 앱 전체리뷰",
+      "path": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(코틀린) 권한 부여",
+      "path": "Studied/(코틀린) 권한 부여.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2024-09-01 23.03.31.excalidraw",
       "path": "Resources/Excaldraw/Drawing 2024-09-01 23.03.31.excalidraw.md"
-    },
-    {
-      "basename": "(자바스크립트) <코어자바스크립트> 실행 컨텍스트",
-      "path": "Studied/(자바스크립트) <코어자바스크립트> 실행 컨텍스트.md"
     }
   ],
   "omittedPaths": []
