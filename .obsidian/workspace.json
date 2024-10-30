@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -209,6 +209,7 @@
   },
   "active": "166666cfc855a2ac",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20241030195139.png",
     "Pages/공부.md",
     "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
     "Studied/(코틀린) 권한 부여.md",
@@ -244,7 +245,6 @@
     "Studied/(대학교) (데이터통신) 다섯번째 수업.md",
     "Studied/(대학교) (암호학) 일곱번째 수업.md",
     "Studied/(대학교) (객체지향) 세번째 수업.md",
-    "System/Log/log.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
