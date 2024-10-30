@@ -112,7 +112,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "6f041f24ca0b43cc",
+  "active": "3a5ce025f55cfa9e",
   "lastOpenFiles": [
     "Resources/Attachments/Pasted image 20241029190203.png",
     "Resources/Attachments/Pasted image 20241029185858.png",
