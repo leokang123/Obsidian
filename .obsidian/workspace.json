@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "cd1ccf40be082c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "(코틀린) 쇼핑리스트 앱 전체리뷰"
+            }
+          },
+          {
             "id": "166666cfc855a2ac",
             "type": "leaf",
             "state": {
@@ -207,22 +221,22 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "166666cfc855a2ac",
+  "active": "cd1ccf40be082c55",
   "lastOpenFiles": [
+    "Resources/Attachments/Pasted image 20241030202049.png",
+    "Resources/Attachments/Pasted image 20241030201958.png",
+    "Resources/Attachments/Pasted image 20241030201500.png",
+    "Resources/Attachments/Pasted image 20241030201159.png",
+    "Resources/Attachments/Pasted image 20241030201003.png",
+    "Pages/공부.md",
+    "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
     "Resources/Background/cuteGorilla.jpg",
     "Resources/Background/nightMotel.jpg",
     "Resources/Background/nightSky.jpg",
     "Resources/Background/programming.jpg",
     "Resources/Background/waterCity.jpg",
     "Resources/Attachments/Pasted image 20241030195139.png",
-    "Pages/공부.md",
-    "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
     "Studied/(코틀린) 권한 부여.md",
-    "Resources/Attachments/Pasted image 20241030172706.png",
-    "Resources/Attachments/Pasted image 20241030172613.png",
-    "Resources/Attachments/Pasted image 20241030172405.png",
-    "Resources/Attachments/Pasted image 20241029190203.png",
-    "Resources/Attachments/Pasted image 20241029185858.png",
     "Pages/Home.md",
     "Pages/대학교.md",
     "Studied/(코틀린) 내비게이션.md",
