@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9855e72dbd0a0d72",
+        "id": "e03fde641cc4811e",
         "type": "tabs",
         "children": [
           {
-            "id": "05a48803cb48c826",
+            "id": "a2329559f584ce30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "a5f44411106d0bb4",
+            "id": "940a1ca772123b6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "cd1ccf40be082c55",
+            "id": "3b2b226682dccbf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "(코틀린) 쇼핑리스트 앱 전체리뷰"
-            }
-          },
-          {
-            "id": "166666cfc855a2ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
+                "file": "Studied/(클로저) 기본문법.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "(코틀린) 쇼핑리스트 앱 전체리뷰"
+              "title": "(클로저) 기본문법"
             }
           }
         ],
@@ -221,8 +207,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "cd1ccf40be082c55",
+  "active": "3b2b226682dccbf3",
   "lastOpenFiles": [
+    "Resources/Attachments/IMG_4501.jpg",
+    "Pages/공부.md",
+    "Studied/(클로저) 기본문법.md",
+    "Studied/(함수형 프로그래밍) LISP.md",
+    "Studied/(Clojure) 클로저 시작하기 1.md",
+    "Pages/Home.md",
+    "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
     "Resources/Attachments/Pasted image 20241030205316.png",
     "Resources/Attachments/Pasted image 20241030205255.png",
     "Resources/Attachments/Pasted image 20241030205237.png",
@@ -233,11 +226,7 @@
     "Resources/Attachments/Pasted image 20241030201500.png",
     "Resources/Attachments/Pasted image 20241030201159.png",
     "Resources/Attachments/Pasted image 20241030201003.png",
-    "Pages/공부.md",
-    "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
-    "Resources/Background/cuteGorilla.jpg",
     "Studied/(코틀린) 권한 부여.md",
-    "Pages/Home.md",
     "Pages/대학교.md",
     "Studied/(코틀린) 내비게이션.md",
     "Studied/(코틀린) 시작(큰 도약).md",
@@ -256,9 +245,6 @@
     "Studied/(대학교) (객체지향) 네번째 수업.md",
     "Studied/(대학교) (딥러닝) 다섯번째 수업.md",
     "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
-    "Studied/(대학교) (데이터통신) 다섯번째 수업.md",
-    "Studied/(대학교) (암호학) 일곱번째 수업.md",
-    "Studied/(대학교) (객체지향) 세번째 수업.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",

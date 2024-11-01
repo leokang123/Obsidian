@@ -2,16 +2,16 @@
 주제: 함수형프로그래밍
 cssclasses: wide-page
 생성일: 2024-08-12 16:12
-수정일:  2024-08-15 01:52
+수정일:  2024-11-01 16:11:06
 series: 2
 banner: "![[surfingBoards.jpg]]"
 banner_y: 0.6
-tags: [일반, 함수형프로그래밍, Clojure, 개념]
+tags: [일반, 함수형프로그래밍, 클로저, 개념]
 ---
 
 # LISP
 
-#함수형프로그래밍 #Clojure #개념
+#함수형프로그래밍 #클로저 #개념
 ![[Pasted image 20240812162039.png]]
 
 ## LISP란
