@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "(디자인패턴) 전략패턴",
+      "path": "Studied/(디자인패턴) 전략패턴.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
     },
     {
       "basename": "(함수형 프로그래밍) LISP",
@@ -15,10 +23,6 @@
     {
       "basename": "(클로저) 기본문법",
       "path": "Studied/(클로저) 기본문법.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "(코틀린) 쇼핑리스트 앱 전체리뷰",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-09-03",
       "path": "Tasks/2024-09-03.md"
-    },
-    {
-      "basename": "(자바스크립트) <코어자바스크립트> 책 소개",
-      "path": "Studied/(자바스크립트) <코어자바스크립트> 책 소개.md"
     }
   ],
   "omittedPaths": []

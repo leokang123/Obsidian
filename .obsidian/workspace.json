@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "940a1ca772123b6c",
+            "id": "ebea8ac0ca79e48b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "공부"
             }
+          },
+          {
+            "id": "865a6e51d762f493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(디자인패턴) 전략패턴.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "(디자인패턴) 전략패턴"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,10 +207,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "940a1ca772123b6c",
+  "active": "865a6e51d762f493",
   "lastOpenFiles": [
-    "Studied/(함수형 프로그래밍) LISP.md",
+    "Resources/Attachments/Pasted image 20241105205230.png",
+    "Resources/Attachments/Pasted image 20241105204223.png",
     "Pages/공부.md",
+    "Studied/(디자인패턴) 전략패턴.md",
+    "Pages/Home.md",
+    "Studied/(함수형 프로그래밍) LISP.md",
     "Studied/(클로저) 심볼 바인딩 함수.md",
     "Resources/Attachments/Pasted image 20241102151801.png",
     "Resources/Attachments/Pasted image 20241102151441.png",
@@ -207,11 +225,9 @@
     "Studied/(클로저) 기본문법.md",
     "Resources/Attachments/IMG_4501.jpg",
     "Studied/(Clojure) 클로저 시작하기 1.md",
-    "Pages/Home.md",
     "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
     "Resources/Attachments/Pasted image 20241030205316.png",
     "Resources/Attachments/Pasted image 20241030205255.png",
-    "Resources/Attachments/Pasted image 20241030205237.png",
     "Studied/(코틀린) 권한 부여.md",
     "Pages/대학교.md",
     "Studied/(코틀린) 내비게이션.md",
@@ -229,7 +245,6 @@
     "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md",
     "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
     "Studied/(대학교) (객체지향) 네번째 수업.md",
-    "Studied/(대학교) (딥러닝) 다섯번째 수업.md",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
