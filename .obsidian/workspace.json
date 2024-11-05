@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "공부"
             }
-          },
-          {
-            "id": "593ddb5186b0a212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studied/(함수형 프로그래밍) LISP.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "(함수형 프로그래밍) LISP"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +193,9 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "593ddb5186b0a212",
+  "active": "940a1ca772123b6c",
   "lastOpenFiles": [
+    "Studied/(함수형 프로그래밍) LISP.md",
     "Pages/공부.md",
     "Studied/(클로저) 심볼 바인딩 함수.md",
     "Resources/Attachments/Pasted image 20241102151801.png",
@@ -219,7 +206,6 @@
     "Resources/Attachments/Pasted image 20241102145844.png",
     "Studied/(클로저) 기본문법.md",
     "Resources/Attachments/IMG_4501.jpg",
-    "Studied/(함수형 프로그래밍) LISP.md",
     "Studied/(Clojure) 클로저 시작하기 1.md",
     "Pages/Home.md",
     "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
