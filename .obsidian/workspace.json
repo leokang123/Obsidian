@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#로그래밍",
+                "query": "tag:#디자인",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
