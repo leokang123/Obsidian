@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "(디자인패턴) 전략패턴",
-      "path": "Studied/(디자인패턴) 전략패턴.md"
+      "basename": "Home",
+      "path": "Pages/Home.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
     },
     {
-      "basename": "(함수형 프로그래밍) LISP",
-      "path": "Studied/(함수형 프로그래밍) LISP.md"
+      "basename": "(대학교) (딥러닝) 두번째 수업",
+      "path": "Studied/(대학교) (딥러닝) 두번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (딥러닝) 세번째수업",
+      "path": "Studied/(대학교) (딥러닝) 세번째수업.md"
+    },
+    {
+      "basename": "(대학교) (딥러닝) 네번째 수업",
+      "path": "Studied/(대학교) (딥러닝) 네번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (딥러닝) 다섯번째 수업",
+      "path": "Studied/(대학교) (딥러닝) 다섯번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (딥러닝) 여섯번째 수업",
+      "path": "Studied/(대학교) (딥러닝) 여섯번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 세번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 다섯번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (암호학) 세번째 수업(유한체)",
+      "path": "Studied/(대학교) (암호학) 세번째 수업(유한체).md"
+    },
+    {
+      "basename": "(대학교) (암호학) 일곱번째 수업",
+      "path": "Studied/(대학교) (암호학) 일곱번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 세번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 세번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 여섯번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 여섯번째 수업.md"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
+      "basename": "(코틀린) 쇼핑리스트 앱 전체리뷰",
+      "path": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md"
     },
     {
       "basename": "(클로저) 심볼 바인딩 함수",
@@ -25,16 +73,24 @@
       "path": "Studied/(클로저) 기본문법.md"
     },
     {
-      "basename": "(코틀린) 쇼핑리스트 앱 전체리뷰",
-      "path": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md"
+      "basename": "(타입스크립트) 프로젝트 경과",
+      "path": "Studied/(타입스크립트) 프로젝트 경과.md"
+    },
+    {
+      "basename": "(타입 스크립트) 클래스",
+      "path": "Studied/(타입 스크립트) 클래스.md"
+    },
+    {
+      "basename": "(디자인패턴) 전략패턴",
+      "path": "Studied/(디자인패턴) 전략패턴.md"
+    },
+    {
+      "basename": "(함수형 프로그래밍) LISP",
+      "path": "Studied/(함수형 프로그래밍) LISP.md"
     },
     {
       "basename": "(코틀린) 권한 부여",
       "path": "Studied/(코틀린) 권한 부여.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "(코틀린) 내비게이션",
@@ -65,10 +121,6 @@
       "path": "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md"
     },
     {
-      "basename": "(대학교) (모바일컴퓨팅) 세번째 수업",
-      "path": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md"
-    },
-    {
       "basename": "(코틀린) 상속",
       "path": "Studied/(코틀린) 상속.md"
     },
@@ -89,36 +141,16 @@
       "path": "Resources/Excaldraw/Drawing 2024-10-06 14.17.27.excalidraw.md"
     },
     {
-      "basename": "(대학교) (딥러닝) 여섯번째 수업",
-      "path": "Studied/(대학교) (딥러닝) 여섯번째 수업.md"
-    },
-    {
       "basename": "(대학교) (객체지향) 네번째 수업",
       "path": "Studied/(대학교) (객체지향) 네번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (딥러닝) 다섯번째 수업",
-      "path": "Studied/(대학교) (딥러닝) 다섯번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 여섯번째 수업",
-      "path": "Studied/(대학교) (데이터통신) 여섯번째 수업.md"
     },
     {
       "basename": "(대학교) (데이터통신) 다섯번째 수업",
       "path": "Studied/(대학교) (데이터통신) 다섯번째 수업.md"
     },
     {
-      "basename": "(대학교) (암호학) 일곱번째 수업",
-      "path": "Studied/(대학교) (암호학) 일곱번째 수업.md"
-    },
-    {
       "basename": "(대학교) (객체지향) 세번째 수업",
       "path": "Studied/(대학교) (객체지향) 세번째 수업.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
     },
     {
       "basename": "(대학교) (암호학) 다섯번째 수업",
@@ -129,40 +161,16 @@
       "path": "Studied/(대학교) (암호학) 여섯번째 수업.md"
     },
     {
-      "basename": "(대학교) (딥러닝) 세번째수업",
-      "path": "Studied/(대학교) (딥러닝) 세번째수업.md"
-    },
-    {
-      "basename": "(대학교) (딥러닝) 네번째 수업",
-      "path": "Studied/(대학교) (딥러닝) 네번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (모바일컴퓨팅) 다섯번째 수업",
-      "path": "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md"
-    },
-    {
       "basename": "(대학교) (데이터통신) 네번째 수업",
       "path": "Studied/(대학교) (데이터통신) 네번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 세번째 수업",
-      "path": "Studied/(대학교) (데이터통신) 세번째 수업.md"
     },
     {
       "basename": "(대학교) (객체지향) 두번째 수업",
       "path": "Studied/(대학교) (객체지향) 두번째 수업.md"
     },
     {
-      "basename": "(대학교) (암호학) 세번째 수업(유한체)",
-      "path": "Studied/(대학교) (암호학) 세번째 수업(유한체).md"
-    },
-    {
       "basename": "(대학교) (암호학) 두번째 수업(시저)",
       "path": "Studied/(대학교) (암호학) 두번째 수업(시저).md"
-    },
-    {
-      "basename": "(대학교) (딥러닝) 두번째 수업",
-      "path": "Studied/(대학교) (딥러닝) 두번째 수업.md"
     },
     {
       "basename": "(대학교) (데이터통신) 두번째 수업",
@@ -187,18 +195,6 @@
     {
       "basename": "(대학교) (데이터통신) 첫번째 수업",
       "path": "Studied/(대학교) (데이터통신) 첫번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (딥러닝) 첫번쨰 수업",
-      "path": "Studied/(대학교) (딥러닝) 첫번쨰 수업.md"
-    },
-    {
-      "basename": "(대학교) (암호학) 첫번째 수업",
-      "path": "Studied/(대학교) (암호학) 첫번째 수업.md"
-    },
-    {
-      "basename": "2024-09-03",
-      "path": "Tasks/2024-09-03.md"
     }
   ],
   "omittedPaths": []
