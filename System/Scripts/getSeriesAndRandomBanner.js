@@ -1,9 +1,9 @@
-const fs = require('fs');
-const path = require('path');
-const obsidianPath = '/Users/jeonghun/Documents/Obsidian Vault';
+const fs = require("fs");
+const path = require("path");
+const obsidianPath = "/Users/jeonghoon/Documents/Obsidian";
 
 const getRandomBanner = () => {
-  const backGroundPath = path.join(obsidianPath, 'Resources', 'Background');
+  const backGroundPath = path.join(obsidianPath, "Resources", "Background");
   const resourceArr = fs.readdirSync(backGroundPath);
   const resourceLength = resourceArr.length;
   const randomNumber = Math.floor(Math.random() * resourceLength);
@@ -11,15 +11,15 @@ const getRandomBanner = () => {
 };
 
 const getSeries = (input) => {
-  const studiedPath = path.join(obsidianPath, 'Studied');
+  const studiedPath = path.join(obsidianPath, "Studied");
   const mdFiles = fs.readdirSync(studiedPath);
 
   const str = input.trim();
   const matchArr = str.match(/\((.*)\)/g);
   if (matchArr === null) return 1;
-  const compactMatch = matchArr[0].replaceAll(' ', '');
+  const compactMatch = matchArr[0].replaceAll(" ", "").normalize("NFC"); // 인코딩 방식을 맞춰줘야 에러없이 잘 작동
   const filteredFile = mdFiles.filter((p) => {
-    const compareCompact = p.replaceAll(' ', '');
+    const compareCompact = p.replaceAll(" ", "").normalize("NFC"); // 인코딩 방식을 맞춰줘야 에러없이 잘 작동
     return compareCompact.includes(compactMatch);
   });
   return filteredFile.length;

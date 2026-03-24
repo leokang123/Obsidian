@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "fafdfb13e60f85f4",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "e7e956776e1ed8b3",
+        "id": "763be632278b70e3",
         "type": "tabs",
         "children": [
           {
-            "id": "6621a4b9cca3ae3e",
+            "id": "866ae2780cabfdd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "3200835755b09e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/공부.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "공부"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -52,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#디자인",
+                "query": "tag:#일반",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,11 +76,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
-            "id": "0f36cf9d001959a8",
+            "id": "13c56b9afe7f2b78",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +90,7 @@
             }
           },
           {
-            "id": "3a5ce025f55cfa9e",
+            "id": "2ad458f14a1673d2",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -165,56 +181,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:새 보드 만들기": false,
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "daily-notes:오늘의 데일리 노트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6621a4b9cca3ae3e",
+  "active": "3200835755b09e0a",
   "lastOpenFiles": [
     "Pages/Home.md",
+    "Tasks/2026-03-24.md",
     "Pages/공부.md",
-    "Pages/대학교.md",
-    "Studied/(대학교) (딥러닝) 두번째 수업.md",
-    "Studied/(대학교) (딥러닝) 세번째수업.md",
-    "Studied/(대학교) (딥러닝) 네번째 수업.md",
-    "Studied/(대학교) (딥러닝) 다섯번째 수업.md",
-    "Studied/(대학교) (딥러닝) 여섯번째 수업.md",
-    "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md",
-    "Studied/(대학교) (모바일컴퓨팅) 다섯번째 수업.md",
-    "Studied/(대학교) (암호학) 세번째 수업(유한체).md",
-    "Studied/(대학교) (암호학) 일곱번째 수업.md",
-    "Studied/(대학교) (데이터통신) 세번째 수업.md",
-    "Studied/(대학교) (데이터통신) 여섯번째 수업.md",
-    "Studied/(코틀린) 아무거나.md",
+    "System/Templates/파일.md",
+    "Studied/(운영체제) 동기화.md",
+    "System/Templates/todo.md",
+    "Studied/(운영체제) CPU 스케줄링.md",
+    "Studied/(운영체제) 프로세스와 스레드.md",
+    "Studied/(운영체제) 스레드.md",
+    "Studied/(운영체제) 운영체제 시작하기.md",
     "System/Log/log.md",
-    "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
-    "Studied/(클로저) 심볼 바인딩 함수.md",
-    "Studied/(클로저) 기본문법.md",
-    "Studied/(타입스크립트) 프로젝트 경과.md",
-    "Studied/(타입 스크립트) 클래스.md",
-    "Studied/(디자인패턴) 전략패턴.md",
-    "Resources/Attachments/Pasted image 20241105230226.png",
-    "Resources/Attachments/Pasted image 20241105212117.png",
-    "Resources/Attachments/Pasted image 20241105205230.png",
-    "Resources/Attachments/Pasted image 20241105204223.png",
-    "Studied/(함수형 프로그래밍) LISP.md",
-    "Resources/Attachments/Pasted image 20241102151801.png",
-    "Resources/Attachments/Pasted image 20241102151441.png",
-    "Resources/Attachments/Pasted image 20241102151109.png",
-    "Resources/Attachments/Pasted image 20241102150817.png",
-    "Resources/Attachments/Pasted image 20241102145948.png",
-    "Resources/Attachments/Pasted image 20241102145844.png",
-    "Studied/(Clojure) 클로저 시작하기 1.md",
-    "Studied/(코틀린) 권한 부여.md",
-    "Studied/(코틀린) 내비게이션.md",
+    "Studied/(운영체제).md",
+    "Studied/(운영체제) 프로세스 상태와 계층 구조.md",
+    "Resources/Attachments/Pasted image 20260324185707.png",
+    "Resources/Attachments/Pasted image 20260324185425.png",
+    "Studied/(네트워크) 시작하기.md",
+    "Studied/(ㅁㄴㅇ)ㅁㄴㅇ.md",
+    "Studied/(운영체제) 테스트 2.md",
+    "Studied/(운영체제) 테스트 7.md",
+    "Studied/(운영체제) 테스트 6.md",
+    "Studied/(운영체제) 테스트 5.md",
+    "Studied/(운영체제) 테스트 4.md",
+    "Studied/(운영체제) 테스트.md",
+    "Studied/(운영체제) 테스트 3.md",
+    "Studied/(운영체제) 테스트2.md",
+    "Studied/(운영체제) 테스트3.md",
+    "System/Templates/EmptyNote.md",
+    "System/Templates/Task.md",
+    "Pages/Untitled 1.base",
+    "Pages/Untitled.base",
+    "Resources/Excaldraw/Untitled.base",
+    "Resources/Attachments/Pasted image 20250711141147.png",
+    "Resources/Attachments/Pasted image 20250711141030.png",
+    "Resources/Attachments/Pasted image 20250711140103.png",
+    "Resources/Attachments/Pasted image 20250711140012.png",
+    "Resources/Attachments/Pasted image 20250711134412.png",
+    "Resources/Attachments/Pasted image 20250711130131.png",
+    "Resources/Attachments/Pasted image 20250711125318.png",
+    "Resources/Attachments/simulator_screenshot_35DD0371-F4C1-4215-B637-979DA3AD2EF3.png",
     "System/Fonts/나눔손글씨 성실체.ttf",
     "System/Fonts/나눔손글씨 딸에게 엄마가.ttf",
     "System/Scripts/toggleAndSaveFile.js",
@@ -222,9 +243,6 @@
     "System/Scripts/makeSubject.js",
     "System/Scripts/makeLogData.js",
     "System/Scripts/getYesterday.js",
-    "System/Scripts/getTomorrow.js",
-    "System/Scripts/getSeriesAndRandomBanner.js",
-    "System/Scripts/getSemester.js",
     "Resources/Canvas/무제 파일.canvas",
     "Resources/Canvas/무제 파일 1.canvas"
   ]

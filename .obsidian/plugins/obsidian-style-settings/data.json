@@ -10,7 +10,6 @@
   "modular-css-layout-mc@@mcl-card-border-color@@dark": "#56563D",
   "modular-css-layout-mc@@mcl-card-border-color@@light": "#000000",
   "modular-css-layout-mc@@mcl-card-gap": "0.5em",
-  "floating-toc-styles@@enable-heading-nowrap": false,
   "floating-toc-styles@@enable-outline-style": "default-outline-style",
   "things-style@@h1-size": "2.0em",
   "things-style@@h2-size": "1.7em",

@@ -1,7 +1,7 @@
 const makeLogData = (filePath) => {
   const fs = require('fs');
   const path = require('path');
-  const obsidianPath = '/Users/jeonghun/Documents/Obsidian Vault';
+  const obsidianPath = '/Users/jeonghoon/Documents/Obsidian';
   const logPath = path.join(obsidianPath, 'System/Log/log.md');
   const date = new Date();
   const relativeFilePath = path.relative(obsidianPath, filePath);

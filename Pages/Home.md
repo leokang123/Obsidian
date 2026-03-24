@@ -2,7 +2,7 @@
 cssclasses:
   - wide-page
 생성일: 토요일, 8월 3일 2024, 7:32:30 오후
-수정일:  2024-08-29 16:08:00
+수정일:  2026-03-24 18:11:59
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
 tags: [대학교, 일반, 학습정리, 중요, 회고, 네이버, 개념, 잡, 프로젝트, 책리뷰, 3-2, 4-1, 4-2, 옵시디언, 정규표현식, 자바스크립트, 타입스크립트, 객체지향, 함수형프로그래밍, 비동기, Git, Jest, 컴파일러, 프로세스메모리, Clojure, 클로저, 렉시컬스코프, 커링, 불변성, 순수함수]
@@ -33,6 +33,7 @@ path includes task
 not done
 tag include #todo
 (due after yesterday) AND (due before tomorrow)
+hide toolbar
 hide tags
 hide due date
 hide edit button
@@ -47,6 +48,7 @@ path includes task
 done
 tag include #todo
 (due after yesterday) AND (due before tomorrow)
+hide toolbar
 hide tags
 hide due date
 hide edit button
@@ -63,6 +65,7 @@ path includes task
 not done
 tag include #todo
 (due after last 2 days) AND (due before last today)
+hide toolbar
 hide tags
 hide due date
 hide edit button
@@ -77,6 +80,7 @@ path includes task
 done
 tag include #todo
 (due after last 2 days) AND (due before last today)
+hide toolbar
 hide tags
 hide due date
 hide edit button
@@ -171,7 +175,7 @@ const makeHue = (hue, intense, per) => {
         ];
 }
 const calendarData = {
-    year: 2024,  // (optional) defaults to current year
+    year: 2026,  // (optional) defaults to current year
     colors: {    // (optional) defaults to green
         customColor: makeHue(hueOrange,7,85),
     },
@@ -181,7 +185,7 @@ const calendarData = {
     intensityScaleEnd: 100,     // (optional) defaults to highest value passed to entries.intensity
     entries: [],                // (required) populated in the DataviewJS loop below 0~15, 16~25
 }
-// log에 기록한 데이터 기반으로 마킹한다 
+// log에 기록한 데이터 기반으로 마킹한다
 // 따라서 잘못 추가한 파일은 로그에서 수동으로 지워줘야 한다
 const logPath = 'System/Log/log.md';
 const fileContents = await dv.io.load(logPath);

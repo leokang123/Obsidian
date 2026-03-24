@@ -6,8 +6,6 @@
   "dataview",
   "obsidian-git",
   "heatmap-calendar",
-  "highlightr-plugin",
-  "homepage",
   "obsidian-icon-folder",
   "quickadd",
   "recent-files-obsidian",
@@ -27,5 +25,7 @@
   "insert-unsplash-image",
   "oz-clear-unused-images",
   "obsidian-kanban",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "highlightr-plugin",
+  "homepage"
 ]

@@ -61,11 +61,13 @@
       "enabled": true,
       "date-created": false,
       "date-created-key": "생성일",
-      "force-retention-of-create-value": false,
       "date-modified": true,
       "date-modified-key": "수정일",
       "format": " yyyy-MM-DD HH:mm:ss",
-      "convert-to-utc": false
+      "convert-to-utc": false,
+      "date-created-source-of-truth": "file system",
+      "date-modified-source-of-truth": "file system",
+      "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
       "enabled": false,
@@ -104,14 +106,17 @@
       "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": true
+      "enabled": true,
+      "include-blank-line-between-footnotes": false
     },
     "re-index-footnotes": {
       "enabled": true
     },
     "auto-correct-common-misspellings": {
       "enabled": false,
-      "ignore-words": ""
+      "ignore-words": "",
+      "skip-words-with-multiple-capitals": false,
+      "extra-auto-correct-files": []
     },
     "blockquote-style": {
       "enabled": true,
@@ -236,7 +241,7 @@
     },
     "trailing-spaces": {
       "enabled": true,
-      "twp-space-line-break": false
+      "two-space-line-break": false
     },
     "add-blockquote-indentation-on-paste": {
       "enabled": true
@@ -261,11 +266,15 @@
     },
     "remove-multiple-blank-lines-on-paste": {
       "enabled": false
+    },
+    "empty-line-around-horizontal-rules": {
+      "enabled": false
     }
   },
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
+  "suppressMessageWhenNoChange": false,
   "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
