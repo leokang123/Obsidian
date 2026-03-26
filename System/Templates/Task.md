@@ -22,6 +22,7 @@ banner_y: 0.088
 tag includes #study
 not done  
 hide tags
+hide toolbar
 hide due date
 hide edit button
 short mode  

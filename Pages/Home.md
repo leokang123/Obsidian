@@ -2,7 +2,7 @@
 cssclasses:
   - wide-page
 생성일: 토요일, 8월 3일 2024, 7:32:30 오후
-수정일:  2026-03-24 18:11:59
+수정일:  2026-03-26 14:15:37
 banner: "![[sky.jpg]]"
 banner_y: 0.49584
 tags: [대학교, 일반, 학습정리, 중요, 회고, 네이버, 개념, 잡, 프로젝트, 책리뷰, 3-2, 4-1, 4-2, 옵시디언, 정규표현식, 자바스크립트, 타입스크립트, 객체지향, 함수형프로그래밍, 비동기, Git, Jest, 컴파일러, 프로세스메모리, Clojure, 클로저, 렉시컬스코프, 커링, 불변성, 순수함수]
@@ -160,22 +160,23 @@ const huePurple = 280; // 보라 (Purple)
 const huePink = 320;   // 분홍 (Pink)
 
 const makeHue = (hue, intense, per) => {
-	const num = intense * 10;
-	return [
-	        `hsl(${hue+num*0}, 100%, ${per}%)`,
-            `hsl(${hue+num*0.4}, 100%, ${per}%)`,   
-            `hsl(${hue+num*0.8}, 100%, ${per}%)`,     
-            `hsl(${hue+num*1.2}, 100%, ${per}%)`,    
-            `hsl(${hue+num*1.6}, 100%, ${per}%)`,   
-            `hsl(${hue+num*2.0}, 100%, ${per}%)`,     
-            `hsl(${hue+num*2.4}, 100%, ${per}%)`,  
-            `hsl(${hue+num*2.8}, 100%, ${per}%)`, 
-            `hsl(${hue+num*3.2}, 100%, ${per}%)`,      
-            `hsl(${hue+num*3.6}, 100%, ${per}%)`,      
+	const num = intense * 1.5;
+	const tmp =  [
+	        `hsl(${hue+num}, 100%, ${per * 0.1}%)`,
+            `hsl(${hue+num}, 100%, ${per * 0.2}%)`,   
+            `hsl(${hue+num}, 100%, ${per * 0.3}%)`,     
+            `hsl(${hue+num}, 100%, ${per * 0.4}%)`,    
+            `hsl(${hue+num}, 100%, ${per * 0.5}%)`,   
+            `hsl(${hue+num}, 100%, ${per * 0.6}%)`,     
+            `hsl(${hue+num}, 100%, ${per * 0.7}%)`,  
+            `hsl(${hue+num}, 100%, ${per * 0.8}%)`, 
+            `hsl(${hue+num}, 100%, ${per * 0.9}%)`,      
+            `hsl(${hue+num}, 100%, ${per * 1.0}%)`,      
         ];
+    return tmp.reverse();
 }
 const calendarData = {
-    year: 2026,  // (optional) defaults to current year
+    year: new Date().getFullYear(), // 2026  // (optional) defaults to current year
     colors: {    // (optional) defaults to green
         customColor: makeHue(hueOrange,7,85),
     },

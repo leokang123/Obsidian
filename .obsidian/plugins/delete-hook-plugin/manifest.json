@@ -1,0 +1,9 @@
+{
+  "id": "delete-hook-plugin",
+  "name": "Delete Hook Plugin",
+  "version": "0.0.1",
+  "minAppVersion": "1.0.0",
+  "description": "Run JS when a file is deleted",
+  "author": "jeonghoon",
+  "isDesktopOnly": true
+}

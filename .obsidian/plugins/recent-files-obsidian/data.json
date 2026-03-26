@@ -9,20 +9,88 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "2026-03-24",
-      "path": "Tasks/2026-03-24.md"
+      "basename": "(운영체제) 운영체제 시작하기",
+      "path": "Studied/(운영체제) 운영체제 시작하기.md"
     },
     {
-      "basename": "파일",
-      "path": "System/Templates/파일.md"
+      "basename": "(운영체제) 가상메모리",
+      "path": "Studied/(운영체제) 가상메모리.md"
+    },
+    {
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
+      "basename": "(자바스크립트) 코드컨벤션 ",
+      "path": "Studied/(자바스크립트) 코드컨벤션 .md"
+    },
+    {
+      "basename": "(스프링부트) 토큰관련",
+      "path": "Studied/(스프링부트) 토큰관련.md"
+    },
+    {
+      "basename": "(스프링부트) 서블릿 컨테이너와 스프링 컨테이너",
+      "path": "Studied/(스프링부트) 서블릿 컨테이너와 스프링 컨테이너.md"
+    },
+    {
+      "basename": "(스프링부트) 스프링 서버 동작 방식",
+      "path": "Studied/(스프링부트) 스프링 서버 동작 방식.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 두번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 두번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (객체지향) 세번째 수업",
+      "path": "Studied/(대학교) (객체지향) 세번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 세번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 세번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (모바일컴퓨팅) 첫번째 수업",
+      "path": "Studied/(대학교) (모바일컴퓨팅) 첫번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 다섯번째 수업",
+      "path": "Studied/(대학교) (데이터통신) 다섯번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (암호학) 세번째 수업(유한체)",
+      "path": "Studied/(대학교) (암호학) 세번째 수업(유한체).md"
+    },
+    {
+      "basename": "2026-03-25",
+      "path": "Tasks/2026-03-25.md"
+    },
+    {
+      "basename": "todo",
+      "path": "System/Templates/todo.md"
+    },
+    {
+      "basename": "Task",
+      "path": "System/Templates/Task.md"
+    },
+    {
+      "basename": "2026-03-24",
+      "path": "Tasks/2026-03-24.md"
     },
     {
       "basename": "(운영체제) 동기화",
       "path": "Studied/(운영체제) 동기화.md"
     },
     {
-      "basename": "todo",
-      "path": "System/Templates/todo.md"
+      "basename": "(운영체제) 교착상태",
+      "path": "Studied/(운영체제) 교착상태.md"
+    },
+    {
+      "basename": "파일",
+      "path": "System/Templates/파일.md"
     },
     {
       "basename": "(운영체제) CPU 스케줄링",
@@ -37,24 +105,12 @@
       "path": "Studied/(운영체제) 스레드.md"
     },
     {
-      "basename": "(운영체제) 운영체제 시작하기",
-      "path": "Studied/(운영체제) 운영체제 시작하기.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
-    },
-    {
       "basename": "(운영체제) 프로세스 상태와 계층 구조",
       "path": "Studied/(운영체제) 프로세스 상태와 계층 구조.md"
     },
     {
       "basename": "EmptyNote",
       "path": "System/Templates/EmptyNote.md"
-    },
-    {
-      "basename": "Task",
-      "path": "System/Templates/Task.md"
     },
     {
       "basename": "(옵시디언) 꾸미기프로젝트",
@@ -67,14 +123,6 @@
     {
       "basename": "백업",
       "path": "System/DB/백업.md"
-    },
-    {
-      "basename": "(스프링) 토큰관련",
-      "path": "Studied/(스프링) 토큰관련.md"
-    },
-    {
-      "basename": "(스프링부트) 서블릿 컨테이너와 스프링 컨테이너",
-      "path": "Studied/(스프링부트) 서블릿 컨테이너와 스프링 컨테이너.md"
     },
     {
       "basename": "2024-08-14",
@@ -95,10 +143,6 @@
     {
       "basename": "네이버",
       "path": "Pages/네이버.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "(대학교) (컴파일러) 렉서",
@@ -129,10 +173,6 @@
       "path": "Resources/Excaldraw/Drawing 2025-09-18 13.13.36.excalidraw.md"
     },
     {
-      "basename": "Untitled Kanban",
-      "path": "Untitled Kanban.md"
-    },
-    {
       "basename": "(옵시디언) 모바일 동기화",
       "path": "Studied/(옵시디언) 모바일 동기화.md"
     },
@@ -151,34 +191,6 @@
     {
       "basename": "(Flutter) 플러터 시작 layout 및 widget 정리",
       "path": "Studied/(Flutter) 플러터 시작 layout 및 widget 정리.md"
-    },
-    {
-      "basename": "(디자인패턴) 전략패턴",
-      "path": "Studied/(디자인패턴) 전략패턴.md"
-    },
-    {
-      "basename": "(클로저) 심볼 바인딩 함수",
-      "path": "Studied/(클로저) 심볼 바인딩 함수.md"
-    },
-    {
-      "basename": "Pasted image 20250711141147",
-      "path": "Resources/Attachments/Pasted image 20250711141147.png"
-    },
-    {
-      "basename": "(스프링부트) 스프링 서버 동작 방식",
-      "path": "Studied/(스프링부트) 스프링 서버 동작 방식.md"
-    },
-    {
-      "basename": "(프로젝트블로그) 첫 계획",
-      "path": "Studied/(프로젝트블로그) 첫 계획.md"
-    },
-    {
-      "basename": "(대학교) (가상) UI 보고서",
-      "path": "Studied/(대학교) (가상) UI 보고서.md"
-    },
-    {
-      "basename": "(코틀린) 상태관리",
-      "path": "Studied/(코틀린) 상태관리.md"
     }
   ],
   "omittedPaths": [],
