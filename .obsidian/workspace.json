@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c727b840678e7025",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "36b5bd422d307766",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "7fec14cd94194ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/공부.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "공부"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fec14cd94194ce1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Pages/Home.md",
     "Pages/공부.md",
+    "Pages/Home.md",
     "Studied/(운영체제) 운영체제 시작하기.md",
     "Studied/(운영체제) 가상메모리.md",
     "System/Log/log.md",
