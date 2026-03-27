@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "(운영체제) 페이지 교체와 프레임할당",
+      "path": "Studied/(운영체제) 페이지 교체와 프레임할당.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(운영체제) 가상메모리",
+      "path": "Studied/(운영체제) 가상메모리.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
     },
     {
       "basename": "log",
@@ -15,10 +23,6 @@
     {
       "basename": "(운영체제) 운영체제 시작하기",
       "path": "Studied/(운영체제) 운영체제 시작하기.md"
-    },
-    {
-      "basename": "(운영체제) 가상메모리",
-      "path": "Studied/(운영체제) 가상메모리.md"
     },
     {
       "basename": "(자바스크립트) 코드컨벤션 ",
