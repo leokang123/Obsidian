@@ -5,12 +5,20 @@
       "path": "Pages/Home.md"
     },
     {
-      "basename": "2026-03-25",
-      "path": "Tasks/2026-03-25.md"
+      "basename": "log",
+      "path": "System/Log/log.md"
+    },
+    {
+      "basename": "(ㅁㄴㅇ)ㅁㄴㅇ",
+      "path": "Studied/(ㅁㄴㅇ)ㅁㄴㅇ.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "2026-03-25",
+      "path": "Tasks/2026-03-25.md"
     },
     {
       "basename": "(운영체제) 페이지 교체와 프레임할당",
@@ -19,10 +27,6 @@
     {
       "basename": "(운영체제) 가상메모리",
       "path": "Studied/(운영체제) 가상메모리.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
     },
     {
       "basename": "(운영체제) 운영체제 시작하기",
