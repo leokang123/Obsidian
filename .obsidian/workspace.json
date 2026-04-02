@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "대학교"
             }
+          },
+          {
+            "id": "83e7c9ee91236c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Buttons/makeUnivFileInDataView.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "makeUnivFileInDataView"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,11 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f12ba89de69c46",
+  "active": "83e7c9ee91236c39",
   "lastOpenFiles": [
+    "Pages/대학교.md",
     "Pages/Home.md",
     "Pages/공부.md",
-    "Pages/대학교.md",
     "Studied/(운영체제) 페이지 교체와 프레임할당.md",
     "Legacy/대학교/(대학교) (컴파일러) 렉서.md",
     "Legacy/대학교/(대학교) (암호학) 첫번째 수업.md",
