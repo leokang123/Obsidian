@@ -36,6 +36,8 @@ jobs:
           rm -rf content
           mkdir -p content
           rsync -av --delete --exclude ".DS_Store" Studied/ content/
+          mkdir -p content/Resources
+          rsync -av --exclude ".DS_Store" Resources/ content/Resources/
           if [ ! -f content/index.md ]; then
             cat > content/index.md <<'EOF'
           ---
