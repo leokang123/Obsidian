@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99f02ac59c90f759",
+        "id": "d851dc7e85288759",
         "type": "tabs",
         "children": [
           {
-            "id": "675dd8092e5d0050",
+            "id": "f5b2d77df0960be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,8 +155,19 @@
               "icon": "lucide-list",
               "title": "(코틀린) 권한 부여 개요"
             }
+          },
+          {
+            "id": "4579a4980db7666d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,11 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "675dd8092e5d0050",
+  "active": "f5b2d77df0960be8",
   "lastOpenFiles": [
+    "Pages/Home.md",
     "System/Log/log.md",
     "Studied/(ㅁㄴㅇ)ㅁㄴㅇ.md",
-    "Pages/Home.md",
     "Pages/공부.md",
     "Studied/(운영체제) 하나둘셋.md",
     "Tasks/2026-03-25.md",
