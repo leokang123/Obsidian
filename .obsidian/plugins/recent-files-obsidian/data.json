@@ -1,24 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "(운영체제) 페이지 교체와 프레임할당",
+      "path": "Studied/(운영체제) 페이지 교체와 프레임할당.md"
+    },
+    {
       "basename": "공부",
       "path": "Pages/공부.md"
+    },
+    {
+      "basename": "(운영체제) 가상메모리",
+      "path": "Studied/(운영체제) 가상메모리.md"
     },
     {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
-      "basename": "(운영체제) 페이지 교체와 프레임할당",
-      "path": "Studied/(운영체제) 페이지 교체와 프레임할당.md"
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 다섯번째 수업",
+      "path": "Legacy/대학교/(대학교) (데이터통신) 다섯번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 첫번째 수업",
+      "path": "Legacy/대학교/(대학교) (데이터통신) 첫번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 두번째 수업",
+      "path": "Legacy/대학교/(대학교) (데이터통신) 두번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 여섯번째 수업",
+      "path": "Legacy/대학교/(대학교) (데이터통신) 여섯번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 네번째 수업",
+      "path": "Legacy/대학교/(대학교) (데이터통신) 네번째 수업.md"
+    },
+    {
+      "basename": "(대학교) (데이터통신) 세번째 수업",
+      "path": "Legacy/대학교/(대학교) (데이터통신) 세번째 수업.md"
+    },
+    {
+      "basename": "(옵시디언) 옵시디언 css 설정",
+      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
+    },
+    {
+      "basename": "(옵시디언) 자동화프로젝트",
+      "path": "Studied/(옵시디언) 자동화프로젝트.md"
     },
     {
       "basename": "(운영체제) 교착상태",
       "path": "Studied/(운영체제) 교착상태.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
     },
     {
       "basename": "List-grid",
@@ -73,10 +109,6 @@
       "path": "Tasks/2026-03-25.md"
     },
     {
-      "basename": "(운영체제) 가상메모리",
-      "path": "Studied/(운영체제) 가상메모리.md"
-    },
-    {
       "basename": "(운영체제) 운영체제 시작하기",
       "path": "Studied/(운영체제) 운영체제 시작하기.md"
     },
@@ -111,82 +143,6 @@
     {
       "basename": "(운영체제) 프로세스와 스레드",
       "path": "Studied/(운영체제) 프로세스와 스레드.md"
-    },
-    {
-      "basename": "(운영체제) 스레드",
-      "path": "Studied/(운영체제) 스레드.md"
-    },
-    {
-      "basename": "(운영체제) 프로세스 상태와 계층 구조",
-      "path": "Studied/(운영체제) 프로세스 상태와 계층 구조.md"
-    },
-    {
-      "basename": "(옵시디언) 꾸미기프로젝트",
-      "path": "Studied/(옵시디언) 꾸미기프로젝트.md"
-    },
-    {
-      "basename": "(옵시디언) 자동화프로젝트",
-      "path": "Studied/(옵시디언) 자동화프로젝트.md"
-    },
-    {
-      "basename": "백업",
-      "path": "System/DB/백업.md"
-    },
-    {
-      "basename": "2024-08-14",
-      "path": "Tasks/2024-08-14.md"
-    },
-    {
-      "basename": "2024-08-13",
-      "path": "Tasks/2024-08-13.md"
-    },
-    {
-      "basename": "2024-08-08",
-      "path": "Tasks/2024-08-08.md"
-    },
-    {
-      "basename": "2024-08-06",
-      "path": "Tasks/2024-08-06.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
-    },
-    {
-      "basename": "(프로젝트채팅) 그룹채팅 구현 ",
-      "path": "Studied/(프로젝트채팅) 그룹채팅 구현 .md"
-    },
-    {
-      "basename": "(프로젝트채팅) 웹소켓 사용",
-      "path": "Studied/(프로젝트채팅) 웹소켓 사용.md"
-    },
-    {
-      "basename": "(타입스크립트) 프로젝트 경과",
-      "path": "Studied/(타입스크립트) 프로젝트 경과.md"
-    },
-    {
-      "basename": "(깃) Merge, Rebase",
-      "path": "Studied/(깃) Merge, Rebase.md"
-    },
-    {
-      "basename": "Drawing 2025-09-18 13.13.36.excalidraw",
-      "path": "Resources/Excaldraw/Drawing 2025-09-18 13.13.36.excalidraw.md"
-    },
-    {
-      "basename": "(옵시디언) 모바일 동기화",
-      "path": "Studied/(옵시디언) 모바일 동기화.md"
-    },
-    {
-      "basename": "(깃) 잘못 add, commit, push 한 경우",
-      "path": "Studied/(깃) 잘못 add, commit, push 한 경우.md"
-    },
-    {
-      "basename": "(Flutter) 잡다한 위젯들 ",
-      "path": "Studied/(Flutter) 잡다한 위젯들 .md"
-    },
-    {
-      "basename": "(Flutter) 플러터 시작 layout 및 widget 정리",
-      "path": "Studied/(Flutter) 플러터 시작 layout 및 widget 정리.md"
     }
   ],
   "omittedPaths": [],

@@ -5,7 +5,6 @@
   "obsidian-auto-link-title",
   "obsidian-banners",
   "buttons",
-  "oz-clear-unused-images",
   "colored-text",
   "dataview",
   "delete-hook-plugin",
@@ -25,5 +24,6 @@
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "insert-unsplash-image"
+  "insert-unsplash-image",
+  "file-cleaner-redux"
 ]

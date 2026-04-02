@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a3fbc3700677f715",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "d3399a6c70d0bac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "cb15a93857bc4bdd",
+            "id": "8de66f4fc14cd3cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "공부"
             }
+          },
+          {
+            "id": "464a86c440730fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studied/(운영체제) 페이지 교체와 프레임할당.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "(운영체제) 페이지 교체와 프레임할당"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,16 +214,36 @@
       "bases:새 베이스 생성하기": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "cb15a93857bc4bdd",
+  "active": "464a86c440730fa5",
   "lastOpenFiles": [
-    "Pages/Home.md",
-    "Studied/(운영체제) 페이지 교체와 프레임할당.md",
     "Pages/공부.md",
-    "Studied/(운영체제) 교착상태.md",
+    "Studied/(운영체제) 가상메모리.md",
+    "Studied/(운영체제) 페이지 교체와 프레임할당.md",
+    "Pages/Home.md",
+    "Resources/Attachments/Pasted image 20260402191936.png",
+    "Resources/Attachments/Pasted image 20260402211051.png",
+    "Resources/Attachments/Pasted image 20260402211103.png",
+    "Resources/Attachments/Pasted image 20250711134412.png",
+    "Resources/Attachments/Pasted image 20250711130131.png",
+    "Resources/Attachments/Pasted image 20250116001218.png",
+    "Resources/Attachments/Pasted image 20250115164339.png",
+    "Resources/Attachments/Pasted image 20250115164315.png",
+    "Resources/Attachments/Pasted image 20241102150817.png",
+    "Resources/Attachments/Pasted image 20250115163603.png",
     "Pages/대학교.md",
+    "Legacy/대학교/(대학교) (데이터통신) 다섯번째 수업.md",
+    "Legacy/대학교/(대학교) (데이터통신) 첫번째 수업.md",
+    "Legacy/대학교/(대학교) (데이터통신) 두번째 수업.md",
+    "Legacy/대학교/(대학교) (데이터통신) 여섯번째 수업.md",
+    "Legacy/대학교/(대학교) (데이터통신) 네번째 수업.md",
+    "Legacy/대학교/(대학교) (데이터통신) 세번째 수업.md",
+    "Studied/(옵시디언) 옵시디언 css 설정.md",
+    "Studied/(옵시디언) 자동화프로젝트.md",
+    "Studied/(운영체제) 교착상태.md",
     "System/Templates/List-grid.md",
     "System/Templates/List-card.md",
     "System/Templates/Multi-Column-DataView.md",
@@ -222,35 +256,16 @@
     "Studied/(테스트) 테스트.md",
     "System/Templates/DataView.md",
     "System/Templates/todo.md",
-    "System/Templates/EmptyNote.md",
-    "Studied/makeUnivFileInDataview.md",
-    "System/Buttons/makeUnivFileInDataView.md",
-    "Legacy/대학교/(대학교) makeUnivFileInDataview1.md",
-    "Legacy/대학교/(대학교) makeUnivFileInDataview.md",
-    "Legacy/대학교/(대학교) (컴파일러) 렉서.md",
-    "Legacy/대학교/(대학교) (암호학) 첫번째 수업.md",
-    "Legacy/대학교/(대학교) (암호학) 일곱번째 수업.md",
-    "Legacy/대학교/(대학교) (암호학) 여섯번째 수업.md",
     "Legacy/대학교",
     "Legacy/무제 폴더",
     "Legacy",
     "무제 폴더",
-    "Resources/Attachments/Pasted image 20260402191936.png",
     "public/postscript.js",
     "public/prescript.js",
     "public/index.css",
     "public/static/giscus/light.css",
     "public/static/giscus/dark.css",
-    "public/static/og-image.png",
-    "public/static/icon.png",
     "public/static/giscus",
-    "node_modules/cli-spinner/img/spinner.gif",
-    "node_modules/gifuct-js/demo/dog.gif",
-    "node_modules/gifuct-js/demo/jblack.gif",
-    "node_modules/gifuct-js/demo/horses.gif",
-    "node_modules/js-binary-schema-parser/example/dog.gif",
-    "node_modules/js-binary-schema-parser/example/horses.gif",
-    "node_modules/js-binary-schema-parser/example/box.gif",
     "Resources/Canvas/무제 파일.canvas",
     "Resources/Canvas/무제 파일 1.canvas"
   ]

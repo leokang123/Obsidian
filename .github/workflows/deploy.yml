@@ -40,6 +40,7 @@ jobs:
           mkdir -p content
 
           # Studied 안의 markdown 파일을 frontmatter의 "주제" 기준으로 분류
+          # 그리고 series 값으로 파일명 앞에 번호를 붙여 정렬되게 만듦
           find Studied -type f -name "*.md" | while IFS= read -r file; do
             subject=$(awk '
               BEGIN { in_yaml=0 }
@@ -59,8 +60,28 @@ jobs:
               subject="기타"
             fi
 
+            series=$(awk '
+              BEGIN { in_yaml=0 }
+              /^---[[:space:]]*$/ {
+                if (in_yaml == 0) { in_yaml=1; next }
+                else { exit }
+              }
+              in_yaml == 1 && $0 ~ /^series:[[:space:]]*/ {
+                sub(/^series:[[:space:]]*/, "", $0)
+                gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
+                print $0
+                exit
+              }
+            ' "$file")
+
+            if [ -z "${series:-}" ]; then
+              series="999"
+            fi
+
+            printf -v series_padded "%03d" "$series"
+
             mkdir -p "content/$subject"
-            cp "$file" "content/$subject/$(basename "$file")"
+            cp "$file" "content/$subject/${series_padded} $(basename "$file")"
           done
 
           # 첨부 이미지 파일들을 content 루트에 복사
@@ -69,7 +90,7 @@ jobs:
             rsync -av --exclude ".DS_Store" Resources/Attachments/ content/
           fi
 
-          # banner 등에서 참조할 수 있게 Resources 전체도 보존하고 싶다면 함께 복사
+          # banner 등에서 참조할 수 있게 Resources 전체도 보존
           if [ -d "Resources" ]; then
             rsync -av --exclude ".DS_Store" Resources/ content/Resources/
           fi
