@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
-    },
-    {
-      "basename": "makeUnivFileInDataView",
-      "path": "System/Buttons/makeUnivFileInDataView.md"
     },
     {
       "basename": "공부",
       "path": "Pages/공부.md"
     },
     {
+      "basename": "(운영체제) 교착상태",
+      "path": "Studied/(운영체제) 교착상태.md"
+    },
+    {
       "basename": "(운영체제) 페이지 교체와 프레임할당",
       "path": "Studied/(운영체제) 페이지 교체와 프레임할당.md"
+    },
+    {
+      "basename": "대학교",
+      "path": "Pages/대학교.md"
+    },
+    {
+      "basename": "List-grid",
+      "path": "System/Templates/List-grid.md"
+    },
+    {
+      "basename": "List-card",
+      "path": "System/Templates/List-card.md"
+    },
+    {
+      "basename": "Multi-Column-DataView",
+      "path": "System/Templates/Multi-Column-DataView.md"
+    },
+    {
+      "basename": "Multi-Column",
+      "path": "System/Templates/Multi-Column.md"
+    },
+    {
+      "basename": "대학파일",
+      "path": "System/Templates/대학파일.md"
+    },
+    {
+      "basename": "Task",
+      "path": "System/Templates/Task.md"
+    },
+    {
+      "basename": "대시보드",
+      "path": "System/Templates/대시보드.md"
+    },
+    {
+      "basename": "파일",
+      "path": "System/Templates/파일.md"
+    },
+    {
+      "basename": "DataView",
+      "path": "System/Templates/DataView.md"
+    },
+    {
+      "basename": "todo",
+      "path": "System/Templates/todo.md"
+    },
+    {
+      "basename": "makeUnivFileInDataView",
+      "path": "System/Buttons/makeUnivFileInDataView.md"
     },
     {
       "basename": "log",
@@ -53,28 +97,12 @@
       "path": "Studied/(스프링부트) 스프링 서버 동작 방식.md"
     },
     {
-      "basename": "todo",
-      "path": "System/Templates/todo.md"
-    },
-    {
-      "basename": "Task",
-      "path": "System/Templates/Task.md"
-    },
-    {
       "basename": "2026-03-24",
       "path": "Tasks/2026-03-24.md"
     },
     {
       "basename": "(운영체제) 동기화",
       "path": "Studied/(운영체제) 동기화.md"
-    },
-    {
-      "basename": "(운영체제) 교착상태",
-      "path": "Studied/(운영체제) 교착상태.md"
-    },
-    {
-      "basename": "파일",
-      "path": "System/Templates/파일.md"
     },
     {
       "basename": "(운영체제) CPU 스케줄링",
@@ -91,10 +119,6 @@
     {
       "basename": "(운영체제) 프로세스 상태와 계층 구조",
       "path": "Studied/(운영체제) 프로세스 상태와 계층 구조.md"
-    },
-    {
-      "basename": "EmptyNote",
-      "path": "System/Templates/EmptyNote.md"
     },
     {
       "basename": "(옵시디언) 꾸미기프로젝트",

@@ -1,8 +1,8 @@
 ---
 주제: 자바스크립트
 cssclasses: wide-page
-생성일:  2024-09-01 17:25
-수정일:  2024-09-05 14:33:21
+date:  2024-09-01 17:25
+updated:  2024-09-05 14:33:21
 series: 5
 banner: "![[flightSupply.jpg]]"
 banner_y: 0.388
@@ -46,7 +46,7 @@ console.log(window.a);  // 1
 > ```js
 > var a = 1;
 > delete window.a;  // false
-> console.log(a, window.a, this.a); // 1 1 1 
+> console.log(a, window.a, this.a); // 1 1 1
 > ```
 > ```js
 > global.b = 2;
@@ -72,7 +72,7 @@ console.log(window.a);  // 1
 >   console.log(this); // global
 >   console.log(this === global); // true;
 > }
-> a(); 
+> a();
 > ```
 
 ### 메소드로서 호출할 때 그 메소드 내부에서의 This

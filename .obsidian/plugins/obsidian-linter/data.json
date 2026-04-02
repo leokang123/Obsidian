@@ -60,9 +60,9 @@
     "yaml-timestamp": {
       "enabled": true,
       "date-created": false,
-      "date-created-key": "생성일",
+      "date-created-key": "date",
       "date-modified": true,
-      "date-modified-key": "수정일",
+      "date-modified-key": "updated",
       "format": " yyyy-MM-DD HH:mm:ss",
       "convert-to-utc": false,
       "date-created-source-of-truth": "file system",

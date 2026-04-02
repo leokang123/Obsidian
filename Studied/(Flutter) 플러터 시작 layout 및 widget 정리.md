@@ -1,8 +1,8 @@
 ---
 주제: Flutter
 cssclasses: wide-page
-생성일:  2025-06-10 22:04
-수정일:  2025-06-11 00:00:23
+date: 2025-06-10 22:04
+updated: 2025-06-11 00:00:23
 series: 1
 banner: "![[caveManSitting.jpg]]"
 banner_y: 0.6
@@ -14,73 +14,74 @@ tags: [일반, Flutter]
 #Flutter
 
 Flutter의 UI를 구성하는 모든 요소는 위젯(Widget)이다
+
 - **Stateless** Widget: 상태가 변하지 않는 위젯 (단순 텍스트)
 - **Stateful** Widget: 상태가 변하는 위젯 (버튼이나 입력 필드)
 
 **레이아웃(Layout)** 또한 위젯의 한 종류인데 Column, Stack, Row, Container, Padding 등 위젯들을 어떻게 정렬하고 배치할지를 결정하는 위젯이다.
 
-```dart 
-import 'package:flutter/material.dart';  
-  
-void main() {  
-  runApp(const MyApp());  
-}  
-  
-// stateful -> can refresh  
-// stateless -> can't refresh  
-// setstate  
-  
-String? title = 'Flutter Mapp';  
-  
-class MyApp extends StatelessWidget {  
-  const MyApp({super.key});  
-  
-  @override  
-  Widget build(BuildContext context) {  
-    return MaterialApp(  
-      debugShowCheckedModeBanner: false,  
-      theme: ThemeData(  
-        colorScheme: ColorScheme.fromSeed(  
-          seedColor: Colors.teal,  
-          brightness: Brightness.dark,  
-        ),  
-      ),  
-      home: MyHomePage(),  
-    );  
-  }  
-}  
-  
-class MyHomePage extends StatefulWidget {  
-  const MyHomePage({super.key});  
-  
-  @override  
-  State<MyHomePage> createState() => _MyHomePageState();  
-}  
-  
-class _MyHomePageState extends State<MyHomePage> {  
-  int currentIndex = 0;  
-  
-  @override  
-  Widget build(BuildContext context) {  
-    return Scaffold(  
-      appBar: AppBar(title: Text(title ?? "기본값"), centerTitle: true),  
-      body: currentIndex == 0  
-          ? Center(child: Text('1'))  
-          : Center(child: Text('2')),  
-      bottomNavigationBar: NavigationBar(  
-        destinations: [  
-          NavigationDestination(icon: Icon(Icons.home), label: 'Home'),  
-          NavigationDestination(icon: Icon(Icons.person), label: 'Profile'),  
-        ],  
-        onDestinationSelected: (int value) {  
-          setState(() {  
-            currentIndex = value;  
-          });  
-        },  
-        selectedIndex: currentIndex,  
-      ),  
-    );  
-  }  
+```dart
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+// stateful -> can refresh
+// stateless -> can't refresh
+// setstate
+
+String? title = 'Flutter Mapp';
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.teal,
+          brightness: Brightness.dark,
+        ),
+      ),
+      home: MyHomePage(),
+    );
+  }
+}
+
+class MyHomePage extends StatefulWidget {
+  const MyHomePage({super.key});
+
+  @override
+  State<MyHomePage> createState() => _MyHomePageState();
+}
+
+class _MyHomePageState extends State<MyHomePage> {
+  int currentIndex = 0;
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text(title ?? "기본값"), centerTitle: true),
+      body: currentIndex == 0
+          ? Center(child: Text('1'))
+          : Center(child: Text('2')),
+      bottomNavigationBar: NavigationBar(
+        destinations: [
+          NavigationDestination(icon: Icon(Icons.home), label: 'Home'),
+          NavigationDestination(icon: Icon(Icons.person), label: 'Profile'),
+        ],
+        onDestinationSelected: (int value) {
+          setState(() {
+            currentIndex = value;
+          });
+        },
+        selectedIndex: currentIndex,
+      ),
+    );
+  }
 }
 ```
 
@@ -92,7 +93,7 @@ Drawer 같은경우도 그냥 Scaffold에서 Drawer 위젯과 DrawerHeader 위�
 
 그러면 너무 비효율 아니냐 할수있는데, 내부적으로 바뀌지 않은 내용은 일종의 캐싱을 통해 수정된 부분에 대해서만 리빌드되는 식으로 효율적으로 가능하다고 한다
 
-*다시 빌드하는 문제로 Stateful 위젯은 작게 나눌수록 좋다고 한다*
+_다시 빌드하는 문제로 Stateful 위젯은 작게 나눌수록 좋다고 한다_
 
 ---
 
@@ -109,21 +110,21 @@ Drawer 같은경우도 그냥 Scaffold에서 Drawer 위젯과 DrawerHeader 위�
 
 data는 **ValueNotifier**라고 React의 상태관리와 매우 비슷한 역할을 한다. 페이지 끼리 공유하는 상태변수를 만드는 것이다.
 
-```dart 
-// ValueNotifier : hold the data  
-// ValueListenableBuilder : listen to the data (don't need the setstate)  
-  
-import 'package:flutter/material.dart';  
-  
-ValueNotifier<int> selectedPageNotifier = ValueNotifier(0);  
+```dart
+// ValueNotifier : hold the data
+// ValueListenableBuilder : listen to the data (don't need the setstate)
+
+import 'package:flutter/material.dart';
+
+ValueNotifier<int> selectedPageNotifier = ValueNotifier(0);
 ValueNotifier<bool> isDarkModeNotifier = ValueNotifier(true);
 ```
 
 위와 같이 변수를 선언할수 있고, 사용시에는 아래와 같이 사용할수있다.
 
-```dart 
+```dart
 ValueListenableBuilder(
-	valueListenable: valueListener, 
+	valueListenable: valueListener,
 	builder: (context, value, child) {
 		// value가 상태관리되는 변수 값
 		return // 위젯
@@ -134,39 +135,42 @@ ValueListenableBuilder(
 조심해야할점은 **ValueListenableBuilder**는 결국 Builder 이기 때문에 **Widget 단위로 return을 받아야한다**
 
 예시
+
 ```dart
-class _MyAppState extends State<MyApp> {  
-  
-  @override  
-  Widget build(BuildContext context) {  
-    return ValueListenableBuilder(valueListenable: isDarkModeNotifier, builder: (context, isDark, child) {  
-      return MaterialApp(  
-          debugShowCheckedModeBanner: false,  
-          theme: ThemeData(  
-            colorScheme: ColorScheme.fromSeed(  
-              seedColor: Colors.teal,  
-              brightness: isDark ? Brightness.dark : Brightness.light,  
-            ),  
-          ),  
-          home: WidgetTree()  
-      );  
-    },);  
-  }  
+class _MyAppState extends State<MyApp> {
+
+  @override
+  Widget build(BuildContext context) {
+    return ValueListenableBuilder(valueListenable: isDarkModeNotifier, builder: (context, isDark, child) {
+      return MaterialApp(
+          debugShowCheckedModeBanner: false,
+          theme: ThemeData(
+            colorScheme: ColorScheme.fromSeed(
+              seedColor: Colors.teal,
+              brightness: isDark ? Brightness.dark : Brightness.light,
+            ),
+          ),
+          home: WidgetTree()
+      );
+    },);
+  }
 }
 ```
 
 isDark라는 전역으로 관리되는 상태변수 떄문에 MaterialApp이라는 **위젯 전부를 반환 받는 모습**
 
 저 변수를 갱신하는건 매우 간단하다
-```dart 
- AppBar(  
-  title: Text('Flutter Mapp'),  
-  actions: [IconButton(onPressed: () {  
-    isDarkModeNotifier.value = !isDarkModeNotifier.value;  
+
+```dart
+ AppBar(
+  title: Text('Flutter Mapp'),
+  actions: [IconButton(onPressed: () {
+    isDarkModeNotifier.value = !isDarkModeNotifier.value;
     },
     ...
   )
 ```
+
 그냥 isDarkNotifier**.value** 의 값을 바꾸어주면 알아서 **ListenableBuilder가 리빌드**를 해준다. (이 경우 setState도 없어도 됨)
 
 그리고 위에서 언급했다시피 **Stateful Widget은 쪼갤수록 리빌딩하는 효율이 올라**가기 때문에 pages 별, 개별 widgets별 디렉토리를 나누어주는 것이 **성능상 유리**하다
@@ -174,6 +178,7 @@ isDark라는 전역으로 관리되는 상태변수 떄문에 MaterialApp이라�
 #### WidgetTree
 
 **모든 화면들의 부모격인 화면**, Scaffold와 Appbar에 대한 선언이 이루어진다. 라우팅될 페이지들 또한
+
 ```dart
 List<Widget> pages = [HomePage(), ProfilePage()];
 ```
@@ -181,10 +186,10 @@ List<Widget> pages = [HomePage(), ProfilePage()];
 위와 같이 선언되어 Scaffold의 body에 사용된다.
 
 ```dart
-body: ValueListenableBuilder(  
-  valueListenable: selectedPageNotifier,  
-  builder: (context, selectedPage, child) {  
-    return pages.elementAt(selectedPage);  
-  },  
+body: ValueListenableBuilder(
+  valueListenable: selectedPageNotifier,
+  builder: (context, selectedPage, child) {
+    return pages.elementAt(selectedPage);
+  },
 ),
 ```

@@ -1,6 +1,6 @@
 ---
-생성일:  <% tp.date.now("yyyy-MM-DD HH:mm") %>
-수정일:  <% tp.date.now("yyyy-MM-DD HH:mm") %>
+date:  <% tp.date.now("yyyy-MM-DD HH:mm") %>
+updated:  <% tp.date.now("yyyy-MM-DD HH:mm") %>
 banner: "![[yort.jpg]]"
 banner_y: 0.088
 ---

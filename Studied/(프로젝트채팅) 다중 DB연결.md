@@ -1,8 +1,8 @@
 ---
 주제: 프로젝트채팅
 cssclasses: wide-page
-생성일:  2024-11-26 23:05
-수정일:  2024-11-27 10:54:54
+date:  2024-11-26 23:05
+updated:  2024-11-27 10:54:54
 series: 2
 banner: "![[warmAlley.jpg]]"
 banner_y: 0.6
@@ -124,105 +124,105 @@ RDBMS에 비해 세팅이 비교적 간단하다 (따로 릴레이션을 따질�
 ### RDBMS Config 예시
 
 ```Java
-package com.kjh.fourdatabase.config;  
-  
-import org.springframework.beans.factory.annotation.Value;  
-import org.springframework.boot.jdbc.DataSourceBuilder;  
-import org.springframework.context.annotation.Bean;  
-import org.springframework.context.annotation.Configuration;  
-import org.springframework.context.annotation.Primary;  
-import org.springframework.data.jpa.repository.config.EnableJpaRepositories;  
-import org.springframework.orm.jpa.JpaTransactionManager;  
-import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;  
-import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;  
-import org.springframework.transaction.PlatformTransactionManager;  
-  
-import javax.sql.DataSource;  
-import java.util.HashMap;  
-  
-@Configuration  
-@EnableJpaRepositories(  
-        basePackages = "com.kjh.fourdatabase.mysqldb1.repository",  
-        entityManagerFactoryRef = "firstEntityManager",  
-        transactionManagerRef = "firstTransactionManager"  
-)  
-public class FirstMysqlConfig {  
-  
-    @Value("${spring.first-datasource.username}")  
-    private String username;  
-  
-    @Value("${spring.first-datasource.password}")  
-    private String password;  
-    @Primary  
-    @Bean    public DataSource firstDataSource() {  
-        return DataSourceBuilder.create()  
-                .driverClassName("com.mysql.cj.jdbc.Driver")  
-                .url("jdbc:mysql://localhost:3306/testdb1?serverTimezone=Asia/Seoul")  
-                .username(username)  
-                .password(password)  
-                .build();  
-    }  
-  
-    @Primary  
-    @Bean(name = "firstEntityManager")  
-    public LocalContainerEntityManagerFactoryBean firstEntityManager() {  
-        LocalContainerEntityManagerFactoryBean em = new LocalContainerEntityManagerFactoryBean();  
-        em.setDataSource(firstDataSource());  
-        em.setPackagesToScan("com.kjh.fourdatabase.mysqldb1.entity");  
-        em.setJpaVendorAdapter(new HibernateJpaVendorAdapter());  
-  
-        HashMap<String, Object> properties = new HashMap<>();  
-        properties.put("hibernate.hbm2ddl.auto", "update");  
-        em.setJpaPropertyMap(properties);  
-        return em;  
-    }  
-  
-    @Primary  
-    @Bean(name = "firstTransactionManager")  
-    public PlatformTransactionManager firstTransactionManager() {  
-        JpaTransactionManager transactionManager = new JpaTransactionManager();  
-        transactionManager.setEntityManagerFactory(firstEntityManager().getObject());  
-        return transactionManager;  
-    }  
+package com.kjh.fourdatabase.config;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.jdbc.DataSourceBuilder;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Primary;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+import org.springframework.orm.jpa.JpaTransactionManager;
+import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
+import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
+import org.springframework.transaction.PlatformTransactionManager;
+
+import javax.sql.DataSource;
+import java.util.HashMap;
+
+@Configuration
+@EnableJpaRepositories(
+        basePackages = "com.kjh.fourdatabase.mysqldb1.repository",
+        entityManagerFactoryRef = "firstEntityManager",
+        transactionManagerRef = "firstTransactionManager"
+)
+public class FirstMysqlConfig {
+
+    @Value("${spring.first-datasource.username}")
+    private String username;
+
+    @Value("${spring.first-datasource.password}")
+    private String password;
+    @Primary
+    @Bean    public DataSource firstDataSource() {
+        return DataSourceBuilder.create()
+                .driverClassName("com.mysql.cj.jdbc.Driver")
+                .url("jdbc:mysql://localhost:3306/testdb1?serverTimezone=Asia/Seoul")
+                .username(username)
+                .password(password)
+                .build();
+    }
+
+    @Primary
+    @Bean(name = "firstEntityManager")
+    public LocalContainerEntityManagerFactoryBean firstEntityManager() {
+        LocalContainerEntityManagerFactoryBean em = new LocalContainerEntityManagerFactoryBean();
+        em.setDataSource(firstDataSource());
+        em.setPackagesToScan("com.kjh.fourdatabase.mysqldb1.entity");
+        em.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
+
+        HashMap<String, Object> properties = new HashMap<>();
+        properties.put("hibernate.hbm2ddl.auto", "update");
+        em.setJpaPropertyMap(properties);
+        return em;
+    }
+
+    @Primary
+    @Bean(name = "firstTransactionManager")
+    public PlatformTransactionManager firstTransactionManager() {
+        JpaTransactionManager transactionManager = new JpaTransactionManager();
+        transactionManager.setEntityManagerFactory(firstEntityManager().getObject());
+        return transactionManager;
+    }
 }
 ```
 
 ### NOSQL 예시
 
 ```Java
-package com.kjh.fourdatabase.config;  
-  
-import com.mongodb.client.MongoClient;  
-import com.mongodb.client.MongoClients;  
-import org.springframework.context.annotation.Bean;  
-import org.springframework.context.annotation.Configuration;  
-import org.springframework.context.annotation.Primary;  
-import org.springframework.data.mongodb.MongoDatabaseFactory;  
-import org.springframework.data.mongodb.core.MongoTemplate;  
-import org.springframework.data.mongodb.core.SimpleMongoClientDatabaseFactory;  
-import org.springframework.data.mongodb.repository.config.EnableMongoRepositories;  
-  
-@Configuration  
-@EnableMongoRepositories(  
-        basePackages = "com.kjh.fourdatabase.mongodb1.repository",  
-        mongoTemplateRef = "firstMongoTemplate"  
-)  
-public class FirstMongoConfig {  
-  
-    @Primary  
-    @Bean    public MongoClient firstMongoClient() {  
-        return MongoClients.create("mongodb://localhost:27017");  
-    }  
-  
-    @Primary  
-    @Bean    public MongoDatabaseFactory firstMongoDatabaseFactory() {  
-        return new SimpleMongoClientDatabaseFactory(firstMongoClient(),"testdb1");  
-    }  
-  
-    @Primary  
-    @Bean    public MongoTemplate firstMongoTemplate() {  
-        return new MongoTemplate(firstMongoDatabaseFactory());  
-    }  
+package com.kjh.fourdatabase.config;
+
+import com.mongodb.client.MongoClient;
+import com.mongodb.client.MongoClients;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Primary;
+import org.springframework.data.mongodb.MongoDatabaseFactory;
+import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.SimpleMongoClientDatabaseFactory;
+import org.springframework.data.mongodb.repository.config.EnableMongoRepositories;
+
+@Configuration
+@EnableMongoRepositories(
+        basePackages = "com.kjh.fourdatabase.mongodb1.repository",
+        mongoTemplateRef = "firstMongoTemplate"
+)
+public class FirstMongoConfig {
+
+    @Primary
+    @Bean    public MongoClient firstMongoClient() {
+        return MongoClients.create("mongodb://localhost:27017");
+    }
+
+    @Primary
+    @Bean    public MongoDatabaseFactory firstMongoDatabaseFactory() {
+        return new SimpleMongoClientDatabaseFactory(firstMongoClient(),"testdb1");
+    }
+
+    @Primary
+    @Bean    public MongoTemplate firstMongoTemplate() {
+        return new MongoTemplate(firstMongoDatabaseFactory());
+    }
 }
 ```
 

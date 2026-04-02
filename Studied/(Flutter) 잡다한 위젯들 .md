@@ -1,8 +1,8 @@
 ---
 주제: Flutter
 cssclasses: wide-page
-생성일:  2025-06-11 07:17
-수정일:  2025-06-12 09:10:32
+date:  2025-06-11 07:17
+updated:  2025-06-12 09:10:32
 series: 2
 banner: "![[lava.jpg]]"
 banner_y: 0.6
@@ -15,127 +15,127 @@ tags: [일반, Flutter]
 ![[simulator_screenshot_35DD0371-F4C1-4215-B637-979DA3AD2EF3.png|200]]
 
 ```dart
-import 'package:flutter/material.dart';  
-  
-class ProfilePage extends StatefulWidget {  
-  const ProfilePage({super.key});  
-  
-  @override  
-  State<ProfilePage> createState() => _ProfilePageState();  
-}  
-  
-class _ProfilePageState extends State<ProfilePage> {  
-  TextEditingController controller = TextEditingController();  
-  bool? isChecked = false;  
-  bool isSwitched = false;  
-  double sliderValue = 0.0;  
-  String? menuItem = 'e1';  
-  
-  @override  
-  Widget build(BuildContext context) {  
-    return SingleChildScrollView(  
-      // Scrollable 한 창  
-      child: Padding(  
-        padding: const EdgeInsets.all(28.0),  
-        child: Column(  
-          crossAxisAlignment: CrossAxisAlignment.start,  
-          children: [  
-            DropdownButton(  
-              value: menuItem,  
-              items: [  
-                DropdownMenuItem(value: 'e1', child: Text('Element1')),  
-                DropdownMenuItem(value: 'e2', child: Text('Element2')),  
-                DropdownMenuItem(value: 'e3', child: Text('Element3')),  
-              ],  
-              onChanged: (value) {  
-                setState(() {  
-                  menuItem = value;  
-                });  
-              },  
-            ),  
-            TextField(  
-              controller: controller,  
-              decoration: InputDecoration(border: OutlineInputBorder()),  
-              onEditingComplete: () => setState(() {}),  
-            ),  
-            Text(controller.text),  
-            Checkbox(  
-              tristate: true,  
-              value: isChecked,  
-              onChanged: (bool? value) {  
-                setState(() {  
-                  isChecked = value;  
-                });  
-              },  
-            ),  
-            CheckboxListTile(  
-              tristate: true,  
-              value: isChecked,  
-              title: Text('Click me'),  
-              onChanged: (bool? value) {  
-                setState(() {  
-                  isChecked = value;  
-                });  
-              },  
-            ),  
-            Switch(  
-              value: isSwitched,  
-              onChanged: (bool value) {  
-                setState(() {  
-                  isSwitched = value;  
-                });  
-              },  
-            ),  
-            SwitchListTile.adaptive(  
-              // ios 방식 (adaptive)              title: Text('Switch me'),  
-              value: isSwitched,  
-              onChanged: (bool value) {  
-                setState(() {  
-                  isSwitched = value;  
-                });  
-              },  
-            ),  
-            Slider(  
-              max: 10.0, // 슬라이더 최대 크기  
-              divisions: 10, // 정수화  
-              value: sliderValue,  
-              onChanged: (value) {  
-                setState(() {  
-                  sliderValue = value;  
-                });  
-                print(value);  
-              },  
-            ),  
-            InkWell(  
-              // GestureDetector를 써도 똑같은데 눌렀을때 반응을 보고 싶으면 InkWell을 사용  
-              onTap: () {  
-                print('Image Selected');  
-              },  
-              child: Container(  
-                height: 50,  
-                width: double.infinity,  
-                color: Colors.white12,  
-              ),  
-            ),  
-            ElevatedButton(  
-              onPressed: () {},  
-              style: ElevatedButton.styleFrom(  
-                // style 수정할땐 요러케 수정하면된다  
-                backgroundColor: Colors.teal,  
-                foregroundColor: Colors.white,  
-              ),  
-              child: Text('Click me'),  
-            ),  
-            FilledButton(onPressed: () {}, child: Text('Click me')),  
-            TextButton(onPressed: () {}, child: Text('Click me')),  
-            OutlinedButton(onPressed: () {}, child: Text('Click me')),  
-            CloseButton(),  
-            BackButton(),  
-          ],  
-        ),  
-      ),  
-    );  
-  }  
+import 'package:flutter/material.dart';
+
+class ProfilePage extends StatefulWidget {
+  const ProfilePage({super.key});
+
+  @override
+  State<ProfilePage> createState() => _ProfilePageState();
+}
+
+class _ProfilePageState extends State<ProfilePage> {
+  TextEditingController controller = TextEditingController();
+  bool? isChecked = false;
+  bool isSwitched = false;
+  double sliderValue = 0.0;
+  String? menuItem = 'e1';
+
+  @override
+  Widget build(BuildContext context) {
+    return SingleChildScrollView(
+      // Scrollable 한 창
+      child: Padding(
+        padding: const EdgeInsets.all(28.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            DropdownButton(
+              value: menuItem,
+              items: [
+                DropdownMenuItem(value: 'e1', child: Text('Element1')),
+                DropdownMenuItem(value: 'e2', child: Text('Element2')),
+                DropdownMenuItem(value: 'e3', child: Text('Element3')),
+              ],
+              onChanged: (value) {
+                setState(() {
+                  menuItem = value;
+                });
+              },
+            ),
+            TextField(
+              controller: controller,
+              decoration: InputDecoration(border: OutlineInputBorder()),
+              onEditingComplete: () => setState(() {}),
+            ),
+            Text(controller.text),
+            Checkbox(
+              tristate: true,
+              value: isChecked,
+              onChanged: (bool? value) {
+                setState(() {
+                  isChecked = value;
+                });
+              },
+            ),
+            CheckboxListTile(
+              tristate: true,
+              value: isChecked,
+              title: Text('Click me'),
+              onChanged: (bool? value) {
+                setState(() {
+                  isChecked = value;
+                });
+              },
+            ),
+            Switch(
+              value: isSwitched,
+              onChanged: (bool value) {
+                setState(() {
+                  isSwitched = value;
+                });
+              },
+            ),
+            SwitchListTile.adaptive(
+              // ios 방식 (adaptive)              title: Text('Switch me'),
+              value: isSwitched,
+              onChanged: (bool value) {
+                setState(() {
+                  isSwitched = value;
+                });
+              },
+            ),
+            Slider(
+              max: 10.0, // 슬라이더 최대 크기
+              divisions: 10, // 정수화
+              value: sliderValue,
+              onChanged: (value) {
+                setState(() {
+                  sliderValue = value;
+                });
+                print(value);
+              },
+            ),
+            InkWell(
+              // GestureDetector를 써도 똑같은데 눌렀을때 반응을 보고 싶으면 InkWell을 사용
+              onTap: () {
+                print('Image Selected');
+              },
+              child: Container(
+                height: 50,
+                width: double.infinity,
+                color: Colors.white12,
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {},
+              style: ElevatedButton.styleFrom(
+                // style 수정할땐 요러케 수정하면된다
+                backgroundColor: Colors.teal,
+                foregroundColor: Colors.white,
+              ),
+              child: Text('Click me'),
+            ),
+            FilledButton(onPressed: () {}, child: Text('Click me')),
+            TextButton(onPressed: () {}, child: Text('Click me')),
+            OutlinedButton(onPressed: () {}, child: Text('Click me')),
+            CloseButton(),
+            BackButton(),
+          ],
+        ),
+      ),
+    );
+  }
 }
 ```
 

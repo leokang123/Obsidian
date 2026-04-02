@@ -1,8 +1,8 @@
 ---
 주제: 운영체제
 cssclasses: wide-page
-생성일:  2026-03-24 19:06
-수정일:  2026-03-24 19:32:35
+date:  2026-03-24 19:06
+updated:  2026-03-24 19:32:35
 series: 5
 banner: "![[library.jpg]]"
 banner_y: 0.6

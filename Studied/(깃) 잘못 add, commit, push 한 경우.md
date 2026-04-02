@@ -1,8 +1,8 @@
 ---
 주제: 깃
 cssclasses: wide-page
-생성일:  2024-11-23 19:04
-수정일:  2024-11-23 19:49:53
+date:  2024-11-23 19:04
+updated:  2024-11-23 19:49:53
 series: 1
 banner: "![[caveManSitting.jpg]]"
 banner_y: 0.6
