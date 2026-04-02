@@ -1,23 +1,16 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Jeonghoon Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    analytics: null,
+    locale: "ko-KR",
+    baseUrl: "YOUR_GITHUB_ID.github.io/YOUR_REPO_NAME",
+    ignorePatterns: [".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -88,7 +81,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
