@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "307d5134abf04201",
+            "id": "5a7c8affccba84e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -204,19 +204,32 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "307d5134abf04201",
+  "active": "5a7c8affccba84e2",
   "lastOpenFiles": [
-    "Studied/(도커) 컨테이너 이름과 태그 .md",
+    "Studied/(타입스크립트) 프로젝트 경과.md",
     "Pages/공부.md",
-    "Studied/(도커) 이미지와 컨테이너.md",
-    "Studied/(도커) 볼륨.md",
-    "Studied/(유니티) 버튼 조작.md",
+    "Studied/(타입 스크립트) 제네릭.md",
+    "Studied/(타입 스크립트) 클래스.md",
+    "Studied/(타입스크립트) 인터페이스와 타입 .md",
+    "Studied/(타입스크립트) 다양한 타입지정.md",
+    "Studied/(타입스크립트) 열거형, 이름공간.md",
+    "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
     "Pages/Home.md",
+    "Studied/(코틀린) 권한 부여.md",
+    "Studied/(도커) 컨테이너 이름과 태그 .md",
+    "Studied/(도커) 볼륨.md",
+    "Studied/(도커) 이미지와 컨테이너.md",
+    "Studied/(깃) 잘못 add, commit, push 한 경우.md",
+    "Studied/(깃) Merge, Rebase.md",
+    "Studied/(운영체제) 운영체제 시작하기.md",
+    "Studied/(운영체제) 프로세스와 스레드.md",
+    "Studied/(운영체제) 페이지 교체와 프레임할당.md",
+    "Studied/(운영체제) 파일시스템.md",
+    "System/Templates/파일.md",
+    "Studied/(유니티) 버튼 조작.md",
     "Pages/네이버.md",
     "Studied/(옵시디언) 자동화프로젝트.md",
     "Studied/(타입스크립트) 첫시작.md",
-    "Studied/(운영체제) 페이지 교체와 프레임할당.md",
-    "Studied/(타입스크립트) 다양한 타입지정.md",
     "Studied/(타입스크립트) 다양한 타입지정 .md",
     "Studied/(운영체제) 가상메모리.md",
     "Resources/Attachments/Pasted image 20260402191936.png",
@@ -229,19 +242,6 @@
     "Resources/Attachments/Pasted image 20250115164315.png",
     "Resources/Attachments/Pasted image 20241102150817.png",
     "Resources/Attachments/Pasted image 20250115163603.png",
-    "Pages/대학교.md",
-    "Legacy/대학교/(대학교) (데이터통신) 다섯번째 수업.md",
-    "Legacy/대학교/(대학교) (데이터통신) 첫번째 수업.md",
-    "Legacy/대학교/(대학교) (데이터통신) 두번째 수업.md",
-    "Legacy/대학교/(대학교) (데이터통신) 여섯번째 수업.md",
-    "Legacy/대학교/(대학교) (데이터통신) 네번째 수업.md",
-    "Legacy/대학교/(대학교) (데이터통신) 세번째 수업.md",
-    "Studied/(옵시디언) 옵시디언 css 설정.md",
-    "Studied/(운영체제) 교착상태.md",
-    "System/Templates/List-grid.md",
-    "System/Templates/List-card.md",
-    "System/Templates/Multi-Column-DataView.md",
-    "System/Templates/Multi-Column.md",
     "Legacy/대학교",
     "Legacy/무제 폴더",
     "Legacy",

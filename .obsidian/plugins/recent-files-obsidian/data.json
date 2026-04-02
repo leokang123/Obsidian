@@ -5,24 +5,84 @@
       "path": "Pages/공부.md"
     },
     {
-      "basename": "(도커) 컨테이너 이름과 태그 ",
-      "path": "Studied/(도커) 컨테이너 이름과 태그 .md"
+      "basename": "(타입스크립트) 프로젝트 경과",
+      "path": "Studied/(타입스크립트) 프로젝트 경과.md"
     },
     {
-      "basename": "(도커) 이미지와 컨테이너",
-      "path": "Studied/(도커) 이미지와 컨테이너.md"
+      "basename": "(타입 스크립트) 제네릭",
+      "path": "Studied/(타입 스크립트) 제네릭.md"
+    },
+    {
+      "basename": "(타입 스크립트) 클래스",
+      "path": "Studied/(타입 스크립트) 클래스.md"
+    },
+    {
+      "basename": "(타입스크립트) 인터페이스와 타입 ",
+      "path": "Studied/(타입스크립트) 인터페이스와 타입 .md"
+    },
+    {
+      "basename": "(타입스크립트) 다양한 타입지정",
+      "path": "Studied/(타입스크립트) 다양한 타입지정.md"
+    },
+    {
+      "basename": "(타입스크립트) 열거형, 이름공간",
+      "path": "Studied/(타입스크립트) 열거형, 이름공간.md"
+    },
+    {
+      "basename": "(코틀린) 쇼핑리스트 앱 전체리뷰",
+      "path": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "(코틀린) 권한 부여",
+      "path": "Studied/(코틀린) 권한 부여.md"
+    },
+    {
+      "basename": "(도커) 컨테이너 이름과 태그 ",
+      "path": "Studied/(도커) 컨테이너 이름과 태그 .md"
     },
     {
       "basename": "(도커) 볼륨",
       "path": "Studied/(도커) 볼륨.md"
     },
     {
-      "basename": "(유니티) 버튼 조작",
-      "path": "Studied/(유니티) 버튼 조작.md"
+      "basename": "(도커) 이미지와 컨테이너",
+      "path": "Studied/(도커) 이미지와 컨테이너.md"
     },
     {
-      "basename": "Home",
-      "path": "Pages/Home.md"
+      "basename": "(깃) 잘못 add, commit, push 한 경우",
+      "path": "Studied/(깃) 잘못 add, commit, push 한 경우.md"
+    },
+    {
+      "basename": "(깃) Merge, Rebase",
+      "path": "Studied/(깃) Merge, Rebase.md"
+    },
+    {
+      "basename": "(운영체제) 운영체제 시작하기",
+      "path": "Studied/(운영체제) 운영체제 시작하기.md"
+    },
+    {
+      "basename": "(운영체제) 프로세스와 스레드",
+      "path": "Studied/(운영체제) 프로세스와 스레드.md"
+    },
+    {
+      "basename": "(운영체제) 페이지 교체와 프레임할당",
+      "path": "Studied/(운영체제) 페이지 교체와 프레임할당.md"
+    },
+    {
+      "basename": "(운영체제) 파일시스템",
+      "path": "Studied/(운영체제) 파일시스템.md"
+    },
+    {
+      "basename": "파일",
+      "path": "System/Templates/파일.md"
+    },
+    {
+      "basename": "(유니티) 버튼 조작",
+      "path": "Studied/(유니티) 버튼 조작.md"
     },
     {
       "basename": "네이버",
@@ -35,14 +95,6 @@
     {
       "basename": "(타입스크립트) 첫시작",
       "path": "Studied/(타입스크립트) 첫시작.md"
-    },
-    {
-      "basename": "(운영체제) 페이지 교체와 프레임할당",
-      "path": "Studied/(운영체제) 페이지 교체와 프레임할당.md"
-    },
-    {
-      "basename": "(타입스크립트) 다양한 타입지정",
-      "path": "Studied/(타입스크립트) 다양한 타입지정.md"
     },
     {
       "basename": "(운영체제) 가상메모리",
@@ -113,10 +165,6 @@
       "path": "System/Templates/대시보드.md"
     },
     {
-      "basename": "파일",
-      "path": "System/Templates/파일.md"
-    },
-    {
       "basename": "DataView",
       "path": "System/Templates/DataView.md"
     },
@@ -137,10 +185,6 @@
       "path": "Tasks/2026-03-25.md"
     },
     {
-      "basename": "(운영체제) 운영체제 시작하기",
-      "path": "Studied/(운영체제) 운영체제 시작하기.md"
-    },
-    {
       "basename": "(자바스크립트) 코드컨벤션 ",
       "path": "Studied/(자바스크립트) 코드컨벤션 .md"
     },
@@ -155,22 +199,6 @@
     {
       "basename": "(스프링부트) 스프링 서버 동작 방식",
       "path": "Studied/(스프링부트) 스프링 서버 동작 방식.md"
-    },
-    {
-      "basename": "2026-03-24",
-      "path": "Tasks/2026-03-24.md"
-    },
-    {
-      "basename": "(운영체제) 동기화",
-      "path": "Studied/(운영체제) 동기화.md"
-    },
-    {
-      "basename": "(운영체제) CPU 스케줄링",
-      "path": "Studied/(운영체제) CPU 스케줄링.md"
-    },
-    {
-      "basename": "(운영체제) 프로세스와 스레드",
-      "path": "Studied/(운영체제) 프로세스와 스레드.md"
     }
   ],
   "omittedPaths": [],

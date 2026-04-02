@@ -17,16 +17,22 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
@@ -78,10 +84,24 @@ jobs:
               series="999"
             fi
 
+            # series가 숫자가 아니면 기본값으로 뒤로 보냄
+            if ! [[ "$series" =~ ^[0-9]+$ ]]; then
+              series="999"
+            fi
+
             printf -v series_padded "%03d" "$series"
 
             mkdir -p "content/$subject"
-            cp "$file" "content/$subject/${series_padded} $(basename "$file")"
+
+            target="content/$subject/${series_padded} $(basename "$file")"
+
+            # 같은 최종 경로가 생기면 덮어쓰기 대신 실패시켜 충돌을 드러냄
+            if [ -e "$target" ]; then
+              echo "Duplicate target detected: $target"
+              exit 1
+            fi
+
+            cp "$file" "$target"
           done
 
           # 첨부 이미지 파일들을 content 루트에 복사
@@ -110,7 +130,7 @@ jobs:
         run: npx quartz build
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: public
 
@@ -120,6 +140,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
