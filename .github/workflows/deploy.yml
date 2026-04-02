@@ -112,13 +112,12 @@ jobs:
             cat > content/index.md <<'EOF'
           ---
           title: Home
-          date: 2026-04-02
           ---
 
           # Jeonghoon Notes
 
           주제 기준으로 자동 정리된 노트입니다.
-            EOF
+          EOF
           fi
 
           # 첨부 이미지 파일들을 content 루트에 복사
