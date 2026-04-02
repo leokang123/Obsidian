@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     locale: "ko-KR",
     baseUrl: "leokang123.github.io/Obsidian",
     ignorePatterns: [".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "date",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
