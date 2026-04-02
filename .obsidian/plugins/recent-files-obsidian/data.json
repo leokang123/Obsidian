@@ -1,12 +1,136 @@
 {
   "recentFiles": [
     {
-      "basename": "공부",
-      "path": "Pages/공부.md"
+      "basename": "index",
+      "path": "Studied/index.md"
     },
     {
       "basename": "Home",
       "path": "Pages/Home.md"
+    },
+    {
+      "basename": "library",
+      "path": "Resources/Background/library.jpg"
+    },
+    {
+      "basename": "programming",
+      "path": "Resources/Background/programming.jpg"
+    },
+    {
+      "basename": "lamplight",
+      "path": "Resources/Background/lamplight.jpg"
+    },
+    {
+      "basename": "sunsetBeach",
+      "path": "Resources/Background/sunsetBeach.jpg"
+    },
+    {
+      "basename": "lava",
+      "path": "Resources/Background/lava.jpg"
+    },
+    {
+      "basename": "waterfallGirl",
+      "path": "Resources/Background/waterfallGirl.jpg"
+    },
+    {
+      "basename": "niceCarGrey",
+      "path": "Resources/Background/niceCarGrey.jpg"
+    },
+    {
+      "basename": "rockCamping",
+      "path": "Resources/Background/rockCamping.jpg"
+    },
+    {
+      "basename": "londonBigben",
+      "path": "Resources/Background/londonBigben.jpg"
+    },
+    {
+      "basename": "japanGirlSubway",
+      "path": "Resources/Background/japanGirlSubway.jpg"
+    },
+    {
+      "basename": "japanCrosswalk",
+      "path": "Resources/Background/japanCrosswalk.jpg"
+    },
+    {
+      "basename": "greenAlley",
+      "path": "Resources/Background/greenAlley.jpg"
+    },
+    {
+      "basename": "FerrisWheel",
+      "path": "Resources/Background/FerrisWheel.jpg"
+    },
+    {
+      "basename": "cherryBlossom",
+      "path": "Resources/Background/cherryBlossom.jpg"
+    },
+    {
+      "basename": "nightView",
+      "path": "Resources/Background/nightView.jpg"
+    },
+    {
+      "basename": "warmAlleyBike",
+      "path": "Resources/Background/warmAlleyBike.jpg"
+    },
+    {
+      "basename": "bridgeView",
+      "path": "Resources/Background/bridgeView.jpg"
+    },
+    {
+      "basename": "effelTower",
+      "path": "Resources/Background/effelTower.jpg"
+    },
+    {
+      "basename": "warmAtmosphere",
+      "path": "Resources/Background/warmAtmosphere.jpg"
+    },
+    {
+      "basename": "cuteBird",
+      "path": "Resources/Background/cuteBird.jpg"
+    },
+    {
+      "basename": "warmAlley",
+      "path": "Resources/Background/warmAlley.jpg"
+    },
+    {
+      "basename": "osakaWideView",
+      "path": "Resources/Background/osakaWideView.jpg"
+    },
+    {
+      "basename": "flightSupply",
+      "path": "Resources/Background/flightSupply.jpg"
+    },
+    {
+      "basename": "warmIndoor",
+      "path": "Resources/Background/warmIndoor.jpg"
+    },
+    {
+      "basename": "wheatSunfall",
+      "path": "Resources/Background/wheatSunfall.jpg"
+    },
+    {
+      "basename": "coupleWalking",
+      "path": "Resources/Background/coupleWalking.jpg"
+    },
+    {
+      "basename": "clubLight",
+      "path": "Resources/Background/clubLight.jpg"
+    },
+    {
+      "basename": "amuseParkSunfall",
+      "path": "Resources/Background/amuseParkSunfall.jpg"
+    },
+    {
+      "basename": "waterCity",
+      "path": "Resources/Background/waterCity.jpg"
+    },
+    {
+      "basename": "sunfallPalmTree",
+      "path": "Resources/Background/sunfallPalmTree.jpg"
+    },
+    {
+      "basename": "공부",
+      "path": "Pages/공부.md"
     },
     {
       "basename": "(스프링부트) 토큰관련",
@@ -75,130 +199,6 @@
     {
       "basename": "(도커) 이미지와 컨테이너",
       "path": "Studied/(도커) 이미지와 컨테이너.md"
-    },
-    {
-      "basename": "(깃) 잘못 add, commit, push 한 경우",
-      "path": "Studied/(깃) 잘못 add, commit, push 한 경우.md"
-    },
-    {
-      "basename": "(깃) Merge, Rebase",
-      "path": "Studied/(깃) Merge, Rebase.md"
-    },
-    {
-      "basename": "(운영체제) 운영체제 시작하기",
-      "path": "Studied/(운영체제) 운영체제 시작하기.md"
-    },
-    {
-      "basename": "(운영체제) 프로세스와 스레드",
-      "path": "Studied/(운영체제) 프로세스와 스레드.md"
-    },
-    {
-      "basename": "(운영체제) 페이지 교체와 프레임할당",
-      "path": "Studied/(운영체제) 페이지 교체와 프레임할당.md"
-    },
-    {
-      "basename": "(운영체제) 파일시스템",
-      "path": "Studied/(운영체제) 파일시스템.md"
-    },
-    {
-      "basename": "파일",
-      "path": "System/Templates/파일.md"
-    },
-    {
-      "basename": "(유니티) 버튼 조작",
-      "path": "Studied/(유니티) 버튼 조작.md"
-    },
-    {
-      "basename": "네이버",
-      "path": "Pages/네이버.md"
-    },
-    {
-      "basename": "(옵시디언) 자동화프로젝트",
-      "path": "Studied/(옵시디언) 자동화프로젝트.md"
-    },
-    {
-      "basename": "(타입스크립트) 첫시작",
-      "path": "Studied/(타입스크립트) 첫시작.md"
-    },
-    {
-      "basename": "(운영체제) 가상메모리",
-      "path": "Studied/(운영체제) 가상메모리.md"
-    },
-    {
-      "basename": "대학교",
-      "path": "Pages/대학교.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 다섯번째 수업",
-      "path": "Legacy/대학교/(대학교) (데이터통신) 다섯번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 첫번째 수업",
-      "path": "Legacy/대학교/(대학교) (데이터통신) 첫번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 두번째 수업",
-      "path": "Legacy/대학교/(대학교) (데이터통신) 두번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 여섯번째 수업",
-      "path": "Legacy/대학교/(대학교) (데이터통신) 여섯번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 네번째 수업",
-      "path": "Legacy/대학교/(대학교) (데이터통신) 네번째 수업.md"
-    },
-    {
-      "basename": "(대학교) (데이터통신) 세번째 수업",
-      "path": "Legacy/대학교/(대학교) (데이터통신) 세번째 수업.md"
-    },
-    {
-      "basename": "(옵시디언) 옵시디언 css 설정",
-      "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
-      "basename": "(운영체제) 교착상태",
-      "path": "Studied/(운영체제) 교착상태.md"
-    },
-    {
-      "basename": "List-grid",
-      "path": "System/Templates/List-grid.md"
-    },
-    {
-      "basename": "List-card",
-      "path": "System/Templates/List-card.md"
-    },
-    {
-      "basename": "Multi-Column-DataView",
-      "path": "System/Templates/Multi-Column-DataView.md"
-    },
-    {
-      "basename": "Multi-Column",
-      "path": "System/Templates/Multi-Column.md"
-    },
-    {
-      "basename": "대학파일",
-      "path": "System/Templates/대학파일.md"
-    },
-    {
-      "basename": "Task",
-      "path": "System/Templates/Task.md"
-    },
-    {
-      "basename": "대시보드",
-      "path": "System/Templates/대시보드.md"
-    },
-    {
-      "basename": "DataView",
-      "path": "System/Templates/DataView.md"
-    },
-    {
-      "basename": "todo",
-      "path": "System/Templates/todo.md"
-    },
-    {
-      "basename": "makeUnivFileInDataView",
-      "path": "System/Buttons/makeUnivFileInDataView.md"
     }
   ],
   "omittedPaths": [],

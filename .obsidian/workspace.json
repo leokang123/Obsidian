@@ -27,12 +27,372 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/공부.md",
-                "mode": "preview",
+                "file": "Studied/index.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "공부"
+              "title": "index"
+            }
+          },
+          {
+            "id": "db05450b022f1566",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/sunfallPalmTree.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "sunfallPalmTree"
+            }
+          },
+          {
+            "id": "5fba452175441edd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/waterCity.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "waterCity"
+            }
+          },
+          {
+            "id": "34676971dcf025c3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/amuseParkSunfall.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "amuseParkSunfall"
+            }
+          },
+          {
+            "id": "ca5fd6a9125e0f73",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/clubLight.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "clubLight"
+            }
+          },
+          {
+            "id": "e0e2dab7b6faea37",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/coupleWalking.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "coupleWalking"
+            }
+          },
+          {
+            "id": "549cc0947c1375c6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/wheatSunfall.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "wheatSunfall"
+            }
+          },
+          {
+            "id": "84c80597f8d771ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/warmIndoor.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "warmIndoor"
+            }
+          },
+          {
+            "id": "3b126a9686a849a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/flightSupply.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "flightSupply"
+            }
+          },
+          {
+            "id": "65f2706e1ed1ff86",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/osakaWideView.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "osakaWideView"
+            }
+          },
+          {
+            "id": "8a26b7228497ce97",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/warmAlley.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "warmAlley"
+            }
+          },
+          {
+            "id": "8690bf49ab735436",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/cuteBird.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "cuteBird"
+            }
+          },
+          {
+            "id": "6f4d05a1d49a9026",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/warmAtmosphere.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "warmAtmosphere"
+            }
+          },
+          {
+            "id": "7b978dd5dc91a763",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/effelTower.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "effelTower"
+            }
+          },
+          {
+            "id": "eff9ae80af3969e5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/bridgeView.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "bridgeView"
+            }
+          },
+          {
+            "id": "a614d567e4429cd1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/warmAlleyBike.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "warmAlleyBike"
+            }
+          },
+          {
+            "id": "5eaf37104893c042",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/nightView.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "nightView"
+            }
+          },
+          {
+            "id": "1194a52e9371d006",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/cherryBlossom.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "cherryBlossom"
+            }
+          },
+          {
+            "id": "8472469df5ad4d1c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/FerrisWheel.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "FerrisWheel"
+            }
+          },
+          {
+            "id": "f66d262356229756",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/greenAlley.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "greenAlley"
+            }
+          },
+          {
+            "id": "eb7b20a833b5a021",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/japanGirlSubway.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "japanGirlSubway"
+            }
+          },
+          {
+            "id": "1f68845a11db7c82",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/londonBigben.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "londonBigben"
+            }
+          },
+          {
+            "id": "b000df21cae0a444",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/rockCamping.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "rockCamping"
+            }
+          },
+          {
+            "id": "b4642524554d2eec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/niceCarGrey.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "niceCarGrey"
+            }
+          },
+          {
+            "id": "968689441bc581ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/waterfallGirl.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "waterfallGirl"
+            }
+          },
+          {
+            "id": "80448f80bbe881f3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/lava.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "lava"
+            }
+          },
+          {
+            "id": "2d343bcdf9f58de9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/sunsetBeach.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "sunsetBeach"
+            }
+          },
+          {
+            "id": "e17bf238dfbf5ea1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/lamplight.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "lamplight"
+            }
+          },
+          {
+            "id": "ddf0e86717302539",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/library.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "library"
+            }
+          },
+          {
+            "id": "10c6d33d3203562b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/programming.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "programming"
+            }
+          },
+          {
+            "id": "510471796e4629a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Background/japanCrosswalk.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "japanCrosswalk"
             }
           }
         ],
@@ -68,7 +428,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#일반",
+                "query": "index.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,6 +567,17 @@
   "active": "5a7c8affccba84e2",
   "lastOpenFiles": [
     "Pages/Home.md",
+    "Resources/Background/library.jpg",
+    "Resources/Background/programming.jpg",
+    "Resources/Background/lamplight.jpg",
+    "Resources/Background/sunsetBeach.jpg",
+    "Resources/Background/lava.jpg",
+    "Resources/Background/waterfallGirl.jpg",
+    "Resources/Background/niceCarGrey.jpg",
+    "Resources/Background/rockCamping.jpg",
+    "Resources/Background/londonBigben.jpg",
+    "Resources/Background/japanGirlSubway.jpg",
+    "Studied/index.md",
     "Pages/공부.md",
     "Studied/(스프링부트) 토큰관련.md",
     "Studied/(클로저) 조건문, 재귀문, 구조분해.md",
@@ -230,18 +601,6 @@
     "Studied/(운영체제) 운영체제 시작하기.md",
     "Studied/(운영체제) 프로세스와 스레드.md",
     "Studied/(운영체제) 페이지 교체와 프레임할당.md",
-    "Studied/(운영체제) 파일시스템.md",
-    "System/Templates/파일.md",
-    "Resources/Attachments/Pasted image 20260402191936.png",
-    "Resources/Attachments/Pasted image 20260402211051.png",
-    "Resources/Attachments/Pasted image 20260402211103.png",
-    "Resources/Attachments/Pasted image 20250711134412.png",
-    "Resources/Attachments/Pasted image 20250711130131.png",
-    "Resources/Attachments/Pasted image 20250116001218.png",
-    "Resources/Attachments/Pasted image 20250115164339.png",
-    "Resources/Attachments/Pasted image 20250115164315.png",
-    "Resources/Attachments/Pasted image 20241102150817.png",
-    "Resources/Attachments/Pasted image 20250115163603.png",
     "Legacy/대학교",
     "Legacy/무제 폴더",
     "Legacy",

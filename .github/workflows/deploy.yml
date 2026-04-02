@@ -45,9 +45,15 @@ jobs:
           rm -rf content
           mkdir -p content
 
-          # Studied 안의 markdown 파일을 frontmatter의 "주제" 기준으로 분류
-          # 그리고 series 값으로 파일명 앞에 번호를 붙여 정렬되게 만듦
           find Studied -type f -name "*.md" | while IFS= read -r file; do
+            rel="${file#Studied/}"
+
+            # Studied/index.md가 있으면 사이트 홈으로 사용
+            if [ "$rel" = "index.md" ]; then
+              cp "$file" "content/index.md"
+              continue
+            fi
+
             subject=$(awk '
               BEGIN { in_yaml=0 }
               /^---[[:space:]]*$/ {
@@ -84,7 +90,6 @@ jobs:
               series="999"
             fi
 
-            # series가 숫자가 아니면 기본값으로 뒤로 보냄
             if ! [[ "$series" =~ ^[0-9]+$ ]]; then
               series="999"
             fi
@@ -92,10 +97,8 @@ jobs:
             printf -v series_padded "%03d" "$series"
 
             mkdir -p "content/$subject"
-
             target="content/$subject/${series_padded} $(basename "$file")"
 
-            # 같은 최종 경로가 생기면 덮어쓰기 대신 실패시켜 충돌을 드러냄
             if [ -e "$target" ]; then
               echo "Duplicate target detected: $target"
               exit 1
@@ -104,19 +107,9 @@ jobs:
             cp "$file" "$target"
           done
 
-          # 첨부 이미지 파일들을 content 루트에 복사
-          # ![[Pasted image ....png]] 형태를 최대한 살리기 위한 처리
-          if [ -d "Resources/Attachments" ]; then
-            rsync -av --exclude ".DS_Store" Resources/Attachments/ content/
-          fi
-
-          # banner 등에서 참조할 수 있게 Resources 전체도 보존
-          if [ -d "Resources" ]; then
-            rsync -av --exclude ".DS_Store" Resources/ content/Resources/
-          fi
-
-          # 홈 파일 생성
-          cat > content/index.md <<'EOF'
+          # 홈 문서가 없으면 기본 홈 생성
+          if [ ! -f "content/index.md" ]; then
+            cat > content/index.md <<'EOF'
           ---
           title: Home
           date: 2026-04-02
@@ -125,7 +118,18 @@ jobs:
           # Jeonghoon Notes
 
           주제 기준으로 자동 정리된 노트입니다.
-          EOF
+            EOF
+          fi
+
+          # 첨부 이미지 파일들을 content 루트에 복사
+          if [ -d "Resources/Attachments" ]; then
+            rsync -av --exclude ".DS_Store" Resources/Attachments/ content/
+          fi
+
+          # Resources 전체 보존
+          if [ -d "Resources" ]; then
+            rsync -av --exclude ".DS_Store" Resources/ content/Resources/
+          fi
 
       - name: Build Quartz
         run: npx quartz build
