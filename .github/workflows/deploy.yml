@@ -32,31 +32,58 @@ jobs:
         run: npm ci
 
       - name: Prepare Quartz content
+        shell: bash
         run: |
+          set -euo pipefail
+
           rm -rf content
           mkdir -p content
 
-          # Studied 전체를 Quartz content로 복사
-          rsync -av --delete --exclude ".DS_Store" Studied/ content/
+          # Studied 안의 markdown 파일을 frontmatter의 "주제" 기준으로 분류
+          find Studied -type f -name "*.md" | while IFS= read -r file; do
+            subject=$(awk '
+              BEGIN { in_yaml=0 }
+              /^---[[:space:]]*$/ {
+                if (in_yaml == 0) { in_yaml=1; next }
+                else { exit }
+              }
+              in_yaml == 1 && $0 ~ /^주제:[[:space:]]*/ {
+                sub(/^주제:[[:space:]]*/, "", $0)
+                gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
+                print $0
+                exit
+              }
+            ' "$file")
 
-          # 첨부 이미지 파일을 content 루트에도 복사
-          # ![[Pasted image ....png]] 같은 파일명 링크를 최대한 살리기 위한 처리
+            if [ -z "${subject:-}" ]; then
+              subject="기타"
+            fi
+
+            mkdir -p "content/$subject"
+            cp "$file" "content/$subject/$(basename "$file")"
+          done
+
+          # 첨부 이미지 파일들을 content 루트에 복사
+          # ![[Pasted image ....png]] 형태를 최대한 살리기 위한 처리
           if [ -d "Resources/Attachments" ]; then
             rsync -av --exclude ".DS_Store" Resources/Attachments/ content/
           fi
 
-          # 홈 파일이 없으면 기본 홈 생성
-          if [ ! -f content/index.md ]; then
-            cat > content/index.md <<'EOF'
+          # banner 등에서 참조할 수 있게 Resources 전체도 보존하고 싶다면 함께 복사
+          if [ -d "Resources" ]; then
+            rsync -av --exclude ".DS_Store" Resources/ content/Resources/
+          fi
+
+          # 홈 파일 생성
+          cat > content/index.md <<'EOF'
           ---
           title: Home
           ---
 
-          # Studied Notes
+          # Jeonghoon Notes
 
-          Studied 전체를 자동 반영한 페이지입니다.
+          주제 기준으로 자동 정리된 노트입니다.
           EOF
-          fi
 
       - name: Build Quartz
         run: npx quartz build
