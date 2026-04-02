@@ -31,13 +31,21 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Prepare Quartz content from Studied
+      - name: Prepare Quartz content
         run: |
           rm -rf content
           mkdir -p content
+
+          # Studied 전체를 Quartz content로 복사
           rsync -av --delete --exclude ".DS_Store" Studied/ content/
-          mkdir -p content/Resources
-          rsync -av --exclude ".DS_Store" Resources/ content/Resources/
+
+          # 첨부 이미지 파일을 content 루트에도 복사
+          # ![[Pasted image ....png]] 같은 파일명 링크를 최대한 살리기 위한 처리
+          if [ -d "Resources/Attachments" ]; then
+            rsync -av --exclude ".DS_Store" Resources/Attachments/ content/
+          fi
+
+          # 홈 파일이 없으면 기본 홈 생성
           if [ ! -f content/index.md ]; then
             cat > content/index.md <<'EOF'
           ---
