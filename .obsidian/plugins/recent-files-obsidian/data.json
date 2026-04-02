@@ -5,6 +5,30 @@
       "path": "Pages/공부.md"
     },
     {
+      "basename": "(클로저) 조건문, 재귀문, 구조분해",
+      "path": "Studied/(클로저) 조건문, 재귀문, 구조분해.md"
+    },
+    {
+      "basename": "(클로저) 심볼 바인딩 함수",
+      "path": "Studied/(클로저) 심볼 바인딩 함수.md"
+    },
+    {
+      "basename": "(스프링부트) 토큰관련",
+      "path": "Studied/(스프링부트) 토큰관련.md"
+    },
+    {
+      "basename": "(클로저) 기본문법",
+      "path": "Studied/(클로저) 기본문법.md"
+    },
+    {
+      "basename": "(스프링부트) 서블릿 컨테이너와 스프링 컨테이너",
+      "path": "Studied/(스프링부트) 서블릿 컨테이너와 스프링 컨테이너.md"
+    },
+    {
+      "basename": "(옵시디언) 모바일 동기화",
+      "path": "Studied/(옵시디언) 모바일 동기화.md"
+    },
+    {
       "basename": "(타입스크립트) 프로젝트 경과",
       "path": "Studied/(타입스크립트) 프로젝트 경과.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "makeUnivFileInDataView",
       "path": "System/Buttons/makeUnivFileInDataView.md"
-    },
-    {
-      "basename": "log",
-      "path": "System/Log/log.md"
-    },
-    {
-      "basename": "2026-03-25",
-      "path": "Tasks/2026-03-25.md"
-    },
-    {
-      "basename": "(자바스크립트) 코드컨벤션 ",
-      "path": "Studied/(자바스크립트) 코드컨벤션 .md"
-    },
-    {
-      "basename": "(스프링부트) 토큰관련",
-      "path": "Studied/(스프링부트) 토큰관련.md"
-    },
-    {
-      "basename": "(스프링부트) 서블릿 컨테이너와 스프링 컨테이너",
-      "path": "Studied/(스프링부트) 서블릿 컨테이너와 스프링 컨테이너.md"
-    },
-    {
-      "basename": "(스프링부트) 스프링 서버 동작 방식",
-      "path": "Studied/(스프링부트) 스프링 서버 동작 방식.md"
     }
   ],
   "omittedPaths": [],
