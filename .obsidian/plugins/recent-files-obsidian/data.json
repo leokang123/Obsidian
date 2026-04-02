@@ -5,6 +5,10 @@
       "path": "Pages/공부.md"
     },
     {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
       "basename": "(스프링부트) 토큰관련",
       "path": "Studied/(스프링부트) 토큰관련.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "(코틀린) 쇼핑리스트 앱 전체리뷰",
       "path": "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "(코틀린) 권한 부여",

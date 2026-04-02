@@ -119,6 +119,7 @@ jobs:
           cat > content/index.md <<'EOF'
           ---
           title: Home
+          date: 2026-04-02
           ---
 
           # Jeonghoon Notes

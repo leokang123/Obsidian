@@ -206,8 +206,9 @@
   },
   "active": "5a7c8affccba84e2",
   "lastOpenFiles": [
-    "Studied/(스프링부트) 토큰관련.md",
+    "Pages/Home.md",
     "Pages/공부.md",
+    "Studied/(스프링부트) 토큰관련.md",
     "Studied/(클로저) 조건문, 재귀문, 구조분해.md",
     "Studied/(클로저) 심볼 바인딩 함수.md",
     "Studied/(클로저) 기본문법.md",
@@ -220,7 +221,6 @@
     "Studied/(타입스크립트) 다양한 타입지정.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
     "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
-    "Pages/Home.md",
     "Studied/(코틀린) 권한 부여.md",
     "Studied/(도커) 컨테이너 이름과 태그 .md",
     "Studied/(도커) 볼륨.md",
