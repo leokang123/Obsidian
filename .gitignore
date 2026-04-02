@@ -1,3 +1,13 @@
 .DS_Store
 .com.greenworldsoft.syncfolderspro
 node_modules/
+.quartz-cache/
+public/
+content/
+
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/snippets/
+.obsidian/themes/
+.trash/
