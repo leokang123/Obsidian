@@ -49,7 +49,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Studied"
+          "Legacy/대학교"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
