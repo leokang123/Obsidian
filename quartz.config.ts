@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "ko-KR",
-    baseUrl: "YOUR_GITHUB_ID.github.io/YOUR_REPO_NAME",
+    baseUrl: "leokang123.github.io/Obsidian",
     ignorePatterns: [".obsidian"],
     defaultDateType: "modified",
     theme: {
