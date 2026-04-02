@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "newFileLocation": "current",
-  "trashOption": "local",
+  "trashOption": "system",
   "defaultViewMode": "preview",
   "readableLineLength": true,
   "strictLineBreaks": false,

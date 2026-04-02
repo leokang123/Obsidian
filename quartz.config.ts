@@ -71,8 +71,20 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
+      Plugin.FolderPage({
+        sort: (a, b) => {
+          const titleA = a.frontmatter?.title ?? "";
+          const titleB = b.frontmatter?.title ?? "";
+          return titleA.localeCompare(titleB, "ko-KR", { numeric: true });
+        },
+      }),
+      Plugin.TagPage({
+        sort: (a, b) => {
+          const titleA = a.frontmatter?.title ?? "";
+          const titleB = b.frontmatter?.title ?? "";
+          return titleA.localeCompare(titleB, "ko-KR", { numeric: true });
+        },
+      }),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,

@@ -5,6 +5,34 @@
       "path": "Pages/공부.md"
     },
     {
+      "basename": "(도커) 컨테이너 이름과 태그 ",
+      "path": "Studied/(도커) 컨테이너 이름과 태그 .md"
+    },
+    {
+      "basename": "(도커) 이미지와 컨테이너",
+      "path": "Studied/(도커) 이미지와 컨테이너.md"
+    },
+    {
+      "basename": "(도커) 볼륨",
+      "path": "Studied/(도커) 볼륨.md"
+    },
+    {
+      "basename": "(유니티) 버튼 조작",
+      "path": "Studied/(유니티) 버튼 조작.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Pages/Home.md"
+    },
+    {
+      "basename": "네이버",
+      "path": "Pages/네이버.md"
+    },
+    {
+      "basename": "(옵시디언) 자동화프로젝트",
+      "path": "Studied/(옵시디언) 자동화프로젝트.md"
+    },
+    {
       "basename": "(타입스크립트) 첫시작",
       "path": "Studied/(타입스크립트) 첫시작.md"
     },
@@ -15,10 +43,6 @@
     {
       "basename": "(타입스크립트) 다양한 타입지정",
       "path": "Studied/(타입스크립트) 다양한 타입지정.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Pages/Home.md"
     },
     {
       "basename": "(운영체제) 가상메모리",
@@ -55,10 +79,6 @@
     {
       "basename": "(옵시디언) 옵시디언 css 설정",
       "path": "Studied/(옵시디언) 옵시디언 css 설정.md"
-    },
-    {
-      "basename": "(옵시디언) 자동화프로젝트",
-      "path": "Studied/(옵시디언) 자동화프로젝트.md"
     },
     {
       "basename": "(운영체제) 교착상태",
