@@ -15,7 +15,6 @@
   "highlightr-plugin",
   "homepage",
   "obsidian-icon-folder",
-  "insert-unsplash-image",
   "obsidian-linter",
   "open-in-new-tab",
   "quickadd",
@@ -25,5 +24,6 @@
   "obsidian-smart-typography",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "insert-unsplash-image"
 ]
