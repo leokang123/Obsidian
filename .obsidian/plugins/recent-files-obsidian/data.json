@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "Studied/index.md"
-    },
-    {
       "basename": "Home",
       "path": "Pages/Home.md"
     },
     {
-      "basename": "library",
-      "path": "Resources/Background/library.jpg"
-    },
-    {
       "basename": "programming",
       "path": "Resources/Background/programming.jpg"
+    },
+    {
+      "basename": "library",
+      "path": "Resources/Background/library.jpg"
     },
     {
       "basename": "lamplight",
@@ -27,10 +23,6 @@
     {
       "basename": "lava",
       "path": "Resources/Background/lava.jpg"
-    },
-    {
-      "basename": "waterfallGirl",
-      "path": "Resources/Background/waterfallGirl.jpg"
     },
     {
       "basename": "niceCarGrey",
@@ -47,10 +39,6 @@
     {
       "basename": "japanGirlSubway",
       "path": "Resources/Background/japanGirlSubway.jpg"
-    },
-    {
-      "basename": "japanCrosswalk",
-      "path": "Resources/Background/japanCrosswalk.jpg"
     },
     {
       "basename": "greenAlley",
@@ -93,16 +81,36 @@
       "path": "Resources/Background/warmAlley.jpg"
     },
     {
+      "basename": "warmIndoor",
+      "path": "Resources/Background/warmIndoor.jpg"
+    },
+    {
+      "basename": "waterCity",
+      "path": "Resources/Background/waterCity.jpg"
+    },
+    {
+      "basename": "sunfallPalmTree",
+      "path": "Resources/Background/sunfallPalmTree.jpg"
+    },
+    {
+      "basename": "index",
+      "path": "Studied/index.md"
+    },
+    {
+      "basename": "waterfallGirl",
+      "path": "Resources/Background/waterfallGirl.jpg"
+    },
+    {
+      "basename": "japanCrosswalk",
+      "path": "Resources/Background/japanCrosswalk.jpg"
+    },
+    {
       "basename": "osakaWideView",
       "path": "Resources/Background/osakaWideView.jpg"
     },
     {
       "basename": "flightSupply",
       "path": "Resources/Background/flightSupply.jpg"
-    },
-    {
-      "basename": "warmIndoor",
-      "path": "Resources/Background/warmIndoor.jpg"
     },
     {
       "basename": "wheatSunfall",
@@ -119,14 +127,6 @@
     {
       "basename": "amuseParkSunfall",
       "path": "Resources/Background/amuseParkSunfall.jpg"
-    },
-    {
-      "basename": "waterCity",
-      "path": "Resources/Background/waterCity.jpg"
-    },
-    {
-      "basename": "sunfallPalmTree",
-      "path": "Resources/Background/sunfallPalmTree.jpg"
     },
     {
       "basename": "공부",
