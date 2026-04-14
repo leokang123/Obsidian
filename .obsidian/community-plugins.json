@@ -14,5 +14,6 @@
   "dataview",
   "homepage",
   "open-in-new-tab",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "file-cleaner-redux"
 ]
