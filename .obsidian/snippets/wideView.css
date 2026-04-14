@@ -26,11 +26,11 @@
 */
 
 /* === Wide Page === */
-@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;500;600;700;800;900&display=swap");
 
 body .wide-page {
   --file-line-width: 90%;
-  font-family: 'Gothic A1', sans-serif;
+  font-family: "Gothic A1", sans-serif;
   font-weight: 600;
   font-style: normal;
 }
@@ -129,7 +129,7 @@ h4 .internal-link {
 /* -- Special adjustment for Community Themes */
 
 /* Minimal */
-body[class*='minimal-tab-title'] .wide-page {
+body[class*="minimal-tab-title"] .wide-page {
   --line-width: 100%;
   --max-width: 95%;
   --container-table-width: var(--line-width);
@@ -243,23 +243,23 @@ body:has(.cm-gutters) {
 /* -- Special adjustment for Community Themes */
 
 /* Minimal, complete re-write for the theme due to many !important used by the theme */
-body[class*='minimal-tab-title'] {
+body[class*="minimal-tab-title"] {
   --wide-tbl-left-adj: -4rem;
   --wide-tbl-width-adj: 2rem;
 }
-body[class*='minimal-tab-title']:has(.cm-gutters) {
+body[class*="minimal-tab-title"]:has(.cm-gutters) {
   --wide-tbl-left-adj: -4rem;
   --wide-tbl-width-adj: 0rem;
 }
-body[class*='minimal-tab-title']:has(.cm-gutters).minimal-theme {
+body[class*="minimal-tab-title"]:has(.cm-gutters).minimal-theme {
   --wide-tbl-left-adj: 0rem;
 }
 @container content-view (width > 50px) {
-  body[class*='minimal-tab-title'][class*='wide-table-global']
+  body[class*="minimal-tab-title"][class*="wide-table-global"]
     .markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-embed-block.cm-table-widget,
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-table.markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-embed-block.cm-table-widget {
@@ -267,11 +267,11 @@ body[class*='minimal-tab-title']:has(.cm-gutters).minimal-theme {
     max-width: 100%;
     margin-left: calc(var(--wide-tbl-left-adj) / 2 * -1) !important;
   }
-  body[class*='minimal-tab-title'][class*='wide-table-global']
+  body[class*="minimal-tab-title"][class*="wide-table-global"]
     .markdown-preview-view
     .markdown-preview-sizer
     div:has(> table),
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-table.markdown-preview-view
     .markdown-preview-sizer
     div:has(> table) {
@@ -280,22 +280,22 @@ body[class*='minimal-tab-title']:has(.cm-gutters).minimal-theme {
     margin-left: calc(var(--wide-tbl-left-adj) / 2 * -1) !important;
   }
   /* centering the table a bit */
-  body[class*='minimal-tab-title'][class*='wide-table-global']
+  body[class*="minimal-tab-title"][class*="wide-table-global"]
     .markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-embed-block.cm-table-widget
     table,
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-table.markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-embed-block.cm-table-widget
     table,
-  body[class*='minimal-tab-title'][class*='wide-table-global']
+  body[class*="minimal-tab-title"][class*="wide-table-global"]
     .markdown-preview-view
     .markdown-preview-sizer
     div
     > table,
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-table.markdown-preview-view
     .markdown-preview-sizer
     div
@@ -305,7 +305,7 @@ body[class*='minimal-tab-title']:has(.cm-gutters).minimal-theme {
 }
 
 /* Catppuccin */
-body[class*='ctp-'].is-adj-rll:not([class*='anp-default']) {
+body[class*="ctp-"].is-adj-rll:not([class*="anp-default"]) {
   --wide-tbl-left-ev-adj: -8rem;
 }
 
@@ -347,33 +347,33 @@ body:has(.cm-gutters) {
 /* -- Special adjustment for Community Themes */
 
 /* Minimal, complete re-write for the theme */
-body[class*='minimal-tab-title'] {
+body[class*="minimal-tab-title"] {
   --wide-dv-width-adj: 2rem;
 }
-body[class*='minimal-tab-title']:has(.cm-gutters) {
+body[class*="minimal-tab-title"]:has(.cm-gutters) {
   --wide-dv-left-ev-adj: -4rem;
   --wide-dv-width-adj: 0rem;
 }
-body[class*='minimal-tab-title']:has(.cm-gutters).minimal-theme {
+body[class*="minimal-tab-title"]:has(.cm-gutters).minimal-theme {
   --wide-dv-left-ev-adj: 0rem;
 }
 @container content-view (width > 50px) {
-  body[class*='minimal-tab-title'][class*='wide-dataview-global']
+  body[class*="minimal-tab-title"][class*="wide-dataview-global"]
     .markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-content
     .cm-preview-code-block:has(> .block-language-dataview),
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-dataview.markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-content
     .cm-preview-code-block:has(> .block-language-dataview),
-  body[class*='minimal-tab-title'][class*='wide-dataview-global']
+  body[class*="minimal-tab-title"][class*="wide-dataview-global"]
     .markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-content
     .cm-preview-code-block:has(> .block-language-dataviewjs),
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-dataview.markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-content
@@ -382,16 +382,16 @@ body[class*='minimal-tab-title']:has(.cm-gutters).minimal-theme {
     max-width: 100%;
     margin-left: calc(var(--wide-dv-left-ev-adj) / 2 * -1) !important;
   }
-  body[class*='minimal-tab-title'][class*='wide-dataview-global']
+  body[class*="minimal-tab-title"][class*="wide-dataview-global"]
     .markdown-preview-view
     div:has(> .block-language-dataview),
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-dataview.markdown-preview-view
     div:has(> .block-language-dataview),
-  body[class*='minimal-tab-title'][class*='wide-dataview-global']
+  body[class*="minimal-tab-title"][class*="wide-dataview-global"]
     .markdown-preview-view
     div:has(> .block-language-dataviewjs),
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-dataview.markdown-preview-view
     div:has(> .block-language-dataviewjs) {
     width: calc(100cqi - 2rem - var(--wide-dv-width-adj));
@@ -399,17 +399,17 @@ body[class*='minimal-tab-title']:has(.cm-gutters).minimal-theme {
     margin-left: calc(var(--wide-dv-left-ev-adj) / 2 * -1) !important;
   }
   /* centering the table a bit */
-  body[class*='minimal-tab-title'][class*='wide-dataview-global']
+  body[class*="minimal-tab-title"][class*="wide-dataview-global"]
     .markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-content
     table,
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-dataview.markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-content
     table,
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-dataview.markdown-preview-view
     .markdown-preview-sizer
     div
@@ -419,7 +419,7 @@ body[class*='minimal-tab-title']:has(.cm-gutters).minimal-theme {
 }
 
 /* Catppuccin */
-body[class*='ctp-'].is-adj-rll:not([class*='anp-default']) {
+body[class*="ctp-"].is-adj-rll:not([class*="anp-default"]) {
   --wide-dv-left-ev-adj: -8rem;
 }
 
@@ -459,7 +459,7 @@ body:has(.cm-gutters) {
 /* -- Special adjustment for Community Themes */
 
 /* Minimal, complete re-write for the theme */
-body[class*='minimal-tab-title'] {
+body[class*="minimal-tab-title"] {
   --folding-toggle: 1;
 }
 body.minimal-theme {
@@ -469,12 +469,12 @@ body.minimal-theme:not(:has(.cm-gutters)) {
   --folding-toggle: 1;
 }
 @container content-view (width > 50px) {
-  body[class*='minimal-tab-title'][class*='wide-callout-global']
+  body[class*="minimal-tab-title"][class*="wide-callout-global"]
     .markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-content
     .cm-embed-block.cm-callout,
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-callout.markdown-source-view
     .cm-contentContainer.cm-contentContainer
     .cm-content
@@ -483,11 +483,11 @@ body.minimal-theme:not(:has(.cm-gutters)) {
     max-width: 100%;
     margin-left: calc(var(--folding-offset) * var(--folding-toggle)) !important;
   }
-  body[class*='minimal-tab-title'][class*='wide-callout-global']
+  body[class*="minimal-tab-title"][class*="wide-callout-global"]
     .markdown-preview-view
     .markdown-preview-sizer
     > div:has(> .callout),
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-callout.markdown-preview-view
     .markdown-preview-sizer
     > div:has(> .callout) {
@@ -498,12 +498,12 @@ body.minimal-theme:not(:has(.cm-gutters)) {
 }
 
 /* AnuPpuccin */
-body[class*='anp-'] {
+body[class*="anp-"] {
   --wide-co-width-ev-adj: 3.5rem;
 }
 
 /* Catppuccin */
-body[class*='ctp-'].is-adj-rll:not([class*='anp-default']) {
+body[class*="ctp-"].is-adj-rll:not([class*="anp-default"]) {
   --wide-co-left-ev-adj: -7.8rem;
 }
 
@@ -536,18 +536,18 @@ body {
 /* -- Special adjustment for Community Themes */
 
 /* Minimal, complete re-write for the theme */
-body[class*='minimal-tab-title'] {
+body[class*="minimal-tab-title"] {
   --wide-bl-width-adj: 4rem;
 }
-body[class*='minimal-tab-title']:has(.cm-gutters) {
+body[class*="minimal-tab-title"]:has(.cm-gutters) {
   --wide-bl-width-adj: 0rem;
 }
 @container content-view (width > 50px) {
-  body[class*='minimal-tab-title'][class*='wide-backlinks-global']
+  body[class*="minimal-tab-title"][class*="wide-backlinks-global"]
     .markdown-source-view
     .cm-sizer
     .embedded-backlinks,
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-backlinks.markdown-source-view
     .cm-sizer
     .embedded-backlinks {
@@ -555,10 +555,10 @@ body[class*='minimal-tab-title']:has(.cm-gutters) {
     max-width: unset;
     margin-left: calc(var(--wide-bl-width-adj) / 2 * 1) !important;
   }
-  body[class*='minimal-tab-title'][class*='wide-backlinks-global']
+  body[class*="minimal-tab-title"][class*="wide-backlinks-global"]
     .markdown-preview-view
     .embedded-backlinks,
-  body[class*='minimal-tab-title']
+  body[class*="minimal-tab-title"]
     .wide-backlinks.markdown-preview-view
     .embedded-backlinks {
     width: calc(100cqi - 2rem - var(--wide-bl-width-adj) / 2);
@@ -569,7 +569,7 @@ body[class*='minimal-tab-title']:has(.cm-gutters) {
 }
 
 /* Catppuccin */
-body[class*='ctp-'].is-adj-rll:not([class*='anp-default']) {
+body[class*="ctp-"].is-adj-rll:not([class*="anp-default"]) {
   --wide-bl-left-ev-adj: 13.5rem;
 }
 

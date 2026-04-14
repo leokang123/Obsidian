@@ -15,13 +15,30 @@
               "state": {
                 "file": "Pages/Home.md",
                 "mode": "preview",
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "5156fa3cada9664d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/공부.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "공부"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,29 +48,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb635b7fb35e1836",
+        "id": "f5164f2fa1e8dca2",
         "type": "tabs",
         "children": [
           {
-            "id": "77daa229d451d88c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTime",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
-            }
-          },
-          {
-            "id": "5adf257fc277b8d5",
+            "id": "89056fb648e03030",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "index.md",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,26 +69,20 @@
             }
           },
           {
-            "id": "13c56b9afe7f2b78",
+            "id": "907b511540ec9cb2",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "북마크"
-            }
-          },
-          {
-            "id": "44217a29159a5517",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,75 +97,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc574fade50813d3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Pages/Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Home 의 백링크"
-            }
-          },
-          {
-            "id": "44dc7b493ab20d3d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pages/Home.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Home 의 나가는 링크"
-            }
-          },
-          {
-            "id": "b4c0880c4e6745fe",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "80da51689c33355b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Studied/(코틀린) 권한 부여.md"
-              },
-              "icon": "lucide-list",
-              "title": "(코틀린) 권한 부여 개요"
-            }
-          },
-          {
             "id": "4579a4980db7666d",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "26dd737bbcfe378a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,56 +129,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "file-cleaner-redux:Clean files": false
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5156fa3cada9664d",
   "lastOpenFiles": [
     "Pages/Home.md",
-    "Resources/Background/programming.jpg",
-    "Resources/Background/library.jpg",
-    "Resources/Background/lamplight.jpg",
-    "Resources/Background/sunsetBeach.jpg",
-    "Resources/Background/lava.jpg",
-    "Resources/Background/niceCarGrey.jpg",
-    "Resources/Background/rockCamping.jpg",
-    "Resources/Background/londonBigben.jpg",
-    "Resources/Background/japanGirlSubway.jpg",
-    "Resources/Background/greenAlley.jpg",
-    "Studied/index.md",
     "Pages/공부.md",
+    "Studied/(옵시디언) 블로그 업로드 및 Todoist 자동화 .md",
+    "Resources/Attachments/CleanShot 2026-04-15 at 00.48.10@2x.png",
+    "Resources/Attachments/CleanShot 2026-04-15 at 00.42.10@2x.png",
+    "Studied/(옵시디언) todoist 및 맥환경 자동화.md",
+    "Studied/(타입스크립트) 열거형, 이름공간.md",
+    "Resources/Attachments/Pasted Image 20241006154155_525.png",
+    "System/DB/백업.md",
+    "Studied/(테스트) 테스트.md",
+    "무제.canvas",
+    "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
+    "Pages/대학교.md",
+    "Studied/(테스트1) (테스트2) 주제1.md",
+    "Legacy/대학교/(대학교) (데이터통신) 네번째 수업.md",
+    "Legacy/대학교/(대학교) (암호학) 세번째 수업(유한체).md",
+    "Legacy/대학교/(대학교) (딥러닝) 첫번쨰 수업.md",
+    "Legacy/대학교/(대학교) (딥러닝) 네번째 수업.md",
+    "Resources/Background/coupleWalking.jpg",
+    "Resources/Background/osakaWideView.jpg",
+    "Resources/Background/waterCity.jpg",
+    "Resources/Background/sunfallPalmTree.jpg",
+    "Resources/Background/koreanRestaurant.jpg",
+    "Resources/Background/warmAlley.jpg",
+    "Resources/Background/japanNightRestaurant.jpg",
+    "System/Log/log.md",
+    "Studied/(타입스크립트) 다양한 타입지정.md",
+    "Studied/(클로저) 심볼 바인딩 함수.md",
+    "Studied/(운영체제) 파일시스템.md",
+    "Studied/index.md",
     "Studied/(스프링부트) 토큰관련.md",
     "Studied/(클로저) 조건문, 재귀문, 구조분해.md",
-    "Studied/(클로저) 심볼 바인딩 함수.md",
     "Studied/(클로저) 기본문법.md",
     "Studied/(스프링부트) 서블릿 컨테이너와 스프링 컨테이너.md",
     "Studied/(옵시디언) 모바일 동기화.md",
     "Studied/(타입스크립트) 프로젝트 경과.md",
-    "Studied/(타입 스크립트) 제네릭.md",
-    "Studied/(타입 스크립트) 클래스.md",
-    "Studied/(타입스크립트) 인터페이스와 타입 .md",
-    "Studied/(타입스크립트) 다양한 타입지정.md",
-    "Studied/(타입스크립트) 열거형, 이름공간.md",
-    "Studied/(코틀린) 쇼핑리스트 앱 전체리뷰.md",
-    "Studied/(코틀린) 권한 부여.md",
-    "Studied/(도커) 컨테이너 이름과 태그 .md",
-    "Studied/(도커) 볼륨.md",
-    "Studied/(도커) 이미지와 컨테이너.md",
-    "Studied/(깃) 잘못 add, commit, push 한 경우.md",
-    "Studied/(깃) Merge, Rebase.md",
-    "Studied/(운영체제) 운영체제 시작하기.md",
-    "Studied/(운영체제) 프로세스와 스레드.md",
-    "Studied/(운영체제) 페이지 교체와 프레임할당.md",
     "Legacy/대학교",
     "Legacy/무제 폴더",
     "Legacy",

@@ -4,9 +4,9 @@ cssclasses:
 생성일: 토요일, 8월 3일 2024, 7:32:30 오후
 수정일:  2026-03-26 14:15:37
 banner: "![[sky.jpg]]"
-banner_y: 0.49584
+banner_y: 0.53184
 tags: [대학교, 일반, 학습정리, 중요, 회고, 네이버, 개념, 잡, 프로젝트, 책리뷰, 3-2, 4-1, 4-2, 옵시디언, 정규표현식, 자바스크립트, 타입스크립트, 객체지향, 함수형프로그래밍, 비동기, Git, Jest, 컴파일러, 프로세스메모리, Clojure, 클로저, 렉시컬스코프, 커링, 불변성, 순수함수]
-updated:  2026-04-02 20:58:06
+updated:  2026-04-14 19:56:59
 ---
 
 # 메인 페이지
@@ -15,137 +15,54 @@ updated:  2026-04-02 20:58:06
 
 ## 학습 정리
 
-- #### [[네이버]] #mcl/list-card
-![[네이버]]
-- #### [[공부]]
+- #### [[공부]] #mcl/list-card
 ![[공부]]
-- #### [[대학교]]
-![[대학교]]
 
 ## 작업
 
-`$= dv.span('**' + moment().format('YYYY년 MM월 DD일, dddd') + '**') `
+`$= dv.span('**' + moment().format('YYYY년 MM월 DD일, dddd') + '**')`
 
-`````ad-multi-column
-````ad-blue
-title: ToDo List
-```tasks
-path includes task
-not done
-tag include #todo
-(due after yesterday) AND (due before tomorrow)
-hide toolbar
-hide tags
-hide due date
-hide edit button
-short mode
+```todoist  
+name: "Today & Overdue"
+filter: "today | overdue"
+view:  
+  noTasksMessage: "Nothing due today! Take a break."
+sorting:  
+- date  
+- priority
+
 ```
-````
-
-````ad-purple
-title: Done
-```tasks
-path includes task
-done
-tag include #todo
-(due after yesterday) AND (due before tomorrow)
-hide toolbar
-hide tags
-hide due date
-hide edit button
-short mode
-```
-````
-`````
-
-`````ad-multi-column
-````ad-blue
-title: 전날 밀린 Todo
-```tasks
-path includes task
-not done
-tag include #todo
-(due after last 2 days) AND (due before last today)
-hide toolbar
-hide tags
-hide due date
-hide edit button
-short mode
-```
-````
-
-````ad-purple
-title: Done
-```tasks
-path includes task
-done
-tag include #todo
-(due after last 2 days) AND (due before last today)
-hide toolbar
-hide tags
-hide due date
-hide edit button
-short mode
-```
-````
-`````
-
-````ad-grey
-```dataview
-TABLE WITHOUT ID
-link(file.path,file.name) AS " 최근이용 :LiTimer:",
-dateformat(file.mtime, "yyyy년 MM월 dd일 HH:mm") AS ""
-FROM "Studied" or "Tasks"
-SORT file.mtime DESC
-LIMIT 7
-```
-````
-
-~~~ button 
-id makeFileInDataview
-color green
-~~~
 
 ## 파일 관리 방식
 
-> [!multi-column]
->
->```ad-tip
-> title: 파일관리 방식
-> - **Studied 폴더에 모든 학습정리**를 한다
-> -  파일에서 **태그를 활용하여 관리**
-> - 주제에  **가장 주제에 알맞는 태그**를 적는다 
-> - 제목 쓰기 전에 **소괄호 안에 주제**를 적는다
-> - 시리즈로 정리하는 경우 **series 태그에 숫자 적기**
->```
->```ad-success
-> title: 태그 규칙
-> - 되도록 **한글**로, 어쩔수 없는 경우에만 영어 
-> - 줄임말 쓰지말고, **전체 단어쓰기** 
-> - 한번 태그만들면 그 이후에는 **새로 만들지 말고 기존 태그 사용**하기
->```
->```ad-question
-> title: 자동화 방식
-> - **CMD + N** 으로 폴더 **Studied에 파일 추가** 가능 
-> - 제목을 적을떄 **소괄호 안에 주제를 적고 마지막에 숫자**를 적음  
-> - 파일이름: **(주제)** 제목 **숫자**  → **자동으로 주제, 시리즈 태그**로 입력됨
-> - (주제) 에 적은 것은 띄워서써도 **전부 이어써진 채로 주제태그에 입력**됨
-> - 상황에 따라 **(대주제) (중주제) (메인주제)** 제목 숫자 순서로도 입력 가능 
->```
+````ad-multi-column
+```ad-tip
+title: 파일관리 방식
+- **Studied 폴더에 모든 학습정리**를 한다
+-  파일에서 **태그를 활용하여 관리**
+- 주제에  **가장 주제에 알맞는 태그**를 적는다 
+- 제목 쓰기 전에 **소괄호 안에 주제**를 적는다
+- 시리즈로 정리하는 경우 **series 태그에 숫자 적기**
+```
 
-## 태그모음
+```ad-success
+title: 태그 규칙
+- 되도록 **한글**로, 어쩔수 없는 경우에만 영어 
+- 줄임말 쓰지말고, **전체 단어쓰기** 
+- 한번 태그만들면 그 이후에는 **새로 만들지 말고 기존 태그 사용**하기
+```
 
-- #### 전체관리 #mcl/list-card
- #대학교 #일반 #학습정리 #중요
+```ad-question
+title: 자동화 방식
+- **CMD + N** 으로 폴더 **Studied에 파일 추가** 가능 
+- 제목을 적을떄 **소괄호 안에 주제를 적고 마지막에 숫자**를 적음  
+- 파일이름: **(주제)** 제목 **숫자**  → **자동으로 주제, 시리즈 태그**로 입력됨
+- (주제) 에 적은 것은 띄워서써도 **전부 이어써진 채로 주제태그에 입력**됨
+- 상황에 따라 **(대주제) (중주제) (메인주제)** 제목 숫자 순서로도 입력 가능 
+```
+````
 
-- #### 부분관리
-#회고 #네이버 #개념 #잡 #프로젝트 #책리뷰 #3-2 #4-1 #4-2
-
-- #### 세부적
-#옵시디언 #정규표현식 #자바스크립트 #타입스크립트 #객체지향 #함수형프로그래밍
-#비동기 #Git #Jest #컴파일러 #프로세스메모리 #Clojure #클로저 #렉시컬스코프 #커링 #불변성 #순수함수
-
-~~~ dataviewjs
+```dataviewjs
 // Display a title with some optional icons
 dv.span("#### 노트정리") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 
@@ -218,4 +135,4 @@ for (let dateInfo of Object.entries(lengthObj)) {
 
 // Render the heatmap calendar using the populated calendarData
 renderHeatmapCalendar(this.container, calendarData)
-~~~
+```

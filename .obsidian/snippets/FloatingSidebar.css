@@ -79,7 +79,7 @@ body
 }
 
 .workspace-split.mod-horizontal.mod-left-split::before {
-  content: '';
+  content: "";
   text-align: end !important;
   background-color: var(--divider-color);
   position: absolute;
@@ -95,7 +95,7 @@ body
 }
 
 .workspace-split.mod-horizontal.mod-left-split::after {
-  content: '';
+  content: "";
   text-align: end !important;
   background-color: var(--color-base-50);
   position: absolute;
