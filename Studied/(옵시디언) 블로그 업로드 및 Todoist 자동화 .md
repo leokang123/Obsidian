@@ -2,7 +2,7 @@
 주제: 옵시디언
 cssclasses: wide-page
 date:  2026-04-15 00:25
-updated:  2026-04-15 01:12:10
+updated:  2026-04-15 01:17:51
 series: 6
 banner: "![[whiteLodge.jpg]]"
 banner_y: 0.6
@@ -48,7 +48,8 @@ tags: [일반, 옵시디언]
 ![[Pasted image 20260415011034.png|700]]
 
 예를 들어 아래와 같이 설정하면 오늘 일정과 미처 끝내지 못한 작업을 함께 표시할 수 있다.
-```sh
+````sh
+```todoist
 name: "Today & Overdue"
 filter: "today | overdue"
 view:  
@@ -57,6 +58,7 @@ sorting:
 - date  
 - priority
 ```
+````
 
 이 설정에서는 `filter`를 통해 오늘 마감인 작업과 기한이 지난 작업만 불러오고, `view`에서는 작업이 없을 경우 표시할 문구를 지정하며, `sorting`을 통해 날짜와 우선순위 기준으로 정렬하도록 하였다. 이처럼 필요한 작업만 간단히 추려서 보여줄 수 있기 때문에, Obsidian 내부에서도 복잡하지 않게 Todo 목록을 관리할 수 있었다.
 
