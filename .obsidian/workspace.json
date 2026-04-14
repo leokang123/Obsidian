@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "Studied/(테스트) 테스트.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
@@ -153,6 +153,8 @@
   },
   "active": "f12c09c6c910479e",
   "lastOpenFiles": [
+    "Resources/Attachments/CleanShot_20260415014450.png",
+    "Resources/Attachments/CleanShot 2026-04-15 at 01.36.06@2x.png",
     "Resources/Attachments/Pasted image 20260415013343.png",
     "Resources/Attachments/CleanShot 2026-04-15 at 01.33.10@2x.png",
     "Pages/공부.md",
@@ -166,8 +168,6 @@
     "Resources/Attachments/Pasted image 20260415011034.png",
     "Resources/Attachments/Pasted image 20260415011012.png",
     "Resources/Attachments/simulator_screenshot_35DD0371-F4C1-4215-B637-979DA3AD2EF3.png",
-    "Resources/Attachments/스크린샷 2024-08-08 오전 1.23.26.png",
-    "Resources/Attachments/스크린샷 2024-10-09 오후 10.00.56.png",
     "Studied/(옵시디언) todoist 및 맥환경 자동화.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
     "System/DB/백업.md",
