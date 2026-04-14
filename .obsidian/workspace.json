@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "c2a3187fa55a97d7",
+            "id": "810de9299b9703d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Pages/공부.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
@@ -38,18 +38,18 @@
             }
           },
           {
-            "id": "f12c09c6c910479e",
+            "id": "2ddc523dc7321d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studied/(테스트) 테스트.md",
-                "mode": "source",
+                "file": "Studied/(옵시디언) 블로그 업로드 및 Todoist 자동화 .md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(테스트) 테스트"
+              "title": "(옵시디언) 블로그 업로드 및 Todoist 자동화"
             }
           }
         ],
@@ -151,8 +151,16 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "f12c09c6c910479e",
+  "active": "2ddc523dc7321d84",
   "lastOpenFiles": [
+    "Resources/Attachments/CleanShot_20260415015924.png",
+    "Pages/Home.md",
+    "Studied/(옵시디언) 블로그 업로드 및 Todoist 자동화 .md",
+    "Resources/Attachments/CleanShot_20260415015823.png",
+    "Pages/공부.md",
+    "Resources/Attachments/CleanShot_20260415015809.png",
+    "Studied/(테스트) 테스트.md",
+    "Resources/Attachments/CleanShot_20260415015516.png",
     "Resources/Attachments/CleanShot_20260415015134@2x.png",
     "Resources/Attachments/CleanShot_20260415015111_@2x.png",
     "Resources/Attachments/CleanShot_20260415015023@2x.png",
@@ -160,14 +168,6 @@
     "Resources/Attachments/CleanShot_20260415014450.png",
     "Resources/Attachments/CleanShot 2026-04-15 at 01.36.06@2x.png",
     "Resources/Attachments/Pasted image 20260415013343.png",
-    "Resources/Attachments/CleanShot 2026-04-15 at 01.33.10@2x.png",
-    "Pages/공부.md",
-    "Studied/(테스트) 테스트.md",
-    "Studied/(옵시디언) 블로그 업로드 및 Todoist 자동화 .md",
-    "Resources/Attachments/CleanShot 2026-04-15 at 01.17.42@2x.png",
-    "Pages/Home.md",
-    "Resources/Attachments/CleanShot 2026-04-15 at 00.42.10@2x.png",
-    "Resources/Attachments/CleanShot 2026-04-15 at 00.48.10@2x.png",
     "Studied/(옵시디언) todoist 및 맥환경 자동화.md",
     "Studied/(타입스크립트) 열거형, 이름공간.md",
     "System/DB/백업.md",
