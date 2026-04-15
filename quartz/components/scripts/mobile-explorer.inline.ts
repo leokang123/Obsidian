@@ -11,11 +11,11 @@ document.addEventListener("nav", () => {
   let ticking = false;
 
   let isTouching = false;
-  let progress = 0; // 0 = 보임, 1 = 숨김
+  let progress = 0; // 0 = fully visible, 1 = fully hidden
 
   const NOISE_THRESHOLD = 1;
-  const FULL_HIDE_DISTANCE = 120;
-  const SNAP_THRESHOLD = 0.2;
+  const FULL_HIDE_DISTANCE = 140;
+  const SNAP_THRESHOLD = 0.18;
 
   const clamp = (v: number, min: number, max: number) =>
     Math.min(max, Math.max(min, v));
@@ -27,10 +27,13 @@ document.addEventListener("nav", () => {
     sidebar.style.pointerEvents = progress >= 0.98 ? "none" : "auto";
   };
 
-  const snapTo = (target: 0 | 1) => {
+  const animateTo = (target: 0 | 1) => {
     sidebar.classList.remove("mobile-interacting");
-    progress = target;
-    applyProgress();
+
+    requestAnimationFrame(() => {
+      progress = target;
+      applyProgress();
+    });
   };
 
   const updateSidebar = () => {
@@ -38,11 +41,11 @@ document.addEventListener("nav", () => {
     const diff = currentScrollY - lastScrollY;
 
     if (currentScrollY <= 10) {
-      if (!isTouching) {
-        snapTo(0);
-      } else {
+      if (isTouching) {
         progress = 0;
         applyProgress();
+      } else {
+        animateTo(0);
       }
       lastScrollY = currentScrollY;
       ticking = false;
@@ -54,7 +57,9 @@ document.addEventListener("nav", () => {
       return;
     }
 
-    sidebar.classList.add("mobile-interacting");
+    if (isTouching) {
+      sidebar.classList.add("mobile-interacting");
+    }
 
     progress += diff / FULL_HIDE_DISTANCE;
     progress = clamp(progress, 0, 1);
@@ -80,14 +85,14 @@ document.addEventListener("nav", () => {
     isTouching = false;
 
     if (window.scrollY <= 10) {
-      snapTo(0);
+      animateTo(0);
       return;
     }
 
     if (progress >= SNAP_THRESHOLD) {
-      snapTo(1);
+      animateTo(1);
     } else {
-      snapTo(0);
+      animateTo(0);
     }
   };
 
