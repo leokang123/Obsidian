@@ -14,8 +14,13 @@
     z-index: 20;
     will-change: transform, opacity;
     transition:
-      transform 0.55s cubic-bezier(0.22, 1, 0.36, 1),
-      opacity 0.45s ease;
+      transform 0.32s cubic-bezier(0.22, 1, 0.36, 1),
+      opacity 0.28s ease;
+    touch-action: pan-y;
+  }
+
+  .page #quartz-body .sidebar.left.mobile-dragging {
+    transition: none !important;
   }
 
   .page #quartz-body .sidebar.left .explorer-content {
@@ -26,17 +31,5 @@
     padding-left: 1.5rem !important;
     padding-right: 1.5rem !important;
     box-sizing: border-box;
-  }
-
-  .page #quartz-body .sidebar.left.mobile-hide {
-    transform: translateY(-65%);
-    opacity: 0.2;
-    pointer-events: none;
-  }
-
-  .page #quartz-body .sidebar.left.mobile-show {
-    transform: translateY(0);
-    opacity: 1;
-    pointer-events: auto;
   }
 }
