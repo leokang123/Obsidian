@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "obsidian-git:commit-smart-specified-message",
+    "obsidian-git:commit-smart",
+    "obsidian-git:push2",
+    "file-cleaner-redux:clean-files"
+  ]
+}
