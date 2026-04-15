@@ -60,14 +60,13 @@ const Banner: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
 Banner.css = `
 .page-banner {
-  /* 부모(div.center)의 너비 제한을 무시하고 화면 전체(100vw)를 덮도록 강제 위치 지정 */
   position: absolute;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
   width: 100vw;
-  height: 280px;      /* 원하는 배너 높이 (빨간 상자 크기에 맞게 조절하세요) */
-  z-index: -1;        /* 사이드바 메뉴나 본문 텍스트를 가리지 않도록 맨 뒤로 보냄 */
+  height: 280px;
+  z-index: -1;
   pointer-events: none;
   margin: 0;
   overflow: hidden;
@@ -78,13 +77,20 @@ Banner.css = `
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 0; /* 전체를 덮으므로 둥근 모서리 제거 */
-
-  /* 글씨 가독성을 위한 투명도 및 그라데이션 (선택 사항) */
+  border-radius: 0;
   opacity: 0.5;
-  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
-  mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
+}
+
+.page-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.15) 0%,
+    rgba(0, 0, 0, 0.25) 45%,
+    rgba(0, 0, 0, 0.85) 100%
+  );
 }
 `;
-
 export default (() => Banner) satisfies QuartzComponentConstructor;

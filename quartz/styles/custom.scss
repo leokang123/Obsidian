@@ -10,4 +10,10 @@
     padding-left: 1rem !important;
     padding-right: 1rem !important;
   }
+
+  .page #quartz-body .explorer-content {
+    width: calc(100% - 1.25rem);
+    margin-left: 1.25rem;
+    box-sizing: border-box;
+  }
 }
