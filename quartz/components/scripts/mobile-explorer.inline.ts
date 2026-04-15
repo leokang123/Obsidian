@@ -69,6 +69,12 @@ document.addEventListener("nav", () => {
     } else {
       progress += diff / SHOW_DISTANCE;
     }
+
+    if (diff > 0) {
+      progress += diff / HIDE_DISTANCE;
+    } else {
+      progress += diff / SHOW_DISTANCE;
+    }
     progress = clamp(progress, 0, 1);
 
     applyProgress();
