@@ -1,14 +1,13 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-
 @media (max-width: 800px) {
-  .page#quartz-body .sidebar.left {
-    box-sizing: border-box;
-    width: calc(100% + 2rem);
-    margin-left: -1rem;
-    margin-right: -1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+  .page #quartz-body .sidebar.left,
+  .page #quartz-body .sidebar.left:has(.explorer) {
+    box-sizing: border-box !important;
+    width: calc(100% + 2rem) !important;
+    margin-left: -1rem !important;
+    margin-right: -1rem !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
 }

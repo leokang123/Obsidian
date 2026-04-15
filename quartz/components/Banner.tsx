@@ -70,6 +70,7 @@ Banner.css = `
   z-index: -1;        /* 사이드바 메뉴나 본문 텍스트를 가리지 않도록 맨 뒤로 보냄 */
   pointer-events: none;
   margin: 0;
+  overflow: hidden;
 }
 
 .page-banner img {
