@@ -16,8 +16,8 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
       return 1;
     }
 
-    const f1Title = f1.frontmatter?.title.toLowerCase() ?? "";
-    const f2Title = f2.frontmatter?.title.toLowerCase() ?? "";
+    const f1Title = f1.frontmatter?.title?.toLowerCase() ?? "";
+    const f2Title = f2.frontmatter?.title?.toLowerCase() ?? "";
     return f1Title.localeCompare(f2Title);
   };
 }
@@ -39,8 +39,8 @@ export function byDateAndAlphabeticalFolderFirst(
       return 1;
     }
 
-    const f1Title = f1.frontmatter?.title.toLowerCase() ?? "";
-    const f2Title = f2.frontmatter?.title.toLowerCase() ?? "";
+    const f1Title = f1.frontmatter?.title?.toLowerCase() ?? "";
+    const f2Title = f2.frontmatter?.title?.toLowerCase() ?? "";
     return f1Title.localeCompare(f2Title);
   };
 }
@@ -58,21 +58,22 @@ export const PageList: QuartzComponent = ({
   sort,
 }: Props) => {
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg);
-  let list = allFiles.sort(sorter);
+  let list = [...allFiles].sort(sorter);
+
   if (limit) {
     list = list.slice(0, limit);
   }
 
   return (
-    <ul class="section-ul">
+    <ul class="page-list-ul">
       {list.map((page) => {
-        const title = page.frontmatter?.title;
+        const title = page.frontmatter?.title ?? "";
         const tags = page.frontmatter?.tags ?? [];
 
         return (
-          <li class="section-li">
-            <div class="section">
-              <div class="desc">
+          <li class="page-list-li">
+            <div class="page-list-section">
+              <div class="page-list-desc">
                 <h3>
                   <a
                     href={resolveRelative(fileData.slug!, page.slug!)}
@@ -81,31 +82,31 @@ export const PageList: QuartzComponent = ({
                     {title}
                   </a>
                 </h3>
-
-                {page.dates && (
-                  <p class="meta">
-                    <Date date={getDate(cfg, page)!} locale={cfg.locale} />
-                  </p>
-                )}
-
-                {tags.length > 0 && (
-                  <ul class="tags">
-                    {tags.map((tag) => (
-                      <li>
-                        <a
-                          class="internal tag-link"
-                          href={resolveRelative(
-                            fileData.slug!,
-                            `tags/${tag}` as FullSlug,
-                          )}
-                        >
-                          {tag}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                )}
               </div>
+
+              {page.dates && (
+                <p class="page-list-meta">
+                  <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                </p>
+              )}
+
+              {tags.length > 0 && (
+                <ul class="page-list-tags">
+                  {tags.map((tag) => (
+                    <li>
+                      <a
+                        class="internal tag-link"
+                        href={resolveRelative(
+                          fileData.slug!,
+                          `tags/${tag}` as FullSlug,
+                        )}
+                      >
+                        {tag}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
           </li>
         );
@@ -115,42 +116,54 @@ export const PageList: QuartzComponent = ({
 };
 
 PageList.css = `
-.section-ul {
+.page-list-ul {
   list-style: none;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
-.section-li {
+.page-list-li {
   list-style: none;
-  margin-bottom: 2rem;
+  margin: 0 0 2rem 0;
+  padding: 0;
 }
 
-.section {
-  display: block;
-}
-
-.section .desc {
+.page-list-section {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 0.45rem;
+  gap: 0.55rem;
+  width: 100%;
+  max-width: 100%;
 }
 
-.section h3 {
+.page-list-desc {
+  width: 100%;
+}
+
+.page-list-desc h3 {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.page-list-desc h3 a {
+  display: inline-block;
+  max-width: 100%;
+  text-decoration: none;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.page-list-meta {
   margin: 0;
 }
 
-.section .meta {
-  margin: 0;
-}
-
-.section > .desc > .tags {
+.page-list-tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
   margin: 0;
   padding: 0;
-  display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-  list-style: none;
 }
 `;
