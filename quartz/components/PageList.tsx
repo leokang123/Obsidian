@@ -152,6 +152,12 @@ PageList.css = `
   text-decoration: none;
   word-break: keep-all;
   overflow-wrap: anywhere;
+
+
+  background: transparent !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  border-radius: 0 !important;
 }
 
 .page-list-meta {
