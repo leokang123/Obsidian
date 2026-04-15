@@ -35,42 +35,6 @@
         "focus": true,
         "mode": "default"
       }
-    },
-    {
-      "id": "b746e7eb-8a3e-4088-80c5-17842bd2212b",
-      "name": "makeUnivFile",
-      "type": "Template",
-      "command": true,
-      "templatePath": "System/Templates/대학파일.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "(대학교) {{VALUE}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "Legacy/대학교"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "focus": true,
-        "mode": "default"
-      }
     }
   ],
   "inputPrompt": "single-line",

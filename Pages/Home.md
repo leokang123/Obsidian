@@ -6,7 +6,7 @@ cssclasses:
 banner: "![[sky.jpg]]"
 banner_y: 0.53184
 tags: [대학교, 일반, 학습정리, 중요, 회고, 네이버, 개념, 잡, 프로젝트, 책리뷰, 3-2, 4-1, 4-2, 옵시디언, 정규표현식, 자바스크립트, 타입스크립트, 객체지향, 함수형프로그래밍, 비동기, Git, Jest, 컴파일러, 프로세스메모리, Clojure, 클로저, 렉시컬스코프, 커링, 불변성, 순수함수]
-updated:  2026-04-14 19:56:59
+updated:  2026-04-15 20:41:12
 ---
 
 # 메인 페이지
@@ -63,76 +63,112 @@ title: 자동화 방식
 ````
 
 ```dataviewjs
-// Display a title with some optional icons
-dv.span("#### 노트정리") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
+dv.span("#### 노트정리")
 
-// Initialize the calendarData object with various configurations
+const logPath = "System/Log/log.md";
+const content = await dv.io.load(logPath) ?? "";
 
-const hueRed = 0;      // 빨강 (Red)
-const hueOrange = 30;  // 주황 (Orange)
-const hueYellow = 50;  // 노랑 (Yellow)
-const hueGreen = 130;  // 초록 (Green)
-const hueCyan = 180;   // 청록 (Cyan)
-const hueBlue = 240;   // 파랑 (Blue)
-const huePurple = 280; // 보라 (Purple)
-const huePink = 320;   // 분홍 (Pink)
+// [2024-08-04 23:58:59] Studied/파일명.md 생성
+const lineRegex = /^\[(\d{4}-\d{2}-\d{2})\s+\d{2}:\d{2}:\d{2}\]\s+Studied\/(.+?)\.md\s+생성$/gm;
 
-const makeHue = (hue, intense, per) => {
-	const num = intense * 1.5;
-	const tmp =  [
-	        `hsl(${hue+num}, 100%, ${per * 0.1}%)`,
-            `hsl(${hue+num}, 100%, ${per * 0.2}%)`,   
-            `hsl(${hue+num}, 100%, ${per * 0.3}%)`,     
-            `hsl(${hue+num}, 100%, ${per * 0.4}%)`,    
-            `hsl(${hue+num}, 100%, ${per * 0.5}%)`,   
-            `hsl(${hue+num}, 100%, ${per * 0.6}%)`,     
-            `hsl(${hue+num}, 100%, ${per * 0.7}%)`,  
-            `hsl(${hue+num}, 100%, ${per * 0.8}%)`, 
-            `hsl(${hue+num}, 100%, ${per * 0.9}%)`,      
-            `hsl(${hue+num}, 100%, ${per * 1.0}%)`,      
-        ];
-    return tmp.reverse();
-}
-const calendarData = {
-    year: new Date().getFullYear(), // 2026  // (optional) defaults to current year
-    colors: {    // (optional) defaults to green
-        customColor: makeHue(hueOrange,7,85),
-    },
-    showCurrentDayBorder: true, // (optional) defaults to true
-    defaultEntryIntensity: 0,   // (optional) defaults to 4
-    intensityScaleStart: 5,    // (optional) defaults to lowest value passed to entries.intensity
-    intensityScaleEnd: 100,     // (optional) defaults to highest value passed to entries.intensity
-    entries: [],                // (required) populated in the DataviewJS loop below 0~15, 16~25
-}
-// log에 기록한 데이터 기반으로 마킹한다
-// 따라서 잘못 추가한 파일은 로그에서 수동으로 지워줘야 한다
-const logPath = 'System/Log/log.md';
-const fileContents = await dv.io.load(logPath);
-const bracketPattern = /\[(.*?)\]/g; // 정규 표현식을 사용하여 대괄호 사이의 모든 정보 추출 
-const matches = fileContents.match(bracketPattern); 
-let extractedInfo = ""; 
-if (matches) { 
-	extractedInfo = matches.map(p => p.slice(1,p.length-1))
+const dataByDate = {};
+let match;
+
+while ((match = lineRegex.exec(content)) !== null) {
+  const [, date, rawTitle] = match;
+  const title = rawTitle.trim();
+
+  if (!dataByDate[date]) {
+    dataByDate[date] = {
+      count: 0,
+      titles: []
+    };
+  }
+
+  dataByDate[date].count += 1;
+  dataByDate[date].titles.push(title);
 }
 
-const lengthObj = {};
-extractedInfo.forEach(p => {
-	const date = p.substring(0,10);
-	if (!lengthObj.hasOwnProperty(date)) lengthObj[date] = 0;
-	lengthObj[date] += 10;
-})
+renderHeatmapCalendar(this.container, {
+  year: new Date().getFullYear(),
+  entries: Object.entries(dataByDate).map(([date, info]) => ({
+    date,
+    intensity: info.count
+  }))
+});
 
-for (let dateInfo of Object.entries(lengthObj)) {
-    const date = dateInfo[0].substring(0,10);
-	const pageDate = date
-	const pageCount = dateInfo[1] - 9;
-    calendarData.entries.push({
-        date: date,     // (required) Date in the format YYYY-MM-DD
-        intensity: pageCount,   // (required) The data you want to track, will map color intensities automatically
-        color: "customColor",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
-    });
+let tooltip = document.getElementById("heatmap-note-tooltip");
+
+if (!tooltip) {
+  tooltip = document.createElement("div");
+  tooltip.id = "heatmap-note-tooltip";
+  Object.assign(tooltip.style, {
+    position: "fixed",
+    display: "none",
+    padding: "8px 10px",
+    background: "var(--background-primary)",
+    border: "1px solid var(--background-modifier-border)",
+    borderRadius: "8px",
+    boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
+    zIndex: "9999",
+    pointerEvents: "none",
+    fontSize: "13px",
+    maxWidth: "240px",
+    whiteSpace: "normal",
+    lineHeight: "1.4"
+  });
+  document.body.appendChild(tooltip);
 }
 
-// Render the heatmap calendar using the populated calendarData
-renderHeatmapCalendar(this.container, calendarData)
+const hideTooltip = () => {
+  tooltip.style.display = "none";
+};
+
+const truncate = (text, max = 18) =>
+  text.length > max ? text.slice(0, max) + "..." : text;
+
+setTimeout(() => {
+  const root = this.container;
+  if (root._heatmapTooltipBound) return;
+  root._heatmapTooltipBound = true;
+
+  root.addEventListener("mouseover", (e) => {
+    const cell = e.target.closest("[data-date]");
+    if (!cell || !root.contains(cell)) return;
+
+    const date = cell.dataset.date;
+    const info = dataByDate[date];
+    if (!info) return;
+
+    const firstTitle = truncate(info.titles[0] ?? "제목 없음");
+    const extraCount = Math.max(0, info.count - 1);
+
+    tooltip.innerHTML = `
+      <div style="font-weight:600; margin-bottom:4px;">${date}</div>
+      <div>${firstTitle}${extraCount > 0 ? ` 외 ${extraCount}개` : ""}</div>
+    `;
+    tooltip.style.display = "block";
+  });
+
+  root.addEventListener("mousemove", (e) => {
+    const cell = e.target.closest("[data-date]");
+    if (!cell || !root.contains(cell)) return;
+
+    tooltip.style.left = `${e.clientX + 12}px`;
+    tooltip.style.top = `${e.clientY + 12}px`;
+  });
+
+  root.addEventListener("mouseout", (e) => {
+    const fromCell = e.target.closest("[data-date]");
+    if (!fromCell) return;
+
+    const toEl = e.relatedTarget;
+    if (toEl && root.contains(toEl) && toEl.closest("[data-date]")) return;
+
+    hideTooltip();
+  });
+
+  root.addEventListener("mouseleave", hideTooltip);
+  window.addEventListener("scroll", hideTooltip, { passive: true });
+}, 100);
 ```
