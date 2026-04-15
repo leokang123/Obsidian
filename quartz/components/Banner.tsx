@@ -84,19 +84,6 @@ Banner.css = `
   -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
   mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
 }
-
-/* 👇 모바일(800px 이하) 화면에서 상단으로 올라간 사이드바 배경 투명화 */
-@media all and (max-width: 800px) {
-  /* 캡처 화면에 나온 정확한 CSS 선택자를 타겟팅하여 덮어씌웁니다 */
-  .page > #quartz-body .sidebar.left,
-  .page > #quartz-body .sidebar.left:has(.explorer) {
-    background-color: transparent !important;
-
-    /* 혹시 모를 테두리 선이나 그림자도 함께 제거하여 깔끔하게 만듭니다 */
-    border: none !important;
-    box-shadow: none !important;
-  }
-}
 `;
 
 export default (() => Banner) satisfies QuartzComponentConstructor;
