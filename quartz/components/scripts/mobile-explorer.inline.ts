@@ -14,7 +14,6 @@ document.addEventListener("nav", () => {
   let progress = 0; // 0 = fully visible, 1 = fully hidden
 
   const NOISE_THRESHOLD = 1;
-  const FULL_HIDE_DISTANCE = 140;
   const SNAP_THRESHOLD = 0.18;
 
   const clamp = (v: number, min: number, max: number) =>
@@ -63,12 +62,6 @@ document.addEventListener("nav", () => {
 
     const HIDE_DISTANCE = 140; // 아래로 스크롤해서 숨길 때
     const SHOW_DISTANCE = 240; // 위로 스크롤해서 다시 보일 때
-
-    if (diff > 0) {
-      progress += diff / HIDE_DISTANCE;
-    } else {
-      progress += diff / SHOW_DISTANCE;
-    }
 
     if (diff > 0) {
       progress += diff / HIDE_DISTANCE;
