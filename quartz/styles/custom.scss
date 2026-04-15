@@ -1,8 +1,7 @@
 @use "./base.scss";
 
 @media (max-width: 800px) {
-  .page #quartz-body .sidebar.left,
-  .page #quartz-body .sidebar.left:has(.explorer) {
+  .page #quartz-body .sidebar.left {
     box-sizing: border-box !important;
     width: calc(100% + 2rem) !important;
     margin-left: -1rem !important;
@@ -20,5 +19,17 @@
     padding-left: 1.5rem !important;
     padding-right: 1.5rem !important;
     box-sizing: border-box;
+  }
+
+  .page #quartz-body .sidebar.left.mobile-hide {
+    transform: translateY(-110%);
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .page #quartz-body .sidebar.left.mobile-show {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
   }
 }
