@@ -6,8 +6,6 @@ banner: "![[library.jpg]]"
 banner_y: 0.5
 ---
 
-![[library.jpg]]
-
 # 강정훈의 개발 노트
 
 CS와 백엔드 개발을 공부하며 정리한 내용을 기록하는 개인 노트입니다.
