@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.MobileExplorer(),
     Component.ConditionalRender({
       component: Component.RecentNotes({
         title: "최근 글",
