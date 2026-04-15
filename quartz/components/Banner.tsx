@@ -12,7 +12,7 @@ function extractBannerSrc(raw?: string): string | null {
   // Obsidian embed: ![[image.jpg]]
   const obsidianMatch = trimmed.match(/^!\[\[(.+?)\]\]$/);
   if (obsidianMatch) {
-    return `/Obsidian/${obsidianMatch[1]}`;
+    return `/Obsidian/Resources/Background/${obsidianMatch[1]}`;
   }
 
   // plain path
