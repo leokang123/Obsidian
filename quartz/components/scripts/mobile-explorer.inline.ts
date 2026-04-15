@@ -1,42 +1,82 @@
 document.addEventListener("nav", () => {
   if (window.innerWidth > 800) return;
 
-  const sidebar = document.querySelector(
-    ".page #quartz-body .sidebar.left",
-  ) as HTMLElement | null;
-
+  const sidebar = document.querySelector(".sidebar.left") as HTMLElement | null;
   if (!sidebar) return;
 
-  let lastScrollY = window.scrollY;
+  const MAX_HIDE_PERCENT = 72;
+  const SCROLL_DISTANCE_FOR_FULL_HIDE = 220;
+  const SNAP_THRESHOLD = 0.5;
+
+  let progress = 0;
   let ticking = false;
-  const threshold = 8;
+  let snapTimer: number | null = null;
+  let lastScrollY = window.scrollY;
 
-  sidebar.classList.add("mobile-show");
+  const clamp = (v: number, min: number, max: number) =>
+    Math.min(max, Math.max(min, v));
 
-  const updateSidebar = () => {
+  const applyUI = () => {
+    const translate = -MAX_HIDE_PERCENT * progress;
+    const opacity = 1 - progress * 0.8;
+
+    sidebar.style.transform = `translateY(${translate}%)`;
+    sidebar.style.opacity = `${opacity}`;
+    sidebar.style.pointerEvents = progress > 0.96 ? "none" : "auto";
+  };
+
+  const snapTo = (target: 0 | 1) => {
+    sidebar.classList.remove("mobile-dragging");
+    progress = target;
+    applyUI();
+  };
+
+  const scheduleSnap = () => {
+    if (snapTimer !== null) {
+      window.clearTimeout(snapTimer);
+    }
+
+    snapTimer = window.setTimeout(() => {
+      if (window.scrollY <= 8) {
+        snapTo(0);
+        return;
+      }
+
+      if (progress >= SNAP_THRESHOLD) {
+        snapTo(1);
+      } else {
+        snapTo(0);
+      }
+    }, 120);
+  };
+
+  const updateOnScroll = () => {
     const currentScrollY = window.scrollY;
     const diff = currentScrollY - lastScrollY;
 
-    if (currentScrollY <= 10) {
-      sidebar.classList.remove("mobile-hide");
-      sidebar.classList.add("mobile-show");
+    if (currentScrollY <= 8) {
+      progress = 0;
+      applyUI();
       lastScrollY = currentScrollY;
       ticking = false;
+      scheduleSnap();
       return;
     }
 
-    if (Math.abs(diff) < threshold) {
+    if (Math.abs(diff) < 1) {
       ticking = false;
+      scheduleSnap();
       return;
     }
 
-    if (diff > 0) {
-      sidebar.classList.add("mobile-hide");
-      sidebar.classList.remove("mobile-show");
-    } else {
-      sidebar.classList.remove("mobile-hide");
-      sidebar.classList.add("mobile-show");
-    }
+    sidebar.classList.add("mobile-dragging");
+
+    // 스크롤 양에 비례해서 progress를 연속적으로 갱신
+    progress += diff / SCROLL_DISTANCE_FOR_FULL_HIDE;
+    progress = clamp(progress, 0, 1);
+
+    applyUI();
+    scheduleSnap();
 
     lastScrollY = currentScrollY;
     ticking = false;
@@ -44,13 +84,18 @@ document.addEventListener("nav", () => {
 
   const onScroll = () => {
     if (!ticking) {
-      window.requestAnimationFrame(updateSidebar);
       ticking = true;
+      requestAnimationFrame(updateOnScroll);
     }
   };
 
+  applyUI();
   window.addEventListener("scroll", onScroll, { passive: true });
+
   window.addCleanup(() => {
     window.removeEventListener("scroll", onScroll);
+    if (snapTimer !== null) {
+      window.clearTimeout(snapTimer);
+    }
   });
 });
