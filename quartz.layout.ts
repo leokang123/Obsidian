@@ -68,5 +68,13 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "최근 글",
+        limit: 10,
+      }),
+    ),
+  ],
 };
