@@ -15,7 +15,7 @@ document.addEventListener("nav", () => {
 
   const NOISE_THRESHOLD = 1;
   const FULL_HIDE_DISTANCE = 140;
-  const SNAP_THRESHOLD = 0.28;
+  const SNAP_THRESHOLD = 0.18;
 
   const clamp = (v: number, min: number, max: number) =>
     Math.min(max, Math.max(min, v));
