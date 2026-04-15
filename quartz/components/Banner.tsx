@@ -84,6 +84,22 @@ Banner.css = `
   -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
   mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
 }
+
+/* 👇 모바일 기기를 위한 헤더 투명화 코드 추가 */
+@media all and (max-width: 1200px) {
+  /* 상단 헤더 영역의 배경을 투명하게 만들고 그림자를 제거합니다 */
+  header,
+  .page-header {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border-bottom: none !important;
+  }
+
+  /* 헤더 내부의 컨테이너가 별도 배경색을 가질 경우를 대비해 함께 투명화합니다 */
+  header > div {
+    background-color: transparent !important;
+  }
+}
 `;
 
 export default (() => Banner) satisfies QuartzComponentConstructor;
