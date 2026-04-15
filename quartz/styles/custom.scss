@@ -2,6 +2,13 @@
 
 @media (max-width: 800px) {
   .page #quartz-body .sidebar.left {
+    box-sizing: border-box !important;
+    width: calc(100% + 2rem) !important;
+    margin-left: -1rem !important;
+    margin-right: -1rem !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+
     opacity: 1;
     will-change: opacity;
     transition: opacity 800ms cubic-bezier(0.22, 1, 0.36, 1);
