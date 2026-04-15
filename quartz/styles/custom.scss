@@ -14,8 +14,11 @@
   .page #quartz-body .sidebar.left .explorer-content {
     width: fit-content !important;
     max-width: calc(100% - 1.5rem) !important;
-    padding-left: 0.75rem !important;
-    padding-right: 0.75rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    /* 화면 가장자리에 너무 붙지 않도록 좌우 안쪽 여백(padding)을 줍니다 */
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
     box-sizing: border-box;
   }
 }
