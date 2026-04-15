@@ -5,7 +5,16 @@ import * as Component from "./quartz/components";
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "최근 글",
+        limit: 5,
+        showTags: true,
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -32,14 +41,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.TagList(),
       condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.ConditionalRender({
-      component: Component.RecentNotes({
-        title: "최근 글",
-        limit: 5,
-        showTags: true,
-      }),
-      condition: (page) => page.fileData.slug === "index",
     }),
   ],
   left: [
