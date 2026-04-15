@@ -1,107 +1,333 @@
-document.addEventListener("nav", () => {
-  if (window.innerWidth > 800) return;
+import { FileTrieNode } from "../../util/fileTrie";
+import { FullSlug, resolveRelative, simplifySlug } from "../../util/path";
+import { ContentDetails } from "../../plugins/emitters/contentIndex";
 
-  const sidebar = document.querySelector(
-    ".page #quartz-body .sidebar.left",
-  ) as HTMLElement | null;
+type MaybeHTMLElement = HTMLElement | undefined;
 
-  if (!sidebar) return;
+interface ParsedOptions {
+  folderClickBehavior: "collapse" | "link";
+  folderDefaultState: "collapsed" | "open";
+  useSavedState: boolean;
+  sortFn: (a: FileTrieNode, b: FileTrieNode) => number;
+  filterFn: (node: FileTrieNode) => boolean;
+  mapFn: (node: FileTrieNode) => void;
+  order: "sort" | "filter" | "map"[];
+}
 
-  let lastScrollY = window.scrollY;
-  let ticking = false;
+type FolderState = {
+  path: string;
+  collapsed: boolean;
+};
 
-  let isTouching = false;
-  let progress = 0; // 0 = 보임, 1 = 숨김
+let currentExplorerState: Array<FolderState>;
+function toggleExplorer(this: HTMLElement) {
+  const nearestExplorer = this.closest(".explorer") as HTMLElement;
+  if (!nearestExplorer) return;
+  const explorerCollapsed = nearestExplorer.classList.toggle("collapsed");
+  nearestExplorer.setAttribute(
+    "aria-expanded",
+    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
+  );
 
-  const NOISE_THRESHOLD = 1;
-  const FULL_HIDE_DISTANCE = 120;
-  const SNAP_THRESHOLD = 0.2;
+  if (!explorerCollapsed) {
+    // Stop <html> from being scrollable when mobile explorer is open
+    document.documentElement.classList.add("mobile-no-scroll");
+  } else {
+    document.documentElement.classList.remove("mobile-no-scroll");
+  }
+}
 
-  const clamp = (v: number, min: number, max: number) =>
-    Math.min(max, Math.max(min, v));
+function toggleFolder(evt: MouseEvent) {
+  evt.stopPropagation();
+  const target = evt.target as MaybeHTMLElement;
+  if (!target) return;
 
-  const applyProgress = () => {
-    const eased = 1 - Math.pow(1 - progress, 1.6);
-    const opacity = 1 - eased;
-    sidebar.style.opacity = `${opacity}`;
-    sidebar.style.pointerEvents = progress >= 0.98 ? "none" : "auto";
-  };
+  // Check if target was svg icon or button
+  const isSvg = target.nodeName === "svg";
 
-  const snapTo = (target: 0 | 1) => {
-    sidebar.classList.remove("mobile-interacting");
-    progress = target;
-    applyProgress();
-  };
+  // corresponding <ul> element relative to clicked button/folder
+  const folderContainer = (
+    isSvg
+      ? // svg -> div.folder-container
+        target.parentElement
+      : // button.folder-button -> div -> div.folder-container
+        target.parentElement?.parentElement
+  ) as MaybeHTMLElement;
+  if (!folderContainer) return;
+  const childFolderContainer =
+    folderContainer.nextElementSibling as MaybeHTMLElement;
+  if (!childFolderContainer) return;
 
-  const updateSidebar = () => {
-    const currentScrollY = window.scrollY;
-    const diff = currentScrollY - lastScrollY;
+  childFolderContainer.classList.toggle("open");
 
-    if (currentScrollY <= 10) {
-      if (!isTouching) {
-        snapTo(0);
-      } else {
-        progress = 0;
-        applyProgress();
+  // Collapse folder container
+  const isCollapsed = !childFolderContainer.classList.contains("open");
+  setFolderState(childFolderContainer, isCollapsed);
+
+  const currentFolderState = currentExplorerState.find(
+    (item) => item.path === folderContainer.dataset.folderpath,
+  );
+  if (currentFolderState) {
+    currentFolderState.collapsed = isCollapsed;
+  } else {
+    currentExplorerState.push({
+      path: folderContainer.dataset.folderpath as FullSlug,
+      collapsed: isCollapsed,
+    });
+  }
+
+  const stringifiedFileTree = JSON.stringify(currentExplorerState);
+  localStorage.setItem("fileTree", stringifiedFileTree);
+}
+
+function createFileNode(
+  currentSlug: FullSlug,
+  node: FileTrieNode,
+): HTMLLIElement {
+  const template = document.getElementById(
+    "template-file",
+  ) as HTMLTemplateElement;
+  const clone = template.content.cloneNode(true) as DocumentFragment;
+  const li = clone.querySelector("li") as HTMLLIElement;
+  const a = li.querySelector("a") as HTMLAnchorElement;
+  a.href = resolveRelative(currentSlug, node.slug);
+  a.dataset.for = node.slug;
+  a.textContent = node.displayName;
+
+  if (currentSlug === node.slug) {
+    a.classList.add("active");
+  }
+
+  return li;
+}
+
+function createFolderNode(
+  currentSlug: FullSlug,
+  node: FileTrieNode,
+  opts: ParsedOptions,
+): HTMLLIElement {
+  const template = document.getElementById(
+    "template-folder",
+  ) as HTMLTemplateElement;
+  const clone = template.content.cloneNode(true) as DocumentFragment;
+  const li = clone.querySelector("li") as HTMLLIElement;
+  const folderContainer = li.querySelector(".folder-container") as HTMLElement;
+  const titleContainer = folderContainer.querySelector("div") as HTMLElement;
+  const folderOuter = li.querySelector(".folder-outer") as HTMLElement;
+  const ul = folderOuter.querySelector("ul") as HTMLUListElement;
+
+  const folderPath = node.slug;
+  folderContainer.dataset.folderpath = folderPath;
+
+  if (currentSlug === folderPath) {
+    folderContainer.classList.add("active");
+  }
+
+  if (opts.folderClickBehavior === "link") {
+    // Replace button with link for link behavior
+    const button = titleContainer.querySelector(
+      ".folder-button",
+    ) as HTMLElement;
+    const a = document.createElement("a");
+    a.href = resolveRelative(currentSlug, folderPath);
+    a.dataset.for = folderPath;
+    a.className = "folder-title";
+    a.textContent = node.displayName;
+    button.replaceWith(a);
+  } else {
+    const span = titleContainer.querySelector(".folder-title") as HTMLElement;
+    span.textContent = node.displayName;
+  }
+
+  // if the saved state is collapsed or the default state is collapsed
+  const isCollapsed =
+    currentExplorerState.find((item) => item.path === folderPath)?.collapsed ??
+    opts.folderDefaultState === "collapsed";
+
+  // if this folder is a prefix of the current path we
+  // want to open it anyways
+  const simpleFolderPath = simplifySlug(folderPath);
+  const folderIsPrefixOfCurrentSlug =
+    simpleFolderPath === currentSlug.slice(0, simpleFolderPath.length);
+
+  if (!isCollapsed || folderIsPrefixOfCurrentSlug) {
+    folderOuter.classList.add("open");
+  }
+
+  for (const child of node.children) {
+    const childNode = child.isFolder
+      ? createFolderNode(currentSlug, child, opts)
+      : createFileNode(currentSlug, child);
+    ul.appendChild(childNode);
+  }
+
+  return li;
+}
+
+async function setupExplorer(currentSlug: FullSlug) {
+  const allExplorers = document.querySelectorAll(
+    "div.explorer",
+  ) as NodeListOf<HTMLElement>;
+
+  for (const explorer of allExplorers) {
+    const dataFns = JSON.parse(explorer.dataset.dataFns || "{}");
+    const opts: ParsedOptions = {
+      folderClickBehavior: (explorer.dataset.behavior || "collapse") as
+        | "collapse"
+        | "link",
+      folderDefaultState: (explorer.dataset.collapsed || "collapsed") as
+        | "collapsed"
+        | "open",
+      useSavedState: explorer.dataset.savestate === "true",
+      order: dataFns.order || ["filter", "map", "sort"],
+      sortFn: new Function("return " + (dataFns.sortFn || "undefined"))(),
+      filterFn: new Function("return " + (dataFns.filterFn || "undefined"))(),
+      mapFn: new Function("return " + (dataFns.mapFn || "undefined"))(),
+    };
+
+    // Get folder state from local storage
+    const storageTree = localStorage.getItem("fileTree");
+    const serializedExplorerState =
+      storageTree && opts.useSavedState ? JSON.parse(storageTree) : [];
+    const oldIndex = new Map<string, boolean>(
+      serializedExplorerState.map((entry: FolderState) => [
+        entry.path,
+        entry.collapsed,
+      ]),
+    );
+
+    const data = await fetchData;
+    const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][];
+    const trie = FileTrieNode.fromEntries(entries);
+
+    // Apply functions in order
+    for (const fn of opts.order) {
+      switch (fn) {
+        case "filter":
+          if (opts.filterFn) trie.filter(opts.filterFn);
+          break;
+        case "map":
+          if (opts.mapFn) trie.map(opts.mapFn);
+          break;
+        case "sort":
+          if (opts.sortFn) trie.sort(opts.sortFn);
+          break;
       }
-      lastScrollY = currentScrollY;
-      ticking = false;
-      return;
     }
 
-    if (Math.abs(diff) < NOISE_THRESHOLD) {
-      ticking = false;
-      return;
+    // Get folder paths for state management
+    const folderPaths = trie.getFolderPaths();
+    currentExplorerState = folderPaths.map((path) => {
+      const previousState = oldIndex.get(path);
+      return {
+        path,
+        collapsed:
+          previousState === undefined
+            ? opts.folderDefaultState === "collapsed"
+            : previousState,
+      };
+    });
+
+    const explorerUl = explorer.querySelector(".explorer-ul");
+    if (!explorerUl) continue;
+
+    // Create and insert new content
+    const fragment = document.createDocumentFragment();
+    for (const child of trie.children) {
+      const node = child.isFolder
+        ? createFolderNode(currentSlug, child, opts)
+        : createFileNode(currentSlug, child);
+
+      fragment.appendChild(node);
     }
+    explorerUl.insertBefore(fragment, explorerUl.firstChild);
 
-    sidebar.classList.add("mobile-interacting");
-
-    progress += diff / FULL_HIDE_DISTANCE;
-    progress = clamp(progress, 0, 1);
-
-    applyProgress();
-    lastScrollY = currentScrollY;
-    ticking = false;
-  };
-
-  const onScroll = () => {
-    if (!ticking) {
-      window.requestAnimationFrame(updateSidebar);
-      ticking = true;
-    }
-  };
-
-  const onTouchStart = () => {
-    isTouching = true;
-    sidebar.classList.add("mobile-interacting");
-  };
-
-  const onTouchEnd = () => {
-    isTouching = false;
-
-    if (window.scrollY <= 10) {
-      snapTo(0);
-      return;
-    }
-
-    if (progress >= SNAP_THRESHOLD) {
-      snapTo(1);
+    // restore explorer scrollTop position if it exists
+    const scrollTop = sessionStorage.getItem("explorerScrollTop");
+    if (scrollTop) {
+      explorerUl.scrollTop = parseInt(scrollTop);
     } else {
-      snapTo(0);
+      // try to scroll to the active element if it exists
+      const activeElement = explorerUl.querySelector(".active");
+      if (activeElement) {
+        activeElement.scrollIntoView({ behavior: "smooth" });
+      }
     }
-  };
 
-  applyProgress();
+    // Set up event handlers
+    const explorerButtons = explorer.getElementsByClassName(
+      "explorer-toggle",
+    ) as HTMLCollectionOf<HTMLElement>;
+    for (const button of explorerButtons) {
+      button.addEventListener("click", toggleExplorer);
+      window.addCleanup(() =>
+        button.removeEventListener("click", toggleExplorer),
+      );
+    }
 
-  window.addEventListener("scroll", onScroll, { passive: true });
-  window.addEventListener("touchstart", onTouchStart, { passive: true });
-  window.addEventListener("touchend", onTouchEnd, { passive: true });
-  window.addEventListener("touchcancel", onTouchEnd, { passive: true });
+    // Set up folder click handlers
+    if (opts.folderClickBehavior === "collapse") {
+      const folderButtons = explorer.getElementsByClassName(
+        "folder-button",
+      ) as HTMLCollectionOf<HTMLElement>;
+      for (const button of folderButtons) {
+        button.addEventListener("click", toggleFolder);
+        window.addCleanup(() =>
+          button.removeEventListener("click", toggleFolder),
+        );
+      }
+    }
 
-  window.addCleanup(() => {
-    window.removeEventListener("scroll", onScroll);
-    window.removeEventListener("touchstart", onTouchStart);
-    window.removeEventListener("touchend", onTouchEnd);
-    window.removeEventListener("touchcancel", onTouchEnd);
-  });
+    const folderIcons = explorer.getElementsByClassName(
+      "folder-icon",
+    ) as HTMLCollectionOf<HTMLElement>;
+    for (const icon of folderIcons) {
+      icon.addEventListener("click", toggleFolder);
+      window.addCleanup(() => icon.removeEventListener("click", toggleFolder));
+    }
+  }
+}
+
+document.addEventListener("prenav", async () => {
+  // save explorer scrollTop position
+  const explorer = document.querySelector(".explorer-ul");
+  if (!explorer) return;
+  sessionStorage.setItem("explorerScrollTop", explorer.scrollTop.toString());
 });
+
+document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+  const currentSlug = e.detail.url;
+  await setupExplorer(currentSlug);
+
+  // if mobile hamburger is visible, collapse by default
+  for (const explorer of document.getElementsByClassName("explorer")) {
+    const mobileExplorer = explorer.querySelector(".mobile-explorer");
+    if (!mobileExplorer) return;
+
+    if (mobileExplorer.checkVisibility()) {
+      explorer.classList.add("collapsed");
+      explorer.setAttribute("aria-expanded", "false");
+
+      // Allow <html> to be scrollable when mobile explorer is collapsed
+      document.documentElement.classList.remove("mobile-no-scroll");
+    }
+
+    mobileExplorer.classList.remove("hide-until-loaded");
+  }
+});
+
+window.addEventListener("resize", function () {
+  // Desktop explorer opens by default, and it stays open when the window is resized
+  // to mobile screen size. Applies `no-scroll` to <html> in this edge case.
+  const explorer = document.querySelector(".explorer");
+  if (explorer && !explorer.classList.contains("collapsed")) {
+    document.documentElement.classList.add("mobile-no-scroll");
+    return;
+  }
+});
+
+function setFolderState(folderElement: HTMLElement, collapsed: boolean) {
+  return collapsed
+    ? folderElement.classList.remove("open")
+    : folderElement.classList.add("open");
+}
