@@ -2,9 +2,9 @@
 title: Home
 date: 2026-04-02
 updated: 2026-04-03 00:15:10
+banner: "![[library.jpg]]"
+banner_y: 0.5
 ---
-
-<img src="/library.jpg" alt="Library banner" class="home-banner" />
 
 # 강정훈의 개발 노트
 
