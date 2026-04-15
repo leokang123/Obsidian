@@ -85,19 +85,16 @@ Banner.css = `
   mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
 }
 
-/* 👇 모바일 기기를 위한 헤더 투명화 코드 추가 */
-@media all and (max-width: 1200px) {
-  /* 상단 헤더 영역의 배경을 투명하게 만들고 그림자를 제거합니다 */
-  header,
-  .page-header {
+/* 👇 모바일(800px 이하) 화면에서 상단으로 올라간 사이드바 배경 투명화 */
+@media all and (max-width: 800px) {
+  /* 캡처 화면에 나온 정확한 CSS 선택자를 타겟팅하여 덮어씌웁니다 */
+  .page > #quartz-body .sidebar.left,
+  .page > #quartz-body .sidebar.left:has(.explorer) {
     background-color: transparent !important;
-    box-shadow: none !important;
-    border-bottom: none !important;
-  }
 
-  /* 헤더 내부의 컨테이너가 별도 배경색을 가질 경우를 대비해 함께 투명화합니다 */
-  header > div {
-    background-color: transparent !important;
+    /* 혹시 모를 테두리 선이나 그림자도 함께 제거하여 깔끔하게 만듭니다 */
+    border: none !important;
+    box-shadow: none !important;
   }
 }
 `;
