@@ -9,14 +9,13 @@ document.addEventListener("nav", () => {
 
   let lastScrollY = window.scrollY;
   let ticking = false;
-  let snapTimer: number | null = null;
 
-  // 0 = 완전 표시, 1 = 완전 숨김
-  let progress = 0;
+  let isTouching = false;
+  let progress = 0; // 0 = 보임, 1 = 숨김
 
   const NOISE_THRESHOLD = 1;
   const FULL_HIDE_DISTANCE = 120;
-  const SNAP_THRESHOLD = 0.22;
+  const SNAP_THRESHOLD = 0.2;
 
   const clamp = (v: number, min: number, max: number) =>
     Math.min(max, Math.max(min, v));
@@ -34,45 +33,27 @@ document.addEventListener("nav", () => {
     applyProgress();
   };
 
-  const scheduleSnap = () => {
-    if (snapTimer !== null) {
-      window.clearTimeout(snapTimer);
-    }
-
-    snapTimer = window.setTimeout(() => {
-      if (window.scrollY <= 10) {
-        snapTo(0);
-        return;
-      }
-
-      if (progress >= SNAP_THRESHOLD) {
-        snapTo(1);
-      } else {
-        snapTo(0);
-      }
-    }, 70);
-  };
-
   const updateSidebar = () => {
     const currentScrollY = window.scrollY;
     const diff = currentScrollY - lastScrollY;
 
     if (currentScrollY <= 10) {
-      progress = 0;
-      applyProgress();
+      if (!isTouching) {
+        snapTo(0);
+      } else {
+        progress = 0;
+        applyProgress();
+      }
       lastScrollY = currentScrollY;
       ticking = false;
-      scheduleSnap();
       return;
     }
 
     if (Math.abs(diff) < NOISE_THRESHOLD) {
       ticking = false;
-      scheduleSnap();
       return;
     }
 
-    // 스크롤 중에는 transition 없이 손가락 의도에 맞춰 조금씩 변함
     sidebar.classList.add("mobile-interacting");
 
     progress += diff / FULL_HIDE_DISTANCE;
@@ -81,9 +62,6 @@ document.addEventListener("nav", () => {
     applyProgress();
     lastScrollY = currentScrollY;
     ticking = false;
-
-    // 손 떼고 스크롤이 멈추면 빠르게 snap
-    scheduleSnap();
   };
 
   const onScroll = () => {
@@ -93,13 +71,37 @@ document.addEventListener("nav", () => {
     }
   };
 
+  const onTouchStart = () => {
+    isTouching = true;
+    sidebar.classList.add("mobile-interacting");
+  };
+
+  const onTouchEnd = () => {
+    isTouching = false;
+
+    if (window.scrollY <= 10) {
+      snapTo(0);
+      return;
+    }
+
+    if (progress >= SNAP_THRESHOLD) {
+      snapTo(1);
+    } else {
+      snapTo(0);
+    }
+  };
+
   applyProgress();
+
   window.addEventListener("scroll", onScroll, { passive: true });
+  window.addEventListener("touchstart", onTouchStart, { passive: true });
+  window.addEventListener("touchend", onTouchEnd, { passive: true });
+  window.addEventListener("touchcancel", onTouchEnd, { passive: true });
 
   window.addCleanup(() => {
     window.removeEventListener("scroll", onScroll);
-    if (snapTimer !== null) {
-      window.clearTimeout(snapTimer);
-    }
+    window.removeEventListener("touchstart", onTouchStart);
+    window.removeEventListener("touchend", onTouchEnd);
+    window.removeEventListener("touchcancel", onTouchEnd);
   });
 });
