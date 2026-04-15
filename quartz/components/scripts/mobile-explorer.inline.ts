@@ -61,7 +61,14 @@ document.addEventListener("nav", () => {
       sidebar.classList.add("mobile-interacting");
     }
 
-    progress += diff / FULL_HIDE_DISTANCE;
+    const HIDE_DISTANCE = 140; // 아래로 스크롤해서 숨길 때
+    const SHOW_DISTANCE = 240; // 위로 스크롤해서 다시 보일 때
+
+    if (diff > 0) {
+      progress += diff / HIDE_DISTANCE;
+    } else {
+      progress += diff / SHOW_DISTANCE;
+    }
     progress = clamp(progress, 0, 1);
 
     applyProgress();
