@@ -4,7 +4,7 @@ date: 2026-04-02
 updated: 2026-04-03 00:15:10
 ---
 
-![[library.jpg]]
+<img src="/library.jpg" alt="Library banner" class="home-banner" />
 
 # 강정훈의 개발 노트
 
