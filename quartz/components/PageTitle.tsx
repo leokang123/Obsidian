@@ -37,6 +37,20 @@ PageTitle.css = `
   color: var(--secondary);
   opacity: 0.7;
 }
+
+@media (max-width: 800px) {
+  .page-title {
+    gap: 0.1rem;
+  }
+
+  .page-title h2 {
+    font-size: 1.52rem;
+  }
+
+  .page-title p {
+    display: none;
+  }
+}
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor

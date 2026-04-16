@@ -1,38 +1,35 @@
 .recent-notes {
   & > h3 {
-    margin: 0.5rem 0 0 0;
-    font-size: 1.05rem;
+    margin: 0.35rem 0 0 0;
+    font-size: 1rem;
   }
 
   & > ul.recent-ul {
     list-style: none;
-    margin-top: 1rem;
+    margin-top: 0.8rem;
     padding-left: 0;
     display: grid;
-    gap: 0.9rem;
+    gap: 0.65rem;
 
     & > li {
       margin: 0;
-      padding: 1rem 1.1rem;
-      border-radius: 22px;
-      border: 1px solid color-mix(in srgb, var(--secondary) 10%, transparent);
-      background:
-        linear-gradient(180deg, color-mix(in srgb, var(--highlight) 58%, transparent), transparent),
-        color-mix(in srgb, var(--light) 96%, white);
-      box-shadow: 0 12px 28px rgba(26, 37, 44, 0.05);
+      padding: 0.9rem 1rem;
+      border-radius: 16px;
+      border: 1px solid color-mix(in srgb, var(--secondary) 8%, transparent);
+      background: color-mix(in srgb, var(--light) 97%, white);
 
       .section {
         display: grid;
-        gap: 0.55rem;
+        gap: 0.45rem;
       }
 
       .section > .desc > .eyebrow {
         margin: 0 0 0.25rem 0;
         text-transform: uppercase;
         letter-spacing: 0.08em;
-        font-size: 0.72rem;
+        font-size: 0.68rem;
         color: var(--secondary);
-        opacity: 0.75;
+        opacity: 0.68;
       }
 
       .section > .desc > h3 > a {
@@ -40,12 +37,13 @@
       }
 
       .section > .desc > .summary {
-        margin: 0.45rem 0 0;
+        margin: 0.25rem 0 0;
         line-height: 1.65;
+        opacity: 0.9;
       }
 
       .section > .meta {
-        margin: 0 0 0.5rem 0;
+        margin: 0 0 0.3rem 0;
         opacity: 0.6;
       }
     }

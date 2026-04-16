@@ -23,11 +23,9 @@ document.addEventListener("nav", () => {
   const applyProgress = () => {
     const eased = 1 - Math.pow(1 - progress, 1.6);
     const offset = eased * MAX_OFFSET;
-    const scale = 1 - eased * 0.03;
 
     sidebar.style.setProperty("--mobile-sidebar-progress", `${eased}`);
     sidebar.style.setProperty("--mobile-sidebar-offset", `${offset}px`);
-    sidebar.style.setProperty("--mobile-sidebar-scale", `${scale}`);
     sidebar.style.pointerEvents = progress >= 0.98 ? "none" : "auto";
     sidebar.classList.toggle("mobile-hidden", progress >= 0.92);
   };

@@ -75,20 +75,20 @@ export default (() => {
     return (
       <section class="home-dashboard">
         <div class="dashboard-copy">
-          <p class="eyebrow">Structured by subject, refined for reading</p>
-          <h2>정리된 학습 흐름을 바로 탐색할 수 있게 구성했습니다.</h2>
+          <p class="eyebrow">정리 방식</p>
+          <h2>주제와 순서를 기준으로 조용히 정리해 둔 기록입니다.</h2>
           <p class="description">
-            옵시디언에서는 자유롭게 기록하고, 공개 페이지에서는 주제와 순서를 기준으로
-            다시 배열합니다. 모바일에서는 탐색 바가 스크롤 흐름에 맞춰 자연스럽게 숨고
-            다시 나타나도록 정리했습니다.
+            옵시디언에서는 자유롭게 적고, 여기서는 같은 주제의 글이 자연스럽게 이어지도록
+            다시 묶었습니다. 필요한 글을 빠르게 찾을 수 있게 구조만 정리하고, 화면은 최대한
+            차분하게 두었습니다.
           </p>
         </div>
 
-        <div class="dashboard-stats">
+        <div class="dashboard-stats" aria-label="홈 요약">
           {stats.map((stat) => (
             <div class="stat-card">
               <span class="label">{stat.label}</span>
-              <strong>{stat.value}</strong>
+              <span class="value">{stat.value}</span>
             </div>
           ))}
         </div>
@@ -97,7 +97,7 @@ export default (() => {
           <div class="dashboard-topics">
             <div class="section-header">
               <h3>주요 주제</h3>
-              <p>최근에 계속 쌓이고 있는 주제부터 바로 이동할 수 있습니다.</p>
+              <p>자주 정리해 둔 주제들입니다.</p>
             </div>
             <div class="topic-grid">
               {topFolders.map((folder) => (
@@ -106,8 +106,9 @@ export default (() => {
                   href={resolveRelative(fileData.slug!, folder.slug as FullSlug)}
                 >
                   <span class="topic-label">{folder.label}</span>
-                  <strong>{folder.count}개 노트</strong>
-                  <span class="topic-meta">최근 업데이트 {formatDate(folder.latest)}</span>
+                  <span class="topic-meta">
+                    {folder.count}개 노트 · 최근 업데이트 {formatDate(folder.latest)}
+                  </span>
                 </a>
               ))}
             </div>
