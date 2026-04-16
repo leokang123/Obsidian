@@ -42,16 +42,19 @@ export default ((userOpts?: Partial<Options>) => {
           {pages.slice(0, opts.limit).map((page) => {
             const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
             const tags = page.frontmatter?.tags ?? []
+            const section = page.slug?.split("/")[0]?.replaceAll("-", " ") ?? "note"
 
             return (
               <li class="recent-li">
                 <div class="section">
                   <div class="desc">
+                    <p class="eyebrow">{section}</p>
                     <h3>
                       <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                         {title}
                       </a>
                     </h3>
+                    {page.description && <p class="summary">{page.description}</p>}
                   </div>
                   {page.dates && (
                     <p class="meta">

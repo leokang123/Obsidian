@@ -14,16 +14,22 @@ document.addEventListener("nav", () => {
   let progress = 0; // 0 = fully visible, 1 = fully hidden
 
   const NOISE_THRESHOLD = 1;
-  const SNAP_THRESHOLD = 0.18;
+  const SNAP_THRESHOLD = 0.32;
+  const MAX_OFFSET = 92;
 
   const clamp = (v: number, min: number, max: number) =>
     Math.min(max, Math.max(min, v));
 
   const applyProgress = () => {
     const eased = 1 - Math.pow(1 - progress, 1.6);
-    const opacity = 1 - eased;
-    sidebar.style.opacity = `${opacity}`;
+    const offset = eased * MAX_OFFSET;
+    const scale = 1 - eased * 0.03;
+
+    sidebar.style.setProperty("--mobile-sidebar-progress", `${eased}`);
+    sidebar.style.setProperty("--mobile-sidebar-offset", `${offset}px`);
+    sidebar.style.setProperty("--mobile-sidebar-scale", `${scale}`);
     sidebar.style.pointerEvents = progress >= 0.98 ? "none" : "auto";
+    sidebar.classList.toggle("mobile-hidden", progress >= 0.92);
   };
 
   const animateTo = (target: 0 | 1) => {
@@ -36,6 +42,14 @@ document.addEventListener("nav", () => {
   };
 
   const updateSidebar = () => {
+    if (document.documentElement.classList.contains("mobile-no-scroll")) {
+      progress = 0;
+      applyProgress();
+      lastScrollY = window.scrollY;
+      ticking = false;
+      return;
+    }
+
     const currentScrollY = window.scrollY;
     const diff = currentScrollY - lastScrollY;
 

@@ -8,18 +8,26 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.MobileExplorer(),
     Component.ConditionalRender({
+      component: Component.HomeDashboard(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
       component: Component.RecentNotes({
         title: "최근 글",
         limit: 5,
         showTags: true,
+        filter: (page) =>
+          page.slug !== "index" &&
+          !page.slug?.startsWith("tags/") &&
+          !page.slug?.endsWith("/index"),
       }),
       condition: (page) => page.fileData.slug === "index",
     }),
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/leokang123/Obsidian",
+      Feed: "https://leokang123.github.io/Obsidian/index.xml",
     },
   }),
 };

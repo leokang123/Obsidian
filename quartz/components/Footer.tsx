@@ -13,10 +13,13 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
+        <div class="footer-copy">
+          <p class="footer-title">Jeonghoon Notes</p>
+          <p>
+            {i18n(cfg.locale).components.footer.createdWith}{" "}
+            <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          </p>
+        </div>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
