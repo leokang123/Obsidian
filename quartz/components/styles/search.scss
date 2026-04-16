@@ -44,18 +44,18 @@
 
   & > .search-container {
     position: fixed;
-    contain: layout;
     z-index: 999;
-    left: 0;
-    top: 0;
-    width: 100vw;
-    height: 100vh;
+    inset: 0;
+    width: 100dvw;
+    height: 100dvh;
     overflow-y: auto;
     display: none;
-    backdrop-filter: blur(4px);
+    background: color-mix(in srgb, var(--light) 56%, transparent);
+    -webkit-backdrop-filter: saturate(130%) blur(14px);
+    backdrop-filter: saturate(130%) blur(14px);
 
     &.active {
-      display: inline-block;
+      display: block;
     }
 
     & > .search-space {
@@ -66,6 +66,11 @@
 
       @media all and not ($desktop) {
         width: 90%;
+      }
+
+      @media all and ($mobile) {
+        width: calc(100% - 2rem);
+        margin-top: 1rem;
       }
 
       & > * {
@@ -88,6 +93,10 @@
 
         &:focus {
           outline: none;
+        }
+
+        @media all and ($mobile) {
+          font-size: 1rem;
         }
       }
 

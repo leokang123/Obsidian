@@ -254,6 +254,7 @@ async function setupSearch(
 
   function hideSearch() {
     container.classList.remove("active");
+    document.body.classList.remove("search-open");
     searchBar.value = ""; // clear the input when we dismiss the search
     if (sidebar) sidebar.style.zIndex = "";
     removeAllChildren(results);
@@ -267,7 +268,8 @@ async function setupSearch(
 
   function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew;
-    if (sidebar) sidebar.style.zIndex = "1";
+    if (sidebar) sidebar.style.zIndex = "2000";
+    document.body.classList.add("search-open");
     container.classList.add("active");
     searchBar.focus();
   }

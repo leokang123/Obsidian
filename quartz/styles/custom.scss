@@ -105,6 +105,27 @@
   border: 1px solid color-mix(in srgb, var(--secondary) 10%, transparent);
 }
 
+@media (max-width: 800px) {
+  .page .sidebar.left .explorer.collapsed {
+    padding: 0;
+    background: transparent;
+    border-color: transparent;
+    box-shadow: none;
+  }
+
+  body.search-open .page #quartz-body .sidebar.left {
+    background-color: transparent !important;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    box-shadow: none;
+    border-bottom-color: transparent;
+  }
+
+  body.search-open .page #quartz-body .sidebar.left.mobile-hidden {
+    opacity: 1;
+  }
+}
+
 .page .center .content-meta,
 .page .center ul.tags {
   opacity: 0.86;
