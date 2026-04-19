@@ -2,7 +2,7 @@
 주제: 옵시디언
 cssclasses: wide-page
 date:  2026-04-15 00:25
-updated:  2026-04-15 01:59:31
+updated:  2026-04-16 15:34:59
 series: 6
 banner: "![[whiteLodge.jpg]]"
 banner_y: 0.6

@@ -1,3 +1,7 @@
+---
+updated:  2026-04-16 15:08:25
+---
+
 # Welcome | 환영합니다
 
 This repository contains the source files for my Obsidian-based blog.
@@ -6,6 +10,6 @@ This repository contains the source files for my Obsidian-based blog.
 You can read the published posts at the link below.
 아래 링크에서 게시된 글을 보실 수 있습니다.
 
-<img src="./Resources/Background/CleanShot_20260415022621.png" alt="Blog Preview" width="700" />
+<img src="./Resources/Attachments/CleanShot_20260416150703.png" alt="Blog Preview" width="700" />
 
 👉 [Visit my blog | 블로그 보러 가기](https://leokang123.github.io/Obsidian/)

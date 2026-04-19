@@ -31,34 +31,8 @@ URL: https://github.com/KuiyueRO/Obsidian-Miner
   border-right-width: unset;
 }
 
-.workspace-tab-header-container::before:hover {
-  overflow: visible;
-  height: 85%;
-  transform: translateX(0px) translateZ(0px);
-  transition: transform 0.5s;
-}
-
-.workspace-tab-header-container::before:hover {
-  overflow: visible;
-  height: 85%;
-  transform: translateX(0px) translateZ(0px);
-  transition: transform 0.5s;
-}
-
-.workspace-tab-header-container-inner {
-  overflow: visible;
-  height: 85%;
-  transform: translateX(0px) translateZ(0px);
-  transition: transform 0.5s;
-}
-
-.workspace-split.mod-horizontal.mod-left-split:hover {
-  overflow: visible;
-  height: 85%;
-  transform: translateX(0px) translateZ(0px);
-  transition: transform 0.5s;
-}
-
+.workspace-tab-header-container-inner,
+.workspace-split.mod-horizontal.mod-left-split:hover,
 .workspace-split.mod-horizontal.mod-left-split:focus-within {
   overflow: visible;
   height: 85%;

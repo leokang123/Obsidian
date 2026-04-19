@@ -1,21 +1,21 @@
-.nav-folder .nav-folder-title-content:before {
-  content: "\2637"; /* open folder character  */
+.nav-folder .nav-folder-title-content:before,
+.nav-folder.is-collapsed .nav-folder-title-content:before {
   color: rgb(207, 239, 255);
   font-size: 1.7rem;
   padding-right: 8px;
 }
 
+.nav-folder .nav-folder-title-content:before {
+  content: "\2637"; /* open folder character  */
+}
+
 .nav-folder.is-collapsed .nav-folder-title-content:before {
   content: "\2630";
-  font-size: 1.7rem;
-  color: rgb(207, 239, 255);
-  padding-right: 8px;
 }
 
 .nav-file-title-content:before {
   content: "\270E";
   color: rgb(207, 239, 255);
   font-size: 1rem;
-
   padding-right: 8px;
 }

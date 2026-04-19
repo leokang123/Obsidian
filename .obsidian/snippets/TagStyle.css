@@ -1,15 +1,17 @@
 /* reading mode */
-a.tag {
-  border-radius: 2px !important;
+a.tag,
+span.cm-hashtag.cm-hashtag {
   color: white;
   background-color: var(--text-accent);
+}
+
+a.tag {
+  border-radius: 2px !important;
 }
 
 /* live preview */
 span.cm-hashtag.cm-hashtag {
   border-radius: 0;
-  color: white;
-  background-color: var(--text-accent);
 }
 /*
 author: Bluemoondragon07, FireIsGood
@@ -43,9 +45,6 @@ a.tag:hover {
 }
 
 /* prevent overlapping tags on separate lines */
-p:has(.tag ~ br ~ .tag) {
-  line-height: 2;
-}
-li:has(.tag ~ br ~ .tag) {
+:is(p, li):has(.tag ~ br ~ .tag) {
   line-height: 2;
 }
