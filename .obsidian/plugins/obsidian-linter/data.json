@@ -139,7 +139,7 @@
     },
     "ordered-list-style": {
       "enabled": true,
-      "number-style": "ascending",
+      "number-style": "preserve",
       "list-end-style": "."
     },
     "proper-ellipsis": {
