@@ -123,3 +123,5 @@ cssclasses: wide-page
 [2026-04-22 19:05:39] Studied/(하네스엔지니어링) 클코, 코덱스, 오픈코드.md 생성
 [2026-04-23 17:07:12] Studied/(라즈베리파이) 개인비서 만들기 프로젝트.md 생성
 [2026-04-24 02:11:25] Studied/(라즈베리파이) 오픈클로 연동 .md 생성
+[2026-05-04 16:20:13] Studied/(vscode확장) programmers-helper 확장 만들기 .md 생성
+[2026-05-04 18:18:02] Studied/(vscode확장) Programmers 개발 일지 .md 생성
